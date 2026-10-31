@@ -1,0 +1,19 @@
+{
+  "_note": "MACHINE-DRAFTED test content for the dev verse (Bhagavad Gita 2.47 text). Not scholarly, unreviewed. Import with origin='machine', reviewed=false.",
+  "origin": "machine",
+  "reviewed": false,
+  "words": [
+    {"line": 0, "index": 0, "text": "कर्मण्येवाधिकारस्ते", "meaning": "karmaṇi + eva + adhikāraḥ + te: 'only in action is your right'", "grammar": "sandhi compound of four words; karmaṇi = locative of karman (action)"},
+    {"line": 0, "index": 1, "text": "मा", "meaning": "never, not", "grammar": "prohibitive particle"},
+    {"line": 0, "index": 2, "text": "फलेषु", "meaning": "in the fruits (results)", "grammar": "locative plural of phala"},
+    {"line": 0, "index": 3, "text": "कदाचन", "meaning": "ever, at any time", "grammar": "indeclinable"},
+    {"line": 1, "index": 0, "text": "मा", "meaning": "do not (let)", "grammar": "prohibitive particle"},
+    {"line": 1, "index": 1, "text": "कर्मफलहेतुर्भूर्मा", "meaning": "karma-phala-hetuḥ + bhūḥ + mā: 'the cause of the fruit of action; be; not'", "grammar": "sandhi of a compound (karma-phala-hetu, nominative), the verb bhūḥ (aorist, 2nd sg, used with mā) and mā"},
+    {"line": 1, "index": 2, "text": "ते", "meaning": "your", "grammar": "genitive of tvam"},
+    {"line": 1, "index": 3, "text": "सङ्गोऽस्त्वकर्मणि", "meaning": "saṅgaḥ + astu + akarmaṇi: 'attachment, let there be, in non-action'", "grammar": "sandhi; saṅgaḥ nominative, astu imperative of as, akarmaṇi locative of akarman"}
+  ],
+  "summary": {
+    "translation": "You have a right to action alone, never to its fruits. Do not let the fruit of action be your motive, and do not be attached to inaction.",
+    "explanation": "The verse separates effort from outcome: act because the action is yours to do, without treating the result as the reason for acting, and without retreating into inactivity."
+  }
+}

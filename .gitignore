@@ -1,0 +1,22 @@
+# environments / deps
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+
+# local data (never commit)
+backend/storage/
+blobdata/
+*.db
+
+# large third-party code and weights (fetch separately, see README.md)
+EdgeSanskrit-TTS/
+
+# experiment outputs
+POC/outputs/*
+!POC/outputs/gita_2_47_default.wav
+POC/spikes/*.json
+*.mel*.npy
+frontend/dist/
+backups/

@@ -1,0 +1,39 @@
+[project]
+name = "sanskrit-tts"
+version = "0.1.0"
+requires-python = ">=3.10,<3.12"
+dependencies = [
+  "torch==2.8.*",
+  "torchaudio==2.8.*",
+  "f5-tts @ git+https://github.com/ai4bharat/IndicF5.git@13f7c4d627cc10111aea8fe9c0039462cacacdc7",
+  "vocos>=0.1.0",
+  "x-transformers>=2.19.7",
+  "indic-transliteration",
+  "librosa",
+  "soundfile>=0.12.1",
+  "safetensors",
+  "huggingface_hub",
+  "numpy>=1.24.0",
+  "python-dotenv",
+  "pyarrow<20",
+  "matplotlib>=3.10.9",
+  "scipy>=1.15.3",
+  "fastapi>=0.162.0",
+  "uvicorn[standard]>=0.54.0",
+  "pytest>=9.2.0",
+  "httpx>=0.28.1",
+  "psycopg[binary]>=3.3.6",
+  "boto3>=1.43.123",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+torchaudio = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

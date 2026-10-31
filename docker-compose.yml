@@ -1,0 +1,38 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: sloka_db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-sloka}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-sloka}
+      POSTGRES_DB: ${POSTGRES_DB:-sloka}
+    ports:
+      - "5433:5432"
+    volumes:
+      - sloka_pgdata:/var/lib/postgresql/data
+      - ./docker/initdb:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-sloka} -d ${POSTGRES_DB:-sloka}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  minio:
+    image: ${MINIO_IMAGE:-cgr.dev/chainguard/minio}
+    container_name: sloka_minio
+    # the image has no shell; entrypoint is /usr/bin/minio. Run as your user so ./blobdata is owned by you. NOTE: MinIO stores objects in its own layout (<key>/xl.meta + part files), NOT as readable .mp3/.json files; read them through the S3 API.
+    user: "${LOCAL_UID:-1000}:${LOCAL_GID:-1000}"
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: ${S3_ACCESS_KEY:-sloka}
+      MINIO_ROOT_PASSWORD: ${S3_SECRET_KEY:-sloka-secret-1}
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - ./blobdata:/data
+    restart: unless-stopped
+
+volumes:
+  sloka_pgdata:

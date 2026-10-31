@@ -1,0 +1,16 @@
+.player .verse { font-family: 'Noto Sans Devanagari', 'Noto Serif Devanagari', sans-serif; font-size: clamp(1.6rem, 5vw, 2.4rem); line-height: 2.1; }
+.player .vline { margin-bottom: .4rem; }
+.player .w { display: inline-block; padding: 0 .25em; margin: 0 .05em; border-radius: 8px; cursor: pointer; border: 1px solid transparent; }
+.player .w:hover { border-color: var(--border); }
+.player .w.cur { background: rgba(240,160,75,.22); border-color: var(--accent); }
+.player .s { cursor: pointer; border-radius: 4px; }
+.player .s:hover { background: var(--surface2); }
+.player .s.cur { color: var(--accent); text-decoration: underline; text-underline-offset: .15em; font-weight: 700; }
+.player .controls { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; }
+.player .seek { flex: 1 1 200px; min-width: 150px; }
+.player .time { font-variant-numeric: tabular-nums; color: var(--muted); min-width: 7.5em; }
+.player .btn.on { outline: 2px solid var(--accent); }
+.player .speed { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin-top: .8rem; }
+.player .speed input[type=range] { width: 160px; padding: 0; }
+.player .notice { border-left: 3px solid var(--accent); padding: .4rem .8rem; background: var(--surface2); border-radius: 4px; margin-bottom: 1rem; }
+.player .kbd { font-size: .85rem; color: var(--muted); margin-top: .6rem; }

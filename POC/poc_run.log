@@ -1,0 +1,52 @@
+Building prefix dict from the default dictionary ...
+Dumping model to file cache /tmp/jieba.cache
+Loading model cost 0.703 seconds.
+Prefix dict has been built successfully.
+/home/omkar/mycodes/sankrit_sholk/.venv/lib/python3.11/site-packages/torchaudio/_backend/utils.py:213: UserWarning: In 2.9, this function's implementation will be changed to use torchaudio.load_with_torchcodec` under the hood. Some parameters like ``normalize``, ``format``, ``buffer_size``, and ``backend`` will be ignored. We recommend that you port your code to rely directly on TorchCodec's decoder instead: https://docs.pytorch.org/torchcodec/stable/generated/torchcodec.decoders.AudioDecoder.html#torchcodec.decoders.AudioDecoder.
+  warnings.warn(
+/home/omkar/mycodes/sankrit_sholk/.venv/lib/python3.11/site-packages/torchaudio/_backend/utils.py:213: UserWarning: In 2.9, this function's implementation will be changed to use torchaudio.load_with_torchcodec` under the hood. Some parameters like ``normalize``, ``format``, ``buffer_size``, and ``backend`` will be ignored. We recommend that you port your code to rely directly on TorchCodec's decoder instead: https://docs.pytorch.org/torchcodec/stable/generated/torchcodec.decoders.AudioDecoder.html#torchcodec.decoders.AudioDecoder.
+  warnings.warn(
+Word segmentation module jieba initialized.
+
+[EdgeSanskrit] Reference bank loaded: 16 meters
+[EdgeSanskrit] Loading IndicF5 DiT on device='cpu'...
+
+vocab :  /home/omkar/mycodes/sankrit_sholk/EdgeSanskrit-TTS/vagdhenu/src/reference_bank/vocab.txt
+token :  custom
+[EdgeSanskrit] Loading bundled IndicF5 from /home/omkar/mycodes/sankrit_sholk/EdgeSanskrit-TTS/models/IndicF5/model.safetensors
+[EdgeSanskrit] DiT loaded.
+[EdgeSanskrit] Loading Vocos vocoder...
+[EdgeSanskrit] Loaded Vocos from local bundled models/vocos
+[EdgeSanskrit] Vocos loaded. Engine ready.
+
+[EdgeSanskrit] Reference: anushtubh.wav (4.7s) — sec/syl=0.326
+[EdgeSanskrit] Synthesizing 2 pāda(s)  nfe=12  device=cpu
+[EdgeSanskrit] Pādas:
+  [1] कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+       → ಕರ್ಮಣ್ಯೇವಾಧಿಕಾರಸ್ತೇ ಮಾ ಫಲೇಷು ಕದಾಚನ  (16 akṣaras)
+  [2] मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि
+       → ಮಾ ಕರ್ಮಫಲಹೇತುರ್ಭೂರ್ಮಾ ತೇ ಸಙ್ಗೋಽಸ್ತ್ವಕರ್ಮಣಿ  (16 akṣaras)
+
+[EdgeSanskrit] Generating pāda 1/2...
+  attempt 1: 5.21s audio, RMS=0.1012, RTF=11.77x, elapsed=61.3s
+
+[EdgeSanskrit] Generating pāda 2/2...
+  attempt 1: 5.21s audio, RMS=0.0928, RTF=11.42x, elapsed=59.4s
+
+[EdgeSanskrit] Final audio: 9.62s
+== default: 9.62s audio in 121s -> /home/omkar/mycodes/sankrit_sholk/outputs/gita_2_47_default.mp3
+[EdgeSanskrit] Synthesizing 2 pāda(s)  nfe=12  device=cpu
+[EdgeSanskrit] Pādas:
+  [1] कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+       → ಕರ್ಮಣ್ಯೇವಾಧಿಕಾರಸ್ತೇ ಮಾ ಫಲೇಷು ಕದಾಚನ  (16 akṣaras)
+  [2] मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि
+       → ಮಾ ಕರ್ಮಫಲಹೇತುರ್ಭೂರ್ಮಾ ತೇ ಸಙ್ಗೋಽಸ್ತ್ವಕರ್ಮಣಿ  (16 akṣaras)
+
+[EdgeSanskrit] Generating pāda 1/2...
+  attempt 1: 7.99s audio, RMS=0.0942, RTF=10.35x, elapsed=82.7s
+
+[EdgeSanskrit] Generating pāda 2/2...
+  attempt 1: 7.99s audio, RMS=0.0931, RTF=10.76x, elapsed=86.0s
+
+[EdgeSanskrit] Final audio: 14.47s
+== slow: 14.47s audio in 169s -> /home/omkar/mycodes/sankrit_sholk/outputs/gita_2_47_slow.mp3
