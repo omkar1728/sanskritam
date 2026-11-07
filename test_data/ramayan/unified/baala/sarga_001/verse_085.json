@@ -1,0 +1,235 @@
+{
+  "id": "baala-001-085",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 85,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 64
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-79"
+    ],
+    "vulgate_in_locators": [
+      "1.1.79"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.79"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001064a",
+        "1001064c"
+      ],
+      "lines": [
+        "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+        "समुद्रं क्षोभयामास शरैरादित्यसंनिभैः"
+      ],
+      "punctuated_derived": "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः ।\nसमुद्रं क्षोभयामास शरैरादित्यसंनिभैः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+        "समुद्रं क्षोभयामास शरैरादित्यसन्निभैः"
+      ],
+      "locators": [
+        "1-1-79"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+        "समुद्रं क्षोभयामास शरैरादित्यसंनिभैः"
+      ],
+      "locators": [
+        "1.1.79"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+        "समुद्रं क्षोभयामास शरैरादित्यसंनिभ्षैः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.79"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+      "net": "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+      "in": "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+      "gp": "ततः सुग्रीवसहितो गत्वा तीरं महोदधेः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "समुद्रं क्षोभयामास शरैरादित्यसंनिभैः",
+      "net": "समुद्रं क्षोभयामास शरैरादित्यसन्निभैः",
+      "in": "समुद्रं क्षोभयामास शरैरादित्यसंनिभैः",
+      "gp": "समुद्रं क्षोभयामास शरैरादित्यसंनिभ्षैः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "शरैरादित्यसंनिभैः",
+            "b": "शरैरादित्यसन्निभैः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "शरैरादित्यसन्निभैः",
+            "b": "शरैरादित्यसंनिभैः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शरैरादित्यसन्निभैः",
+            "b": "शरैरादित्यसंनिभ्षैः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-79",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"There-after, Rama along with Sugreeva and other monkeys went to the shore of Great Ocean, and put the Ocean-god to turmoil with his arrows comparable to the Sun... [1-1-79]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-79",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahodadheH tiiram gatvaa",
+            "devanagari_machine_converted": "महोदधेः तीरम् गत्वा",
+            "english": "On going to the Ocean's shore"
+          },
+          {
+            "roman_itrans": "tataH sugriivasahitaH",
+            "devanagari_machine_converted": "ततः सुग्रीवसहितः",
+            "english": "there-after together with Sugreeva"
+          },
+          {
+            "roman_itrans": "samudram kShobhayaamaasa",
+            "devanagari_machine_converted": "समुद्रम् क्षोभयामास",
+            "english": "[Rama] put the Ocean-god to turmoil"
+          },
+          {
+            "roman_itrans": "aadityasannibhaiH sharaiH",
+            "devanagari_machine_converted": "आदित्यसन्निभैः शरैः",
+            "english": "with arrows comparable to the Sun."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-79",
+        "spans_beyond_this_verse": false,
+        "text": "Rama became angry at the ocean for not yielding way to Lanka. In order to make way through the Ocean, Rama starts depleting its waters with arrows."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.79",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'इसके अनन्तर सुग्रीवके साथ भगवान् रामने महासागरके तटपर जाकर सूर्यके समान तेजस्वी बाणोंसे समुद्रको क्षुब्ध किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.79",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "इसके अनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "सुग्रीवसहितः",
+            "hindi": "सुग्रीव के साथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तीरम्",
+            "hindi": "तट पर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महोदधेः",
+            "hindi": "महासागर के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रम्",
+            "hindi": "समुद्र को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षोभयामास",
+            "hindi": "क्षुब्ध किया (क्षुभ् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "शरैः",
+            "hindi": "बाणों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आदित्यसन्निभैः",
+            "hindi": "सूर्य के समान तेजस्वी से (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.79",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“इसके अनन्तर सुग्रीवके साथ भगवान्‌ रामने महासागरके तटपर जाकर सूर्यके समान तेजस्वी बाणोंसे समुद्रको क्षुब्ध किया॥ ७९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

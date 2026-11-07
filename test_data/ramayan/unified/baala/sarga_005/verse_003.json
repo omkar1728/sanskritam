@@ -1,0 +1,263 @@
+{
+  "id": "baala-005-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 3
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-1, 1-5-2, 1-5-3"
+    ],
+    "vulgate_in_locators": [
+      "1.5.3"
+    ],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005003a",
+        "1005003c"
+      ],
+      "lines": [
+        "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम्",
+        "महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्"
+      ],
+      "punctuated_derived": "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम् ।\nमहदुत्पन्नमाख्यानं रामायणमिति श्रुतम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इक्ष्वाकूणामिदं तेषां रज्ञां वंशे महात्मनाम्",
+        "महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्"
+      ],
+      "locators": [
+        "1-5-1, 1-5-2, 1-5-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम्",
+        "महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्"
+      ],
+      "locators": [
+        "1.5.3"
+      ]
+    },
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम्",
+      "net": "इक्ष्वाकूणामिदं तेषां रज्ञां वंशे महात्मनाम्",
+      "in": "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 0.9873417721518988,
+        "sim_in_net": 0.9873417721518988
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "राज्ञां",
+            "b": "रज्ञां"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "रज्ञां",
+            "b": "राज्ञां"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्",
+      "net": "महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्",
+      "in": "महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-1, 1-5-2, 1-5-3",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Once upon a time, under which victorious kings, starting from Prajapati-s, this entire earth with all its islands is there, among which kings one king named Sagara is there, well-known for his deepening the oceans, and whom his sixty thousand sons were fencing in when he is set out for action, in the dynasty of such Ikshvaku kings this highly revered and reputed epic Ramayana is originated. [1-5-1, 3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-1, 1-5-2, 1-5-3",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "1-3. iyam kR^itsnaa vasundharaa",
+            "devanagari_machine_converted": "१-३। इयम् कृत्स्ना वसुन्धरा",
+            "english": "this, entire, earth"
+          },
+          {
+            "roman_itrans": "sarvaa",
+            "devanagari_machine_converted": "सर्वा",
+            "english": "(sakaladwiipaatmaka) = with all islands; upaadaaya prajaapatim = starting from, Prajapati"
+          },
+          {
+            "roman_itrans": "jayashaalinaam",
+            "devanagari_machine_converted": "जयशालिनाम्",
+            "english": "victorious ones"
+          },
+          {
+            "roman_itrans": "yeSaam nR^ipaaNam",
+            "devanagari_machine_converted": "येषाम् नृपाणम्",
+            "english": "[under] which, kings"
+          },
+          {
+            "roman_itrans": "puurvam aasiit",
+            "devanagari_machine_converted": "पूर्वम् आसीत्",
+            "english": "once, it is there"
+          },
+          {
+            "roman_itrans": "yena saagaraH khaanitaH",
+            "devanagari_machine_converted": "येन सागरः खानितः",
+            "english": "by whom, oceans, deepened"
+          },
+          {
+            "roman_itrans": "yam yaantam",
+            "devanagari_machine_converted": "यम् यान्तम्",
+            "english": "whom, while setting out in battles"
+          },
+          {
+            "roman_itrans": "SaSTiH putrasahasraaNi",
+            "devanagari_machine_converted": "षष्टिः पुत्रसहस्राणि",
+            "english": "sixty-thousand, sons; paryavaarayan = [going with him] fencing in"
+          },
+          {
+            "roman_itrans": "yeSaam",
+            "devanagari_machine_converted": "येषाम्",
+            "english": "in which kings"
+          },
+          {
+            "roman_itrans": "saH saagaraH naama",
+            "devanagari_machine_converted": "सः सागरः नाम",
+            "english": "he, that Sagara, named [king was there]"
+          },
+          {
+            "roman_itrans": "teShaam mahaatmanaam",
+            "devanagari_machine_converted": "तेषाम् महात्मनाम्",
+            "english": "such of those, great-souled"
+          },
+          {
+            "roman_itrans": "IkShwaakuuNaam raaj~naam vamshe",
+            "devanagari_machine_converted": "ईक्ष्वाकूणाम् राज्ञाम् वम्शे",
+            "english": "Ikshvaku, kings', dynasty; raamaayaNam = Ramayana"
+          },
+          {
+            "roman_itrans": "iti shrutam",
+            "devanagari_machine_converted": "इति श्रुतम्",
+            "english": "thus, heard [reputed]"
+          },
+          {
+            "roman_itrans": "idam mahat aakhyaanam utpannam",
+            "devanagari_machine_converted": "इदम् महत् आख्यानम् उत्पन्नम्",
+            "english": "this, highly revered, epic, originated."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इन्हीं इक्ष्वाकुवंशी महात्मा राजाओं की कुलपरम्परा में रामायण नाम से प्रसिद्ध इस महान् ऐतिहासिक काव्य की अवतारणा हुई है॥ १-३॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इक्ष्वाकूणाम्",
+            "hindi": "इक्ष्वाकु वंशियों का (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेषाम्",
+            "hindi": "उन (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "राज्ञाम्",
+            "hindi": "राजाओं के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वंशे",
+            "hindi": "वंश में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "महात्मनाम्",
+            "hindi": "महात्माओं के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "महत्",
+            "hindi": "महान् (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "उत्पन्नम्",
+            "hindi": "उत्पन्न हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "आख्यानम्",
+            "hindi": "आख्यान / काव्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामायणम्",
+            "hindi": "रामायण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "श्रुतम्",
+            "hindi": "प्रसिद्ध / सुना जाता है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,228 @@
+{
+  "id": "baala-010-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 15
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-15"
+    ],
+    "vulgate_in_locators": [
+      "1.10.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009015a",
+        "1009015c"
+      ],
+      "lines": [
+        "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+        "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्"
+      ],
+      "punctuated_derived": "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः ।\nकरिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+        "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्"
+      ],
+      "locators": [
+        "1-10-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+        "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्"
+      ],
+      "locators": [
+        "1.10.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+        "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+      "net": "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+      "in": "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+      "gp": "इहाश्रमपदोऽस्माकं समीपे शुभदर्शनाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्",
+      "net": "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्",
+      "in": "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्",
+      "gp": "करिष्ये वोऽत्र पूजां वै सर्वेषां विधिपूर्वकम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "विधिपूर्वकम्",
+            "b": "विधिपूर्वकम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Our hermitage is here only, oh, august ones, I wish to perform scripturally worship to you all verily there...\" thus said the sage to the courtesans. [1-10-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shubhadarshanaaH",
+            "devanagari_machine_converted": "शुभदर्शनाः",
+            "english": "oh august ones in appearance"
+          },
+          {
+            "roman_itrans": "asmaakam aashramapadaH iha samiipe",
+            "devanagari_machine_converted": "अस्माकम् आश्रमपदः इह समीपे",
+            "english": "our, hermitage, is here only"
+          },
+          {
+            "roman_itrans": "atra vaH sarveSaam",
+            "devanagari_machine_converted": "अत्र वः सर्वेषाम्",
+            "english": "there, to you, all"
+          },
+          {
+            "roman_itrans": "vidhipuurvakam puujaam kariSye",
+            "devanagari_machine_converted": "विधिपूर्वकम् पूजाम् करिष्ये",
+            "english": "I wish to worship according to scriptures."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“यहाँ पास ही मेरा आश्रम है। आपलोग देखनेमें परम सुन्दर हैं। (अथवा आपका दर्शन मेरे लिये शुभकारक है।) आप मेरे आश्रमपर चलें। वहाँ मैं आप सब लोगोंकी विधिपूर्वक पूजा करूँगा’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इह",
+            "hindi": "यहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रमपदः",
+            "hindi": "आश्रम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्माकम्",
+            "hindi": "मेरा (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "समीपे",
+            "hindi": "पास में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "शुभदर्शनाः",
+            "hindi": "शुभ दर्शन वाली / देखने में सुन्दर (सम्बोधन विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "करिष्ये",
+            "hindi": "करूँगा (कृ धातु, लृट् लकार, उत्तम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वः",
+            "hindi": "आप सब की (युष्मद्, षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "अत्र",
+            "hindi": "यहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "पूजाम्",
+            "hindi": "पूजा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वै",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वेषाम्",
+            "hindi": "सब की (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विधिपूर्वकम्",
+            "hindi": "विधि के अनुसार (अव्यय/क्रियाविशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.15",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“यहाँ पास ही मेरा आश्रम है। आपलोग देखेमें परम सुन्दर हैं। (अथवा आपका दर्शन मेरे लिये शुभकारक है।) आप मेरे आश्रमपर चलें। वहाँ मैं आप सब लोगोंकी विधिपूर्वक पूजा करूँगा'॥ १५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

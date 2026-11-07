@@ -1,0 +1,249 @@
+{
+  "id": "baala-001-069",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 69,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 51
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-63, 1-1-64"
+    ],
+    "vulgate_in_locators": [
+      "1.1.64"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.64"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001051a"
+      ],
+      "lines": [
+        "राघवः प्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्"
+      ],
+      "locators": [
+        "1-1-63, 1-1-64"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्"
+      ],
+      "locators": [
+        "1.1.64"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.64"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "राघवः प्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्",
+      "net": "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्",
+      "in": "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्",
+      "gp": "राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9863013698630136,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "राघवः प्रत्ययार्थं",
+            "b": "राघवप्रत्ययार्थं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कायमुत्तमम्",
+            "b": "कायमुत्तमम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"But Sugreeva remained ever doubtful with respect to Raghava, about Raghava's prowess. Sugreeva showed Dundubhi's big and great mountain-like dead body to gain confidence in Raghava... [1-1-63b, 64]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "63b, 64. tu",
+            "devanagari_machine_converted": "६३ब्, ६४। तु",
+            "english": "But"
+          },
+          {
+            "roman_itrans": "sugriivaH",
+            "devanagari_machine_converted": "सुग्रीवः",
+            "english": "Sugreeva"
+          },
+          {
+            "roman_itrans": "nityam shankitaH aasiit",
+            "devanagari_machine_converted": "नित्यम् शन्कितः आसीत्",
+            "english": "remained ever doubtful"
+          },
+          {
+            "roman_itrans": "raaghave",
+            "devanagari_machine_converted": "राघवे",
+            "english": "with respect to Raghava"
+          },
+          {
+            "roman_itrans": "viiryeNa",
+            "devanagari_machine_converted": "वीर्येण",
+            "english": "about [Rama's] prowess"
+          },
+          {
+            "roman_itrans": "sugriivaH",
+            "devanagari_machine_converted": "सुग्रीवः",
+            "english": "Sugreeva"
+          },
+          {
+            "roman_itrans": "darshayaamaasa",
+            "devanagari_machine_converted": "दर्शयामास",
+            "english": "showed"
+          },
+          {
+            "roman_itrans": "dundubheH",
+            "devanagari_machine_converted": "दुन्दुभेः",
+            "english": "Dundubhi's"
+          },
+          {
+            "roman_itrans": "uttamam",
+            "devanagari_machine_converted": "उत्तमम्",
+            "english": "big"
+          },
+          {
+            "roman_itrans": "mahaaparvatasannibham",
+            "devanagari_machine_converted": "महापर्वतसन्निभम्",
+            "english": "great mountain like"
+          },
+          {
+            "roman_itrans": "kaayam",
+            "devanagari_machine_converted": "कायम्",
+            "english": "body"
+          },
+          {
+            "roman_itrans": "raaghavapratyayaartham",
+            "devanagari_machine_converted": "राघवप्रत्ययार्थम्",
+            "english": "to gain confidence in Raghava."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "text": "Vali had at one time killed Dundubhi and kicked his body over a long distance."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.64",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'रामकी प्रतीतिके लिये उन्होंने दुन्दुभि दैत्यका महान् पर्वतके समान विशाल शरीर दिखलाया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.64",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राघवप्रत्ययार्थम्",
+            "hindi": "राम के विश्वास के लिए (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "दुन्दुभेः",
+            "hindi": "दुन्दुभि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कायम्",
+            "hindi": "शरीर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उत्तमम्",
+            "hindi": "विशाल / उत्तम (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्शयामास",
+            "hindi": "दिखलाया (दृश् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सुग्रीवः",
+            "hindi": "सुग्रीव ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महापर्वतसन्निभम्",
+            "hindi": "बड़े पर्वत के सदृश (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.64",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "'रामकी प्रतीतिके लिये उन्होंने दुन्दुभि दैत्यका महान्‌ पर्वतके समान विशाल शरीर दिखलाया॥ ६४॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

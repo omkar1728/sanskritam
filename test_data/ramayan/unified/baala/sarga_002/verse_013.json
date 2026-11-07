@@ -1,0 +1,236 @@
+{
+  "id": "baala-002-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 12
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-13"
+    ],
+    "vulgate_in_locators": [
+      "1.2.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002012a",
+        "1002012c"
+      ],
+      "lines": [
+        "तथा तु तं द्विजं दृष्ट्वा निषादेन निपातितम्",
+        "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत"
+      ],
+      "punctuated_derived": "तथा तु तं द्विजं दृष्ट्वा निषादेन निपातितम् ।\nऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम्",
+        "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत"
+      ],
+      "locators": [
+        "1-2-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम्",
+        "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत"
+      ],
+      "locators": [
+        "1.2.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम्‌",
+        "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तथा तु तं द्विजं दृष्ट्वा निषादेन निपातितम्",
+      "net": "तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम्",
+      "in": "तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम्",
+      "gp": "तथाविधं द्विजं दृष्ट्वा निषादेन निपातितम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9166666666666666,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तथा तु तं",
+            "b": "तथाविधं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "निपातितम्",
+            "b": "निपातितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत",
+      "net": "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत",
+      "in": "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत",
+      "gp": "ऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On seeing that bird felled that way by the tribal hunter, compassion occassioned in that saintly sage Valmiki. [1-2-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dvijam dR^iSTvaa",
+            "devanagari_machine_converted": "द्विजम् दृष्ट्वा",
+            "english": "On seeing [that] bird"
+          },
+          {
+            "roman_itrans": "niSaadena nipaatitam",
+            "devanagari_machine_converted": "निषादेन निपातितम्",
+            "english": "felled by the hunter"
+          },
+          {
+            "roman_itrans": "tathaavidham",
+            "devanagari_machine_converted": "तथाविधम्",
+            "english": "in that way"
+          },
+          {
+            "roman_itrans": "tasya R^iSheH",
+            "devanagari_machine_converted": "तस्य ऋषेः",
+            "english": "to that sage"
+          },
+          {
+            "roman_itrans": "dharmaatmanaH",
+            "devanagari_machine_converted": "धर्मात्मनः",
+            "english": "to that saintly one"
+          },
+          {
+            "roman_itrans": "kaaruNyam samapadyata",
+            "devanagari_machine_converted": "कारुण्यम् समपद्यत",
+            "english": "compassion occasioned."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "निषादने जिसे मार गिराया था, उस नर पक्षीकी वह दुर्दशा देख उन धर्मात्मा ऋषिको बड़ी दया आयी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तथाविधम्",
+            "hindi": "उस अवस्था वाले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजम्",
+            "hindi": "पक्षी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "निषादेन",
+            "hindi": "निषाद के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "निपातितम्",
+            "hindi": "गिराये गये को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषेः",
+            "hindi": "ऋषि को (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "धर्मात्मनः",
+            "hindi": "धर्मात्मा को (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कारुण्यम्",
+            "hindi": "दया (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समपद्यत",
+            "hindi": "प्राप्त हुई (सम् + पद्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.13",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "निषादने जिसे मार गिराया था, उस नर पक्षीकी वह दुर्दशा देख उन धर्मात्मा ऋषिको बड़ी दया आयी॥ १३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

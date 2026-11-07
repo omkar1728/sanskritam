@@ -1,0 +1,241 @@
+{
+  "id": "baala-010-024",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 24,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 23
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-23"
+    ],
+    "vulgate_in_locators": [
+      "1.10.23"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.23"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009023a",
+        "1009023c"
+      ],
+      "lines": [
+        "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः",
+        "अस्वस्थहृदयश्चासीद्दुःखं स्म परिवर्तते"
+      ],
+      "punctuated_derived": "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः ।\nअस्वस्थहृदयश्चासीद्दुःखं स्म परिवर्तते ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः",
+        "अस्वस्थहृदयश्चासीद् दुःखाच्च परिवर्तते"
+      ],
+      "locators": [
+        "1-10-23"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः",
+        "अस्वस्थहृदयश्चासीद् दुःखाच्च परिवर्तते"
+      ],
+      "locators": [
+        "1.10.23"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विंजः",
+        "अस्वस्थहृदयश्चासीद्‌, दुःखाच्च परिवर्तते"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः",
+      "net": "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः",
+      "in": "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विजः",
+      "gp": "गतासु तासु सर्वासु काश्यपस्यात्मजो द्विंजः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9866666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "द्विजः",
+            "b": "द्विंजः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "अस्वस्थहृदयश्चासीद्दुःखं स्म परिवर्तते",
+      "net": "अस्वस्थहृदयश्चासीद् दुःखाच्च परिवर्तते",
+      "in": "अस्वस्थहृदयश्चासीद् दुःखाच्च परिवर्तते",
+      "gp": "अस्वस्थहृदयश्चासीद्‌, दुःखाच्च परिवर्तते",
+      "similarity": {
+        "sim_smith_net": 0.9166666666666666,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "अस्वस्थहृदयश्चासीद्दुःखं स्म",
+            "b": "अस्वस्थहृदयश्चासीद् दुःखाच्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अस्वस्थहृदयश्चासीद्",
+            "b": "अस्वस्थहृदयश्चासीद्‌,"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-23",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After the departure of all them the courtesans, that Brahman Rishyasringa, the grandson of Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-23",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "taasu sarvaasu gataasu",
+            "devanagari_machine_converted": "तासु सर्वासु गतासु",
+            "english": "departure of all of them"
+          },
+          {
+            "roman_itrans": "kaashyapasya aatmajaH dvijaH",
+            "devanagari_machine_converted": "काश्यपस्य आत्मजः द्विजः",
+            "english": "of Sage Kashyapa's, descendent [grandson,] Brahman"
+          },
+          {
+            "roman_itrans": "asvasthahR^idayaH cha aasiit",
+            "devanagari_machine_converted": "अस्वस्थहृदयः च आसीत्",
+            "english": "became disturbed at heart, also"
+          },
+          {
+            "roman_itrans": "duHkhaat cha parivartate",
+            "devanagari_machine_converted": "दुःखात् च परिवर्तते",
+            "english": "he behaved in sadness, even."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“उन सबके चले जानेपर काश्यपकुमार ब्राह्मण ऋष्यशृंग मन-ही-मन व्याकुल हो उठे और बड़े दुःखसे इधर-उधर टहलने लगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गतासु",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, बहुवचन, क्त प्रत्ययान्त, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तासु",
+            "hindi": "उन (स्त्रियों) के (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वासु",
+            "hindi": "सबके (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "काश्यपस्य",
+            "hindi": "काश्यप के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आत्मजः",
+            "hindi": "पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजः",
+            "hindi": "ब्राह्मण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्वस्थहृदयः",
+            "hindi": "अस्थिर हृदय / व्याकुल (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "हुआ (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "दुःखात्",
+            "hindi": "दुःख से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "परिवर्तते",
+            "hindi": "इधर-उधर घूमने लगा (परि + वृत्, लट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.23",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“उन सबके चले जानेपर काश्यपकुमार ब्राह्मण ऋष्यशृंग मन-ही-मन व्याकुल हो उठे और बड़े दुःखसे इधर-उधर टहलने लगे॥ २३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

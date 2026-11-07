@@ -1,0 +1,326 @@
+{
+  "id": "baala-002-031",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 31,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 29
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-30"
+    ],
+    "vulgate_in_locators": [
+      "1.2.30"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.30",
+      "1.2.31"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002029a",
+        "1002029c"
+      ],
+      "lines": [
+        "तमुवाच ततो ब्रह्मा प्रहसन्मुनिपुंगवम्",
+        "श्लोक एव त्वया बद्धो नात्र कार्या विचारणा"
+      ],
+      "punctuated_derived": "तमुवाच ततो ब्रह्मा प्रहसन्मुनिपुंगवम् ।\nश्लोक एव त्वया बद्धो नात्र कार्या विचारणा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तमुवाच ततो ब्रह्मा प्रहसन्मुनिपुङ्गवम्",
+        "श्लोक एव त्वया बद्धो नात्र कार्या विचारणा"
+      ],
+      "locators": [
+        "1-2-30"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तमुवाच ततो ब्रह्मा प्रहसन् मुनिपुंगवम्",
+        "श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा"
+      ],
+      "locators": [
+        "1.2.30"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तमुवाच ततो ब्रह्मा प्रहसन्‌ मुनिपुंगवम्‌",
+        "श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा!"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_30-31",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.2.30",
+        "1.2.31"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तमुवाच ततो ब्रह्मा प्रहसन्मुनिपुंगवम्",
+      "net": "तमुवाच ततो ब्रह्मा प्रहसन्मुनिपुङ्गवम्",
+      "in": "तमुवाच ततो ब्रह्मा प्रहसन् मुनिपुंगवम्",
+      "gp": "तमुवाच ततो ब्रह्मा प्रहसन्‌ मुनिपुंगवम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "प्रहसन्मुनिपुंगवम्",
+            "b": "प्रहसन्मुनिपुङ्गवम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "प्रहसन्मुनिपुङ्गवम्",
+            "b": "प्रहसन् मुनिपुंगवम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "प्रहसन्मुनिपुङ्गवम्",
+            "b": "प्रहसन्‌ मुनिपुंगवम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "श्लोक एव त्वया बद्धो नात्र कार्या विचारणा",
+      "net": "श्लोक एव त्वया बद्धो नात्र कार्या विचारणा",
+      "in": "श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा",
+      "gp": "श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा!",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9315068493150684,
+        "sim_gp_net": 0.918918918918919
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "एव त्वया",
+            "b": "एवास्त्वयं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "एव त्वया",
+            "b": "एवास्त्वयं"
+          },
+          {
+            "a": "विचारणा",
+            "b": "विचारणा!"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-30",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then, Brahma smilingly spoke to that eminent saint Valmiki, \"But, what that is composed is a verse only... and there is no need to think through... [1-2-30]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-30",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "brahmaa prahasan",
+            "devanagari_machine_converted": "ब्रह्मा प्रहसन्",
+            "english": "Brahma, smilingly"
+          },
+          {
+            "roman_itrans": "tam munipungavam uvaacha",
+            "devanagari_machine_converted": "तम् मुनिपुन्गवम् उवाच",
+            "english": "spoke to that eminent saint"
+          },
+          {
+            "roman_itrans": "shloka eva tu",
+            "devanagari_machine_converted": "श्लोक एव तु",
+            "english": "verse, only, but"
+          },
+          {
+            "roman_itrans": "ayam baddhaH",
+            "devanagari_machine_converted": "अयम् बद्धः",
+            "english": "that one, composed"
+          },
+          {
+            "roman_itrans": "na atra kaaryaa vichaaraNaa",
+            "devanagari_machine_converted": "न अत्र कार्या विचारणा",
+            "english": "there not need to think through."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ब्रह्माजी उनकी मनःस्थितिको समझकर हँसने लगे और मुनिवर वाल्मीकिसे इस प्रकार बोले—’ब्रह्मन् ! तुम्हारे मुँहसे निकला हुआ यह छन्दोबद्ध वाक्य श्लोकरूप ही होगा। इस विषयमें तुम्हें कोई अन्यथा विचार नहीं करना चाहिये। मेरे संकल्प अथवा प्रेरणासे ही तुम्हारे मुँहसे ऐसी वाणी निकली है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तम्",
+            "hindi": "उन (वाल्मीकि) से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उवाच",
+            "hindi": "बोले (वच् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "ब्रह्मा",
+            "hindi": "ब्रह्मा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रहसन्",
+            "hindi": "हँसते हुए (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिपुंगवम्",
+            "hindi": "मुनिश्रेष्ठ को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्लोकः",
+            "hindi": "श्लोक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अस्तु",
+            "hindi": "हो (अस् धातु, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अयम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "बद्धः",
+            "hindi": "बद्ध (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अत्र",
+            "hindi": "इसमें (अव्यय)"
+          },
+          {
+            "sanskrit": "कार्या",
+            "hindi": "करनी चाहिए (प्रथमा विभक्ति, विध्यर्थक कृदन्त)"
+          },
+          {
+            "sanskrit": "विचारणा",
+            "hindi": "विचारणा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मच्छन्दात्",
+            "hindi": "मेरी इच्छा से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "तेरी (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रह्मन्",
+            "hindi": "हे ब्रह्मन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रवृत्ता",
+            "hindi": "प्रवृत्त हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इयम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सरस्वती",
+            "hindi": "वाणी (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.30",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "ब्रह्माजी उनकी मनःस्थितिको समझकर हँसने लगे और मुनिवर वाल्मीकिसे इस प्रकार बोले- ब्रह्मन्‌! तुम्हारे मुँहसे निकला हुआ यह छन्दोबद्ध वाक्य श्लोकरूप ही होगा। इस विषयमें तुम्हें कोई अन्यथा विचार नहीं करना चाहिये। मेरे संकल्प अथवा प्रेरणासे ही तुम्हारे मुँहसे ऐसी वाणी निकली है॥ ३०-३१॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.31",
+        "ocr_flags": [
+          "hindi_marker_range_30-31"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "ब्रह्माजी उनकी मनःस्थितिको समझकर हँसने लगे और मुनिवर वाल्मीकिसे इस प्रकार बोले- ब्रह्मन्‌! तुम्हारे मुँहसे निकला हुआ यह छन्दोबद्ध वाक्य श्लोकरूप ही होगा। इस विषयमें तुम्हें कोई अन्यथा विचार नहीं करना चाहिये। मेरे संकल्प अथवा प्रेरणासे ही तुम्हारे मुँहसे ऐसी वाणी निकली है॥ ३०-३१॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

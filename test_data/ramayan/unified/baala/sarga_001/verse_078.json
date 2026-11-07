@@ -1,0 +1,240 @@
+{
+  "id": "baala-001-078",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 78,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 57
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-72"
+    ],
+    "vulgate_in_locators": [
+      "1.1.72"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.72"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001057a",
+        "1001057c"
+      ],
+      "lines": [
+        "ततो गृध्रस्य वचनात्संपातेर्हनुमान्बली",
+        "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्"
+      ],
+      "punctuated_derived": "ततो गृध्रस्य वचनात्संपातेर्हनुमान्बली ।\nशतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततो गृध्रस्य वचनात्सम्पातेेर्हनुमान् बली",
+        "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्"
+      ],
+      "locators": [
+        "1-1-72"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततो गृध्रस्य वचनात् सम्पातेर्हनुमान् बली",
+        "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्"
+      ],
+      "locators": [
+        "1.1.72"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततो गृश्रस्य वचनात्‌ सम्पातेहनुमान्‌ बली",
+        "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.72"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततो गृध्रस्य वचनात्संपातेर्हनुमान्बली",
+      "net": "ततो गृध्रस्य वचनात्सम्पातेेर्हनुमान् बली",
+      "in": "ततो गृध्रस्य वचनात् सम्पातेर्हनुमान् बली",
+      "gp": "ततो गृश्रस्य वचनात्‌ सम्पातेहनुमान्‌ बली",
+      "similarity": {
+        "sim_smith_net": 0.9855072463768116,
+        "sim_in_net": 0.9855072463768116,
+        "sim_gp_net": 0.9253731343283582
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वचनात्संपातेर्हनुमान्बली",
+            "b": "वचनात्सम्पातेेर्हनुमान् बली"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "वचनात्सम्पातेेर्हनुमान्",
+            "b": "वचनात् सम्पातेर्हनुमान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गृध्रस्य वचनात्सम्पातेेर्हनुमान्",
+            "b": "गृश्रस्य वचनात्‌ सम्पातेहनुमान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्",
+      "net": "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्",
+      "in": "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्",
+      "gp": "शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "लवणार्णवम्",
+            "b": "लवणार्णवम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-72",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After that, the strong Hanuma, upon the word of the vulture Sampati who was elder brother of Jatayu, flew across the salty ocean one hundred yojanas in breadth... [1-1-72]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-72",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "after that"
+          },
+          {
+            "roman_itrans": "balii hanumaan",
+            "devanagari_machine_converted": "बली हनुमान्",
+            "english": "the strong Hanuma; saMpaateH gR^idhrasya vachanaat = upon the word of the vulture Sampati"
+          },
+          {
+            "roman_itrans": "pupluve",
+            "devanagari_machine_converted": "पुप्लुवे",
+            "english": "flew [across]"
+          },
+          {
+            "roman_itrans": "lavaNaarNavam",
+            "devanagari_machine_converted": "लवणार्णवम्",
+            "english": "the salty ocean"
+          },
+          {
+            "roman_itrans": "shatayojanavistiirNam",
+            "devanagari_machine_converted": "शतयोजनविस्तीर्णम्",
+            "english": "one hundred yojanas in breadth."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.72",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तत्पश्चात् सम्पाति नामक गृध्रके कहनेसे बलवान् हनुमान जी सौ योजन विस्तारवाले क्षार समुद्रको कूदकर लाँघ गये"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.72",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तत्पश्चात् (अव्यय)"
+          },
+          {
+            "sanskrit": "गृध्रस्य",
+            "hindi": "गिद्ध के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वचनात्",
+            "hindi": "कहने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सम्पातेः",
+            "hindi": "सम्पाति का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "हनुमान्",
+            "hindi": "हनुमान ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "बली",
+            "hindi": "बलवान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शतयोजनविस्तीर्णम्",
+            "hindi": "सौ योजन विस्तार वाले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुप्लुवे",
+            "hindi": "कूदकर पार किया (प्लु धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "लवणार्णवम्",
+            "hindi": "खारे समुद्र को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.72",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“तत्पश्चात्‌ सम्पाति नामक गृध्रके कहनेसे बलवान्‌ हनुमानजी सौ योजन विस्तारवाले क्षार समुद्रको कूदकर लाँघ गये॥ ७२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

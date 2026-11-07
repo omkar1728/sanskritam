@@ -1,0 +1,236 @@
+{
+  "id": "baala-002-024",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 24,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 23
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-24"
+    ],
+    "vulgate_in_locators": [
+      "1.2.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.24"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002023a",
+        "1002023c"
+      ],
+      "lines": [
+        "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+        "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः"
+      ],
+      "punctuated_derived": "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः ।\nप्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+        "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः"
+      ],
+      "locators": [
+        "1-2-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+        "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः"
+      ],
+      "locators": [
+        "1.2.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+        "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+      "net": "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+      "in": "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+      "gp": "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः",
+      "net": "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः",
+      "in": "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः",
+      "gp": "प्राञ्जलिः प्रयतो भूत्वा तस्थौ परमविस्मितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-24",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then that pious saint Valmiki is highly surprised on seeing Brahma, and on quickly getting up from his seat with his palms adjoined humbly, he stood aside, as he is spellbind. [1-2-24]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-24",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "atha",
+            "devanagari_machine_converted": "अथ",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "prayataH",
+            "devanagari_machine_converted": "प्रयतः",
+            "english": "pious one"
+          },
+          {
+            "roman_itrans": "Valmiki; tam dR^iSTvaa",
+            "devanagari_machine_converted": "Vअल्मिकि; तम् दृष्ट्वा",
+            "english": "on seeing Him [ Brahma,]"
+          },
+          {
+            "roman_itrans": "paramavismitaH",
+            "devanagari_machine_converted": "परमविस्मितः",
+            "english": "highly, surprised"
+          },
+          {
+            "roman_itrans": "sahasaa utthaaya",
+            "devanagari_machine_converted": "सहसा उत्थाय",
+            "english": "quickly, on getting up"
+          },
+          {
+            "roman_itrans": "praanjaliH bhuutvaa = humbly adjoining palms; vaagyataH",
+            "devanagari_machine_converted": "प्रान्जलिः भूत्वा = हुम्ब्ल्य् अद्जोइनिन्ग् पल्म्स्; वाग्यतः",
+            "english": "spellbound"
+          },
+          {
+            "roman_itrans": "tasthau",
+            "devanagari_machine_converted": "तस्थौ",
+            "english": "stood aside."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन्हें देखते ही महर्षि वाल्मीकि सहसा उठकर खड़े हो गये। वे मन और इन्द्रियोंको वशमें रखकर अत्यन्त विस्मित हो हाथ जोड़े चुपचाप कुछ कालतक खड़े ही रह गये, कुछ बोल न सके।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वाल्मीकिः",
+            "hindi": "वाल्मीकि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अथ",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उन (ब्रह्मा) को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "सहसा",
+            "hindi": "सहसा (अव्यय)"
+          },
+          {
+            "sanskrit": "उत्थाय",
+            "hindi": "उठकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "वाग्यतः",
+            "hindi": "वाणी और इन्द्रियों को वश में करके (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राञ्जलिः",
+            "hindi": "हाथ जोड़कर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रयतः",
+            "hindi": "संयत होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भूत्वा",
+            "hindi": "होकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तस्थौ",
+            "hindi": "खड़े रहे (स्था धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "परमविस्मितः",
+            "hindi": "अत्यन्त विस्मित हुए (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.24",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उन्हें देखते ही महर्षि वाल्मीकि सहसा उठकर खड़े हो गये। वे मन और इन्द्रियोंको वशमें रखकर अत्यन्त विस्मित हो हाथ जोड़े चुपचाप कुछ कालतक खड़े ही रह गये, कुछ बोल न सके॥ २४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

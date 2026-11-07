@@ -1,0 +1,276 @@
+{
+  "id": "baala-010-025",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 25,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 24
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-24"
+    ],
+    "vulgate_in_locators": [
+      "1.10.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.24"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009024a"
+      ],
+      "lines": [
+        "ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्"
+      ],
+      "locators": [
+        "1-10-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततोऽपरेधुस्तं देशमाजगाम स वीर्यवान्"
+      ],
+      "locators": [
+        "1.10.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_243_differs_from_sanskrit_24"
+      ],
+      "refs": [
+        "1.10.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्",
+      "net": "ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्",
+      "in": "ततोऽपरेधुस्तं देशमाजगाम स वीर्यवान्",
+      "gp": "ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9375,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "ततोऽपरेद्युस्तं",
+            "b": "ततोऽपरेधुस्तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वीर्यवान्",
+            "b": "वीर्यवान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-24",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then on the next day Rishyasringa, son of Vibhandaka and the prosperous sage with ascetic power has arrived at that place where he saw well-decorated and delightful courtesans recollecting in mind repetitively about them alone. [1-10-24, 25a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-24",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "24, 25a. tataH",
+            "devanagari_machine_converted": "२४, २५अ। ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "viiryavaan",
+            "devanagari_machine_converted": "वीर्यवान्",
+            "english": "sage with ascetic power"
+          },
+          {
+            "roman_itrans": "saH apare dyuH",
+            "devanagari_machine_converted": "सः अपरे द्युः",
+            "english": "he, on next day"
+          },
+          {
+            "roman_itrans": "vibhaaNDakasutaH",
+            "devanagari_machine_converted": "विभाण्डकसुतः",
+            "english": "Vibhaandaka's son"
+          },
+          {
+            "roman_itrans": "shriimaan",
+            "devanagari_machine_converted": "श्रीमान्",
+            "english": "prosperous one"
+          },
+          {
+            "roman_itrans": "manasaa vichintayan muhuH",
+            "devanagari_machine_converted": "मनसा विचिन्तयन् मुहुः",
+            "english": "in mind, recollecting, repetitively manoj~naaH = delightful ones [women]"
+          },
+          {
+            "roman_itrans": "vaaramukhyaaH",
+            "devanagari_machine_converted": "वारमुख्याः",
+            "english": "courtesans"
+          },
+          {
+            "roman_itrans": "svalaMkR^itaaH",
+            "devanagari_machine_converted": "स्वलंकृताः",
+            "english": "well decorated ones"
+          },
+          {
+            "roman_itrans": "yatra taaH dR^iShTaaH",
+            "devanagari_machine_converted": "यत्र ताः दृष्टाः",
+            "english": "where, they, were seen"
+          },
+          {
+            "roman_itrans": "tam desham aajagaama",
+            "devanagari_machine_converted": "तम् देशम् आजगाम",
+            "english": "arrived at that place."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.24",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“तदनन्तर दूसरे दिन फिर मनसे उन्हींका बारम्बार चिन्तन करते हुए शक्तिशाली विभाण्डककुमार श्रीमान् ऋष्यशृंग उसी स्थान पर गये, जहाँ पहले दिन उन्होंने वस्त्र और आभूषणोंसे सजी हुई उन मनोहर रूपवाली वेश्याओं को देखा था।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.24",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "अपरेधुः",
+            "hindi": "दूसरे दिन (अव्यय)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "देशम्",
+            "hindi": "स्थान पर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आजगाम",
+            "hindi": "आ गया (आ + गम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वीर्यवान्",
+            "hindi": "वीर्यवान् / शक्तिशाली (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "विभाण्डकसुतः",
+            "hindi": "विभाण्डक के पुत्र ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रीमान्",
+            "hindi": "श्रीमान् ने (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "मनसा",
+            "hindi": "मन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अचिन्तयन्",
+            "hindi": "चिन्तन करते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "मुहुः",
+            "hindi": "बारम्बार (अव्यय)"
+          },
+          {
+            "sanskrit": "मनोज्ञाः",
+            "hindi": "मनोहर / सुन्दर (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "यत्र",
+            "hindi": "जहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "ताः",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "दृष्टाः",
+            "hindi": "देखी गई थीं (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "वारमुख्याः",
+            "hindi": "मुख्य वेश्याएँ / गणिकाएँ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "स्वलङ्कृताः",
+            "hindi": "अच्छी तरह सजी हुई (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.24",
+        "ocr_flags": [
+          "hindi_marker_243_differs_from_sanskrit_24"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलंकृताः। “तदनन्तर दूसरे दिन फिर मनसे उन्हींका बारम्बार चिन्तन करते हुए शक्तिशाली विभाण्डककुमार श्रीमान्‌ ऋष्यश्रृंग उसी स्थानपर गये, जहाँ पहले दिन उन्होंने वस्त्र और आभूषणोंसे सजी हुई उन मनोहर रूपवाली वेश्याओंको देखा था॥ २४३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

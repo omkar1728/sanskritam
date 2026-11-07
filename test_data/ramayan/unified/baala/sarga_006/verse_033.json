@@ -1,0 +1,517 @@
+{
+  "id": "baala-006-033",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 33,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-26",
+      "1-6-27",
+      "1-6-28"
+    ],
+    "vulgate_in_locators": [
+      "1.6.26",
+      "1.6.27"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.26",
+      "1.6.27"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "यस्यां दशरथो राजा वसन् जगदपालयत्",
+        "तां पुरीं स महातेजा राजा दशरथो महान्",
+        "शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः",
+        "तां सत्यनामां दृढतोरणार्गलाम्"
+      ],
+      "locators": [
+        "1-6-26",
+        "1-6-27",
+        "1-6-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "यस्यां दशरथो राजा वसञ्जगदपालयत्॥२६",
+        "तां पुरीं स महातेजा राजा दशरथो महान्",
+        "शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः॥२७"
+      ],
+      "locators": [
+        "1.6.26",
+        "1.6.27"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "यस्यां दशरथो राजा वसञ्जगदपालयत्‌",
+        "तां पुरां स महातेजा राजा दशरथो महान्‌",
+        "शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_25-26"
+      ],
+      "refs": [
+        "1.6.26",
+        "1.6.27"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "यस्यां दशरथो राजा वसन् जगदपालयत्",
+      "in": "यस्यां दशरथो राजा वसञ्जगदपालयत्॥२६",
+      "gp": "यस्यां दशरथो राजा वसञ्जगदपालयत्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "वसन् जगदपालयत्",
+            "b": "वसञ्जगदपालयत्॥२६"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वसन् जगदपालयत्",
+            "b": "वसञ्जगदपालयत्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तां पुरीं स महातेजा राजा दशरथो महान्",
+      "in": "तां पुरीं स महातेजा राजा दशरथो महान्",
+      "gp": "तां पुरां स महातेजा राजा दशरथो महान्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "पुरीं",
+            "b": "पुरां"
+          },
+          {
+            "a": "महान्",
+            "b": "महान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः",
+      "in": "शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः॥२७",
+      "gp": "शशास शमितामित्रो नक्षत्राणीव चन्द्रमाः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चन्द्रमाः",
+            "b": "चन्द्रमाः॥२७"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तां सत्यनामां दृढतोरणार्गलाम्",
+      "in": null,
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-26",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "While residing in which city King Dasharatha ruled the world that city is further fortified up to two more yojana-s outside city, true to its name a yodhya , an un-assailable one. [1-6-26]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-27",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In which city the great resplendent and admirable king Dasharatha resided, he ruled the world from that city with silenced enemies, like the moon governing the stars. [1-6-27]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-28",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "With gorgeous arches, castle-door-bars and with amazingly built houses that city is magnificent and auspicious one, and full with thousands of provincial kings too, and king Dasharatha, a coequal of Indra, indeed ruled that city which is true to its name. [1-6-28]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-26",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "26b-c. raajaa",
+            "devanagari_machine_converted": "२६ब्-च्। राजा",
+            "english": "king"
+          },
+          {
+            "roman_itrans": "dasharathaH naama",
+            "devanagari_machine_converted": "दशरथः नाम",
+            "english": "Dasharatha, named"
+          },
+          {
+            "roman_itrans": "yasyaam",
+            "devanagari_machine_converted": "यस्याम्",
+            "english": "in which [city]"
+          },
+          {
+            "roman_itrans": "vasan",
+            "devanagari_machine_converted": "वसन्",
+            "english": "while residing"
+          },
+          {
+            "roman_itrans": "jagat",
+            "devanagari_machine_converted": "जगत्",
+            "english": "world"
+          },
+          {
+            "roman_itrans": "apaalayat",
+            "devanagari_machine_converted": "अपालयत्",
+            "english": "ruled"
+          },
+          {
+            "roman_itrans": "saa",
+            "devanagari_machine_converted": "सा",
+            "english": "she that Ayodhya"
+          },
+          {
+            "roman_itrans": "bhuuyaH",
+            "devanagari_machine_converted": "भूयः",
+            "english": "further - outside also"
+          },
+          {
+            "roman_itrans": "dve yojane",
+            "devanagari_machine_converted": "द्वे योजने",
+            "english": "two, yojana-s"
+          },
+          {
+            "roman_itrans": "satyanaamaa",
+            "devanagari_machine_converted": "सत्यनामा",
+            "english": "true to its name"
+          },
+          {
+            "roman_itrans": "prakaashate",
+            "devanagari_machine_converted": "प्रकाशते",
+            "english": "shines forth [well fortified.]"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-27",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahaatejaaH",
+            "devanagari_machine_converted": "महातेजाः",
+            "english": "he, the great resplendent"
+          },
+          {
+            "roman_itrans": "mahaan",
+            "devanagari_machine_converted": "महान्",
+            "english": "admirable one"
+          },
+          {
+            "roman_itrans": "raajaa dasharathaH",
+            "devanagari_machine_converted": "राजा दशरथः",
+            "english": "king, Dasharatha"
+          },
+          {
+            "roman_itrans": "shamitaamitraH",
+            "devanagari_machine_converted": "शमितामित्रः",
+            "english": "silenced enemies"
+          },
+          {
+            "roman_itrans": "taam puriim",
+            "devanagari_machine_converted": "ताम् पुरीम्",
+            "english": "that, city"
+          },
+          {
+            "roman_itrans": "chandramaaH nakShatraaNi iva",
+            "devanagari_machine_converted": "चन्द्रमाः नक्षत्राणि इव",
+            "english": "like moon, for the stars"
+          },
+          {
+            "roman_itrans": "shashaasa",
+            "devanagari_machine_converted": "शशास",
+            "english": "ruled."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-28",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dhR^iDhathoraNaargalaam",
+            "devanagari_machine_converted": "धृढथोरणार्गलाम्",
+            "english": "firm arches, castle-door-bars"
+          },
+          {
+            "roman_itrans": "vichitraiH",
+            "devanagari_machine_converted": "विचित्रैः",
+            "english": "amazing"
+          },
+          {
+            "roman_itrans": "gR^ihaiH",
+            "devanagari_machine_converted": "गृहैः",
+            "english": "with houses"
+          },
+          {
+            "roman_itrans": "shobhitaam",
+            "devanagari_machine_converted": "शोभिताम्",
+            "english": "magnificent"
+          },
+          {
+            "roman_itrans": "shivaam",
+            "devanagari_machine_converted": "शिवाम्",
+            "english": "auspicious one"
+          },
+          {
+            "roman_itrans": "nR^isahasrasankulaan",
+            "devanagari_machine_converted": "नृसहस्रसन्कुलान्",
+            "english": "full with thousands of people"
+          },
+          {
+            "roman_itrans": "satyanaamaam",
+            "devanagari_machine_converted": "सत्यनामाम्",
+            "english": "true to its name"
+          },
+          {
+            "roman_itrans": "taam",
+            "devanagari_machine_converted": "ताम्",
+            "english": "her"
+          },
+          {
+            "roman_itrans": "puriim ayodhyaam",
+            "devanagari_machine_converted": "पुरीम् अयोध्याम्",
+            "english": "city, Ayodhya"
+          },
+          {
+            "roman_itrans": "shakrasamaH",
+            "devanagari_machine_converted": "शक्रसमः",
+            "english": "coequal of Indra"
+          },
+          {
+            "roman_itrans": "mahiipatiH",
+            "devanagari_machine_converted": "महीपतिः",
+            "english": "king"
+          },
+          {
+            "roman_itrans": "shashaasa",
+            "devanagari_machine_converted": "शशास",
+            "english": "ruled"
+          },
+          {
+            "roman_itrans": "vai",
+            "devanagari_machine_converted": "वै",
+            "english": "indeed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.26",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तीन योजनके विस्तारवाली अयोध्यामें दो योजनकी भूमि तो ऐसी थी, जहाँ पहुँचकर किसीके लिये भी युद्ध करना असम्भव था, इसलिये वह पुरी 'अयोध्या' इस सत्य एवं सार्थक नामसे प्रकाशित होती थी; जिसमें रहते हुए राजा दशरथ इस जगत् का पालन करते थे॥ २५-२६॥"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.27",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जैसे चन्द्रमा नक्षत्रलोकका शासन करते हैं, उसी प्रकार महातेजस्वी महाराज दशरथ अयोध्यापुरीका शासन करते थे। उन्होंने अपने समस्त शत्रुओंको नष्ट कर दिया था।। २७॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.26",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सा",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "योजने",
+            "hindi": "योजन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "द्वे",
+            "hindi": "दो (सप्तमी विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "भूयः",
+            "hindi": "अधिक (अव्यय)"
+          },
+          {
+            "sanskrit": "सत्यनामा",
+            "hindi": "सत्य नाम वाली (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रकाशते",
+            "hindi": "प्रकाशित होती है (प्र + काश्, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "यस्याम्",
+            "hindi": "जिसमें (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वसन्",
+            "hindi": "रहते हुए (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगत्",
+            "hindi": "जगत् का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपालयत्",
+            "hindi": "पालन करते थे (पाल् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.27",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ताम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महातेजाः",
+            "hindi": "महान् तेज वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महान्",
+            "hindi": "महान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शशास",
+            "hindi": "शासन करते थे (शास् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "शमितामित्रः",
+            "hindi": "शत्रुओं को नष्ट करने वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नक्षत्राणि",
+            "hindi": "नक्षत्रों का (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "चन्द्रमाः",
+            "hindi": "चन्द्रमा (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.26",
+        "ocr_flags": [
+          "hindi_marker_range_25-26"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "हिमालय पर्वतपर उत्पन्न भद्रजातिके, विन्ध्यपर्वतपर उत्पन्न हुए मन्द्रजातिके तथा सह्यपर्वतपर पैदा हुए मृग श्रीमद्वाल्मीकीयरामायणे जातिके हाथी भी वहाँ मौजूद थे। भद्र, मन्द्र और मृग-_ इन तीनोंके मेलसे उत्पन्न हुए संकरजातिके, भद्र और मन्द्र-इन दो जातियोँके मेलसे पैदा हुए संकर जातिके भद्र और मृग जातिके संयोगसे उत्पन्न संकरजातिके तथा मृग और मन्द्र-इन दो जातियोंके सम्मिश्रणसे पैदा हुए पर्वताकार गजराज भी, जो सदा मदोन्मत्त रहते थे उस पुरीमें भरे हुए थे। (तीन योजनके विस्तारवाली अयोध्यामे) दो योजनको भूमि तो ऐसी थी, जहाँ पहुँचकर किसीके लिये भी युद्ध करना असम्भव था, इसलिये वह पुरी \"अयोध्या' इस सत्य एवं सार्थक नामसे प्रकाशित होती थी; जिसमें रहते हुए राजा दशरथ इस जगतका (अपने राज्यका) पालन करते थे॥ २५-२६॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.27",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "जैसे चन्द्रमा नक्षत्रलोकका शासन करते हैं, उसी प्रकार महातेजस्वी महाराज दशरथ अयोध्यापुरीका शासन करते थे। उन्होंने अपने समस्त शत्रुओंको नष्ट कर दिया था॥ २७॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "net_in_line_mismatch",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

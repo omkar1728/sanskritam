@@ -1,0 +1,269 @@
+{
+  "id": "baala-010-014",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 14,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 13
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-13"
+    ],
+    "vulgate_in_locators": [
+      "1.10.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009013a",
+        "1009013c"
+      ],
+      "lines": [
+        "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+        "हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम्"
+      ],
+      "punctuated_derived": "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः ।\nहार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+        "हार्दात्तस्य मतिर्जाता ह्याख्यातुं पितरं स्वकम्"
+      ],
+      "locators": [
+        "1-10-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+        "हार्दी तस्य मतिर्जाता आख्यातुं पितरं स्वकम्"
+      ],
+      "locators": [
+        "1.10.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अदुष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+        "हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+      "net": "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+      "in": "अदृष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+      "gp": "अदुष्टरूपास्तास्तेन काम्यरूपा वने स्त्रियः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9736842105263158
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "अदृष्टरूपास्तास्तेन",
+            "b": "अदुष्टरूपास्तास्तेन"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम्",
+      "net": "हार्दात्तस्य मतिर्जाता ह्याख्यातुं पितरं स्वकम्",
+      "in": "हार्दी तस्य मतिर्जाता आख्यातुं पितरं स्वकम्",
+      "gp": "हार्दात्तस्य मतिर्जाता आख्यातुं पितरं स्वकम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9382716049382716,
+        "sim_in_net": 0.8860759493670886,
+        "sim_gp_net": 0.9382716049382716
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "आख्यातुं",
+            "b": "ह्याख्यातुं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "हार्दात्तस्य",
+            "b": "हार्दी तस्य"
+          },
+          {
+            "a": "ह्याख्यातुं",
+            "b": "आख्यातुं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ह्याख्यातुं",
+            "b": "आख्यातुं"
+          },
+          {
+            "a": "स्वकम्",
+            "b": "स्वकम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Those women are in most desirable form and hitherto he has not seen such forms in that forest, hence a kind of friendship spouted, with which he is inclined to detail about his father... [1-10-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kaamyaruupaaH taaH striyaH",
+            "devanagari_machine_converted": "काम्यरूपाः ताः स्त्रियः",
+            "english": "those women are most desirable in form"
+          },
+          {
+            "roman_itrans": "tena vane",
+            "devanagari_machine_converted": "तेन वने",
+            "english": "by him, in forest"
+          },
+          {
+            "roman_itrans": "adR^iSTaruupaaH",
+            "devanagari_machine_converted": "अदृष्टरूपाः",
+            "english": "un seen are such forms"
+          },
+          {
+            "roman_itrans": "haardaat",
+            "devanagari_machine_converted": "हार्दात्",
+            "english": "[thereby a sort of friendship is peeping out,] friendlily"
+          },
+          {
+            "roman_itrans": "svakam pitaram hi aakhyaatum",
+            "devanagari_machine_converted": "स्वकम् पितरम् हि आख्यातुम्",
+            "english": "to detail about his, father"
+          },
+          {
+            "roman_itrans": "tasya matiH jaataa",
+            "devanagari_machine_converted": "तस्य मतिः जाता",
+            "english": "his, mind, born [he is inclined to.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ऋष्यशृंगने वनमें कभी स्त्रियोंका रूप नहीं देखा था और वे स्त्रियाँ तो अत्यन्त कमनीय रूपसे सुशोभित थीं; अतः उन्हें देखकर उनके मनमें स्नेह उत्पन्न हो गया। इसलिये उन्होंने उनसे अपने पिताका परिचय देनेका विचार किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अदृष्टरूपाः",
+            "hindi": "पहले कभी न देखे हुए रूप वाली (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ताः",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उसके द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "काम्यरूपाः",
+            "hindi": "मनोहर / कमनीय रूप वाली (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "स्त्रियः",
+            "hindi": "स्त्रियाँ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "हार्दी",
+            "hindi": "हार्दिक / हृदय में (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "मतिः",
+            "hindi": "बुद्धि / विचार (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जाता",
+            "hindi": "हुई (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "आख्यातुम्",
+            "hindi": "बताने के लिए (आ + ख्या, तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पितरम्",
+            "hindi": "पिता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वकम्",
+            "hindi": "अपने (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.13",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“ऋष्यश्रंगने वनमें कभी स्त्रियोंका रूप नहीं देखा था और वे स्त्रियाँ तो अत्यन्त कमनीय रूपसे सुशोभित थीं; अतः उन्हें देखकर उनके मनमें स्नेह उत्पन्न हो गया। इसलिये उन्होंने उनसे अपने पिताका परिचय देनेका विचार किया॥ १३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

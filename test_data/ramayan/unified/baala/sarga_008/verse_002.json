@@ -1,0 +1,275 @@
+{
+  "id": "baala-008-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 8,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 8,
+    "vulgate_net_locators": [
+      "1-8-24"
+    ],
+    "vulgate_in_locators": [
+      "1.8.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.8.233",
+      "1.8.24"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्",
+        "मुखपद्मान्यशोभन्त पद्मानीव हिमात्यये"
+      ],
+      "locators": [
+        "1-8-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्",
+        "मुखपद्मान्यशोभन्त पद्मानीव हिमात्यये॥२४"
+      ],
+      "locators": [
+        "1.8.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "करूँगा'",
+        "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्‌",
+        "मुखपद्यान्यशोभन्त पद्मानीव हिमात्यये"
+      ],
+      "ocr_flags": [
+        "hindi_missing",
+        "leading_text_before_sanskrit_moved_to_unparsed",
+        "verse_number_nonsequential_expected_224",
+        "verse_number_nonsequential_expected_234"
+      ],
+      "refs": [
+        "1.8.233",
+        "1.8.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": null,
+      "in": null,
+      "gp": "करूँगा'",
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्",
+      "in": "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्",
+      "gp": "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सुवर्चसाम्",
+            "b": "सुवर्चसाम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "मुखपद्मान्यशोभन्त पद्मानीव हिमात्यये",
+      "in": "मुखपद्मान्यशोभन्त पद्मानीव हिमात्यये॥२४",
+      "gp": "मुखपद्यान्यशोभन्त पद्मानीव हिमात्यये",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "हिमात्यये",
+            "b": "हिमात्यये॥२४"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मुखपद्मान्यशोभन्त",
+            "b": "मुखपद्यान्यशोभन्त"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-8-24",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On hearing those words of the king, the lustrous countenances of the queens have become more gleaming, like the blooming lotuses after the clearance of dew-fall. [1-8-24]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-8-24",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "atikaantena",
+            "devanagari_machine_converted": "अतिकान्तेन",
+            "english": "most pleasing"
+          },
+          {
+            "roman_itrans": "vacanena",
+            "devanagari_machine_converted": "वचनेन",
+            "english": "by words [of king]"
+          },
+          {
+            "roman_itrans": "suvarcasaam",
+            "devanagari_machine_converted": "सुवर्चसाम्",
+            "english": "already lustrous"
+          },
+          {
+            "roman_itrans": "taasaam",
+            "devanagari_machine_converted": "तासाम्",
+            "english": "their [the queens]"
+          },
+          {
+            "roman_itrans": "mukhapadmaani",
+            "devanagari_machine_converted": "मुखपद्मानि",
+            "english": "countenances lotuses"
+          },
+          {
+            "roman_itrans": "padmaani iva",
+            "devanagari_machine_converted": "पद्मानि इव",
+            "english": "like lotuses"
+          },
+          {
+            "roman_itrans": "tena",
+            "devanagari_machine_converted": "तेन",
+            "english": "by those [words of king]"
+          },
+          {
+            "roman_itrans": "himaatyaye",
+            "devanagari_machine_converted": "हिमात्यये",
+            "english": "clearance of dew-fall"
+          },
+          {
+            "roman_itrans": "ashobhanta",
+            "devanagari_machine_converted": "अशोभन्त",
+            "english": "became more gleaming."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.8.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस मनोहर वचनसे उन सुन्दर कान्तिवाली रानियोंके मुखकमल वसन्तऋतुमें विकसित होनेवाले पङ्कजोंके समान खिल उठे और अत्यन्त शोभा पाने लगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.8.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तासाम्",
+            "hindi": "उन (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अतिकान्तेन",
+            "hindi": "अत्यन्त मनोहर से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वचनेन",
+            "hindi": "वचन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुवर्चसाम्",
+            "hindi": "सुन्दर कान्ति वाली की (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "मुखपद्मानि",
+            "hindi": "मुख कमल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "अशोभन्त",
+            "hindi": "शोभित हो गए (शुभ् धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "पद्मानि",
+            "hindi": "कमल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "हिमात्यये",
+            "hindi": "हिम के अंत (वसन्त) में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.8.233",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed",
+          "verse_number_nonsequential_expected_224",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.8.24",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_234"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उस मनोहर वचनसे उन सुन्दर कान्तिवाली रानियोंके मुखकमल वसन्तऋतुमें विकसित होनेवाले पङ्क्जोके समान खिल उठे और अत्यन्त शोभा पाने लगे॥ २४॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

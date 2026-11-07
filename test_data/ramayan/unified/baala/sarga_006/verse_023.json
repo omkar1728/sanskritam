@@ -1,0 +1,271 @@
+{
+  "id": "baala-006-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 17
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-19"
+    ],
+    "vulgate_in_locators": [
+      "1.6.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.19"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006017a",
+        "1006017c"
+      ],
+      "lines": [
+        "क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः",
+        "शूद्राः स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः"
+      ],
+      "punctuated_derived": "क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः ।\nशूद्राः स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः",
+        "शूद्राः स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः"
+      ],
+      "locators": [
+        "1-6-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "क्षत्रं ब्रह्ममुखं चासीद् वैश्याः क्षत्रमनुव्रताः",
+        "शूद्राः स्वकर्मनिरतास्त्रीन् वर्णानुपचारिणः॥१९"
+      ],
+      "locators": [
+        "1.6.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कषत्रं ब्रह्ममुखं चासीद्‌. वैश्याः क्षत्रमनुक्रताः",
+        "शूद्राः स्वकर्मनिरतास्त्रीन्‌ वर्णानुपचारिणः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः",
+      "net": "क्षत्रं ब्रह्ममुखं चासीद्वैश्याः क्षत्रमनुव्रताः",
+      "in": "क्षत्रं ब्रह्ममुखं चासीद् वैश्याः क्षत्रमनुव्रताः",
+      "gp": "कषत्रं ब्रह्ममुखं चासीद्‌. वैश्याः क्षत्रमनुक्रताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9662921348314607
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चासीद्वैश्याः",
+            "b": "चासीद् वैश्याः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "क्षत्रं",
+            "b": "कषत्रं"
+          },
+          {
+            "a": "चासीद्वैश्याः क्षत्रमनुव्रताः",
+            "b": "चासीद्‌. वैश्याः क्षत्रमनुक्रताः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शूद्राः स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः",
+      "net": "शूद्राः स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः",
+      "in": "शूद्राः स्वकर्मनिरतास्त्रीन् वर्णानुपचारिणः॥१९",
+      "gp": "शूद्राः स्वकर्मनिरतास्त्रीन्‌ वर्णानुपचारिणः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.975,
+        "sim_gp_net": 0.975
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः",
+            "b": "स्वकर्मनिरतास्त्रीन् वर्णानुपचारिणः॥१९"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "स्वधर्मनिरतास्त्रीन्वर्णानुपचारिणः",
+            "b": "स्वकर्मनिरतास्त्रीन्‌ वर्णानुपचारिणः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The warrior class Kshatriya-s is turned towards the Brahmans, the scholarly class, for intellectual and religious support. The trading class, Vaisya-s, is the follower of the Kshatriya-s, the ruling class, for the state's economy is dependent on the rulership. And the fourth one, Shuudra-s, the working class, while performing its own duties, is always working for the other castes. [1-6-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kShatram",
+            "devanagari_machine_converted": "क्षत्रम्",
+            "english": "Kshatriya-s, warrior-class"
+          },
+          {
+            "roman_itrans": "brahmamukham",
+            "devanagari_machine_converted": "ब्रह्ममुखम्",
+            "english": "towards Brahmans"
+          },
+          {
+            "roman_itrans": "cha aasiit",
+            "devanagari_machine_converted": "च आसीत्",
+            "english": "only, is there"
+          },
+          {
+            "roman_itrans": "vaishyaaH",
+            "devanagari_machine_converted": "वैश्याः",
+            "english": "Vyasya-s, trading-class"
+          },
+          {
+            "roman_itrans": "kShatram anuvrataaH",
+            "devanagari_machine_converted": "क्षत्रम् अनुव्रताः",
+            "english": "following Kshatriya"
+          },
+          {
+            "roman_itrans": "shuudraaH",
+            "devanagari_machine_converted": "शूद्राः",
+            "english": "Shuudra-s, working-class"
+          },
+          {
+            "roman_itrans": "svadharmanirataaH",
+            "devanagari_machine_converted": "स्वधर्मनिरताः",
+            "english": "performing their own duty"
+          },
+          {
+            "roman_itrans": "triin varNaan upachaariNaH",
+            "devanagari_machine_converted": "त्रीन् वर्णान् उपचारिणः",
+            "english": "working for other three castes."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "क्षत्रिय ब्राह्मणोंका मुँह जोहते थे, वैश्य क्षत्रियोंकी आज्ञाका पालन करते थे और शूद्र अपने कर्तव्यका पालन करते हुए उपर्युक्त तीनों वर्गों की सेवामें संलग्न रहते थे॥ १९॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "क्षत्रम्",
+            "hindi": "क्षत्रिय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रह्ममुखम्",
+            "hindi": "ब्राह्मण मुख वाले / ब्राह्मणों के अधीन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "था (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वैश्याः",
+            "hindi": "वैश्य (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "क्षत्रम्",
+            "hindi": "क्षत्रियों की (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुव्रताः",
+            "hindi": "आज्ञा का पालन करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "शूद्राः",
+            "hindi": "शूद्र (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "स्वकर्मनिरताः",
+            "hindi": "अपने कर्मों में लगे रहने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "त्रीन्",
+            "hindi": "तीनों (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वर्णान्",
+            "hindi": "वर्णों की (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपचारिणः",
+            "hindi": "सेवा / उपचार करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.19",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "क्षत्रिय ब्राह्मणोंका मुँह जोहते थे, वैश्य क्षत्रियोंकी आज्ञाका पालन करते थे और शूद्र अपने कर्तव्यका पालन करते हुए उपर्युक्त तीनों वर्णोंकी सेवामें संलग्न रहते थे॥ १९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,224 @@
+{
+  "id": "baala-005-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 10
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-10"
+    ],
+    "vulgate_in_locators": [
+      "1.5.10"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005010a",
+        "1005010c"
+      ],
+      "lines": [
+        "कपाटतोरणवतीं सुविभक्तान्तरापणाम्",
+        "सर्वयन्त्रायुधवतीमुपेतां सर्वशिल्पिभिः"
+      ],
+      "punctuated_derived": "कपाटतोरणवतीं सुविभक्तान्तरापणाम् ।\nसर्वयन्त्रायुधवतीमुपेतां सर्वशिल्पिभिः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कवाटतोरणवतीं सुविभक्तान्तरापणाम्",
+        "सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः"
+      ],
+      "locators": [
+        "1-5-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कपाटतोरणवतीं सुविभक्तान्तरापणाम्",
+        "सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः"
+      ],
+      "locators": [
+        "1.5.10"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कपाटतोरणवतीं सुविभक्तान्तरापणाम्‌",
+        "सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कपाटतोरणवतीं सुविभक्तान्तरापणाम्",
+      "net": "कवाटतोरणवतीं सुविभक्तान्तरापणाम्",
+      "in": "कपाटतोरणवतीं सुविभक्तान्तरापणाम्",
+      "gp": "कपाटतोरणवतीं सुविभक्तान्तरापणाम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9655172413793104,
+        "sim_in_net": 0.9655172413793104,
+        "sim_gp_net": 0.9655172413793104
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "कपाटतोरणवतीं",
+            "b": "कवाटतोरणवतीं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कवाटतोरणवतीं",
+            "b": "कपाटतोरणवतीं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कवाटतोरणवतीं सुविभक्तान्तरापणाम्",
+            "b": "कपाटतोरणवतीं सुविभक्तान्तरापणाम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सर्वयन्त्रायुधवतीमुपेतां सर्वशिल्पिभिः",
+      "net": "सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः",
+      "in": "सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः",
+      "gp": "सर्वयन्त्रायुधवतीमुषितां सर्वशिल्पिभिः",
+      "similarity": {
+        "sim_smith_net": 0.9444444444444444,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सर्वयन्त्रायुधवतीमुपेतां",
+            "b": "सर्वयन्त्रायुधवतीमुषितां"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city is surrounded with gateways and archways; the front yards of buildings are well laid; it is lodges all kinds of machinery, weaponry and craftsmen, and king Dasharatha dwells in such a city. [1-4-10]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kavaaTatoraNavatiim",
+            "devanagari_machine_converted": "कवाटतोरणवतीम्",
+            "english": "surrounded with gateways, archways"
+          },
+          {
+            "roman_itrans": "suvibhaktaantaraapaNaam",
+            "devanagari_machine_converted": "सुविभक्तान्तरापणाम्",
+            "english": "well laid-out internal forefronts"
+          },
+          {
+            "roman_itrans": "sarvayantraayudhavatiim",
+            "devanagari_machine_converted": "सर्वयन्त्रायुधवतीम्",
+            "english": "all machinery, weaponry"
+          },
+          {
+            "roman_itrans": "uSitaam sarvashilpibhiH",
+            "devanagari_machine_converted": "उषिताम् सर्वशिल्पिभिः",
+            "english": "lodged with, all, craftsmen"
+          },
+          {
+            "roman_itrans": "[puriim dasharathaH aavaasayaamaasa",
+            "devanagari_machine_converted": "[पुरीम् दशरथः आवासयामास",
+            "english": "in such a city, Dasharatha, dwells - this is to be suffixed up to 22nd versse.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वह पुरी बड़े-बड़े फाटकों और किवाड़ोंसे सुशोभित थी। उसके भीतर पृथक्-पृथक् बाजारें थीं। वहाँ सब प्रकारके यन्त्र और अस्त्र-शस्त्र संचित थे। उस पुरीमें सभी कलाओंके शिल्पी निवास करते थे॥ १० ॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कपाटतोरणवतीम्",
+            "hindi": "कपाट और तोरणों से युक्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुविभक्तान्तरापणाम्",
+            "hindi": "भीतर सुन्दर विभाजित बाजारों वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वयन्त्रायुधवतीम्",
+            "hindi": "सब प्रकार के यन्त्र और अस्त्र-शस्त्रों वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उषिताम्",
+            "hindi": "निवास की हुई को (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सर्वशिल्पिभिः",
+            "hindi": "सब शिल्पियों के द्वारा (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.10",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वह पुरी बड़े-बड़े फाटकों और किवाड़ोंसे सुशोभित थी। उसके भीतर पृथक्‌-पृथक्‌ बाजारें थीं। वहाँ सब प्रकारके यन्त्र और अस्त्र-शस्त्र संचित थे। उस पुरीमें सभी कलाओंके शिल्पी निवास करते थे॥ १०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

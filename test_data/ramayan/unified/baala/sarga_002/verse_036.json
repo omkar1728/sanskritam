@@ -1,0 +1,247 @@
+{
+  "id": "baala-002-036",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 36,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 34
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-35"
+    ],
+    "vulgate_in_locators": [
+      "1.2.35"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.35"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002034a",
+        "1002034c"
+      ],
+      "lines": [
+        "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+        "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्"
+      ],
+      "punctuated_derived": "न ते वागनृता काव्ये काचिदत्र भविष्यति ।\nकुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+        "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्"
+      ],
+      "locators": [
+        "1-2-35"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+        "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्"
+      ],
+      "locators": [
+        "1.2.35"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न ते वागनृता काव्ये काचिदत्र भविष्यति"
+      ],
+      "ocr_flags": [
+        "hindi_marker_353_differs_from_sanskrit_35"
+      ],
+      "refs": [
+        "1.2.35"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+      "net": "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+      "in": "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+      "gp": "न ते वागनृता काव्ये काचिदत्र भविष्यति",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्",
+      "net": "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्",
+      "in": "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-35",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"You shall versify the heart pleasing and merit-yielding legend of Rama, and not a single word of yours will not be false in this epic... [1-2-35]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-35",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "35b-36a. atra kaavye",
+            "devanagari_machine_converted": "३५ब्-३६अ। अत्र काव्ये",
+            "english": "in this, epic; te vaak = your, word"
+          },
+          {
+            "roman_itrans": "kaachit",
+            "devanagari_machine_converted": "काचित्",
+            "english": "any one [word]"
+          },
+          {
+            "roman_itrans": "anR^itaa",
+            "devanagari_machine_converted": "अनृता",
+            "english": "not false"
+          },
+          {
+            "roman_itrans": "na bhaviShyati",
+            "devanagari_machine_converted": "न भविष्यति",
+            "english": "not, it results in"
+          },
+          {
+            "roman_itrans": "puNyam",
+            "devanagari_machine_converted": "पुण्यम्",
+            "english": "merit-yielding"
+          },
+          {
+            "roman_itrans": "manoramaam",
+            "devanagari_machine_converted": "मनोरमाम्",
+            "english": "heart pleasing"
+          },
+          {
+            "roman_itrans": "raamakathaam",
+            "devanagari_machine_converted": "रामकथाम्",
+            "english": "Rama's, legend"
+          },
+          {
+            "roman_itrans": "shlokabaddhaam kuru",
+            "devanagari_machine_converted": "श्लोकबद्धाम् कुरु",
+            "english": "make versified."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.35",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘इस काव्यमें अंकित तुम्हारी कोई भी बात झूठी नहीं होगी; इसलिये तुम श्रीरामचन्द्रजीकी परम पवित्र एवं मनोरम कथाको श्लोकबद्ध करके लिखो।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.35",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "तेरी (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वाक्",
+            "hindi": "वाणी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनृता",
+            "hindi": "झूठी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "काव्ये",
+            "hindi": "काव्य में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "काचित्",
+            "hindi": "कोई भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अत्र",
+            "hindi": "यहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "होगी (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "कुरु",
+            "hindi": "करो (कृ धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "रामकथाम्",
+            "hindi": "राम की कथा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुण्याम्",
+            "hindi": "पवित्र (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्लोकबद्धाम्",
+            "hindi": "श्लोकों में बद्ध (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मनोरमाम्",
+            "hindi": "मनोरम (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.35",
+        "ocr_flags": [
+          "hindi_marker_353_differs_from_sanskrit_35"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "कुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम्‌। “इस काव्यमें अंकित तुम्हारी कोई भी बात झूठी नहीं होगी; इसलिये तुम श्रीरामचन्द्रजीकी परम पवित्र एवं मनोरम कथाको श्लोकबद्ध करके लिखो॥ ३५३ ॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "baala-001-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 6
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-6"
+    ],
+    "vulgate_in_locators": [
+      "1.1.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001006a",
+        "1001006c"
+      ],
+      "lines": [
+        "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+        "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्"
+      ],
+      "punctuated_derived": "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः ।\nश्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+        "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्"
+      ],
+      "locators": [
+        "1-1-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+        "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्"
+      ],
+      "locators": [
+        "1.1.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+        "श्रूयतामिति चामन्त्य प्रह्टो वाक्यमब्रवीत्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+      "net": "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+      "in": "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+      "gp": "श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्",
+      "net": "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्",
+      "in": "श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्",
+      "gp": "श्रूयतामिति चामन्त्य प्रह्टो वाक्यमब्रवीत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.95
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत्",
+            "b": "चामन्त्य प्रह्टो वाक्यमब्रवीत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On listening all those words of Valmiki, Narada, the knower of all the three worlds, said \"let it be heard...\" and beckoning at Sage Valmiki to listen attentively, he spoke these words very gladly. [1-1-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "trilokaj~naH",
+            "devanagari_machine_converted": "त्रिलोकज्ञः",
+            "english": "familiar with the three worlds"
+          },
+          {
+            "roman_itrans": "naaradaH",
+            "devanagari_machine_converted": "नारदः",
+            "english": "Narada"
+          },
+          {
+            "roman_itrans": "etat vachaH shrutvaa",
+            "devanagari_machine_converted": "एतत् वचः श्रुत्वा",
+            "english": "on listening to all those words"
+          },
+          {
+            "roman_itrans": "vaalmiikeH",
+            "devanagari_machine_converted": "वाल्मीकेः",
+            "english": "of Valmiki"
+          },
+          {
+            "roman_itrans": "shruuyataam",
+            "devanagari_machine_converted": "श्रूयताम्",
+            "english": "let it be heard"
+          },
+          {
+            "roman_itrans": "iti",
+            "devanagari_machine_converted": "इति",
+            "english": "thus"
+          },
+          {
+            "roman_itrans": "aamantrya cha",
+            "devanagari_machine_converted": "आमन्त्र्य च",
+            "english": "beckoning [Valmiki,] also"
+          },
+          {
+            "roman_itrans": "prahR^iSTaH",
+            "devanagari_machine_converted": "प्रहृष्टः",
+            "english": "being delighted"
+          },
+          {
+            "roman_itrans": "vaakyam abraviit",
+            "devanagari_machine_converted": "वाक्यम् अब्रवीत्",
+            "english": "spoke (these) words."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-6",
+        "spans_beyond_this_verse": false,
+        "text": "Narada is cognizant of three worlds, where the three worlds are bhuuloka, bhuvarloka, suvarloka this world, the intermediary heaven, the heavens themselves."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "महर्षि वाल्मीकिके इस वचनको सुनकर तीनोंलोकोंका ज्ञान रखनेवाले नारदजीने उन्हें सम्बोधित करके कहा, अच्छा सुनिये और फिर प्रसन्नतापूर्वक बोले-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय, पूर्वकालिक क्रिया)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एतत्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रिलोकज्ञः",
+            "hindi": "तीनों लोकों को जानने वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वाल्मीकेः",
+            "hindi": "वाल्मीकि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "नारदः",
+            "hindi": "नारद ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वचः",
+            "hindi": "वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रूयताम्",
+            "hindi": "सुना जाए (श्रु धातु, कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय, उद्धरण सूचक)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "आमन्त्र्य",
+            "hindi": "सम्बोधित करके (ल्यबन्त अव्यय, पूर्वकालिक क्रिया)"
+          },
+          {
+            "sanskrit": "प्रहृष्टः",
+            "hindi": "अत्यन्त प्रसन्न होकर (प्रथमा विभक्ति, विशेषण)"
+          },
+          {
+            "sanskrit": "वाक्यम्",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अब्रवीत्",
+            "hindi": "बोले (ब्रू धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.6",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "महर्षि वाल्मीकिके इस वचनको सुनकर तीनों लोकोंका ज्ञान रखनेवाले नारदजीने उन्हें सम्बोधित करके कहा, अच्छा सुनिये और फिर प्रसन्नतापूर्वक बोले--॥ ६"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

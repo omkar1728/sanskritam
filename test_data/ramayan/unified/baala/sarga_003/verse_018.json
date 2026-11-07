@@ -1,0 +1,231 @@
+{
+  "id": "baala-003-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 13
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-21"
+    ],
+    "vulgate_in_locators": [
+      "1.3.21"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.29"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003013a",
+        "1003013c"
+      ],
+      "lines": [
+        "राघवस्य विलापं च गृध्रराजनिबर्हणम्",
+        "कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्"
+      ],
+      "punctuated_derived": "राघवस्य विलापं च गृध्रराजनिबर्हणम् ।\nकबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "राघवस्य विलापं च गृध्रराजनिबर्हणम्",
+        "कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्"
+      ],
+      "locators": [
+        "1-3-21"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "राघवस्य विलापं च गृध्रराजनिबर्हणम्",
+        "कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्"
+      ],
+      "locators": [
+        "1.3.21"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "राघवस्य विलापं च गृश्रराजनिब्हणम्‌",
+        "'कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing",
+        "verse_number_nonsequential_expected_21"
+      ],
+      "refs": [
+        "1.3.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "राघवस्य विलापं च गृध्रराजनिबर्हणम्",
+      "net": "राघवस्य विलापं च गृध्रराजनिबर्हणम्",
+      "in": "राघवस्य विलापं च गृध्रराजनिबर्हणम्",
+      "gp": "राघवस्य विलापं च गृश्रराजनिब्हणम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9491525423728814
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "गृध्रराजनिबर्हणम्",
+            "b": "गृश्रराजनिब्हणम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्",
+      "net": "कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्",
+      "in": "कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्",
+      "gp": "'कबन्धदर्शनं चैव पम्पायाश्चापि दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "कबन्धदर्शनं",
+            "b": "'कबन्धदर्शनं"
+          },
+          {
+            "a": "दर्शनम्",
+            "b": "दर्शनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-21",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Raghava's anguish at the loss of Seetha; Ravana's slaying the mighty eagle Jatayu; Rama's seeing Kabandha, and also Lake Pampa...[1-3-21]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-21",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raaghavasya vilaapam ca",
+            "devanagari_machine_converted": "राघवस्य विलापम् च",
+            "english": "Raghava's, anguish, also"
+          },
+          {
+            "roman_itrans": "gR^idhraraajanibarhaNam",
+            "devanagari_machine_converted": "गृध्रराजनिबर्हणम्",
+            "english": "slaying eagle mighty; kabandhadarshanam ca eva = seeing Kabandha also, thus; pampaayaaH ca api darshanam = seeing the lake Pampa also, thus, ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सीताके लिये श्रीरघुनाथजीका विलाप, रावणद्वारा गृध्रराज जटायुका वध, श्रीराम और लक्ष्मणकी कबन्धसे भेंट, उनके द्वारा पम्पासरोवरका अवलोकन,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राघवस्य",
+            "hindi": "राघव (राम) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "विलापम्",
+            "hindi": "विलाप को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "गृध्रराजनिबर्हणम्",
+            "hindi": "गृध्रराज (जटायु) के वध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कबन्धदर्शनम्",
+            "hindi": "कबन्ध का दर्शन / भेंट (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "पम्पायाः",
+            "hindi": "पम्पा सरोवर का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन / अवलोकन को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.29",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_21",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,266 @@
+{
+  "id": "baala-003-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 1
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-1"
+    ],
+    "vulgate_in_locators": [
+      "1.3.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.1"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003001a",
+        "1003001c"
+      ],
+      "lines": [
+        "श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम्",
+        "व्यक्तमन्वेषते भूयो यद्वृत्तं तस्य धीमतः"
+      ],
+      "punctuated_derived": "श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम् ।\nव्यक्तमन्वेषते भूयो यद्वृत्तं तस्य धीमतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम्",
+        "व्यक्तमन्वेषते भूयो यद् वृत्तं तस्य धीमतः"
+      ],
+      "locators": [
+        "1-3-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "श्रुत्वा वस्तु समग्रं तद्धर्मार्थसहितं हितम्",
+        "व्यक्तमन्वेषते भूयो यद् वृत्तं तस्य धीमतः"
+      ],
+      "locators": [
+        "1.3.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "श्रुत्वा वस्तु समग्रं तद्धर्मार्थसहितं हितम्‌",
+        "व्यक्तमन्वेषते भूयो यद्‌ वृत्तं तस्य धीमतः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.3.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम्",
+      "net": "श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम्",
+      "in": "श्रुत्वा वस्तु समग्रं तद्धर्मार्थसहितं हितम्",
+      "gp": "श्रुत्वा वस्तु समग्रं तद्धर्मार्थसहितं हितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.875,
+        "sim_gp_net": 0.875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तद्धर्मात्मा धर्मसंहितम्",
+            "b": "तद्धर्मार्थसहितं हितम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तद्धर्मात्मा धर्मसंहितम्",
+            "b": "तद्धर्मार्थसहितं हितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "व्यक्तमन्वेषते भूयो यद्वृत्तं तस्य धीमतः",
+      "net": "व्यक्तमन्वेषते भूयो यद् वृत्तं तस्य धीमतः",
+      "in": "व्यक्तमन्वेषते भूयो यद् वृत्तं तस्य धीमतः",
+      "gp": "व्यक्तमन्वेषते भूयो यद्‌ वृत्तं तस्य धीमतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यद्वृत्तं",
+            "b": "यद् वृत्तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यद्",
+            "b": "यद्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-1",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On hearing the essence of Ramayana from Sage Narada, which is abound with probity and prosperity, and a propitious one too, that virtue-souled Valmiki started searching for further known details in the legend of that dexterous Rama. [1-3-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-1",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dharmaatmaa",
+            "devanagari_machine_converted": "धर्मात्मा",
+            "english": "virtue-souled one, Valmiki"
+          },
+          {
+            "roman_itrans": "dharmasamhitam",
+            "devanagari_machine_converted": "धर्मसम्हितम्",
+            "english": "probity abounding in"
+          },
+          {
+            "roman_itrans": "tat",
+            "devanagari_machine_converted": "तत्",
+            "english": "that; vastu samagram = essence of the epic, in its entirety; shrutvaa = on hearing"
+          },
+          {
+            "roman_itrans": "tasya dhiimataH vR^ittam",
+            "devanagari_machine_converted": "तस्य धीमतः वृत्तम्",
+            "english": "of that, dexterous [Rama's,] that which has happened"
+          },
+          {
+            "roman_itrans": "yat",
+            "devanagari_machine_converted": "यत्",
+            "english": "that which is there"
+          },
+          {
+            "roman_itrans": "[tat",
+            "devanagari_machine_converted": "[तत्",
+            "english": "that]"
+          },
+          {
+            "roman_itrans": "vyaktam bhuuyaH anveSate",
+            "devanagari_machine_converted": "व्यक्तम् भूयः अन्वेषते",
+            "english": "that which is known [in detail,] further, searched for."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "नारदजी के मुखसे धर्म, अर्थ एवं कामरूपी फल से युक्त, हितकर (मोक्षदायक) तथा प्रकट और गुप्तसम्पूर्ण रामचरित्रको, जो रामायण महाकाव्यकी प्रधान कथावस्तु था, सुनकर महर्षि वाल्मीकिजी बुद्धिमान् श्रीरामके उस जीवनवृत्त का पुनः भलीभाँति साक्षात्कार करनेके लिये प्रयत्न करने लगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय, पूर्वकालिक क्रिया)"
+          },
+          {
+            "sanskrit": "वस्तु",
+            "hindi": "वस्तु / विषय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समग्रम्",
+            "hindi": "सम्पूर्ण (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मार्थसहितम्",
+            "hindi": "धर्म और अर्थ से युक्त (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हितम्",
+            "hindi": "हितकर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्यक्तम्",
+            "hindi": "प्रकट रूप से / भलीभाँति (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "अन्वेषते",
+            "hindi": "खोज करने लगे / अनुसन्धान करते हैं (अनु + इष्, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भूयः",
+            "hindi": "फिर से (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वृत्तम्",
+            "hindi": "वृत्तान्त / जीवनवृत्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धीमतः",
+            "hindi": "बुद्धिमान् (राम) के (षष्ठी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.1",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "जारद्जीके मुखसे धर्म, अर्थ एवं कामरूपी फलसे युक्त, हितकर (मोक्षदायक) तथा प्रकट और गुप्त सम्पूर्ण रामचरित्रको, जो रामायण महाकाव्यकी प्रधान कथावस्तु था, सुनकर महर्षि वाल्मीकिजी बुद्धिमान्‌ श्रीरामके उस जीवनवृत्तका पुनः भलीभाँति साक्षात्कार करनेके लिये प्रयत्न करने लगे॥ १॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,300 @@
+{
+  "id": "baala-004-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 15
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-16"
+    ],
+    "vulgate_in_locators": [
+      "1.4.16",
+      "1.4.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.16",
+      "1.4.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004015a",
+        "1004015c"
+      ],
+      "lines": [
+        "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+        "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ"
+      ],
+      "punctuated_derived": "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः ।\nप्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+        "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ"
+      ],
+      "locators": [
+        "1-4-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+        "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ"
+      ],
+      "locators": [
+        "1.4.16",
+        "1.4.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+        "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.16",
+        "1.4.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+      "net": "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+      "in": "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+      "gp": "ते प्रीतमनसः सर्वे मुनयो धर्मवत्सलाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ",
+      "net": "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ",
+      "in": "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ",
+      "gp": "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशीलवौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "All those saints being the saint-patrons of virtue are pleased at heart, and praised the praiseworthy Kusha and Lava, while they are singing. [1-4-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "sarve munayaH",
+            "devanagari_machine_converted": "सर्वे मुनयः",
+            "english": "they, all the saints"
+          },
+          {
+            "roman_itrans": "dharmavatsalaaH",
+            "devanagari_machine_converted": "धर्मवत्सलाः",
+            "english": "[saints] patrons of virtue"
+          },
+          {
+            "roman_itrans": "te priitamanasaH",
+            "devanagari_machine_converted": "ते प्रीतमनसः",
+            "english": "they pleased at heart"
+          },
+          {
+            "roman_itrans": "prashastavyau",
+            "devanagari_machine_converted": "प्रशस्तव्यौ",
+            "english": "praise worthy ones"
+          },
+          {
+            "roman_itrans": "gaayamaanau kushiilavau",
+            "devanagari_machine_converted": "गायमानौ कुशीलवौ",
+            "english": "while singing, Kusha and Lava"
+          },
+          {
+            "roman_itrans": "prashashamsuH",
+            "devanagari_machine_converted": "प्रशशम्सुः",
+            "english": "praised."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.16",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे अत्यन्त विस्मय-विमुग्ध होकर उन्हें साधुवाद देने लगे। मुनि धर्मवत्सल तो होते ही हैं; वह धार्मिक उपाख्यान सुनकर उन सबके मनमें बड़ी प्रसन्नता हुई।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे रामायण-कथाके गायक कुमार कुश और लवकी, जो प्रशंसा के ही योग्य थे, इस प्रकार प्रशंसा करने लगे—’अहो! इन बालकों के गीत में कितना माधुर्य है। श्लोकों की मधुरता तो और भी अद्भुत है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.16",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "साधु साधु",
+            "hindi": "साधुवाद"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "ऊचुः",
+            "hindi": "कहा"
+          },
+          {
+            "sanskrit": "परम्",
+            "hindi": "अत्यन्त"
+          },
+          {
+            "sanskrit": "विस्मयम्",
+            "hindi": "विस्मय"
+          },
+          {
+            "sanskrit": "आगताः",
+            "hindi": "प्राप्त हुए"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे"
+          },
+          {
+            "sanskrit": "प्रीतमनसः",
+            "hindi": "प्रसन्न मन वाले"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी"
+          },
+          {
+            "sanskrit": "मुनयः",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "धर्मवत्सलाः",
+            "hindi": "धर्म के प्रति स्नेह रखने वाले"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रशशंसुः",
+            "hindi": "प्रशंसा करने लगे"
+          },
+          {
+            "sanskrit": "प्रशस्तव्यौ",
+            "hindi": "प्रशंसा के योग्य"
+          },
+          {
+            "sanskrit": "गायमानौ",
+            "hindi": "गान करते हुए"
+          },
+          {
+            "sanskrit": "कुशीलवौ",
+            "hindi": "कुश और लव की"
+          },
+          {
+            "sanskrit": "अहो",
+            "hindi": "अहो"
+          },
+          {
+            "sanskrit": "गीतस्य",
+            "hindi": "गीत की"
+          },
+          {
+            "sanskrit": "माधुर्यम्",
+            "hindi": "मधुरता"
+          },
+          {
+            "sanskrit": "श्लोकानाम्",
+            "hindi": "श्लोकों की"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "विशेषतः",
+            "hindi": "विशेषकर"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "एक दिनकी बात है, बहुत-से शुद्ध अन्तःकरणवाले महर्षियोंको मण्डली एकत्र हुई थी। उसमें सौभाग्यशाली तथा समस्त शुभ लक्षणोंसे सुशोभित महामनस्वी कुश और लव भी उपस्थित थे। उन्होंने बीच सभामें उन महात्माओंके समीप बैठकर उस रामायणकाव्यका गान किया। उसे सुनकर सभी मुनियोंके ेत्रॉमें आँसू भर आये और वे अत्यन्त विस्मय-विमुग्ध होकर उन्हें साधुवाद देने लगे। मुनि धर्मवत्सल तो होते ही हैं; वह धार्मिक उपाख्यान सुनकर उन सबके मनमें बड़ी प्रसन्नता हुई॥ १४--१६॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "वे रामायण-कथाके गायक कुमार कुश और 'लवकी, जो प्रशंसाके ही योग्य थे, इस प्रकार प्रशंसा करने लगे-*अहो! इन बालकोंके गीतमें कितना माधुर्य है। श्लोकोंकी मधुरता तो और भी अद्भुत है॥ १७॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

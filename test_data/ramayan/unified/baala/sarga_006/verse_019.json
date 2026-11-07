@@ -1,0 +1,215 @@
+{
+  "id": "baala-006-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 16
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-17"
+    ],
+    "vulgate_in_locators": [
+      "1.6.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006016a"
+      ],
+      "lines": [
+        "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः"
+      ],
+      "locators": [
+        "1-6-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः"
+      ],
+      "locators": [
+        "1.6.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः",
+      "net": "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः",
+      "in": "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः",
+      "gp": "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजकाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-17",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In the four-caste system, from the first caste to the last, everyone is a worshipper of deities and guests and everyone is also faithful, illustrious, valiant, and each one is a brave one. [1-6-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-17",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "varNeSu",
+            "devanagari_machine_converted": "वर्णेषु",
+            "english": "in four caste-system"
+          },
+          {
+            "roman_itrans": "agryachaturtheSu",
+            "devanagari_machine_converted": "अग्र्यचतुर्थेषु",
+            "english": "first one among four"
+          },
+          {
+            "roman_itrans": "devataatithipuujakaaH",
+            "devanagari_machine_converted": "देवतातिथिपूजकाः",
+            "english": "worshippers of deities and guests"
+          },
+          {
+            "roman_itrans": "kR^itajnaaH cha",
+            "devanagari_machine_converted": "कृतज्नाः च",
+            "english": "faithful ones, also"
+          },
+          {
+            "roman_itrans": "vadaanyaaH cha",
+            "devanagari_machine_converted": "वदान्याः च",
+            "english": "illustrious, also"
+          },
+          {
+            "roman_itrans": "shuuraaH",
+            "devanagari_machine_converted": "शूराः",
+            "english": "valiant ones"
+          },
+          {
+            "roman_itrans": "vikramasamyutaaH",
+            "devanagari_machine_converted": "विक्रमसम्युताः",
+            "english": "having with bravery."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-17",
+        "spans_beyond_this_verse": true,
+        "text": "Though the word 'caste - Spanish and Portuguese casta - lineage, race, breed' is distasteful, it is used here for an easy communication. Latin classis - assembly' or section of society would be more suitable."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ब्राह्मण आदि चारों वर्गों के लोग देवता और अतिथियोंके पूजक, कृतज्ञ, उदार, शूरवीर और पराक्रमी थे॥ १७॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वर्णेषु",
+            "hindi": "वर्णों में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अग्र्यचतुर्थेषु",
+            "hindi": "जिनमें चौथा अग्रणी हो / चारों वर्ण में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "देवतातिथिपूजकाः",
+            "hindi": "देवता और अतिथियों का पूजन करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "कृतज्ञाः",
+            "hindi": "कृतज्ञ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "वदान्याः",
+            "hindi": "उदार / दानी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "शूराः",
+            "hindi": "शूरवीर (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विक्रमसंयुताः",
+            "hindi": "पराक्रम से युक्त (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "ब्राह्मण आदि चारों वर्णके लोग देवता और अतिथियोंके पूजक, कृतज्ञ, उदार, शूरवीर और पराक्रमी थे॥ १७॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

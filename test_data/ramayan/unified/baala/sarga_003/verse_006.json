@@ -1,0 +1,266 @@
+{
+  "id": "baala-003-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 5
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-12"
+    ],
+    "vulgate_in_locators": [
+      "1.3.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.12"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003005a",
+        "1003005c"
+      ],
+      "lines": [
+        "रामरामविवादं च गुणान्दाशरथेस्तथा",
+        "तथाभिषेकं रामस्य कैकेय्या दुष्टभावताम्"
+      ],
+      "punctuated_derived": "रामरामविवादं च गुणान्दाशरथेस्तथा ।\nतथाभिषेकं रामस्य कैकेय्या दुष्टभावताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रामरामविवादं च गुणान्दाशरथेस्तथा",
+        "तदाभिषेकं रामस्य कैकेय्या दुष्टभावताम्"
+      ],
+      "locators": [
+        "1-3-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रामरामविवादं च गुणान् दाशरथेस्तथा",
+        "तथाभिषेकं रामस्य कैकेय्या दुष्टभावताम्"
+      ],
+      "locators": [
+        "1.3.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रामरामविवादं च गुणान्‌ दाशरथेस्तथा",
+        "तथाभिषेकं रामस्य कैकेय्या दुष्टभावताम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "रामरामविवादं च गुणान्दाशरथेस्तथा",
+      "net": "रामरामविवादं च गुणान्दाशरथेस्तथा",
+      "in": "रामरामविवादं च गुणान् दाशरथेस्तथा",
+      "gp": "रामरामविवादं च गुणान्‌ दाशरथेस्तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गुणान्दाशरथेस्तथा",
+            "b": "गुणान् दाशरथेस्तथा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गुणान्दाशरथेस्तथा",
+            "b": "गुणान्‌ दाशरथेस्तथा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "तथाभिषेकं रामस्य कैकेय्या दुष्टभावताम्",
+      "net": "तदाभिषेकं रामस्य कैकेय्या दुष्टभावताम्",
+      "in": "तथाभिषेकं रामस्य कैकेय्या दुष्टभावताम्",
+      "gp": "तथाभिषेकं रामस्य कैकेय्या दुष्टभावताम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9705882352941176,
+        "sim_in_net": 0.9705882352941176,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तथाभिषेकं",
+            "b": "तदाभिषेकं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "तदाभिषेकं",
+            "b": "तथाभिषेकं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तदाभिषेकं",
+            "b": "तथाभिषेकं"
+          },
+          {
+            "a": "दुष्टभावताम्",
+            "b": "दुष्टभावताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-12",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Dispute of Rama and Parashurama; the merits of Rama, the son of Dasharatha; and the preparations for anointing of Rama as crown prince; Queen Kaikeyi's vicious intentions... [1-3-12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-12",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaraamavivaadam ca",
+            "devanagari_machine_converted": "रामरामविवादम् च",
+            "english": "dispute of Raama and Parashurama, also"
+          },
+          {
+            "roman_itrans": "guNaan",
+            "devanagari_machine_converted": "गुणान्",
+            "english": "merits of"
+          },
+          {
+            "roman_itrans": "daasharatheH",
+            "devanagari_machine_converted": "दाशरथेः",
+            "english": "Dasharatha's son [Rama's]"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "that way"
+          },
+          {
+            "roman_itrans": "tadaa abhiShekam raamasya",
+            "devanagari_machine_converted": "तदा अभिषेकम् रामस्य",
+            "english": "then likewise, [preparations for ] anointing, of Rama"
+          },
+          {
+            "roman_itrans": "kaikeyyaaH duSTabhaavataam",
+            "devanagari_machine_converted": "कैकेय्याः दुष्टभावताम्",
+            "english": "Kaikeyi's, vicious intentions."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-12",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: Rama is shriiraama one who delights in shrii , where shrii is Goddess Lakshmi. Where as Parashurama delights in his axe parashu axe; and Balarama, the brother of Krishna delights in his own bala might."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीराम-परशुराम-संवाद, दशरथनन्दन श्रीरामके गुण, उनके अभिषेक, कैकेयीकी दुष्टता,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रामरामविवादम्",
+            "hindi": "राम (श्रीराम) और राम (परशुराम) के संवाद / विवाद को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "गुणान्",
+            "hindi": "गुणों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दाशरथेः",
+            "hindi": "दशरथ के पुत्र (राम) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "अभिषेकम्",
+            "hindi": "अभिषेक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कैकेय्याः",
+            "hindi": "कैकेयी की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "दुष्टभावताम्",
+            "hindi": "दुष्टता / कुटिलता को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.12",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

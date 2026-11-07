@@ -1,0 +1,245 @@
+{
+  "id": "baala-001-074",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 74,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 54
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-68"
+    ],
+    "vulgate_in_locators": [
+      "1.1.68"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.68"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001054a",
+        "1001054c"
+      ],
+      "lines": [
+        "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः",
+        "तेन नादेन महता निर्जगाम हरीश्वरः"
+      ],
+      "punctuated_derived": "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः ।\nतेन नादेन महता निर्जगाम हरीश्वरः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः",
+        "तेन नादेन महता निर्जगाम हरीश्वरः"
+      ],
+      "locators": [
+        "1-1-68"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिंगलः",
+        "तेन नादेन महता निर्जगाम हरीश्वरः"
+      ],
+      "locators": [
+        "1.1.68"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिंगलः",
+        "तेन नादेन महता निर्जगाम हरीश्वरः"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.68"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः",
+      "net": "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः",
+      "in": "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिंगलः",
+      "gp": "ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिंगलः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "हेमपिङ्गलः",
+            "b": "हेमपिंगलः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "हेमपिङ्गलः",
+            "b": "हेमपिंगलः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "तेन नादेन महता निर्जगाम हरीश्वरः",
+      "net": "तेन नादेन महता निर्जगाम हरीश्वरः",
+      "in": "तेन नादेन महता निर्जगाम हरीश्वरः",
+      "gp": "तेन नादेन महता निर्जगाम हरीश्वरः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-68",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then that best monkey Sugreeva, with a golden hue, made a roaring sound. By that loud sound, the king of monkeys, Vali, emerged out... [1-1-68]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-68",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "harivaraH sugriivaH",
+            "devanagari_machine_converted": "हरिवरः सुग्रीवः",
+            "english": "[that] best among monkeys Sugreeva"
+          },
+          {
+            "roman_itrans": "hemapiN^galaH",
+            "devanagari_machine_converted": "हेमपिङ्गलः",
+            "english": "with a golden hue"
+          },
+          {
+            "roman_itrans": "agarjat",
+            "devanagari_machine_converted": "अगर्जत्",
+            "english": "roared"
+          },
+          {
+            "roman_itrans": "tena mahataa naadena",
+            "devanagari_machine_converted": "तेन महता नादेन",
+            "english": "By that loud sound"
+          },
+          {
+            "roman_itrans": "hariishwaraH",
+            "devanagari_machine_converted": "हरीश्वरः",
+            "english": "king of monkeys[Vali]"
+          },
+          {
+            "roman_itrans": "nirjagaama",
+            "devanagari_machine_converted": "निर्जगाम",
+            "english": "emerged out."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.68",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वहाँपर सुवर्णके समान पिंगलवर्णवाले वीरवर सुग्रीवने गर्जना की, उस महानादको सुनकर वानरराज वाली बाहर निकला"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.68",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "अगर्जत्",
+            "hindi": "गर्जना की (गर्ज् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "हरिवरः",
+            "hindi": "वानरश्रेष्ठ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवः",
+            "hindi": "सुग्रीव ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हेमपिङ्गलः",
+            "hindi": "स्वर्ण के समान पिंगल वर्ण वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नादेन",
+            "hindi": "नाद से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महता",
+            "hindi": "महान् से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "निर्जगाम",
+            "hindi": "बाहर निकला (निर् + गम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "हरीश्वरः",
+            "hindi": "वानरों का स्वामी (वाली) (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.68",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“बहाँपर सुवर्णके समान पिंगलवर्णवाले वीरवर सुग्रीवने गर्जना की, उस महानादको सुनकर वानरराज वाली अपनी पत्नी ताराको आश्वासन देकर तत्काल खरसे बाहर निकला और सुग्रीवसे भिड़ गया। वहाँ रामने वालीको एक ही बाणसे मार गिराया॥ ६८-६९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

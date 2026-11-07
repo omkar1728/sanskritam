@@ -1,0 +1,251 @@
+{
+  "id": "baala-004-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 11
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-12"
+    ],
+    "vulgate_in_locators": [
+      "1.4.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.12"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004011a",
+        "1004011c"
+      ],
+      "lines": [
+        "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम्",
+        "वाचो विधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ"
+      ],
+      "punctuated_derived": "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम् ।\nवाचो विधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम्",
+        "वाचो विधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ"
+      ],
+      "locators": [
+        "1-4-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तौ राजपुत्रौ कात्स्न्येन धर्म्यमाख्यानमुत्तमम्",
+        "वाचोविधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ"
+      ],
+      "locators": [
+        "1.4.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम्‌",
+        "वाचोविधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.4.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम्",
+      "net": "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम्",
+      "in": "तौ राजपुत्रौ कात्स्न्येन धर्म्यमाख्यानमुत्तमम्",
+      "gp": "तौ राजपुत्रौ कार्त्स्न्येन धर्म्यमाख्यानमुत्तमम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.975609756097561,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कार्त्स्न्येन",
+            "b": "कात्स्न्येन"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "धर्म्यमाख्यानमुत्तमम्",
+            "b": "धर्म्यमाख्यानमुत्तमम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "वाचो विधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ",
+      "net": "वाचो विधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ",
+      "in": "वाचोविधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ",
+      "gp": "वाचोविधेयं तत्सर्वं कृत्वा काव्यमनिन्दितौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "वाचो विधेयं",
+            "b": "वाचोविधेयं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वाचो विधेयं",
+            "b": "वाचोविधेयं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-12",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They the princes have memorized that virtue-expounding epic, the best; in its entirety and in doing so, they rendered that epic faultlessly. [1-4-12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-12",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tau raajaputrau kaartsnyena",
+            "devanagari_machine_converted": "तौ राजपुत्रौ कार्त्स्न्येन",
+            "english": "they, king's, sons [princes,] in entirety"
+          },
+          {
+            "roman_itrans": "dharmyam aakhyanam uttamam",
+            "devanagari_machine_converted": "धर्म्यम् आख्यनम् उत्तमम्",
+            "english": "virtue expounding, best epic"
+          },
+          {
+            "roman_itrans": "vaachaH vidheyam tat sarvam",
+            "devanagari_machine_converted": "वाचः विधेयम् तत् सर्वम्",
+            "english": "by voice, preserved [memorized,] all that"
+          },
+          {
+            "roman_itrans": "kR^itvaa kaavyam aninditau",
+            "devanagari_machine_converted": "कृत्वा काव्यम् अनिन्दितौ",
+            "english": "doing so epic without fault."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे दोनों राजपुत्र सब लोगोंकी प्रशंसाके पात्र थे, उन्होंने उस धर्मानुकूल उत्तम उपाख्यानमय सम्पूर्ण काव्यको जिह्वाग्र कर लिया था और-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "राजपुत्रौ",
+            "hindi": "राजकुमार"
+          },
+          {
+            "sanskrit": "कात्स्न्येन",
+            "hindi": "सम्पूर्णता से"
+          },
+          {
+            "sanskrit": "धर्म्यम्",
+            "hindi": "धर्मानुकूल"
+          },
+          {
+            "sanskrit": "आख्यानम्",
+            "hindi": "आख्यान / कथा"
+          },
+          {
+            "sanskrit": "उत्तमम्",
+            "hindi": "उत्तम"
+          },
+          {
+            "sanskrit": "वाचोविधेयम्",
+            "hindi": "वाणी के वश / कंठस्थ"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सम्पूर्ण"
+          },
+          {
+            "sanskrit": "कृत्वा",
+            "hindi": "करके"
+          },
+          {
+            "sanskrit": "काव्यम्",
+            "hindi": "काव्य को"
+          },
+          {
+            "sanskrit": "अनिन्दितौ",
+            "hindi": "अनिन्दित / प्रशंसा के पात्र"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.12",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "वे दोनों राजपुत्र सब लोगोंकी प्रशंसाके पात्र थे, उन्होंने उस धर्मानुकूल उत्तम उपाख्यानमय सम्पूर्ण काव्यको जिह्वाग्र कर लिया था और जब कभी ऋषियों, ब्राह्मणों तथा साधुआंका समागम होता था, उस समय उनके बीचमें बैठकर वे दोनों तत्त्वज्ञ बालक एकाग्रचित्त हो रामायणका गान किया करते थे॥ १२-१३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

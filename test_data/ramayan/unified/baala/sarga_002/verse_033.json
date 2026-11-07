@@ -1,0 +1,272 @@
+{
+  "id": "baala-002-033",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 33,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 31
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-32"
+    ],
+    "vulgate_in_locators": [
+      "1.2.32"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.32"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002031a",
+        "1002031c"
+      ],
+      "lines": [
+        "धर्मात्मनो गुणवतो लोके रामस्य धीमतः",
+        "वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम्"
+      ],
+      "punctuated_derived": "धर्मात्मनो गुणवतो लोके रामस्य धीमतः ।\nवृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "धर्मात्मनो गुणवतो लोके रामस्य धीमतः",
+        "वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम्"
+      ],
+      "locators": [
+        "1-2-32"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "धर्मात्मनो भगवतो लोके रामस्य धीमतः",
+        "वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम्"
+      ],
+      "locators": [
+        "1.2.32"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "धर्मात्मनो भगवतो लोके रामस्य धीमतः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_326_differs_from_sanskrit_32"
+      ],
+      "refs": [
+        "1.2.32"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "धर्मात्मनो गुणवतो लोके रामस्य धीमतः",
+      "net": "धर्मात्मनो गुणवतो लोके रामस्य धीमतः",
+      "in": "धर्मात्मनो भगवतो लोके रामस्य धीमतः",
+      "gp": "धर्मात्मनो भगवतो लोके रामस्य धीमतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9508196721311475,
+        "sim_gp_net": 0.9508196721311475
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गुणवतो",
+            "b": "भगवतो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गुणवतो",
+            "b": "भगवतो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम्",
+      "net": "वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम्",
+      "in": "वृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-32",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"You shall narrate the legend of Rama, the virtuous, intellectual and an intrepid one, and a godlike person in this world as well, as you have heard it from sage Narada. [1-2-32]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-32",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "32b-33a. dharmaatmanaH",
+            "devanagari_machine_converted": "३२ब्-३३अ। धर्मात्मनः",
+            "english": "virtue-souled one"
+          },
+          {
+            "roman_itrans": "loke bhagavataH",
+            "devanagari_machine_converted": "लोके भगवतः",
+            "english": "in world, godlike; dhiimataH = an intellectual"
+          },
+          {
+            "roman_itrans": "dhiirasya",
+            "devanagari_machine_converted": "धीरस्य",
+            "english": "intrepid one"
+          },
+          {
+            "roman_itrans": "raamasya vR^ittam",
+            "devanagari_machine_converted": "रामस्य वृत्तम्",
+            "english": "Rama's, legend"
+          },
+          {
+            "roman_itrans": "tè yathaa shrutam naaradaat",
+            "devanagari_machine_converted": "तॆ यथा श्रुतम् नारदात्",
+            "english": "(by you) as heard, from Narada"
+          },
+          {
+            "roman_itrans": "kathaya",
+            "devanagari_machine_converted": "कथय",
+            "english": "narrate."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.32",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘मुनिश्रेष्ठ! तुम श्रीरामके सम्पूर्ण चरित्रका वर्णन करो। परम बुद्धिमान् भगवान् श्रीराम संसारमें सबसे बड़े धर्मात्मा और धीर पुरुष हैं। तुमने नारदजीके मुँहसे जैसा सुना है, उसीके अनुसार उनके चरित्रका चित्रण करो।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.32",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "चरितम्",
+            "hindi": "चरित्र (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कृत्स्नम्",
+            "hindi": "सम्पूर्ण (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कुरु",
+            "hindi": "करो (कृ धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "तुम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषिसत्तम",
+            "hindi": "हे मुनिश्रेष्ठ! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मात्मनः",
+            "hindi": "धर्मात्मा का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भगवतः",
+            "hindi": "भगवान् का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "लोके",
+            "hindi": "संसार में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धीमतः",
+            "hindi": "बुद्धिमान् का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वृत्तम्",
+            "hindi": "वृत्तान्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कथय",
+            "hindi": "कहो / वर्णन करो (कथ् धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "धीरस्य",
+            "hindi": "धीर पुरुष का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसा (अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "तुमने (षष्ठी विभक्ति, कर्तृवाच्य भूतकाल में कर्ता)"
+          },
+          {
+            "sanskrit": "नारदात्",
+            "hindi": "नारद से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतम्",
+            "hindi": "सुना है (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.32",
+        "ocr_flags": [
+          "hindi_marker_326_differs_from_sanskrit_32"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "वृत्तं कथय धीरस्य यथा ते नारदाच्छुतम्‌। “मुनिश्रेष्ठ! तुम श्रीरामके सम्पूर्ण चरित्रका वर्णन करो। परम बुद्धिमान्‌ भगवान्‌ श्रीराम संसारमें सबसे बड़े धर्मात्मा और धीर पुरुष हैं। तुमने नारदजीके मुंहसे जैसा सुना है, उसीके अनुसार उनके चरित्रका चित्रण करो॥ ३२६ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

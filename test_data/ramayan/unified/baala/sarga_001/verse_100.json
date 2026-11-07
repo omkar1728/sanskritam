@@ -1,0 +1,344 @@
+{
+  "id": "baala-001-100",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 100,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 73
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-92"
+    ],
+    "vulgate_in_locators": [
+      "1.1.92"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.92"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001073a",
+        "1001073c"
+      ],
+      "lines": [
+        "न वातजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः",
+        "न चाग्रिजं भयं किंचिद्यथा कृतयुगे तथा"
+      ],
+      "punctuated_derived": "न वातजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः ।\nन चाग्रिजं भयं किंचिद्यथा कृतयुगे तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः",
+        "न वातजं भयं किञ्चिन्नापि ज्वरकृतं तथा"
+      ],
+      "locators": [
+        "1-1-92"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न चाग्निजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः",
+        "न वातजं भयं किंचिन्नापि ज्वरकृतं तथा"
+      ],
+      "locators": [
+        "1.1.92"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न चारिनिजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः",
+        "न वातजं भयं किंचिन्नापि ज्वरकृतं तथा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.92"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न वातजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः",
+      "net": "न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः",
+      "in": "न चाग्निजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः",
+      "gp": "न चारिनिजं भयं किंचिन्नाप्सु मज्जन्ति जन्तवः",
+      "similarity": {
+        "sim_smith_net": 0.8985507246376812,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9444444444444444
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वातजं",
+            "b": "चाग्निजं"
+          },
+          {
+            "a": "किंचिन्नाप्सु",
+            "b": "किञ्चिन्नाप्सु"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "किञ्चिन्नाप्सु",
+            "b": "किंचिन्नाप्सु"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चाग्निजं",
+            "b": "चारिनिजं"
+          },
+          {
+            "a": "किञ्चिन्नाप्सु",
+            "b": "किंचिन्नाप्सु"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "न चाग्रिजं भयं किंचिद्यथा कृतयुगे तथा",
+      "net": "न वातजं भयं किञ्चिन्नापि ज्वरकृतं तथा",
+      "in": "न वातजं भयं किंचिन्नापि ज्वरकृतं तथा",
+      "gp": "न वातजं भयं किंचिन्नापि ज्वरकृतं तथा",
+      "similarity": {
+        "sim_smith_net": 0.6129032258064516,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "चाग्रिजं",
+            "b": "वातजं"
+          },
+          {
+            "a": "किंचिद्यथा कृतयुगे",
+            "b": "किञ्चिन्नापि ज्वरकृतं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "किञ्चिन्नापि",
+            "b": "किंचिन्नापि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "किञ्चिन्नापि",
+            "b": "किंचिन्नापि"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-92",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"In the kingdom of Rama, there will be no fear for his subjects from wildfires, gale-storms or from diseases, and there will be no fear from hunger or thieves, nor the cattle will be drowned in floodwaters as well... [1-1-92, 93a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-92",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "92, 93a. tatra",
+            "devanagari_machine_converted": "९२, ९३अ। तत्र",
+            "english": "there - in his kingdom"
+          },
+          {
+            "roman_itrans": "agnijam bhayam",
+            "devanagari_machine_converted": "अग्निजम् भयम्",
+            "english": "fear caused by fire"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "will not be there"
+          },
+          {
+            "roman_itrans": "kimchit",
+            "devanagari_machine_converted": "किम्चित्",
+            "english": "in the least"
+          },
+          {
+            "roman_itrans": "jantavaH apsu na majjanti",
+            "devanagari_machine_converted": "जन्तवः अप्सु न मज्जन्ति",
+            "english": "cattle will not drown in water"
+          },
+          {
+            "roman_itrans": "na vaatajam bhayam",
+            "devanagari_machine_converted": "न वातजम् भयम्",
+            "english": "no fear caused by wind"
+          },
+          {
+            "roman_itrans": "kiMchit",
+            "devanagari_machine_converted": "किंचित्",
+            "english": "in the least"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "likewise"
+          },
+          {
+            "roman_itrans": "jvarakR^itam api",
+            "devanagari_machine_converted": "ज्वरकृतम् अपि",
+            "english": "even [fear] caused by fever"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "will not be there"
+          },
+          {
+            "roman_itrans": "na kShudbhayam api",
+            "devanagari_machine_converted": "न क्षुद्भयम् अपि",
+            "english": "not even fear caused by hunger"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "likewise"
+          },
+          {
+            "roman_itrans": "taskarabhayam",
+            "devanagari_machine_converted": "तस्करभयम्",
+            "english": "fear from thieves"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "will not be there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.92",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'आग लगनेका किंचित् भी भय न होगा, कोई प्राणी जलमें नहीं डूबेंगे, वात और ज्वरका भय थोड़ा भी नहीं रहेगा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.92",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अग्निजम्",
+            "hindi": "अग्नि से उत्पन्न (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भयम्",
+            "hindi": "भय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "किञ्चित्",
+            "hindi": "कुछ भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अप्सु",
+            "hindi": "जल में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "मज्जन्ति",
+            "hindi": "डूबते हैं (मस्ज् धातु, लट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "जन्तवः",
+            "hindi": "प्राणी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "वातजम्",
+            "hindi": "वात से उत्पन्न (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भयम्",
+            "hindi": "भय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "किञ्चित्",
+            "hindi": "कुछ भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "ज्वरकृतम्",
+            "hindi": "ज्वर से किया हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.92",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“आग लगनेका किंचित्‌ भी भय न होगा, कोई प्राणी जलमें नहीं डूबेंगे, वात और ज्वरका भय थोड़ा भी नहीं रहेगा॥ ९२॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

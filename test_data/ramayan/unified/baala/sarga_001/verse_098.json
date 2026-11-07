@@ -1,0 +1,255 @@
+{
+  "id": "baala-001-098",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 98,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 71
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-90"
+    ],
+    "vulgate_in_locators": [
+      "1.1.90"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.90"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001071a",
+        "1001071c"
+      ],
+      "lines": [
+        "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+        "निरायमो अरोगश्च दुर्भिक्षभयवर्जितः"
+      ],
+      "punctuated_derived": "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः ।\nनिरायमो अरोगश्च दुर्भिक्षभयवर्जितः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+        "निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः"
+      ],
+      "locators": [
+        "1-1-90"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+        "निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः"
+      ],
+      "locators": [
+        "1.1.90"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+        "निरामयो हारोगएच दुर्भिक्षभयवर्जितः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.90"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+      "net": "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+      "in": "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+      "gp": "प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "निरायमो अरोगश्च दुर्भिक्षभयवर्जितः",
+      "net": "निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः",
+      "in": "निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः",
+      "gp": "निरामयो हारोगएच दुर्भिक्षभयवर्जितः",
+      "similarity": {
+        "sim_smith_net": 0.9090909090909091,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9090909090909091
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "निरायमो अरोगश्च",
+            "b": "निरामयो ह्यरोगश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ह्यरोगश्च",
+            "b": "हारोगएच"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-90",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"When Rama is ruling the world will be highly rejoiced and happy, satisfied and abundant, also very righteous, wholesome, disease-free, and free from fear of famine...\" Thus Narada is foreseeing the future and telling Valmiki. [1-1-90]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-90",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "[tataH",
+            "devanagari_machine_converted": "[ततः",
+            "english": "then, when Rama is enthroned]"
+          },
+          {
+            "roman_itrans": "lokaH",
+            "devanagari_machine_converted": "लोकः",
+            "english": "world will be"
+          },
+          {
+            "roman_itrans": "prahR^iSTamuditaH",
+            "devanagari_machine_converted": "प्रहृष्टमुदितः",
+            "english": "highly rejoiced and happy"
+          },
+          {
+            "roman_itrans": "tuSThaH",
+            "devanagari_machine_converted": "तुष्ठः",
+            "english": "satisfied"
+          },
+          {
+            "roman_itrans": "puSThaH",
+            "devanagari_machine_converted": "पुष्ठः",
+            "english": "abundant"
+          },
+          {
+            "roman_itrans": "sudhaarmikaH",
+            "devanagari_machine_converted": "सुधार्मिकः",
+            "english": "very righteous"
+          },
+          {
+            "roman_itrans": "niraamayaH",
+            "devanagari_machine_converted": "निरामयः",
+            "english": "wholesome"
+          },
+          {
+            "roman_itrans": "arogaH",
+            "devanagari_machine_converted": "अरोगः",
+            "english": "without diseases"
+          },
+          {
+            "roman_itrans": "durbhikhabhayavarjitaH",
+            "devanagari_machine_converted": "दुर्भिखभयवर्जितः",
+            "english": "free from fear of famine."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.90",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'अब रामके राज्यमें लोग प्रसन्न, सुखी, संतुष्ट, पुष्ट, धार्मिक तथा रोग-व्याधिसे मुक्त रहेंगे, उन्हें दुर्भिक्षका भय न होगा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.90",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रहृष्टम्",
+            "hindi": "प्रसन्नतापूर्वक (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "उदितः",
+            "hindi": "उन्नत / सुखी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लोकः",
+            "hindi": "संसार / लोग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तुष्टः",
+            "hindi": "सन्तुष्ट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुष्टः",
+            "hindi": "पुष्ट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुधार्मिकः",
+            "hindi": "अच्छे धर्म वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निरामयः",
+            "hindi": "रोगरहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हि",
+            "hindi": "निश्चय ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अरोगः",
+            "hindi": "रोगरहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "दुर्भिक्षभयवर्जितः",
+            "hindi": "अकाल के भय से रहित (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.90",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“अब रामके राज्यमें लोग प्रसन्न, सुखी, संतुष्ट, पुष्ट, धार्मिक तथा रोग-व्याधिसे मुक्त रहेंगे, उन्हें दुर्भिक्षका भय न होगा॥ ९०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

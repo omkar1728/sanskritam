@@ -1,0 +1,329 @@
+{
+  "id": "baala-006-034",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 34,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 24
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-28"
+    ],
+    "vulgate_in_locators": [
+      "1.6.28"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.28"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006024a",
+        "1006024c"
+      ],
+      "lines": [
+        "तां सत्यनामां दृढतोरणार्गला;म्गृहैर्विचित्रैरुपशोभितां शिवाम्",
+        "पुरीमयोध्यां नृसहस्रसंकुलां; शशास वै शक्रसमो महीपतिः"
+      ],
+      "punctuated_derived": "तां सत्यनामां दृढतोरणार्गला;म्गृहैर्विचित्रैरुपशोभितां शिवाम् ।\nपुरीमयोध्यां नृसहस्रसंकुलां; शशास वै शक्रसमो महीपतिः ॥",
+      "pada_split": [
+        {
+          "line_index": 0,
+          "padas": [
+            "तां सत्यनामां दृढतोरणार्गला",
+            "म्गृहैर्विचित्रैरुपशोभितां शिवाम्"
+          ]
+        },
+        {
+          "line_index": 1,
+          "padas": [
+            "पुरीमयोध्यां नृसहस्रसंकुलां",
+            " शशास वै शक्रसमो महीपतिः"
+          ]
+        }
+      ]
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गृहैर्विचित्रैरुपशोभितां शिवाम्",
+        "पुरीमयोध्यां नृसहस्रसंकुलाम्"
+      ],
+      "locators": [
+        "1-6-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तां सत्यनामां दृढतोरणार्गलां गृहैर्विचित्रैरुपशोभितां शिवाम्",
+        "पुरीमयोध्यां नृसहस्रसंकुलां शशास वै शक्रसमो महीपतिः॥२८"
+      ],
+      "locators": [
+        "1.6.28"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नृसह््रसंकुलां"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed",
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.6.28"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तां सत्यनामां दृढतोरणार्गला;म्गृहैर्विचित्रैरुपशोभितां शिवाम्",
+      "net": "गृहैर्विचित्रैरुपशोभितां शिवाम्",
+      "in": "तां सत्यनामां दृढतोरणार्गलां गृहैर्विचित्रैरुपशोभितां शिवाम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 0.6904761904761905,
+        "sim_in_net": 0.6904761904761905
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तां सत्यनामां दृढतोरणार्गलाम्गृहैर्विचित्रैरुपशोभितां",
+            "b": "गृहैर्विचित्रैरुपशोभितां"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "तां सत्यनामां दृढतोरणार्गलां"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पुरीमयोध्यां नृसहस्रसंकुलां; शशास वै शक्रसमो महीपतिः",
+      "net": "पुरीमयोध्यां नृसहस्रसंकुलाम्",
+      "in": "पुरीमयोध्यां नृसहस्रसंकुलां शशास वै शक्रसमो महीपतिः॥२८",
+      "gp": "नृसह््रसंकुलां",
+      "similarity": {
+        "sim_smith_net": 0.7222222222222222,
+        "sim_in_net": 0.7222222222222222,
+        "sim_gp_net": 0.65
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नृसहस्रसंकुलां शशास वै शक्रसमो महीपतिः",
+            "b": "नृसहस्रसंकुलाम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "नृसहस्रसंकुलाम्",
+            "b": "नृसहस्रसंकुलां शशास वै शक्रसमो महीपतिः॥२८"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पुरीमयोध्यां नृसहस्रसंकुलाम्",
+            "b": "नृसह््रसंकुलां"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-28",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "With gorgeous arches, castle-door-bars and with amazingly built houses that city is magnificent and auspicious one, and full with thousands of provincial kings too, and king Dasharatha, a coequal of Indra, indeed ruled that city which is true to its name. [1-6-28]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-28",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dhR^iDhathoraNaargalaam",
+            "devanagari_machine_converted": "धृढथोरणार्गलाम्",
+            "english": "firm arches, castle-door-bars"
+          },
+          {
+            "roman_itrans": "vichitraiH",
+            "devanagari_machine_converted": "विचित्रैः",
+            "english": "amazing"
+          },
+          {
+            "roman_itrans": "gR^ihaiH",
+            "devanagari_machine_converted": "गृहैः",
+            "english": "with houses"
+          },
+          {
+            "roman_itrans": "shobhitaam",
+            "devanagari_machine_converted": "शोभिताम्",
+            "english": "magnificent"
+          },
+          {
+            "roman_itrans": "shivaam",
+            "devanagari_machine_converted": "शिवाम्",
+            "english": "auspicious one"
+          },
+          {
+            "roman_itrans": "nR^isahasrasankulaan",
+            "devanagari_machine_converted": "नृसहस्रसन्कुलान्",
+            "english": "full with thousands of people"
+          },
+          {
+            "roman_itrans": "satyanaamaam",
+            "devanagari_machine_converted": "सत्यनामाम्",
+            "english": "true to its name"
+          },
+          {
+            "roman_itrans": "taam",
+            "devanagari_machine_converted": "ताम्",
+            "english": "her"
+          },
+          {
+            "roman_itrans": "puriim ayodhyaam",
+            "devanagari_machine_converted": "पुरीम् अयोध्याम्",
+            "english": "city, Ayodhya"
+          },
+          {
+            "roman_itrans": "shakrasamaH",
+            "devanagari_machine_converted": "शक्रसमः",
+            "english": "coequal of Indra"
+          },
+          {
+            "roman_itrans": "mahiipatiH",
+            "devanagari_machine_converted": "महीपतिः",
+            "english": "king"
+          },
+          {
+            "roman_itrans": "shashaasa",
+            "devanagari_machine_converted": "शशास",
+            "english": "ruled"
+          },
+          {
+            "roman_itrans": "vai",
+            "devanagari_machine_converted": "वै",
+            "english": "indeed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जिसका अयोध्या नाम सत्य एवं सार्थक था, जिसके दरवाजे और अर्गला सुदृढ़ थे, जो विचित्र गृहोंसे सदा सुशोभित होती थी, सहस्रों मनुष्योंसे भरी हुई उस कल्याणमयी पुरीका इन्द्रतुल्य तेजस्वी राजा दशरथ न्यायपूर्वक शासन करते थे॥२८॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ताम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यनामाम्",
+            "hindi": "सत्य नाम वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दृढतोरणार्गलाम्",
+            "hindi": "दृढ़ तोरण और अर्गलों वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गृहैः",
+            "hindi": "गृहों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विचित्रैः",
+            "hindi": "विचित्र / सुन्दर से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपशोभिताम्",
+            "hindi": "सुशोभित को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शिवाम्",
+            "hindi": "कल्याणमयी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अयोध्याम्",
+            "hindi": "अयोध्या का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नृसहस्रसङ्कुलाम्",
+            "hindi": "हजारों मनुष्यों से भरी हुई को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शशास",
+            "hindi": "शासन करते थे (शास् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वै",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "शक्रसमः",
+            "hindi": "इन्द्र के समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महीपतिः",
+            "hindi": "महीपति / राजा ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.28",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed",
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "जिसका अयोध्या नाम सत्य एवं सार्थक था, जिसके दरवाजे और अर्गला सुदृढ़ थे, जो विचित्र गृहोंसे सदा सुशोभित होती थी, सहस्रां मनुष्योंसे भरी हुई उस कल्याणमयी पुरीका इन्द्रतुल्य तेजस्वी राजा दशरथ न्यायपूर्वक शासन करते थे॥ २८॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

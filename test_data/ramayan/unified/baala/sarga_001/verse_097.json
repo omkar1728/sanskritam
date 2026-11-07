@@ -1,0 +1,238 @@
+{
+  "id": "baala-001-097",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 97,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 70
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-89"
+    ],
+    "vulgate_in_locators": [
+      "1.1.89"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.89"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001070a",
+        "1001070c"
+      ],
+      "lines": [
+        "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+        "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्"
+      ],
+      "punctuated_derived": "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः ।\nरामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+        "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्"
+      ],
+      "locators": [
+        "1-1-89"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+        "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्"
+      ],
+      "locators": [
+        "1.1.89"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+        "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.89"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+      "net": "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+      "in": "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+      "gp": "नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्",
+      "net": "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्",
+      "in": "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्",
+      "gp": "रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "पुनरवाप्तवान्",
+            "b": "पुनरवाप्तवान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-89",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That sinless Rama rejoining with all of his brothers in the village Nandigrama removed his matted hair. Thus he, on regaining Seetha and on discarding hermit's role again became a householder, and he regained his kingdom also... [1-1-89]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-89",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anaghaH raamaH",
+            "devanagari_machine_converted": "अनघः रामः",
+            "english": "sinless Rama"
+          },
+          {
+            "roman_itrans": "bhraatR^ibhiH sahitaH",
+            "devanagari_machine_converted": "भ्रातृभिः सहितः",
+            "english": "together with brothers"
+          },
+          {
+            "roman_itrans": "nandigrame",
+            "devanagari_machine_converted": "नन्दिग्रमे",
+            "english": "in Nandigrama"
+          },
+          {
+            "roman_itrans": "jaTaam hitvaa",
+            "devanagari_machine_converted": "जटाम् हित्वा",
+            "english": "removing matted-hair"
+          },
+          {
+            "roman_itrans": "siitaam anupraapya",
+            "devanagari_machine_converted": "सीताम् अनुप्राप्य",
+            "english": "after getting back Seetha"
+          },
+          {
+            "roman_itrans": "punaH raajyam avaaptavaan",
+            "devanagari_machine_converted": "पुनः राज्यम् अवाप्तवान्",
+            "english": "regained the kingdom again."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.89",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'निष्पाप रामचन्द्रजीने नन्दिग्राममें अपनी जटा कटाकर भाइयोंके साथ, सीताको पानेके अनन्तर, पुनः अपना राज्य प्राप्त किया है"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.89",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नन्दिग्रामे",
+            "hindi": "नन्दिग्राम में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "जटाम्",
+            "hindi": "जटा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हित्वा",
+            "hindi": "त्यागकर / कटाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "भ्रातृभिः",
+            "hindi": "भाइयों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सहितः",
+            "hindi": "युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनघः",
+            "hindi": "पापरहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुप्राप्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर से (अव्यय)"
+          },
+          {
+            "sanskrit": "अवाप्तवान्",
+            "hindi": "प्राप्त किया है (अव + आप्, क्तवतु प्रत्ययान्त, प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.89",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“निष्पाप रामचन्द्रजीने नन्दिग्राममें अपनी जरा कटाकर भाइयोंके साथ, सीताको पानेके अनन्तर, पुनः अपना राज्य प्राप्त किया है॥ ८९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

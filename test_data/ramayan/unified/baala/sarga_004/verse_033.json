@@ -1,0 +1,108 @@
+{
+  "id": "baala-004-033",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 33,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-35"
+    ],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कुशीलवौ चैव महातपस्विनौ"
+      ],
+      "locators": [
+        "1-4-35"
+      ]
+    },
+    "vulgate_in": null,
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "कुशीलवौ चैव महातपस्विनौ",
+      "in": null,
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-35",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"These two saint-like Kusha and Lava, who also possess kingly features, but they are great hermits... this narration is endowing good fortune to me also, listen to that great efficacious legend [of Seetha...]\" [So said Rama to those courtiers.] [1-4-35]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-35",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "imau munii paarthivalakShaNaanvitau",
+            "devanagari_machine_converted": "इमौ मुनी पार्थिवलक्षणान्वितौ",
+            "english": "these two, saints, possessing kingly features,"
+          },
+          {
+            "roman_itrans": "kushiilavau cha eva mahaatapasvinau",
+            "devanagari_machine_converted": "कुशीलवौ च एव महातपस्विनौ",
+            "english": "thus great hermits like Kusha and Lava"
+          },
+          {
+            "roman_itrans": "mama api tat bhuutikaram",
+            "devanagari_machine_converted": "मम अपि तत् भूतिकरम्",
+            "english": "to me, also, that, good fortune endowing"
+          },
+          {
+            "roman_itrans": "mahaanubhaavam charitam prachakShate",
+            "devanagari_machine_converted": "महानुभावम् चरितम् प्रचक्षते",
+            "english": "the great efficacious, legend, they tell"
+          },
+          {
+            "roman_itrans": "nibodhata",
+            "devanagari_machine_converted": "निबोधत",
+            "english": "listen it."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-35",
+        "spans_beyond_this_verse": true,
+        "text": "Here Rama tells that this legend is 'efficacious' for it is the legend of Seetha, and should it be Rama's alone, he will get the blemish of self-glorification, aatmaprashamsaa doSa , and brave heroes of legends cannot be subjected to such a blemish. And to listen to the legend of his dearest, who at present is not with him, gives a kind of consolation, and thus he is asking all of us to listen to siitaayaH caritam mahat ..."
+      }
+    ],
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "net_in_line_mismatch",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

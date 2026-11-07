@@ -1,0 +1,251 @@
+{
+  "id": "baala-004-028",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 28,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 23
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-30"
+    ],
+    "vulgate_in_locators": [
+      "1.4.30"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.30",
+      "1.4.31"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004023a",
+        "1004023c"
+      ],
+      "lines": [
+        "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+        "उपोपविष्टैः सचिवैर्भ्रातृभिश्च परंतपः"
+      ],
+      "punctuated_derived": "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः ।\nउपोपविष्टैः सचिवैर्भ्रातृभिश्च परंतपः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+        "उपोपविष्टैः सचिवैर्भ्रातृभिश्च समन्वितः"
+      ],
+      "locators": [
+        "1-4-30"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+        "उपोपविष्टैः सचिवैर्भ्रातृभिश्च समन्वितः"
+      ],
+      "locators": [
+        "1.4.30"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+        "उपोपविष्टैः सचिवैर्भ्रातृभिश्च समन्वितः"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.30",
+        "1.4.31"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+      "net": "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+      "in": "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+      "gp": "आसीनः काञ्चने दिव्ये स च सिंहासने प्रभुः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "उपोपविष्टैः सचिवैर्भ्रातृभिश्च परंतपः",
+      "net": "उपोपविष्टैः सचिवैर्भ्रातृभिश्च समन्वितः",
+      "in": "उपोपविष्टैः सचिवैर्भ्रातृभिश्च समन्वितः",
+      "gp": "उपोपविष्टैः सचिवैर्भ्रातृभिश्च समन्वितः",
+      "similarity": {
+        "sim_smith_net": 0.9014084507042254,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "परंतपः",
+            "b": "समन्वितः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-30",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He that king Rama is then surrounded by his ministers and brothers that are sitting his nearby, he himself sat on a divine golden throne. [1-4-30]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-30",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH prabhuH",
+            "devanagari_machine_converted": "सः प्रभुः",
+            "english": "he, that king Rama"
+          },
+          {
+            "roman_itrans": "upopaviSTaiH",
+            "devanagari_machine_converted": "उपोपविष्टैः",
+            "english": "sitting nearby"
+          },
+          {
+            "roman_itrans": "sachivaiH bhraatR^ibhiH cha samanvitaH",
+            "devanagari_machine_converted": "सचिवैः भ्रातृभिः च समन्वितः",
+            "english": "surrounded by ministers and brothers"
+          },
+          {
+            "roman_itrans": "divye kaa~nchane siMhaasane",
+            "devanagari_machine_converted": "दिव्ये काञ्चने सिंहासने",
+            "english": "on divine, golden, throne"
+          },
+          {
+            "roman_itrans": "aasiinaH",
+            "devanagari_machine_converted": "आसीनः",
+            "english": "sat."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.30",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सुवर्णमय दिव्य सिंहासन पर विराजमान हुए। उनके मन्त्री और भाई भी उनके पास ही बैठे थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.30",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आसीनः",
+            "hindi": "विराजमान"
+          },
+          {
+            "sanskrit": "काञ्चने",
+            "hindi": "सुवर्णमय"
+          },
+          {
+            "sanskrit": "दिव्ये",
+            "hindi": "दिव्य"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सिंहासने",
+            "hindi": "सिंहासन पर"
+          },
+          {
+            "sanskrit": "प्रभुः",
+            "hindi": "प्रभु"
+          },
+          {
+            "sanskrit": "उपोपविष्टैः",
+            "hindi": "पास बैठे हुए"
+          },
+          {
+            "sanskrit": "सचिवैः",
+            "hindi": "मंत्रियों के साथ"
+          },
+          {
+            "sanskrit": "भ्रातृभिः",
+            "hindi": "भाइयों के साथ"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "समन्वितः",
+            "hindi": "युक्त / सहित"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.30",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.31",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

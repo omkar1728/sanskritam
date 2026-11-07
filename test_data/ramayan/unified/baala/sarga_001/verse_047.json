@@ -1,0 +1,353 @@
+{
+  "id": "baala-001-047",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 47,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-44, 1-1-45"
+    ],
+    "vulgate_in_locators": [
+      "1.1.44",
+      "1.1.45"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.44",
+      "1.1.45"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स तेषां प्रतिशुश्राव राक्षसानां तथा वने",
+        "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम्",
+        "ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम्"
+      ],
+      "locators": [
+        "1-1-44, 1-1-45"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स तेषां प्रतिशुश्राव राक्षसानां तदा वने",
+        "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम्",
+        "ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम्"
+      ],
+      "locators": [
+        "1.1.44",
+        "1.1.45"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स तेषां प्रतिशुश्राव राक्षसानां तदा वने",
+        "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम्‌",
+        "ऋषीणामरिनकल्पानां दण्डकारण्यवासिनाम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits",
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.1.44",
+        "1.1.45"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "स तेषां प्रतिशुश्राव राक्षसानां तथा वने",
+      "in": "स तेषां प्रतिशुश्राव राक्षसानां तदा वने",
+      "gp": "स तेषां प्रतिशुश्राव राक्षसानां तदा वने",
+      "similarity": {
+        "sim_in_net": 0.9705882352941176,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तथा",
+            "b": "तदा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तथा",
+            "b": "तदा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम्",
+      "in": "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम्",
+      "gp": "प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "रक्षसाम्",
+            "b": "रक्षसाम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम्",
+      "in": "ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम्",
+      "gp": "ऋषीणामरिनकल्पानां दण्डकारण्यवासिनाम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9230769230769231
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "ऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम्",
+            "b": "ऋषीणामरिनकल्पानां दण्डकारण्यवासिनाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-44, 1-1-45",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He [Rama] agreed to that supplication of those sages dwelling in the forest of demons. A promise was also made by Rama to the sages who equalled the fire and who were living in that Dandaka forest about killing of the demons in combat... [1-1-44b, 45]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-44, 1-1-45",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "44b, 45. saH",
+            "devanagari_machine_converted": "४४ब्, ४५। सः",
+            "english": "he [that Rama]"
+          },
+          {
+            "roman_itrans": "pratishushraava",
+            "devanagari_machine_converted": "प्रतिशुश्राव",
+            "english": "listened [or agreed]"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "[to] that supplication"
+          },
+          {
+            "roman_itrans": "teSaam",
+            "devanagari_machine_converted": "तेषाम्",
+            "english": "of those [sages]"
+          },
+          {
+            "roman_itrans": "raakShasaanaam vane",
+            "devanagari_machine_converted": "राक्षसानाम् वने",
+            "english": "in the forest of demons; pratij~naataH ca = A promise also [was made]; raameNa = by Rama"
+          },
+          {
+            "roman_itrans": "R^iShiiNaam",
+            "devanagari_machine_converted": "ऋषीणाम्",
+            "english": "to the sages"
+          },
+          {
+            "roman_itrans": "agnikalpaanaam",
+            "devanagari_machine_converted": "अग्निकल्पानाम्",
+            "english": "who equalled the fire"
+          },
+          {
+            "roman_itrans": "daNDakaaraNyavaasinaam [ca]",
+            "devanagari_machine_converted": "दण्डकारण्यवासिनाम् [च]",
+            "english": "[and] living in the Dandaka forest; vadhaH ca = [about] killing also"
+          },
+          {
+            "roman_itrans": "rakShasaam",
+            "devanagari_machine_converted": "रक्षसाम्",
+            "english": "of the demons"
+          },
+          {
+            "roman_itrans": "saMyati",
+            "devanagari_machine_converted": "संयति",
+            "english": "in combat."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-44, 1-1-45",
+        "spans_beyond_this_verse": false,
+        "text": "The word asura is as from asuun raati iti asura: asu = life; ra= taker; i.e., life takers - demons, while the word sura is nectar consuming one, the divine. In later chapters of this canto, accounts are given as how these were created and named."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.44",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "असुर तथा राक्षसोंके वधके लिये निवेदन करनेको वहाँके सभी ऋषि आये। उस समय वनमें श्रीरामने उन ऋषियोंको प्रतिज्ञा दी"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.45",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "दण्डकारण्यवासी अग्निके समान तेजस्वी ऋषियोंको राक्षसोंके मारनेका वचन दिया और संग्राममें उनके वधकी प्रतिज्ञा की"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.44",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋषयः",
+            "hindi": "ऋषियों ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभ्यागमन्",
+            "hindi": "आए (अभि + आ + गम्, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वधाय",
+            "hindi": "वध के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "असुररक्षसाम्",
+            "hindi": "असुरों और राक्षसों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उस (राम) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेषाम्",
+            "hindi": "उन (ऋषियों) के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "प्रतिशुश्राव",
+            "hindi": "प्रतिज्ञा की (प्रति + श्रु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राक्षसानाम्",
+            "hindi": "राक्षसों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.45",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रतिज्ञातः",
+            "hindi": "प्रतिज्ञा की गई (प्रथमा विभक्ति, भूतकालिक कृदन्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "रामेण",
+            "hindi": "राम के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वधः",
+            "hindi": "वध (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "संयति",
+            "hindi": "युद्ध में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रक्षसाम्",
+            "hindi": "राक्षसों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषीणाम्",
+            "hindi": "ऋषियों के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "अग्निकल्पानाम्",
+            "hindi": "अग्नि के समान तेजस्वी के लिए (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "दण्डकारण्यवासिनाम्",
+            "hindi": "दण्डक वन में रहने वालों के लिए (षष्ठी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.44",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.45",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“उस समय वनमें श्रीरामने दण्डकारण्यवासी अग्निके समान तेजस्वी उन ऋषियोंको राक्षसोंके मारनेका वचन दिया और संग्राममें उनके वधकी प्रतिज्ञा को॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,266 @@
+{
+  "id": "baala-002-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 18
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-19"
+    ],
+    "vulgate_in_locators": [
+      "1.2.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.19"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002018a",
+        "1002018c"
+      ],
+      "lines": [
+        "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्",
+        "प्रतिजग्राह संहृष्टस्तस्य तुष्टोऽभवद्गुरुः"
+      ],
+      "punctuated_derived": "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम् ।\nप्रतिजग्राह संहृष्टस्तस्य तुष्टोऽभवद्गुरुः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्",
+        "प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवद्मुनिः"
+      ],
+      "locators": [
+        "1-2-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्",
+        "प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवन्मुनिः"
+      ],
+      "locators": [
+        "1.2.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्‌",
+        "प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवन्मुनिः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्",
+      "net": "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्",
+      "in": "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्",
+      "gp": "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "मुनेर्वाक्यमनुत्तमम्",
+            "b": "मुनेर्वाक्यमनुत्तमम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रतिजग्राह संहृष्टस्तस्य तुष्टोऽभवद्गुरुः",
+      "net": "प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवद्मुनिः",
+      "in": "प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवन्मुनिः",
+      "gp": "प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवन्मुनिः",
+      "similarity": {
+        "sim_smith_net": 0.8717948717948718,
+        "sim_in_net": 0.961038961038961,
+        "sim_gp_net": 0.961038961038961
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संहृष्टस्तस्य तुष्टोऽभवद्गुरुः",
+            "b": "संतुष्टस्तस्य तुष्टोऽभवद्मुनिः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "तुष्टोऽभवद्मुनिः",
+            "b": "तुष्टोऽभवन्मुनिः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तुष्टोऽभवद्मुनिः",
+            "b": "तुष्टोऽभवन्मुनिः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Even the disciple happily received what that is articulated by the saint, a unique articulation, by which the saint too, was delighted. [1-2-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shiShyaH tu",
+            "devanagari_machine_converted": "शिष्यः तु",
+            "english": "even the disciple"
+          },
+          {
+            "roman_itrans": "bruvataH",
+            "devanagari_machine_converted": "ब्रुवतः",
+            "english": "what is articulated"
+          },
+          {
+            "roman_itrans": "tasya muneH",
+            "devanagari_machine_converted": "तस्य मुनेः",
+            "english": "by that [Valmiki's,] saint"
+          },
+          {
+            "roman_itrans": "santuSTaH pratijagraaH",
+            "devanagari_machine_converted": "सन्तुष्टः प्रतिजग्राः",
+            "english": "haappily received"
+          },
+          {
+            "roman_itrans": "vaakyam anuttamam",
+            "devanagari_machine_converted": "वाक्यम् अनुत्तमम्",
+            "english": "word [verse,] which is unique"
+          },
+          {
+            "roman_itrans": "tasya",
+            "devanagari_machine_converted": "तस्य",
+            "english": "by that"
+          },
+          {
+            "roman_itrans": "tuSTaH abhavat muniH",
+            "devanagari_machine_converted": "तुष्टः अभवत् मुनिः",
+            "english": "saint was delighted."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "मुनिकी यह उत्तम बात सुनकर उनके शिष्य भरद्वाजको बड़ी प्रसन्नता हुई और उसने उनका समर्थन करते हुए कहा —’हाँ, आपका यह वाक्य श्लोकरूप ही होना चाहिये।’ शिष्यके इस कथनसे मुनिको विशेष संतोष हुआ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "शिष्यः",
+            "hindi": "शिष्य ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रुवतः",
+            "hindi": "कहने वाले का (शतृ प्रत्ययान्त, षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनेः",
+            "hindi": "मुनि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वाक्यम्",
+            "hindi": "वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुत्तमम्",
+            "hindi": "उत्तम (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतिजग्राह",
+            "hindi": "स्वीकार किया (प्रति + ग्रह्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सन्तुष्टः",
+            "hindi": "सन्तुष्ट होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (शिष्य के) से (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तुष्टः",
+            "hindi": "सन्तुष्ट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभवत्",
+            "hindi": "हुआ (भू धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.19",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "मुनिको यह उत्तम बात सुनकर उनके शिष्य भरद्वाजको बड़ी प्रसन्नता हुई और उसने उनका समर्थन करते हुए कहा-“हाँ, आपका यह वाक्य श्लोकरूप ही होना चाहिये।' शिष्यके इस कथनसे मुनिको विशेष संतोष हुआ॥ १९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

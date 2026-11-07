@@ -1,0 +1,259 @@
+{
+  "id": "baala-002-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 1
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-1"
+    ],
+    "vulgate_in_locators": [
+      "1.2.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.1"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002001a",
+        "1002001c"
+      ],
+      "lines": [
+        "नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारदः",
+        "पूजयामास धर्मात्मा सहशिष्यो महामुनिः"
+      ],
+      "punctuated_derived": "नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारदः ।\nपूजयामास धर्मात्मा सहशिष्यो महामुनिः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारदः",
+        "पूजयामास धर्मात्मा सहशिष्यो महामुनिः"
+      ],
+      "locators": [
+        "1-2-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नारदस्य तु तद् वाक्यं श्रुत्वा वाक्यविशारदः",
+        "पूजयामास धर्मात्मा सहशिष्यो महामुनिम्"
+      ],
+      "locators": [
+        "1.2.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नारदस्य तु तद्‌ वाक्यं श्रुत्वा वाक्यविशारदः",
+        "पूजयामास धर्मात्मा सहशिष्यो महामुनिम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारदः",
+      "net": "नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारदः",
+      "in": "नारदस्य तु तद् वाक्यं श्रुत्वा वाक्यविशारदः",
+      "gp": "नारदस्य तु तद्‌ वाक्यं श्रुत्वा वाक्यविशारदः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तद्वाक्यं",
+            "b": "तद् वाक्यं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तद्वाक्यं",
+            "b": "तद्‌ वाक्यं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पूजयामास धर्मात्मा सहशिष्यो महामुनिः",
+      "net": "पूजयामास धर्मात्मा सहशिष्यो महामुनिः",
+      "in": "पूजयामास धर्मात्मा सहशिष्यो महामुनिम्",
+      "gp": "पूजयामास धर्मात्मा सहशिष्यो महामुनिम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9696969696969697,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "महामुनिः",
+            "b": "महामुनिम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "महामुनिः",
+            "b": "महामुनिम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-1",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then, the great sage Valmiki, a skilled orator and a virtue-minded one, having heard those words of Narada, worshipped him along with disciples. [1-2-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-1",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tu",
+            "devanagari_machine_converted": "तु",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "mahaamuniH",
+            "devanagari_machine_converted": "महामुनिः",
+            "english": "the great sage [Valmiki]"
+          },
+          {
+            "roman_itrans": "vaakyavishaaradaH",
+            "devanagari_machine_converted": "वाक्यविशारदः",
+            "english": "a skilled speaker"
+          },
+          {
+            "roman_itrans": "dharmaatmaa",
+            "devanagari_machine_converted": "धर्मात्मा",
+            "english": "[and] a virtue minded one"
+          },
+          {
+            "roman_itrans": "tat vaakyam shrutvaa",
+            "devanagari_machine_converted": "तत् वाक्यम् श्रुत्वा",
+            "english": "having heard that speech"
+          },
+          {
+            "roman_itrans": "naaradasya",
+            "devanagari_machine_converted": "नारदस्य",
+            "english": "of Narada"
+          },
+          {
+            "roman_itrans": "puujayaamaasa",
+            "devanagari_machine_converted": "पूजयामास",
+            "english": "worshipped [him]"
+          },
+          {
+            "roman_itrans": "sahashiShyaH",
+            "devanagari_machine_converted": "सहशिष्यः",
+            "english": "along with disciples."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "देवर्षि नारदजीके उपर्युक्त वचन सुनकर वाणीविशारद धर्मात्मा ऋषि वाल्मीकिजीने अपने शिष्योंसहित उन महामुनिका पूजन किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नारदस्य",
+            "hindi": "नारद का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वाक्यम्",
+            "hindi": "वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय, पूर्वकालिक क्रिया)"
+          },
+          {
+            "sanskrit": "वाक्यविशारदः",
+            "hindi": "वाणी में निपुण (प्रथमा विभक्ति, वाल्मीकि का विशेषण)"
+          },
+          {
+            "sanskrit": "पूजयामास",
+            "hindi": "पूजन किया (पूज् धातु, प्रयोज्यार्थ/सनन्त, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "धर्मात्मा",
+            "hindi": "धर्मात्मा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सहशिष्यः",
+            "hindi": "शिष्यों सहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महामुनिम्",
+            "hindi": "महामुनि (नारद) का (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.1",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "देवर्षि नारदजीके उपर्युक्त वचन सुनकर वाणीविशारद धर्मात्मा ऋषि वाल्मीकिजीने अपने शिष्योंसहित उन महामुनिका पूजन किया ॥ १॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

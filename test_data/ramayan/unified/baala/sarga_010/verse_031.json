@@ -1,0 +1,59 @@
+{
+  "id": "baala-010-031",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 31,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 26
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009026c"
+      ],
+      "lines": [
+        "तत्राप्येष विधिः श्रीमान्विशेषेण भविष्यति"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": null,
+    "vulgate_in": null,
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": "तत्राप्येष विधिः श्रीमान्विशेषेण भविष्यति",
+      "net": null,
+      "in": null,
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": null,
+    "english_word_by_word": null,
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "critical_line_without_vulgate_match"
+  ],
+  "review_status": "unreviewed"
+}

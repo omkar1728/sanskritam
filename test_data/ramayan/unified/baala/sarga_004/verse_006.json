@@ -1,0 +1,245 @@
+{
+  "id": "baala-004-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 5
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-6"
+    ],
+    "vulgate_in_locators": [
+      "1.4.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004005a",
+        "1004005c"
+      ],
+      "lines": [
+        "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+        "वेदोपबृह्मणार्थाय तावग्राहयत प्रभुः"
+      ],
+      "punctuated_derived": "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ ।\nवेदोपबृह्मणार्थाय तावग्राहयत प्रभुः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+        "वेदोपबृंहणार्थाय तावग्राहयत प्रभुः"
+      ],
+      "locators": [
+        "1-4-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+        "वेदोपबृंहणार्थाय तावग्राहयत प्रभुः"
+      ],
+      "locators": [
+        "1.4.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+        "वेदोपबुंहणार्थाय तावग्राहयत प्रभुः"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.4.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+      "net": "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+      "in": "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+      "gp": "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्ठितौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "वेदोपबृह्मणार्थाय तावग्राहयत प्रभुः",
+      "net": "वेदोपबृंहणार्थाय तावग्राहयत प्रभुः",
+      "in": "वेदोपबृंहणार्थाय तावग्राहयत प्रभुः",
+      "gp": "वेदोपबुंहणार्थाय तावग्राहयत प्रभुः",
+      "similarity": {
+        "sim_smith_net": 0.9538461538461539,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वेदोपबृह्मणार्थाय",
+            "b": "वेदोपबृंहणार्थाय"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वेदोपबृंहणार्थाय",
+            "b": "वेदोपबुंहणार्थाय"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On seeing that pair intellectuals who are proficient in Veda-s that self-reliant sage Valmiki made those two to memorize the epic, as the epic Ramayana is composed only to reinforce the import of Veda-s, as an ancillary. [1-4-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "prabhuH",
+            "devanagari_machine_converted": "प्रभुः",
+            "english": "self-reliant sage"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he, Valmiki"
+          },
+          {
+            "roman_itrans": "medhaavinau",
+            "devanagari_machine_converted": "मेधाविनौ",
+            "english": "intellectual pair"
+          },
+          {
+            "roman_itrans": "vedeShu pariniSTitau",
+            "devanagari_machine_converted": "वेदेषु परिनिष्टितौ",
+            "english": "proficient in Vedas"
+          },
+          {
+            "roman_itrans": "dR^iSTvaa",
+            "devanagari_machine_converted": "दृष्ट्वा",
+            "english": "having seen"
+          },
+          {
+            "roman_itrans": "vedopabR^imhaNaarthaaya [ kathitam kaavyam]",
+            "devanagari_machine_converted": "वेदोपबृम्हणार्थाय [ कथितम् काव्यम्]",
+            "english": "aiming at ancillary reinforcement of Veda-s[rendered, epic]"
+          },
+          {
+            "roman_itrans": "tau agraahayata",
+            "devanagari_machine_converted": "तौ अग्राहयत",
+            "english": "them two, made to receive [epic to memorise]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनकी धारणाशक्ति अद्भुत थी और वे दोनों ही वेदोंमें पारंगत हो चुके थे। भगवान् वाल्मीकिने उनकी ओर देखा और उन्हें सुयोग्य समझकर उत्तम व्रतका पालन करनेवाले उन महर्षिने वेदार्थका विस्तारके साथ ज्ञान करानेके लिये-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "उन्होंने (वाल्मीकि)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "मेधाविनौ",
+            "hindi": "बुद्धिमान / धारणाशक्ति वाले"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर"
+          },
+          {
+            "sanskrit": "वेदेषु",
+            "hindi": "वेदों में"
+          },
+          {
+            "sanskrit": "परिनिष्ठितौ",
+            "hindi": "पारंगत"
+          },
+          {
+            "sanskrit": "वेदोपबृंहणार्थाय",
+            "hindi": "वेदों के विस्तार के अर्थ के लिए"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "अग्राहयत",
+            "hindi": "पढ़ाया / ग्रहण कराया"
+          },
+          {
+            "sanskrit": "प्रभुः",
+            "hindi": "प्रभु ने"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.6",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "राजकुमार कुश और लव दोनों भाई धर्मके ज्ञाता और यशस्वी थे। उनका स्वर बड़ा ही मधुर था और वे मुनिके आश्रमपर ही रहते थे। उनकी धारणाशक्ति अद्भुत थी और वे दोनों ही वेदाँमें पारंगत हो चुके थे। भगवान्‌ वाल्मीकिने उनकी ओर देखा और उन्हें सुयोग्य समझकर उत्तम व्रतका पालन करनेवाले उन महषिने वेदार्थका विस्तारके साथ ज्ञान करानेके लिये उन्हें सीताके चरित्रसे युक्त सम्पूर्ण रामायण नामक महाकाव्यका, जिसका दूसरा नाम पौलस्त्ययध अथवा दशाननवध था, अध्ययन कराया॥ ५-७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,245 @@
+{
+  "id": "baala-006-024",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 24,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 18
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-20"
+    ],
+    "vulgate_in_locators": [
+      "1.6.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006018a",
+        "1006018c"
+      ],
+      "lines": [
+        "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+        "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता"
+      ],
+      "punctuated_derived": "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता ।\nयथा पुरस्तान्मनुना मानवेन्द्रेण धीमता ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+        "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता"
+      ],
+      "locators": [
+        "1-6-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+        "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता॥२०"
+      ],
+      "locators": [
+        "1.6.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+        "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+      "net": "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+      "in": "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+      "gp": "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता",
+      "net": "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता",
+      "in": "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता॥२०",
+      "gp": "यथा पुरस्तान्मनुना मानवेन्द्रेण धीमता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "धीमता",
+            "b": "धीमता॥२०"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city is well protected by that king from Ikshwaku dynasty namely Dasharatha, like Manu, the foremost king of mankind in earlier times. [1-6-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saa",
+            "devanagari_machine_converted": "सा",
+            "english": "she [that city]"
+          },
+          {
+            "roman_itrans": "purii",
+            "devanagari_machine_converted": "पुरी",
+            "english": "the city"
+          },
+          {
+            "roman_itrans": "tena ikShwaakunaathena",
+            "devanagari_machine_converted": "तेन इक्ष्वाकुनाथेन",
+            "english": "by him, Ikshwaku king"
+          },
+          {
+            "roman_itrans": "suparirakShitaa",
+            "devanagari_machine_converted": "सुपरिरक्षिता",
+            "english": "very well protected"
+          },
+          {
+            "roman_itrans": "yathaa",
+            "devanagari_machine_converted": "यथा",
+            "english": "like"
+          },
+          {
+            "roman_itrans": "purastaat",
+            "devanagari_machine_converted": "पुरस्तात्",
+            "english": "earlier"
+          },
+          {
+            "roman_itrans": "manunaa",
+            "devanagari_machine_converted": "मनुना",
+            "english": "by Manu"
+          },
+          {
+            "roman_itrans": "maanavendreNa",
+            "devanagari_machine_converted": "मानवेन्द्रेण",
+            "english": "king of mankind"
+          },
+          {
+            "roman_itrans": "dhiimataa",
+            "devanagari_machine_converted": "धीमता",
+            "english": "the wise king."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इक्ष्वाकुकुलके स्वामी राजा दशरथ अयोध्यापुरीकी रक्षा उसी प्रकार करते थे, जैसे बुद्धिमान् महाराज मनुने पूर्वकालमें उसकी रक्षा की थी॥ २०॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सा",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उनके द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इक्ष्वाकुनाथेन",
+            "hindi": "इक्ष्वाकु कुल के स्वामी के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरी",
+            "hindi": "पुरी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुपरिरक्षिता",
+            "hindi": "अच्छी तरह रक्षित (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          },
+          {
+            "sanskrit": "पुरस्तात्",
+            "hindi": "पूर्वकाल में (अव्यय)"
+          },
+          {
+            "sanskrit": "मनुना",
+            "hindi": "मनु के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मानवेन्द्रेण",
+            "hindi": "महाराज मनु के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धीमता",
+            "hindi": "बुद्धिमान् के द्वारा (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.20",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "इक्ष्वाकुकुलके स्वामी राजा दशरथ अयोध्यापुरीकी रक्षा उसी प्रकार करते थे, जैसे बुद्धिमान्‌ महाराज मनुने पूर्वकालमें उसकी रक्षा की थी॥२०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

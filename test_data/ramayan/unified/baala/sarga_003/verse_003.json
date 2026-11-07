@@ -1,0 +1,1251 @@
+{
+  "id": "baala-003-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-3, 1-3-4",
+      "1-3-5",
+      "1-3-6",
+      "1-3-7, 1-3-8",
+      "1-3-9"
+    ],
+    "vulgate_in_locators": [
+      "1.3.3",
+      "1.3.4",
+      "1.3.5",
+      "1.3.6",
+      "1.3.7",
+      "1.3.8",
+      "1.3.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.3",
+      "1.3.4",
+      "1.3.5",
+      "1.3.6",
+      "1.3.7",
+      "1.3.8",
+      "1.3.9"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रामलक्ष्मणसीताभी राज्ञा दशरथेन च",
+        "सभार्येण सराष्ट्रेण यत्प्राप्तं तत्र तत्त्वतः",
+        "हसितं भाषितं चैव गतिर्या यच्च चेष्टितम्",
+        "तत्सर्वं धर्मवीर्येण यथावत्सम्प्रपश्यति",
+        "स्त्रीतृतीयेन च तथा यत्प्राप्तं चरता वने",
+        "सत्यसंधेन रामेण तत्सर्वं चान्ववेक्षितम्",
+        "ततः पश्यति धर्मात्मा तत्सर्वं योगमास्थितः",
+        "पुरा यत्तत्र निर्वृत्तं पाणावामलकं यथा",
+        "तत्सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः",
+        "अभिरामस्य रामस्य चरितं कर्तुमुद्यतः",
+        "कामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम्",
+        "समुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम्",
+        "स यथा कथितं पुर्वं नारदेन महात्मना",
+        "रघुवंशस्य चरितं चकार भगवान्मुनिः"
+      ],
+      "locators": [
+        "1-3-3, 1-3-4",
+        "1-3-5",
+        "1-3-6",
+        "1-3-7, 1-3-8",
+        "1-3-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रामलक्ष्मणसीताभी राज्ञा दशरथेन च",
+        "सभार्येण सराष्ट्रेण यत् प्राप्तं तत्र तत्त्वतः",
+        "हसितं भाषितं चैव गतिर्यावच्च चेष्टितम्",
+        "तत् सर्वं धर्मवीर्येण यथावत् सम्प्रपश्यति",
+        "स्त्रीतृतीयेन च तथा यत् प्राप्तं चरता वने",
+        "सत्यसंधेन रामेण तत् सर्वं चान्ववैक्षत",
+        "ततः पश्यति धर्मात्मा तत् सर्वं योगमास्थितः",
+        "पुरा यत् तत्र निर्वृत्तं पाणावामलकं यथा",
+        "तत् सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः",
+        "अभिरामस्य रामस्य तत् सर्वं कर्तुमुद्यतः",
+        "कामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम्",
+        "समुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम्",
+        "स यथा कथितं पूर्वं नारदेन महात्मना",
+        "रघुवंशस्य चरितं चकार भगवान् मुनिः"
+      ],
+      "locators": [
+        "1.3.3",
+        "1.3.4",
+        "1.3.5",
+        "1.3.6",
+        "1.3.7",
+        "1.3.8",
+        "1.3.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रामलक्ष्मणसीताभी राज्ञा दशरथेन च",
+        "सभार्येण सराष्ट्रेण यत्‌. प्राप्तं तत्र तत्त्वतः",
+        "हसितं भाषितं चैव गतिर्यावच्च चेष्टितम्‌",
+        "तत्‌ सर्वं ध्र्मवीर्येण यथावत्‌ सम्प्रपश्यति",
+        "सत्यसंधेन रामेण तत्‌ सर्वं चान्ववैक्षत",
+        "* काव्य या यशरूप",
+        "ततः पश्यति धर्मात्मा तत्‌ सर्वं योगमास्थितः",
+        "पुरा यत्‌ तत्र निर्वृत्तं पाणावामलकं यथा",
+        "तत्‌ सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः",
+        "अभिरामस्य रामस्य तत्‌ सर्व कर्तुमुद्यतः",
+        "कामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम्‌",
+        "समुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम्‌",
+        "स यथा कथितं पूर्व नारदेन महात्मना",
+        "रघुवंशस्य चरितं चकार भगवान्‌ मुनिः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_3-4",
+        "hindi_marker_range_8-9",
+        "hindi_shared_range",
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.3.3",
+        "1.3.4",
+        "1.3.5",
+        "1.3.6",
+        "1.3.7",
+        "1.3.8",
+        "1.3.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "रामलक्ष्मणसीताभी राज्ञा दशरथेन च",
+      "in": "रामलक्ष्मणसीताभी राज्ञा दशरथेन च",
+      "gp": "रामलक्ष्मणसीताभी राज्ञा दशरथेन च",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "सभार्येण सराष्ट्रेण यत्प्राप्तं तत्र तत्त्वतः",
+      "in": "सभार्येण सराष्ट्रेण यत् प्राप्तं तत्र तत्त्वतः",
+      "gp": "सभार्येण सराष्ट्रेण यत्‌. प्राप्तं तत्र तत्त्वतः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "यत्प्राप्तं",
+            "b": "यत् प्राप्तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यत्प्राप्तं",
+            "b": "यत्‌. प्राप्तं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "हसितं भाषितं चैव गतिर्या यच्च चेष्टितम्",
+      "in": "हसितं भाषितं चैव गतिर्यावच्च चेष्टितम्",
+      "gp": "हसितं भाषितं चैव गतिर्यावच्च चेष्टितम्‌",
+      "similarity": {
+        "sim_in_net": 0.9696969696969697,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गतिर्या यच्च",
+            "b": "गतिर्यावच्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गतिर्या यच्च चेष्टितम्",
+            "b": "गतिर्यावच्च चेष्टितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तत्सर्वं धर्मवीर्येण यथावत्सम्प्रपश्यति",
+      "in": "तत् सर्वं धर्मवीर्येण यथावत् सम्प्रपश्यति",
+      "gp": "तत्‌ सर्वं ध्र्मवीर्येण यथावत्‌ सम्प्रपश्यति",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9863013698630136
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तत्सर्वं",
+            "b": "तत् सर्वं"
+          },
+          {
+            "a": "यथावत्सम्प्रपश्यति",
+            "b": "यथावत् सम्प्रपश्यति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तत्सर्वं धर्मवीर्येण यथावत्सम्प्रपश्यति",
+            "b": "तत्‌ सर्वं ध्र्मवीर्येण यथावत्‌ सम्प्रपश्यति"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "स्त्रीतृतीयेन च तथा यत्प्राप्तं चरता वने",
+      "in": "स्त्रीतृतीयेन च तथा यत् प्राप्तं चरता वने",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "यत्प्राप्तं",
+            "b": "यत् प्राप्तं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "सत्यसंधेन रामेण तत्सर्वं चान्ववेक्षितम्",
+      "in": "सत्यसंधेन रामेण तत् सर्वं चान्ववैक्षत",
+      "gp": "सत्यसंधेन रामेण तत्‌ सर्वं चान्ववैक्षत",
+      "similarity": {
+        "sim_in_net": 0.9393939393939394,
+        "sim_gp_net": 0.9393939393939394
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तत्सर्वं चान्ववेक्षितम्",
+            "b": "तत् सर्वं चान्ववैक्षत"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तत्सर्वं चान्ववेक्षितम्",
+            "b": "तत्‌ सर्वं चान्ववैक्षत"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": null,
+      "in": null,
+      "gp": "* काव्य या यशरूप",
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "ततः पश्यति धर्मात्मा तत्सर्वं योगमास्थितः",
+      "in": "ततः पश्यति धर्मात्मा तत् सर्वं योगमास्थितः",
+      "gp": "ततः पश्यति धर्मात्मा तत्‌ सर्वं योगमास्थितः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तत्सर्वं",
+            "b": "तत् सर्वं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तत्सर्वं",
+            "b": "तत्‌ सर्वं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "पुरा यत्तत्र निर्वृत्तं पाणावामलकं यथा",
+      "in": "पुरा यत् तत्र निर्वृत्तं पाणावामलकं यथा",
+      "gp": "पुरा यत्‌ तत्र निर्वृत्तं पाणावामलकं यथा",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "यत्तत्र",
+            "b": "यत् तत्र"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यत्तत्र",
+            "b": "यत्‌ तत्र"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तत्सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः",
+      "in": "तत् सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः",
+      "gp": "तत्‌ सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तत्सर्वं",
+            "b": "तत् सर्वं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तत्सर्वं",
+            "b": "तत्‌ सर्वं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "अभिरामस्य रामस्य चरितं कर्तुमुद्यतः",
+      "in": "अभिरामस्य रामस्य तत् सर्वं कर्तुमुद्यतः",
+      "gp": "अभिरामस्य रामस्य तत्‌ सर्व कर्तुमुद्यतः",
+      "similarity": {
+        "sim_in_net": 0.8656716417910447,
+        "sim_gp_net": 0.8484848484848485
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चरितं",
+            "b": "तत् सर्वं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चरितं",
+            "b": "तत्‌ सर्व"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "कामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम्",
+      "in": "कामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम्",
+      "gp": "कामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "धर्मार्थगुणविस्तरम्",
+            "b": "धर्मार्थगुणविस्तरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "समुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम्",
+      "in": "समुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम्",
+      "gp": "समुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सर्वश्रुतिमनोहरम्",
+            "b": "सर्वश्रुतिमनोहरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "स यथा कथितं पुर्वं नारदेन महात्मना",
+      "in": "स यथा कथितं पूर्वं नारदेन महात्मना",
+      "gp": "स यथा कथितं पूर्व नारदेन महात्मना",
+      "similarity": {
+        "sim_in_net": 0.9655172413793104,
+        "sim_gp_net": 0.9473684210526315
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पुर्वं",
+            "b": "पूर्वं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पुर्वं",
+            "b": "पूर्व"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "रघुवंशस्य चरितं चकार भगवान्मुनिः",
+      "in": "रघुवंशस्य चरितं चकार भगवान् मुनिः",
+      "gp": "रघुवंशस्य चरितं चकार भगवान्‌ मुनिः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "भगवान्मुनिः",
+            "b": "भगवान् मुनिः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "भगवान्मुनिः",
+            "b": "भगवान्‌ मुनिः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-3, 1-3-4",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Of Rama, Lakshmana and Seetha, also of King Dasharatha and his wives, and what bechanced on Rama when he was in kingdom Ayodhya; Valmiki veritably discerned all that. Their smiles, their conversations, their deeds and the succession of events as well, all of them the sage saw wholly and clearly by the yogic power conferred by Brahma...] [1-3-3,4]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then, that which bechanced on truth-abiding Rama, while he is trekking in forests, with a lady being the third partner, where Lakshmana is the lone male aide, Valmiki visualized all that. [1-3-5]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then that virtue-souled sage saw what all that has happened earlier, by his yogic exaltation, as though it is a citric fruit in his own palm. [1-3-6]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-7, 1-3-8",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Discerning all of Ramayana in its actuality by his yogic prowess that highly intellectual Valmiki pioneered to author all of the legend of Rama, for Rama is a delighter of all in all worlds, and whose legend is abounding with the real functional qualities of earthly pleasures and prosperities, and which clearly elaborates the meaning of probity and its operative qualities, and thus this legend is like an ocean replete with such gems called thoughts, and an ear-pleasing legend, as well. [1-3-7, 8]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-9",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exactly as the divine-soul Narada narrated it earlier. [1-3-9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-3, 1-3-4",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "3-4. raamalakShmaNasiitaabhiH",
+            "devanagari_machine_converted": "३-४। रामलक्ष्मणसीताभिः",
+            "english": "of Rama, Lakshmana and Seetha"
+          },
+          {
+            "roman_itrans": "raaj~naa dasharathena ca",
+            "devanagari_machine_converted": "राज्ञा दशरथेन च",
+            "english": "by king, Dasharatha, also"
+          },
+          {
+            "roman_itrans": "sabhaaryeNa [raameNa]",
+            "devanagari_machine_converted": "सभार्येण [रामेण]",
+            "english": "along with wife - Rama along with his wife"
+          },
+          {
+            "roman_itrans": "saraaSTreNa",
+            "devanagari_machine_converted": "सराष्ट्रेण",
+            "english": "along with kingdom - when Rama was in State"
+          },
+          {
+            "roman_itrans": "yat praaptam",
+            "devanagari_machine_converted": "यत् प्राप्तम्",
+            "english": "what, bechanced"
+          },
+          {
+            "roman_itrans": "tatra [yaa] gatiH",
+            "devanagari_machine_converted": "तत्र [या] गतिः",
+            "english": "in that, [which,] course is there"
+          },
+          {
+            "roman_itrans": "yaavat ceSTitam ca",
+            "devanagari_machine_converted": "यावत् चेष्टितम् च",
+            "english": "everything, [they] have done, and"
+          },
+          {
+            "roman_itrans": "hasitam bhaaSitam ca eva",
+            "devanagari_machine_converted": "हसितम् भाषितम् च एव",
+            "english": "their smiles, their conversations, also, thus"
+          },
+          {
+            "roman_itrans": "tat sarvam",
+            "devanagari_machine_converted": "तत् सर्वम्",
+            "english": "that, entirely"
+          },
+          {
+            "roman_itrans": "tatvataH",
+            "devanagari_machine_converted": "तत्वतः",
+            "english": "veritably"
+          },
+          {
+            "roman_itrans": "yathaavat",
+            "devanagari_machine_converted": "यथावत्",
+            "english": "as it is"
+          },
+          {
+            "roman_itrans": "dharmaviiryeNa",
+            "devanagari_machine_converted": "धर्मवीर्येण",
+            "english": "by the power of his ascesis, or by the power given by Brahma"
+          },
+          {
+            "roman_itrans": "samprapashyati",
+            "devanagari_machine_converted": "सम्प्रपश्यति",
+            "english": "wholly clearly seen."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "striitR^itiiyena ca",
+            "devanagari_machine_converted": "स्त्रीतृतीयेन च",
+            "english": "lady as third [partner in forests,] also"
+          },
+          {
+            "roman_itrans": "vane charataa",
+            "devanagari_machine_converted": "वने चरता",
+            "english": "in forests, while trekking"
+          },
+          {
+            "roman_itrans": "satyasandhena raameNa",
+            "devanagari_machine_converted": "सत्यसन्धेन रामेण",
+            "english": "by truth-abiding Rama; tathaa yat praaptam = then, that which, bechanced"
+          },
+          {
+            "roman_itrans": "tat sarvam ca",
+            "devanagari_machine_converted": "तत् सर्वम् च",
+            "english": "all, that, also"
+          },
+          {
+            "roman_itrans": "anvavekShitam",
+            "devanagari_machine_converted": "अन्ववेक्षितम्",
+            "english": "by him discerned."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then; dharmaatmaa = virtue-souled sage"
+          },
+          {
+            "roman_itrans": "yogam aasthitaH",
+            "devanagari_machine_converted": "योगम् आस्थितः",
+            "english": "while in yogic, exaltation"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "in there [in story]; puraa yat nirvR^ittam = earlier, what, has happened"
+          },
+          {
+            "roman_itrans": "tat sarvam",
+            "devanagari_machine_converted": "तत् सर्वम्",
+            "english": "that, all"
+          },
+          {
+            "roman_itrans": "paaNau aamalakam",
+            "devanagari_machine_converted": "पाणौ आमलकम्",
+            "english": "in palm, citric fruit [myrobalan]"
+          },
+          {
+            "roman_itrans": "yathaa",
+            "devanagari_machine_converted": "यथा",
+            "english": "as though"
+          },
+          {
+            "roman_itrans": "pashyati",
+            "devanagari_machine_converted": "पश्यति",
+            "english": "saw."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-7, 1-3-8",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "7-8. mahaamatiH",
+            "devanagari_machine_converted": "७-८। महामतिः",
+            "english": "highly intellectual [sage]"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he"
+          },
+          {
+            "roman_itrans": "tat sarvam",
+            "devanagari_machine_converted": "तत् सर्वम्",
+            "english": "that, all"
+          },
+          {
+            "roman_itrans": "tattvataH",
+            "devanagari_machine_converted": "तत्त्वतः",
+            "english": "in actuality"
+          },
+          {
+            "roman_itrans": "dharmeNa",
+            "devanagari_machine_converted": "धर्मेण",
+            "english": "by yogic prowess"
+          },
+          {
+            "roman_itrans": "dR^iSTvaa",
+            "devanagari_machine_converted": "दृष्ट्वा",
+            "english": "having discerned"
+          },
+          {
+            "roman_itrans": "kaamaarthaguNasamyuktam",
+            "devanagari_machine_converted": "कामार्थगुणसम्युक्तम्",
+            "english": "abounding with pleasures, prosperities and their qualities; dharmaarthaguNavistaram = which elaborates the meaning of probity and its qualities"
+          },
+          {
+            "roman_itrans": "ratnaaDhyam",
+            "devanagari_machine_converted": "रत्नाढ्यम्",
+            "english": "replete with gems; samudram iva = ocean, like"
+          },
+          {
+            "roman_itrans": "sarvashrutimanoharam",
+            "devanagari_machine_converted": "सर्वश्रुतिमनोहरम्",
+            "english": "delightfully listenable for all(or by all Veda-s acceptable, or in any kind of listening, a pleasing one)"
+          },
+          {
+            "roman_itrans": "abhiraamasya raamasya",
+            "devanagari_machine_converted": "अभिरामस्य रामस्य",
+            "english": "one who delights all, of such a Rama"
+          },
+          {
+            "roman_itrans": "charitam kartum udyataH",
+            "devanagari_machine_converted": "चरितम् कर्तुम् उद्यतः",
+            "english": "pioneered to author all legend."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-9",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhagavaan saH muniH",
+            "devanagari_machine_converted": "भगवान् सः मुनिः",
+            "english": "he that godly saint [Valmiki]"
+          },
+          {
+            "roman_itrans": "mahaatmanaa naaradena",
+            "devanagari_machine_converted": "महात्मना नारदेन",
+            "english": "by Divine Soul, Narada; puurvam yathaa kathitam = earlier, as to how, narrated; [in that way only]"
+          },
+          {
+            "roman_itrans": "raghuvamshasya",
+            "devanagari_machine_converted": "रघुवम्शस्य",
+            "english": "one who is born in Raghu's lineage - of Rama"
+          },
+          {
+            "roman_itrans": "charitam chakaara",
+            "devanagari_machine_converted": "चरितम् चकार",
+            "english": "legend, made [composed]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-7, 1-3-8",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: The pleasures and gains of the humans are puruSaartha -s, in its axiological meaning. Hindus have four such puruSaartha -s [namely human values,] dharma probity artha prosperity, kaama pleasures, and finally mokSha , blessedness. Of these four only the first three, dharma, artha, kaama are usually referred, and they are called tri-varga . The final one mokSha is not often quoted. Dhrama is the driving force. chodanaa lakShaNaartho dharmaH - Jaimini. Hence dharma is the prescribed conduct, either by scriptures or by the society, and it does not entail any merit or demerit, but just an obligatory conduct or duty or, say 'categorical imperative' of Kant. And the other two, artha, kaama , are the means of dharma, and all leading to moksha. These two great epics Ramayana and Mahabharata are structured on these puruSaartha -s alone. Thus though Ramayana is abounding with the accounts of richness and glory of all kinds of wealth, which is secondary to human values, its main import is the virtuosity of human living. The ocean, though abounding with other less valuable items like conch shells, mother-of-pearl shells etc., its gems beneath all these peripherals are of high value. Thus this is an ear pleasing by its musical melody and heart pleasing by its meaningful wording. Further, it is pleasant for its import is in accordance with all the scriptures."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीराम-लक्ष्मण-सीता तथा राज्य और रानियों सहित राजा दशरथसे सम्बन्ध रखनेवाली जितनी बातें थीं— हँसना, बोलना, चलना और राज्यपालन आदि जितनी चेष्टाएँ हुईं–उन सबका महर्षि ने अपने योगधर्म के बल से भलीभाँति साक्षात्कार किया।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीराम-लक्ष्मण-सीता तथा राज्य और रानियों सहित राजा दशरथसे सम्बन्ध रखनेवाली जितनी बातें थीं— हँसना, बोलना, चलना और राज्यपालन आदि जितनी चेष्टाएँ हुईं–उन सबका महर्षि ने अपने योगधर्म के बल से भलीभाँति साक्षात्कार किया।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सत्यप्रतिज्ञ श्रीरामचन्द्रजी ने लक्ष्मण और सीता के साथ वन में विचरते समय जो-जो लीलाएँ की थीं, वे सब उनकी दृष्टि में आ गयीं।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "योगका आश्रय लेकर उन धर्मात्मा महर्षि ने पूर्वकालमें जो-जो घटनाएँ घटित हुई थीं, उन सबको वहाँ हाथपर रखे हुए आँवलेकी तरह प्रत्यक्ष देखा।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सबके मनको प्रिय लगनेवाले भगवान् श्रीरामके सम्पूर्ण चरित्रोंका योगधर्म (समाधि) के द्वारा यथार्थरूपसे निरीक्षण करके महाबुद्धिमान् महर्षि वाल्मीकिने उन सबको महाकाव्यका रूप देनेकी चेष्टा की।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यह धर्म, अर्थ, काम, मोक्षरूपी गुणों (फलों) से युक्त तथा इनका विस्तारपूर्वक प्रतिपादन एवं दान करनेवाला है। जैसे समुद्र सब रत्नोंकी निधि है, उसी प्रकार यह महाकाव्य गुण, अलङ्कार एवं ध्वनि आदि रत्नोंका भण्डार है। इतना ही नहीं, यह सम्पूर्ण श्रुतियोंके सारभूत अर्थका प्रतिपादक होनेके कारण सबके कानोंको प्रिय लगनेवाला तथा सभीके चित्तको आकृष्ट करनेवाला है।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "महात्मा नारदजीने पहले जैसा वर्णन किया था, उसी के क्रम से भगवान् वाल्मीकि मुनि ने रघुवंशविभूषण श्रीराम के चरित्रविषयक रामायण काव्य का निर्माण किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रामलक्ष्मणसीताभिः",
+            "hindi": "राम, लक्ष्मण और सीता के द्वारा / साथ (तृतीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "राज्ञा",
+            "hindi": "राजा के द्वारा / साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथेन",
+            "hindi": "दशरथ के द्वारा / साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सभार्येण",
+            "hindi": "रानियों सहित (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सराष्ट्रेण",
+            "hindi": "राज्य सहित (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो कुछ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राप्तम्",
+            "hindi": "प्राप्त था / हुआ (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ / उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "तत्त्वतः",
+            "hindi": "तत्त्व से / यथार्थ रूप से (अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "हसितम्",
+            "hindi": "हँसना (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भाषितम्",
+            "hindi": "बोलना (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "गतिः",
+            "hindi": "चलना (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यावत्",
+            "hindi": "जितनी (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "चेष्टितम्",
+            "hindi": "चेष्टाएँ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मवीर्येण",
+            "hindi": "योगधर्म के बल से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यथावत्",
+            "hindi": "भलीभाँति / यथार्थ रूप से (अव्यय)"
+          },
+          {
+            "sanskrit": "सम्प्रपश्यति",
+            "hindi": "साक्षात्कार किया (सम् + प्र + दृश्, लट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "स्त्रीतृतीयेन",
+            "hindi": "स्त्री (सीता) के साथ तीसरे (लक्ष्मण) सहित (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो कुछ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राप्तम्",
+            "hindi": "प्राप्त / हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "चरता",
+            "hindi": "विचरते हुए (शतृ प्रत्ययान्त, तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यसन्धेन",
+            "hindi": "सत्यप्रतिज्ञ (राम) के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामेण",
+            "hindi": "राम के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्ववैक्षत",
+            "hindi": "देखा / साक्षात्कार किया (अनु + अव + ईक्ष्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "पश्यति",
+            "hindi": "देखता है (दृश् धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "धर्मात्मा",
+            "hindi": "धर्मात्मा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "योगमास्थितः",
+            "hindi": "योग का आश्रय लेकर स्थित हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरा",
+            "hindi": "पूर्वकाल में (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "निर्वृत्तम्",
+            "hindi": "घटित हुई थीं (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पाणौ",
+            "hindi": "हाथ पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "आमलकम्",
+            "hindi": "आँवला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सबको (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्त्वतः",
+            "hindi": "यथार्थ रूप से (अव्यय)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर / निरीक्षण करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "धर्मेण",
+            "hindi": "योगधर्म के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महामतिः",
+            "hindi": "महाबुद्धिमान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिरामस्य",
+            "hindi": "अत्यन्त मनोहर / सबको प्रिय का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सम्पूर्ण चरित्र को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कर्तुम्",
+            "hindi": "करने / रचने के लिए (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "उद्यतः",
+            "hindi": "उद्यत / तत्पर हुए (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कामार्थगुणसंयुक्तम्",
+            "hindi": "काम और अर्थ रूप गुणों से युक्त (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मार्थगुणविस्तरम्",
+            "hindi": "धर्म और अर्थ रूप गुणों का विस्तार करने वाला (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रम्",
+            "hindi": "समुद्र के (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "रत्नाढ्यम्",
+            "hindi": "रत्नों से परिपूर्ण (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वश्रुतिमनोहरम्",
+            "hindi": "सबकी श्रुति और मन को हरने वाला / मनोहर (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "उन्होंने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसा (अव्यय)"
+          },
+          {
+            "sanskrit": "कथितम्",
+            "hindi": "वर्णन किया था (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "पूर्वम्",
+            "hindi": "पहले (अव्यय)"
+          },
+          {
+            "sanskrit": "नारदेन",
+            "hindi": "नारद के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महात्मना",
+            "hindi": "महात्मा के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रघुवंशस्य",
+            "hindi": "रघुवंश के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "चरितम्",
+            "hindi": "चरित्र का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "निर्माण किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.3",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "श्रीराम-लक्ष्मण-सीता तथा राज्य और रानियोंसहित राजा दशरथसे सम्बन्ध रखनेवाली जितनी बातें थीं- हँसना, बोलना, चलना और राज्यपालन आदि जितनी चेष्यएँ हुई-उन सबका महर्षिने अपने योगधर्मके बलसे भलीभाँति साक्षात्कार किया॥ ३-४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.4",
+        "ocr_flags": [
+          "hindi_marker_range_3-4"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "श्रीराम-लक्ष्मण-सीता तथा राज्य और रानियोंसहित राजा दशरथसे सम्बन्ध रखनेवाली जितनी बातें थीं- हँसना, बोलना, चलना और राज्यपालन आदि जितनी चेष्यएँ हुई-उन सबका महर्षिने अपने योगधर्मके बलसे भलीभाँति साक्षात्कार किया॥ ३-४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.5",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "सत्यप्रतिज्ञ श्रीरामचन्द्रजीने लक्ष्मण और सीताके साथ वनमें विचरते समय जो-जो लीलाएँ की थीं, वे सब उनको दृष्टिमें आ गयीं॥५॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.6",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "योगका आश्रय लेकर उन धर्मात्मा महर्षिने पूर्वकालमें जो-जो घटनाएँ घटित हुई थीं, उन सबको वहाँ हाथपर रखे हुए आँवलेकी तरह प्रत्यक्ष देखा॥ ६॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.7",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "सबके मनको प्रिय लगनेवाले भगवान्‌ श्रीरामके सम्पूर्ण चरित्रका योगधर्म (समाधि) के द्वारा यथार्थरूपसे निरीक्षण करके महाबुद्धिमान्‌ महर्षि वाल्मीकिने उन सबको महाकाव्यका रूप देनेकी चेष्य की॥ ७॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.8",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "महात्मा नारदजीने पहले जैसा वर्णन किया था, उसीके क्रमसे भगवान्‌ वाल्मीकि मुनिने रघुवंशविभूषण श्रीरामके चरित्रविषयक रामायण काव्यका निर्माण किया। जैसे समुद्र सब रत्नोंकी निधि है, उसी प्रकार यह महाकाव्य गुण, अलङ्कार एवं ध्वनि आदि रत्नोंका भण्डार है। इतना ही नहीं, यह सम्पूर्ण श्रुतियोंके सारभूत अर्थका प्रतिपादक होनेके कारण सबके कानोंको प्रिय लगनेवाला तथा सभीके चित्तको आकृष्ट करनेवाला है। यह धर्म, अर्थ, काम, मोक्षरूपी गुणों (फलों) से युक्त तथा इनका विस्तारपूर्वक प्रतिपादन एवं दान करनेवाला है॥ ८-९॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.9",
+        "ocr_flags": [
+          "hindi_marker_range_8-9"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "महात्मा नारदजीने पहले जैसा वर्णन किया था, उसीके क्रमसे भगवान्‌ वाल्मीकि मुनिने रघुवंशविभूषण श्रीरामके चरित्रविषयक रामायण काव्यका निर्माण किया। जैसे समुद्र सब रत्नोंकी निधि है, उसी प्रकार यह महाकाव्य गुण, अलङ्कार एवं ध्वनि आदि रत्नोंका भण्डार है। इतना ही नहीं, यह सम्पूर्ण श्रुतियोंके सारभूत अर्थका प्रतिपादक होनेके कारण सबके कानोंको प्रिय लगनेवाला तथा सभीके चित्तको आकृष्ट करनेवाला है। यह धर्म, अर्थ, काम, मोक्षरूपी गुणों (फलों) से युक्त तथा इनका विस्तारपूर्वक प्रतिपादन एवं दान करनेवाला है॥ ८-९॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,217 @@
+{
+  "id": "baala-005-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 19
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-19"
+    ],
+    "vulgate_in_locators": [
+      "1.5.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.19"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005019a",
+        "1005019c"
+      ],
+      "lines": [
+        "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+        "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्"
+      ],
+      "punctuated_derived": "विमानमिव सिद्धानां तपसाधिगतं दिवि ।\nसुनिवेशितवेश्मान्तां नरोत्तमसमावृताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+        "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्"
+      ],
+      "locators": [
+        "1-5-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+        "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्"
+      ],
+      "locators": [
+        "1.5.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+        "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+      "net": "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+      "in": "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+      "gp": "विमानमिव सिद्धानां तपसाधिगतं दिवि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्",
+      "net": "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्",
+      "in": "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्",
+      "gp": "सुनिवेशितवेश्मान्तां नरोत्तमसमावृताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नरोत्तमसमावृताम्",
+            "b": "नरोत्तमसमावृताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Ayodhya is like a hovering space station attained by sages by their ascesis, and its edifices are well planned and it is teeming with best people. [1-4-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "divi tapasaa adhigatam",
+            "devanagari_machine_converted": "दिवि तपसा अधिगतम्",
+            "english": "heavens attained with ascesis"
+          },
+          {
+            "roman_itrans": "siddhaanaam",
+            "devanagari_machine_converted": "सिद्धानाम्",
+            "english": "of sages"
+          },
+          {
+            "roman_itrans": "vimaanam iva",
+            "devanagari_machine_converted": "विमानम् इव",
+            "english": "space-stations, like"
+          },
+          {
+            "roman_itrans": "suniveshitaveshmaantaam",
+            "devanagari_machine_converted": "सुनिवेशितवेश्मान्ताम्",
+            "english": "well planned with edifices"
+          },
+          {
+            "roman_itrans": "narottamasamaavR^itaam",
+            "devanagari_machine_converted": "नरोत्तमसमावृताम्",
+            "english": "teemed with the best people."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "देवलोकमें तपस्यासे प्राप्त हए सिद्धोंके विमानकी भाँति उस पुरीका भूमण्डलमें सर्वोत्तम स्थान था। वहाँके सुन्दर महल बहुत अच्छे ढंगसे बनाये और बसाये गये थे। उनके भीतरी भाग बहुत ही सुन्दर थे। बहुत-से श्रेष्ठ पुरुष उस पुरीमें निवास करते थे॥१९॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विमानम्",
+            "hindi": "विमान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "सिद्धानाम्",
+            "hindi": "सिद्धों के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तपसा",
+            "hindi": "तपस्या से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अधिगतम्",
+            "hindi": "प्राप्त किया हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "दिवि",
+            "hindi": "देवलोक में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सुनिवेशितवेश्मान्ताम्",
+            "hindi": "सुन्दर निवेशित भीतरी भागों वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नरोत्तमसमावृताम्",
+            "hindi": "श्रेष्ठ पुरुषों से आवृत / घिरी हुई को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.19",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "देवलोकमें तपस्यासे प्राप्त हुए सिद्धोंके विमानको भाँति उस पुरीका भूमण्डलमें सर्वोत्तम स्थान था। वहाँके सुन्दर महल बहुत अच्छे ढंगसे बनाये और बसाये गये * गोविन्द्राजकी टीकामें अष्टापदका अर्थ शारिफल या झूतफलक किया गया है। वह चौकी जिसपर पासा बिछाया या खेला जाय, झूतफलक कहलाती है। पुरीके बीचमें राजमहल था। उसके चारों ओर राजबीथियाँ थीं और बीचमें खाली जगहे थीं। यही “अष्टापदाकारा' का भाव है। थे। उनके भीतरी भाग बहुत ही सुन्दर थे। बहुत-से श्रेष्ठ पुरुष उस पुरीमें निवास करते थे॥ १९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

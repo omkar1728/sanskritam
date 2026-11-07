@@ -1,0 +1,225 @@
+{
+  "id": "baala-005-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 17
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-17"
+    ],
+    "vulgate_in_locators": [
+      "1.5.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005017a",
+        "1005017c"
+      ],
+      "lines": [
+        "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम्",
+        "शालितण्डुलसंपूर्णामिक्षुकाण्डरसोदकाम्"
+      ],
+      "punctuated_derived": "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम् ।\nशालितण्डुलसंपूर्णामिक्षुकाण्डरसोदकाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम्",
+        "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्"
+      ],
+      "locators": [
+        "1-5-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम्",
+        "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्"
+      ],
+      "locators": [
+        "1.5.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गुहगाढामविच्छिद्रां समभूमौ निवेशिताम्‌",
+        "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.5.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम्",
+      "net": "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम्",
+      "in": "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम्",
+      "gp": "गुहगाढामविच्छिद्रां समभूमौ निवेशिताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "गृहगाढामविच्छिद्रां",
+            "b": "गुहगाढामविच्छिद्रां"
+          },
+          {
+            "a": "निवेशिताम्",
+            "b": "निवेशिताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शालितण्डुलसंपूर्णामिक्षुकाण्डरसोदकाम्",
+      "net": "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्",
+      "in": "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्",
+      "gp": "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "शालितण्डुलसंपूर्णामिक्षुकाण्डरसोदकाम्",
+            "b": "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्",
+            "b": "शालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The housing is very dense and there is no place or ground unutilized, and all are constructed on well-levelled lands, and rice-grain is plentiful while the drinking water tastes like sugar cane juice. [1-5-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "gR^ihagaaDhaam avicChidraam",
+            "devanagari_machine_converted": "गृहगाढाम् अविच्छिद्राम्",
+            "english": "housing dense nothing left unutilised"
+          },
+          {
+            "roman_itrans": "samabhuumau niveshitaam",
+            "devanagari_machine_converted": "समभूमौ निवेशिताम्",
+            "english": "constructed on well levelled lands"
+          },
+          {
+            "roman_itrans": "shaalitaNDulasampuurNaam",
+            "devanagari_machine_converted": "शालितण्डुलसम्पूर्णाम्",
+            "english": "plentiful rice grains"
+          },
+          {
+            "roman_itrans": "ikShukaaNDarasodakaam",
+            "devanagari_machine_converted": "इक्षुकाण्डरसोदकाम्",
+            "english": "water is like sugar cane juice."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "पुरवासियोंके घरोंसे उसकी आबादी इतनी घनी हो गयी थी कि कहीं थोड़ा-सा भी अवकाश नहीं दिखायी देता था। उसे समतल भूमिपर बसाया गया था। वह नगरी जड़हन धानके चावलोंसे भरपूर थी। वहाँका जल इतना मीठा या स्वादिष्ट था, मानो ईखका रस हो॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गृहगाढाम्",
+            "hindi": "घरों की घनी बसावट वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अविच्छिद्राम्",
+            "hindi": "जहाँ अन्तराल / जगह न हो उसको (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समभूमौ",
+            "hindi": "समतल भूमि पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "निवेशिताम्",
+            "hindi": "बसाई गई को (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "शालितण्डुलसम्पूर्णाम्",
+            "hindi": "धान के चावलों से सम्पूर्ण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इक्षुकाण्डरसोदकाम्",
+            "hindi": "ईख के रस के समान जल वाली को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.17",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "पुरवासियोंके घरॉंसे उसकी आबादी इतनी घनी हो गयी थी कि कहीं थोड़ा-सा भी अवकाश नहीं दिखायी देता था। उसे समतल भूमिपर बसाया गया था। वह नगरी जड्हन धानके चावलोंसे भरपूर थी। वहाँका जल इतना मीठा या स्वादिष्ट था, मानो ईखका रस हो॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

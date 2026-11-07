@@ -1,0 +1,273 @@
+{
+  "id": "baala-009-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 18
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-15"
+    ],
+    "vulgate_in_locators": [
+      "1.9.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008018a",
+        "1008018c"
+      ],
+      "lines": [
+        "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्",
+        "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्"
+      ],
+      "punctuated_derived": "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान् ।\nपुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततो राजा विनिश्चित्य सह मंत्रिभिरात्मवान्",
+        "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्"
+      ],
+      "locators": [
+        "1-9-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्",
+        "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्"
+      ],
+      "locators": [
+        "1.9.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्‌",
+        "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.9.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्",
+      "net": "ततो राजा विनिश्चित्य सह मंत्रिभिरात्मवान्",
+      "in": "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्",
+      "gp": "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मन्त्रिभिरात्मवान्",
+            "b": "मंत्रिभिरात्मवान्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मंत्रिभिरात्मवान्",
+            "b": "मन्त्रिभिरात्मवान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मंत्रिभिरात्मवान्",
+            "b": "मन्त्रिभिरात्मवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्",
+      "net": "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्",
+      "in": "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्",
+      "gp": "पुरोहितममात्यांश्च प्रेषयिष्यति सत्कृतान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सत्कृतान्",
+            "b": "सत्कृतान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then that intellectual king decides along with ministers, to dispatch clergymen and ministers, honouring them well, and then sends them... [1-9-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "raajaa",
+            "devanagari_machine_converted": "राजा",
+            "english": "the king"
+          },
+          {
+            "roman_itrans": "vinishchitya",
+            "devanagari_machine_converted": "विनिश्चित्य",
+            "english": "decides"
+          },
+          {
+            "roman_itrans": "saha",
+            "devanagari_machine_converted": "सह",
+            "english": "along with"
+          },
+          {
+            "roman_itrans": "mantribhiH",
+            "devanagari_machine_converted": "मन्त्रिभिः",
+            "english": "ministers"
+          },
+          {
+            "roman_itrans": "aatmavaan",
+            "devanagari_machine_converted": "आत्मवान्",
+            "english": "one with intelligence"
+          },
+          {
+            "roman_itrans": "purohitam",
+            "devanagari_machine_converted": "पुरोहितम्",
+            "english": "clergymen"
+          },
+          {
+            "roman_itrans": "amaatyaan cha",
+            "devanagari_machine_converted": "अमात्यान् च",
+            "english": "ministers, also"
+          },
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "preSayiSyati",
+            "devanagari_machine_converted": "प्रेषयिष्यति",
+            "english": "will send."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“फिर वे मनस्वी नरेश मन्त्रियों के साथ निश्चय करके अपने पुरोहित और मन्त्रियों को सत्कारपूर्वक वहाँ भेजेंगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विनिश्चित्य",
+            "hindi": "निश्चय करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "सह",
+            "hindi": "साथ (अव्यय)"
+          },
+          {
+            "sanskrit": "मन्त्रिभिः",
+            "hindi": "मन्त्रियों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आत्मवान्",
+            "hindi": "मनस्वी / धैर्यवान् ने (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "पुरोहितम्",
+            "hindi": "पुरोहित को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अमात्यान्",
+            "hindi": "मन्त्रियों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रेषयिष्यति",
+            "hindi": "भेजेंगे (प्र + इष्, प्रयोज्यार्थ, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सत्कृतान्",
+            "hindi": "सत्कारपूर्वक (द्वितीया विभक्ति/क्रियाविशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.15",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“फिर वे मनस्वी नरेश मन्त्रियोंक साथ निश्चय करके अपने पुरोहित और मन्त्रियोंको सत्कारपूर्वक वहाँ भेजेंगे॥ १५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

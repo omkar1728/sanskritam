@@ -1,0 +1,190 @@
+{
+  "id": "baala-003-032",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 32,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 21
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-31"
+    ],
+    "vulgate_in_locators": [
+      "1.3.31"
+    ],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003021a",
+        "1003021c"
+      ],
+      "lines": [
+        "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्",
+        "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्"
+      ],
+      "punctuated_derived": "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम् ।\nराक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्",
+        "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्"
+      ],
+      "locators": [
+        "1-3-31"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्",
+        "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्"
+      ],
+      "locators": [
+        "1.3.31"
+      ]
+    },
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्",
+      "net": "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्",
+      "in": "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्",
+      "net": "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्",
+      "in": "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-31",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Presenting his credential, the ring of Rama, to Seetha and his talk with Seeta, and also his witnessing the demonesses scaring Seetha to oblige Ravana, and his witnessing demoness Trijata narrating her bad dream, are all narrated in the epic. [1-3-31]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-31",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "abhij~naanapradaanam ca",
+            "devanagari_machine_converted": "अभिज्ञानप्रदानम् च",
+            "english": "credential presenting, also"
+          },
+          {
+            "roman_itrans": "siitaayaaH ca api bhaaSaNam",
+            "devanagari_machine_converted": "सीतायाः च अपि भाषणम्",
+            "english": "also even talking to Seetha"
+          },
+          {
+            "roman_itrans": "raakShasiitarjanam ca eva",
+            "devanagari_machine_converted": "राक्षसीतर्जनम् च एव",
+            "english": "demoness' scaring also, thus"
+          },
+          {
+            "roman_itrans": "trijaTaasvapnadarshanam",
+            "devanagari_machine_converted": "त्रिजटास्वप्नदर्शनम्",
+            "english": "witnessing dream of the demoness Trijata; dream witnessing."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.31",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "पहचानके लिये सीताजीको अँगूठी देना और उनसे बातचीत करना, राक्षसियोंद्वारा सीताको डाँट-फटकार, त्रिजटाको श्रीरामके लिये शुभसूचक स्वप्नका दर्शन,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.31",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अभिज्ञानप्रदानम्",
+            "hindi": "पहचान का चिन्ह (अंगूठी) देना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सीतायाः",
+            "hindi": "सीता का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "भाषणम्",
+            "hindi": "भाषण / बातचीत (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राक्षसीतर्जनम्",
+            "hindi": "राक्षसियों द्वारा धमकाना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "त्रिजटास्वप्नदर्शनम्",
+            "hindi": "त्रिजटा के स्वप्न का दर्शन / सपना देखना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": null
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,316 @@
+{
+  "id": "baala-001-039",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 39,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 30
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-37"
+    ],
+    "vulgate_in_locators": [
+      "1.1.37",
+      "1.1.38"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.37"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001030a",
+        "1001030c"
+      ],
+      "lines": [
+        "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः",
+        "निवर्तयामास ततो भरतं भरताग्रजः"
+      ],
+      "punctuated_derived": "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः ।\nनिवर्तयामास ततो भरतं भरताग्रजः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः",
+        "निवर्तयामास ततो भरतं भरताग्रजः"
+      ],
+      "locators": [
+        "1-1-37"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः",
+        "निवर्तयामास ततो भरतं भरताग्रजः"
+      ],
+      "locators": [
+        "1.1.37",
+        "1.1.38"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पादुके चास्य राज्याय ऱ्यासं दत्त्वा पुनः पुनः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_36-373"
+      ],
+      "refs": [
+        "1.1.37"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः",
+      "net": "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः",
+      "in": "पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः",
+      "gp": "पादुके चास्य राज्याय ऱ्यासं दत्त्वा पुनः पुनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.961038961038961
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "न्यासं",
+            "b": "ऱ्यासं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "निवर्तयामास ततो भरतं भरताग्रजः",
+      "net": "निवर्तयामास ततो भरतं भरताग्रजः",
+      "in": "निवर्तयामास ततो भरतं भरताग्रजः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-37",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Thereafter, repeatedly turning Bharata back, the elder brother, Rama, gave his wooden shoes to Bharata and entrusting them to represent him for the sake of kingdom. [1-1-37b, 38a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-37",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "37b, 38a. tataH",
+            "devanagari_machine_converted": "३७ब्, ३८अ। ततः",
+            "english": "Thereafter"
+          },
+          {
+            "roman_itrans": "punaH punaH",
+            "devanagari_machine_converted": "पुनः पुनः",
+            "english": "repeatedly"
+          },
+          {
+            "roman_itrans": "bharatam nivartayaamaasa",
+            "devanagari_machine_converted": "भरतम् निवर्तयामास",
+            "english": "turning Bharata back"
+          },
+          {
+            "roman_itrans": "bharataagrajaH",
+            "devanagari_machine_converted": "भरताग्रजः",
+            "english": "[Rama] the elder brother of Bharata"
+          },
+          {
+            "roman_itrans": "paaduke dattvaa",
+            "devanagari_machine_converted": "पादुके दत्त्वा",
+            "english": "giving (the two) wooden shoes"
+          },
+          {
+            "roman_itrans": "asya",
+            "devanagari_machine_converted": "अस्य",
+            "english": "to him [to Bharata]; cha nyaasam = and entrusting [them]"
+          },
+          {
+            "roman_itrans": "raajyaaya",
+            "devanagari_machine_converted": "राज्याय",
+            "english": "for (the sake of) kingdom."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.37",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "पिताके आदेशका पालन करते हुए राज्यकी अभिलाषा न की और उन भरताग्रजने राज्यके लिये न्यास रूपमें अपनी खड़ाऊँ भरतको देकर उन्हें बार-बार आग्रह करके"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.38",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "लौटा दिया। अपनी अपूर्ण इच्छाको लेकर ही भरतने रामके चरणोंका स्पर्श किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.37",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "ऐच्छत्",
+            "hindi": "चाहा (इष् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आदेशात्",
+            "hindi": "आदेश के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाबलः",
+            "hindi": "महाबली ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पादुके",
+            "hindi": "खड़ाऊँ को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अस्य",
+            "hindi": "इस (भरत) के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "राज्याय",
+            "hindi": "राज्य के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "न्यासम्",
+            "hindi": "धरोहर रूप में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुनः पुनः",
+            "hindi": "बार-बार (अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.38",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "निवर्तयामास",
+            "hindi": "लौटाया (नि + वृत्, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "भरतम्",
+            "hindi": "भरत को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "भरताग्रजः",
+            "hindi": "भरत के अग्रज (राम) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उस (भरत) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कामम्",
+            "hindi": "इच्छा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनवाप्य",
+            "hindi": "प्राप्त किये बिना ही (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "रामपादौ",
+            "hindi": "राम के चरणों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपस्पृशन्",
+            "hindi": "स्पर्श करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.37",
+        "ocr_flags": [
+          "hindi_marker_range_36-373"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "निवर्तयामास ततो भरतं भरताग्रजः। “परंतु महान्‌ यशस्वी परम उदार प्रसन्नमुख महाबली रामने भी पिताके आदेशका पालन करते हुए राज्यकी अभिलाषा न की और उन भरताग्रजने राज्यके लिये न्यास (चिह्न) रूपमें अपनी खड़ाऊँ भरतको देकर उन्हें बार- बार आग्रह करके लौटा दिया॥ ३६-३७३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

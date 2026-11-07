@@ -1,0 +1,233 @@
+{
+  "id": "baala-003-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 19
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-27"
+    ],
+    "vulgate_in_locators": [
+      "1.3.27"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.27"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003019a"
+      ],
+      "lines": [
+        "पर्वतारोहणं चैव सागरस्य च लङ्घनम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पर्वतारोहणं चापि सागरस्यापि लङ्घनम्"
+      ],
+      "locators": [
+        "1-3-27"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पर्वतारोहणं चैव सागरस्यापि लङ्घनम्"
+      ],
+      "locators": [
+        "1.3.27"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पर्वतारोहणं चैव सागरस्यापि लङ्घनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.27"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पर्वतारोहणं चैव सागरस्य च लङ्घनम्",
+      "net": "पर्वतारोहणं चापि सागरस्यापि लङ्घनम्",
+      "in": "पर्वतारोहणं चैव सागरस्यापि लङ्घनम्",
+      "gp": "पर्वतारोहणं चैव सागरस्यापि लङ्घनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.8421052631578947,
+        "sim_in_net": 0.9152542372881356,
+        "sim_gp_net": 0.9152542372881356
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "चैव सागरस्य च",
+            "b": "चापि सागरस्यापि"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "चापि",
+            "b": "चैव"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चापि",
+            "b": "चैव"
+          },
+          {
+            "a": "लङ्घनम्",
+            "b": "लङ्घनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-27",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Hanuma's climbing Mt. Mahendra to leap over the ocean, and on the advice of the Ocean, Mt. Mainaka's coming up from under waters to give rest to Hanuma, and Hanuma's seeing that mountain are depicted. [1-3-27]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-27",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "parvataarohaNam ca api",
+            "devanagari_machine_converted": "पर्वतारोहणम् च अपि",
+            "english": "mountain [Mt. Mahendra] climbing, also, even"
+          },
+          {
+            "roman_itrans": "saagarasya ca la~nghanam",
+            "devanagari_machine_converted": "सागरस्य च लञ्घनम्",
+            "english": "also leaping out of ocean"
+          },
+          {
+            "roman_itrans": "samudravachanaat ca eva",
+            "devanagari_machine_converted": "समुद्रवचनात् च एव",
+            "english": "advise of Ocean, also, thus"
+          },
+          {
+            "roman_itrans": "mainaakasya ca darshanam",
+            "devanagari_machine_converted": "मैनाकस्य च दर्शनम्",
+            "english": "also seeing of Mt. Mainaka."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "समुद्रलङ्घनके लिये हनुमान् जी का महेन्द्र पर्वतपर चढ़ना, समुद्रको लाँघना, समुद्रके कहनेसे ऊपर उठे हुए मैनाकका दर्शन करना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पर्वतारोहणम्",
+            "hindi": "पर्वत पर चढ़ना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "सागरस्य",
+            "hindi": "समुद्र का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "लङ्घनम्",
+            "hindi": "लाँघना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रवचनात्",
+            "hindi": "समुद्र के कहने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "मैनाकस्य",
+            "hindi": "मैनाक पर्वत का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.27",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

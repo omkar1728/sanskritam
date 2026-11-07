@@ -1,0 +1,213 @@
+{
+  "id": "baala-010-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 5
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-5"
+    ],
+    "vulgate_in_locators": [
+      "1.10.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009005a",
+        "1009005c"
+      ],
+      "lines": [
+        "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+        "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः"
+      ],
+      "punctuated_derived": "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः ।\nप्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+        "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः"
+      ],
+      "locators": [
+        "1-10-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+        "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः"
+      ],
+      "locators": [
+        "1.10.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+        "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+      "net": "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+      "in": "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+      "gp": "गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः",
+      "net": "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः",
+      "in": "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः",
+      "gp": "प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Beautiful and well decorated courtesans will go there to bring him hither by tempting with many a feint, and let the courtesans be given ample gifts... [1-10-5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "ruupavatyaH svalankR^itaaH",
+            "devanagari_machine_converted": "रूपवत्यः स्वलन्कृताः",
+            "english": "beautiful ones, well decorated ones"
+          },
+          {
+            "roman_itrans": "gaN^ikaaH tatra gacChantu satkR^itaaH",
+            "devanagari_machine_converted": "गङिकाः तत्र गच्छन्तु सत्कृताः",
+            "english": "courtesans, there, they go, amply gifted [by you]"
+          },
+          {
+            "roman_itrans": "pralobhya vividhopaayaiH",
+            "devanagari_machine_converted": "प्रलोभ्य विविधोपायैः",
+            "english": "tempting, by many idea"
+          },
+          {
+            "roman_itrans": "iha aaneSyanti",
+            "devanagari_machine_converted": "इह आनेष्यन्ति",
+            "english": "bring him, hither."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“यदि सुन्दर आभूषणोंसे विभूषित मनोहर रूपवाली वेश्याएँ वहाँ जायँ तो वे भाँति-भाँतिके उपायोंसे उन्हें लुभाकर इस नगरमें ले आयेंगी; अतः इन्हें सत्कारपूर्वक भेजना चाहिये’।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गणिकाः",
+            "hindi": "वेश्याएँ / गणिकाएँ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "गच्छन्तु",
+            "hindi": "जाएँ (गम् धातु, लोट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "रूपवत्यः",
+            "hindi": "सुन्दर रूप वाली (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "स्वलङ्कृताः",
+            "hindi": "अच्छी तरह सजी हुई (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "प्रलोभ्य",
+            "hindi": "लुभाकर / प्रलोभन देकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "विविधोपायैः",
+            "hindi": "विविध उपायों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आनेष्यन्ति",
+            "hindi": "ले आयेंगी (आ + नी, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "इह",
+            "hindi": "यहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "सत्कृताः",
+            "hindi": "सत्कारपूर्वक (प्रथमा विभक्ति, बहुवचन/क्रियाविशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.5",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“४ यदि सुन्दर आभूषणोंसे विभूषित मनोहर रूपवाली वेश्याए वहाँ जाये तो वे भाँति-भाँतिके उपायोंसे उन्हे लुभाकर इस नगरमें ले आयेंगी; अतः इन्हें सत्कारपूर्वक भेजना चाहिये'॥ ५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,256 @@
+{
+  "id": "baala-004-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-2"
+    ],
+    "vulgate_in_locators": [
+      "1.4.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.2"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "चतुर्विंशत्सहस्त्राणि श्लोकानामुक्तवानृषिः",
+        "तथा सर्गशतान् पञ्च षट् काण्डानि तथोत्तरम्"
+      ],
+      "locators": [
+        "1-4-2"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः",
+        "तथा सर्गशतान् पञ्च षटकाण्डानि तथोत्तरम्"
+      ],
+      "locators": [
+        "1.4.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "चतुर्विशत्सहसत्राणि श्लोकानामुक्तवानृषिः",
+        "तथा सर्गशतान्‌ पञ्च षद्काण्डानि तथोत्तरम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "चतुर्विंशत्सहस्त्राणि श्लोकानामुक्तवानृषिः",
+      "in": "चतुर्विंशत्सहस्राणि श्लोकानामुक्तवानृषिः",
+      "gp": "चतुर्विशत्सहसत्राणि श्लोकानामुक्तवानृषिः",
+      "similarity": {
+        "sim_in_net": 0.975,
+        "sim_gp_net": 0.975
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चतुर्विंशत्सहस्त्राणि",
+            "b": "चतुर्विंशत्सहस्राणि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चतुर्विंशत्सहस्त्राणि",
+            "b": "चतुर्विशत्सहसत्राणि"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तथा सर्गशतान् पञ्च षट् काण्डानि तथोत्तरम्",
+      "in": "तथा सर्गशतान् पञ्च षटकाण्डानि तथोत्तरम्",
+      "gp": "तथा सर्गशतान्‌ पञ्च षद्काण्डानि तथोत्तरम्‌",
+      "similarity": {
+        "sim_in_net": 0.9841269841269841,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "षट् काण्डानि",
+            "b": "षटकाण्डानि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सर्गशतान्",
+            "b": "सर्गशतान्‌"
+          },
+          {
+            "a": "षट् काण्डानि तथोत्तरम्",
+            "b": "षद्काण्डानि तथोत्तरम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-2",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Sage Valmiki said Ramayana in twenty four thousand verses, in five hundred chapters, in six books, likewise an end-piece too. [1-4-2]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-2",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "R^iSiH",
+            "devanagari_machine_converted": "ऋषिः",
+            "english": "sage Valmiki"
+          },
+          {
+            "roman_itrans": "shlokaanaam",
+            "devanagari_machine_converted": "श्लोकानाम्",
+            "english": "verses"
+          },
+          {
+            "roman_itrans": "chaturvimshatsahasraaNi",
+            "devanagari_machine_converted": "चतुर्विम्शत्सहस्राणि",
+            "english": "twenty-four thousand"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "that way"
+          },
+          {
+            "roman_itrans": "panchasargashataan",
+            "devanagari_machine_converted": "पन्चसर्गशतान्",
+            "english": "five hundreds chapters"
+          },
+          {
+            "roman_itrans": "SaT kaaNDaani cha",
+            "devanagari_machine_converted": "षट् काण्डानि च",
+            "english": "six, books, also"
+          },
+          {
+            "roman_itrans": "tathaa uttaram",
+            "devanagari_machine_converted": "तथा उत्तरम्",
+            "english": "that way, an end piece"
+          },
+          {
+            "roman_itrans": "uktavaan",
+            "devanagari_machine_converted": "उक्तवान्",
+            "english": "said."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-2",
+        "spans_beyond_this_verse": false,
+        "text": "The twenty-four are the letters in Gayatri hymn. Ramayana's scheming is based on Gayatri hymn and for this: atra caturvi~Nshatisa~Nkhyo uktyaa caturvi~NshatyakSharagaayatrii tulyataa suucitaa | prathamaadhyaaye - tapaHsvaadhyaaya - ityatra prathamam takaarasya - sargaante - mahatvamiiyaat -- ityatra yaat - iti akSharasya grahaNaat api gaayatriiruupatvam suucitam - dharmaakuutam"
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इसमें महर्षिने चौबीस हजार श्लोक, पाँच सौ सर्ग तथा उत्तरसहित छह काण्डोंका प्रतिपादन किया है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चतुर्विंशत्सहस्राणि",
+            "hindi": "चौबीस हजार"
+          },
+          {
+            "sanskrit": "श्लोकानाम्",
+            "hindi": "श्लोकों के"
+          },
+          {
+            "sanskrit": "उक्तवान्",
+            "hindi": "कहा / प्रतिपादन किया"
+          },
+          {
+            "sanskrit": "ऋषिः",
+            "hindi": "ऋषि ने"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा"
+          },
+          {
+            "sanskrit": "सर्गशतान्",
+            "hindi": "सौ सर्ग"
+          },
+          {
+            "sanskrit": "पञ्च",
+            "hindi": "पाँच"
+          },
+          {
+            "sanskrit": "षट्काण्डानि",
+            "hindi": "छह काण्ड"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा"
+          },
+          {
+            "sanskrit": "उत्तरम्",
+            "hindi": "उत्तरकाण्ड सहित"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.2",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "इसमें महषिने चौबीस हजार श्लोक, पाँच सौ सर्ग तथा उत्तरसहित सात काण्डोंका प्रतिपादन किया है॥ २॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

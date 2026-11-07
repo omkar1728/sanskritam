@@ -1,0 +1,247 @@
+{
+  "id": "baala-005-014",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 14,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 13
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-13"
+    ],
+    "vulgate_in_locators": [
+      "1.5.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005013a",
+        "1005013c"
+      ],
+      "lines": [
+        "दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+        "वाजिवारणसंपूर्णां गोभिरुष्ट्रैः खरैस्तथा"
+      ],
+      "punctuated_derived": "दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम् ।\nवाजिवारणसंपूर्णां गोभिरुष्ट्रैः खरैस्तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दुर्गगंभीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+        "वाजिवारणसपूर्णां गोभिरुष्ट्रैः खरैस्तथा"
+      ],
+      "locators": [
+        "1-5-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+        "वाजिवारणसम्पूर्णां गोभिरुष्टैः खरैस्तथा"
+      ],
+      "locators": [
+        "1.5.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दुर्गगम्भीरपरिखां दुर्गामन्वै्दुरासदाम्‌",
+        "वाजिवारणसम्पूर्णा गोभिरुष्ट्रै खरैस्तथा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+      "net": "दुर्गगंभीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+      "in": "दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+      "gp": "दुर्गगम्भीरपरिखां दुर्गामन्वै्दुरासदाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9577464788732394
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "दुर्गगम्भीरपरिखां",
+            "b": "दुर्गगंभीरपरिखां"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "दुर्गगंभीरपरिखां",
+            "b": "दुर्गगम्भीरपरिखां"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "दुर्गगंभीरपरिखां दुर्गामन्यैर्दुरासदाम्",
+            "b": "दुर्गगम्भीरपरिखां दुर्गामन्वै्दुरासदाम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "वाजिवारणसंपूर्णां गोभिरुष्ट्रैः खरैस्तथा",
+      "net": "वाजिवारणसपूर्णां गोभिरुष्ट्रैः खरैस्तथा",
+      "in": "वाजिवारणसम्पूर्णां गोभिरुष्टैः खरैस्तथा",
+      "gp": "वाजिवारणसम्पूर्णा गोभिरुष्ट्रै खरैस्तथा",
+      "similarity": {
+        "sim_smith_net": 0.9866666666666667,
+        "sim_in_net": 0.958904109589041,
+        "sim_gp_net": 0.958904109589041
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वाजिवारणसंपूर्णां",
+            "b": "वाजिवारणसपूर्णां"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "वाजिवारणसपूर्णां गोभिरुष्ट्रैः",
+            "b": "वाजिवारणसम्पूर्णां गोभिरुष्टैः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वाजिवारणसपूर्णां गोभिरुष्ट्रैः",
+            "b": "वाजिवारणसम्पूर्णा गोभिरुष्ट्रै"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That Ayodhya is an impassable one for trespassers, or for others invaders, owing to her impassable and profound moats, and she is abounding with horses, camels, likewise with cows and donkeys. [1-5-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "durgagambhiiraparikhaam",
+            "devanagari_machine_converted": "दुर्गगम्भीरपरिखाम्",
+            "english": "impassable profound moats"
+          },
+          {
+            "roman_itrans": "durgaam anyaiH duraasadaam",
+            "devanagari_machine_converted": "दुर्गाम् अन्यैः दुरासदाम्",
+            "english": "impossible [to trespass,] by others invaders"
+          },
+          {
+            "roman_itrans": "vaajivaaraNasampuurNaam",
+            "devanagari_machine_converted": "वाजिवारणसम्पूर्णाम्",
+            "english": "abounding horses and elephants"
+          },
+          {
+            "roman_itrans": "gobhiH uSTraiH kharaiH tathaa",
+            "devanagari_machine_converted": "गोभिः उष्ट्रैः खरैः तथा",
+            "english": "cows, camels, donkeys, likewise."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उसके चारों ओर गहरी खाई खुदी थी, जिसमें प्रवेश करना या जिसे लाँघना अत्यन्त कठिन था। वह नगरी दूसरोंके लिये सर्वथा दुर्गम एवं दुर्जय थी। घोड़े, हाथी, गाय-बैल, ऊँट तथा गदहे आदि उपयोगी पशुओंसे वह पुरी भरी-पूरी थी॥ १३॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दुर्गगम्भीरपरिखाम्",
+            "hindi": "दुर्गम और गहरी परिखा / खाई वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दुर्गाम्",
+            "hindi": "दुर्गम / दुर्जय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अन्यैः",
+            "hindi": "दूसरों के लिये (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दुरासदाम्",
+            "hindi": "जिसका पास जाना कठिन हो उसको (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वाजिवारणसम्पूर्णाम्",
+            "hindi": "घोड़ों और हाथियों से सम्पूर्ण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गोभिः",
+            "hindi": "गायों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उष्ट्रैः",
+            "hindi": "ऊँटों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "खरैः",
+            "hindi": "गधों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.13",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उसके चारों ओर गहरी खाई खुदी थी, जिसमें प्रवेश करना या जिसे लाँघना अत्यन्त कठिन था। वह नगरी दूसरोंके लिये सर्वथा दुर्गम एवं दुर्जय थी। घोड़े, हाथी, गाय-बैल, ऊँट तथा गदहे आदि उपयोगी पशुओंसे वह पुरी भरी-पूरी थी॥ १३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,249 @@
+{
+  "id": "baala-002-021",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 21,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 20
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-21"
+    ],
+    "vulgate_in_locators": [
+      "1.2.21"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.21"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002020a",
+        "1002020c"
+      ],
+      "lines": [
+        "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान्गुरोः",
+        "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह"
+      ],
+      "punctuated_derived": "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान्गुरोः ।\nकलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान् गुरोः",
+        "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह"
+      ],
+      "locators": [
+        "1-2-21"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान् गुरोः",
+        "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह"
+      ],
+      "locators": [
+        "1.2.21"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान्‌ गुरोः",
+        "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.21"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान्गुरोः",
+      "net": "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान् गुरोः",
+      "in": "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान् गुरोः",
+      "gp": "भरद्वाजस्ततः शिष्यो विनीतः श्रुतवान्‌ गुरोः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "श्रुतवान्गुरोः",
+            "b": "श्रुतवान् गुरोः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "श्रुतवान्",
+            "b": "श्रुतवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह",
+      "net": "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह",
+      "in": "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह",
+      "gp": "कलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-21",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then Bharadwaja, the obedient disciple and an erudite scholar, for he heard and learnt many scriptures by listening, on taking handy-vessel full with water followed at the behind of his mentor. [1-2-21]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-21",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH viniitaH",
+            "devanagari_machine_converted": "ततः विनीतः",
+            "english": "then, obedient one"
+          },
+          {
+            "roman_itrans": "shrutavaan",
+            "devanagari_machine_converted": "श्रुतवान्",
+            "english": "one who listened many scriptures, [erudite scholar]"
+          },
+          {
+            "roman_itrans": "shiShyaH",
+            "devanagari_machine_converted": "शिष्यः",
+            "english": "disciple"
+          },
+          {
+            "roman_itrans": "Bharadwaja; puurNam kalasham",
+            "devanagari_machine_converted": "Bहरद्वज; पूर्णम् कलशम्",
+            "english": "filled, handy-vessel"
+          },
+          {
+            "roman_itrans": "aadaaya",
+            "devanagari_machine_converted": "आदाय",
+            "english": "on taking"
+          },
+          {
+            "roman_itrans": "guroH",
+            "devanagari_machine_converted": "गुरोः",
+            "english": "mentor's"
+          },
+          {
+            "roman_itrans": "pR^iSTataH anujagaama",
+            "devanagari_machine_converted": "पृष्टतः अनुजगाम",
+            "english": "followed at behind."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "फिर उनका विनीत एवं शास्त्रज्ञ शिष्य भरद्वाज भी वह जलसे भरा हुआ कलश लेकर गुरुजीके पीछे-पीछे चला।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "भरद्वाजः",
+            "hindi": "भरद्वाज ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "शिष्यः",
+            "hindi": "शिष्य ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विनीतः",
+            "hindi": "विनीत ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतवान्",
+            "hindi": "शास्त्रज्ञ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "गुरोः",
+            "hindi": "गुरु के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कलशम्",
+            "hindi": "कलश को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पूर्णम्",
+            "hindi": "भरे हुए को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आदाय",
+            "hindi": "लेकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "पृष्ठतः",
+            "hindi": "पीछे (अव्यय)"
+          },
+          {
+            "sanskrit": "अनुजगाम",
+            "hindi": "अनुसरण किया (अनु + गम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.21",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "फिर उनका विनीत एवं शास्त्रज्ञ शिष्य भरद्वाज भी वह जलसे भरा हुआ कलश लेकर गुरुजीके पीछे- पीछे चला॥ २१॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

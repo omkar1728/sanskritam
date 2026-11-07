@@ -1,0 +1,363 @@
+{
+  "id": "baala-001-034",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 34,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 26
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-30, 1-1-31"
+    ],
+    "vulgate_in_locators": [
+      "1.1.30",
+      "1.1.31"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.30",
+      "1.1.39"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001026a",
+        "1001026c"
+      ],
+      "lines": [
+        "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः",
+        "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्"
+      ],
+      "punctuated_derived": "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः ।\nचित्रकूटमनुप्राप्य भरद्वाजस्य शासनात् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः",
+        "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्"
+      ],
+      "locators": [
+        "1-1-30, 1-1-31"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः",
+        "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्"
+      ],
+      "locators": [
+        "1.1.30",
+        "1.1.31"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ते वनेन वनं गत्वा नदीस्तीत्वां बहूदकाः",
+        "चित्रकूटमनुप्राप्प भरद्वाजस्य शासनात्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_30-313",
+        "hindi_shared_range",
+        "verse_number_nonsequential_expected_31"
+      ],
+      "refs": [
+        "1.1.30",
+        "1.1.39"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः",
+      "net": "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः",
+      "in": "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदकाः",
+      "gp": "ते वनेन वनं गत्वा नदीस्तीत्वां बहूदकाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9552238805970149
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नदीस्तीर्त्वा",
+            "b": "नदीस्तीत्वां"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्",
+      "net": "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्",
+      "in": "चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात्",
+      "gp": "चित्रकूटमनुप्राप्प भरद्वाजस्य शासनात्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "चित्रकूटमनुप्राप्य",
+            "b": "चित्रकूटमनुप्राप्प"
+          },
+          {
+            "a": "शासनात्",
+            "b": "शासनात्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-30, 1-1-31",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That trio of Seetha, Rama and Lakshmana after going from forest to forest and crossing many a river with much waters, by the ordainment of Bharadwaja, arrived at Chitrakuta, and building a handsome cottage there, they lived happily and delightfully in the woods there, like gods and gandharvas... [1-1-30b, 31, 32a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-30, 1-1-31",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "30b, 31, 32a. te",
+            "devanagari_machine_converted": "३०ब्, ३१, ३२अ। ते",
+            "english": "they"
+          },
+          {
+            "roman_itrans": "vanena vanam gatvaa",
+            "devanagari_machine_converted": "वनेन वनम् गत्वा",
+            "english": "going from forest to forest"
+          },
+          {
+            "roman_itrans": "bahuudakaaH nadiiH tiirtva",
+            "devanagari_machine_converted": "बहूदकाः नदीः तीर्त्व",
+            "english": "crossed rivers with much waters"
+          },
+          {
+            "roman_itrans": "bharadvaajasya shaasanaat",
+            "devanagari_machine_converted": "भरद्वाजस्य शासनात्",
+            "english": "by ordainment of sage Bharadwaja"
+          },
+          {
+            "roman_itrans": "chitrakuuTam anupraapya",
+            "devanagari_machine_converted": "चित्रकूटम् अनुप्राप्य",
+            "english": "arriving at Chitrakuta"
+          },
+          {
+            "roman_itrans": "ramyam aavasatham kR^itvaa",
+            "devanagari_machine_converted": "रम्यम् आवसथम् कृत्वा",
+            "english": "building (lit. manufacturing) a handsome habitation"
+          },
+          {
+            "roman_itrans": "te trayaH",
+            "devanagari_machine_converted": "ते त्रयः",
+            "english": "they the trio"
+          },
+          {
+            "roman_itrans": "sukham nyavasan",
+            "devanagari_machine_converted": "सुखम् न्यवसन्",
+            "english": "happily lived"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "there [at Chitrakuta]"
+          },
+          {
+            "roman_itrans": "vane ramamaaNaaH",
+            "devanagari_machine_converted": "वने रममाणाः",
+            "english": "in the woods delightfully"
+          },
+          {
+            "roman_itrans": "devagandharvasaMkaashaaH",
+            "devanagari_machine_converted": "देवगन्धर्वसंकाशाः",
+            "english": "like gods and gandharvas."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-30, 1-1-31",
+        "spans_beyond_this_verse": true,
+        "text": "In another way the meaning is: te avane 'they, protecting each other...' te ramamaaNaaH ' those two Rama and Seetha, frolicsomely delighted, enjoyed the essence of forest dwelling...' saMkaashaa similar to Vishnu or Narayana's enjoyment of kriiDaa rasa 'the essence of His playful acts...' and Lakshmana enjoyed the essence of his servitude sevaa rasa and where deva = devii ca devaH ca devau 'either goddess or god... it but the Almighty...' gandharva = gaanam dhaarayati iti gandharva - jiivan muktaH attaining liberation while living, thus Lakshmana rejoiced with his singing of saama gaana of Sama Veda....' And they rejoiced without feeling any difference between city dwelling and forest dwelling... as every part of Universe is theirs."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'निषादराज गुह, लक्ष्मण और सीताके साथ राम। ये चारों एक वनसे दूसरे वनमें गये। मार्गमें बहुत जलोंवाली अनेकों नदियोंको पार करके"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.31",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "[भरद्वाजके आश्रमपर पहुँचे और गुहको वहीं छोड़] भरद्वाज मुनिकी आज्ञासे चित्रकूटपर्वतपर गये। वहाँ वे तीनों एक रमणीय पर्णकुटी बनाकर वनमें नाना प्रकारकी लीलाएँ करते हुए"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गुहेन",
+            "hindi": "गुह के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सहितः",
+            "hindi": "युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लक्ष्मणेन",
+            "hindi": "लक्ष्मण के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सीतया",
+            "hindi": "सीता के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वनेन",
+            "hindi": "वन से (तृतीया विभक्ति/पथ के अर्थ में)"
+          },
+          {
+            "sanskrit": "वनम्",
+            "hindi": "वन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "नदीः",
+            "hindi": "नदियों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तीर्त्वा",
+            "hindi": "पार करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "बहूदकाः",
+            "hindi": "बहुत जल वाली को (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.31",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चित्रकूटम्",
+            "hindi": "चित्रकूट पर्वत को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुप्राप्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "भरद्वाजस्य",
+            "hindi": "भरद्वाज ऋषि की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "शासनात्",
+            "hindi": "आज्ञा से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रम्यम्",
+            "hindi": "सुन्दर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आवसथम्",
+            "hindi": "निवास स्थान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कृत्वा",
+            "hindi": "बनाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रममाणाः",
+            "hindi": "क्रीड़ा करते हुए (शानच् प्रत्ययान्त, प्रथमा विभक्ति बहुवचन)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रयः",
+            "hindi": "तीनों (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.30",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "देवगन्धर्वसंकाशास्तत्र ते न्यवसन्‌ सुखम्‌। “निषादराज गुह, लक्ष्मण और सीताके साथ राम-ये चारों एक वनसे दूसरे वनमें गये। मार्गमें बहुत जलोंवाली अनेकों नदियांको पार करके [भरद्वाजके आश्रमपर पहुँचे और गुहको वहीं छोड़] भरद्वाज मुनिकी आज्ञासे चित्रकूटपर्वतपर गये। वहाँ वे तीनों देवता और गन्धर्वोके समान वनमें नाना प्रकारकी लीलाएँ करते हुए एक रमणीय पर्णकुटी बनाकर उसमें सानन्द रहने 'लगे॥ ३०-३१३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.39",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_31",
+          "hindi_marker_range_30-313"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "देवगन्धर्वसंकाशास्तत्र ते न्यवसन्‌ सुखम्‌। “निषादराज गुह, लक्ष्मण और सीताके साथ राम-ये चारों एक वनसे दूसरे वनमें गये। मार्गमें बहुत जलोंवाली अनेकों नदियांको पार करके [भरद्वाजके आश्रमपर पहुँचे और गुहको वहीं छोड़] भरद्वाज मुनिकी आज्ञासे चित्रकूटपर्वतपर गये। वहाँ वे तीनों देवता और गन्धर्वोके समान वनमें नाना प्रकारकी लीलाएँ करते हुए एक रमणीय पर्णकुटी बनाकर उसमें सानन्द रहने 'लगे॥ ३०-३१३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

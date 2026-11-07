@@ -1,0 +1,237 @@
+{
+  "id": "baala-004-024",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 24,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 20
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-26"
+    ],
+    "vulgate_in_locators": [
+      "1.4.26"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.26"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004020a",
+        "1004020c"
+      ],
+      "lines": [
+        "आश्चर्यमिदमाख्यानं मुनिना संप्रकीर्तितम्",
+        "परं कवीनामाधारं समाप्तं च यथाक्रमम्"
+      ],
+      "punctuated_derived": "आश्चर्यमिदमाख्यानं मुनिना संप्रकीर्तितम् ।\nपरं कवीनामाधारं समाप्तं च यथाक्रमम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम्",
+        "परं कवीनामाधारं समाप्तं च यथाक्रमम्"
+      ],
+      "locators": [
+        "1-4-26"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम्",
+        "परं कवीनामाधारं समाप्तं च यथाक्रमम्"
+      ],
+      "locators": [
+        "1.4.26"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_263_differs_from_sanskrit_26"
+      ],
+      "refs": [
+        "1.4.26"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आश्चर्यमिदमाख्यानं मुनिना संप्रकीर्तितम्",
+      "net": "आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम्",
+      "in": "आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम्",
+      "gp": "आश्चर्यमिदमाख्यानं मुनिना सम्प्रकीर्तितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संप्रकीर्तितम्",
+            "b": "सम्प्रकीर्तितम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सम्प्रकीर्तितम्",
+            "b": "सम्प्रकीर्तितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "परं कवीनामाधारं समाप्तं च यथाक्रमम्",
+      "net": "परं कवीनामाधारं समाप्तं च यथाक्रमम्",
+      "in": "परं कवीनामाधारं समाप्तं च यथाक्रमम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-26",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Surprising is this well-said rendering of Valmiki... it is the subsistence for tomorrow's poets... and this is completed sequentially, as well... [1-4-26]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-26",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "muninaa samprakiirtitam",
+            "devanagari_machine_converted": "मुनिना सम्प्रकीर्तितम्",
+            "english": "well-said by sage Valmiki"
+          },
+          {
+            "roman_itrans": "idam aakhyanam",
+            "devanagari_machine_converted": "इदम् आख्यनम्",
+            "english": "this, rendering"
+          },
+          {
+            "roman_itrans": "aashcharyam",
+            "devanagari_machine_converted": "आश्चर्यम्",
+            "english": "surprising"
+          },
+          {
+            "roman_itrans": "param kaviinaam aadhaaram",
+            "devanagari_machine_converted": "परम् कवीनाम् आधारम्",
+            "english": "tomorrow's, poets, subsistence"
+          },
+          {
+            "roman_itrans": "yathaakramam cha samaaptam",
+            "devanagari_machine_converted": "यथाक्रमम् च समाप्तम्",
+            "english": "completed sequentially as well."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.26",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "महर्षि वाल्मीकि द्वारा वर्णित यह आश्चर्यमय काव्य परवर्ती कवियों के लिये श्रेष्ठ आधारशिला है। श्रीरामचन्द्रजीके सम्पूर्ण चरित्रों का क्रमशः वर्णन करते हुए इसकी समाप्ति की गयी है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.26",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आश्चर्यम्",
+            "hindi": "आश्चर्यमय"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह"
+          },
+          {
+            "sanskrit": "आख्यानम्",
+            "hindi": "आख्यान / काव्य"
+          },
+          {
+            "sanskrit": "मुनिना",
+            "hindi": "मुनि द्वारा"
+          },
+          {
+            "sanskrit": "सम्प्रकीर्तितम्",
+            "hindi": "वर्णित"
+          },
+          {
+            "sanskrit": "परम्",
+            "hindi": "श्रेष्ठ"
+          },
+          {
+            "sanskrit": "कवीनाम्",
+            "hindi": "कवियों के लिए"
+          },
+          {
+            "sanskrit": "आधारम्",
+            "hindi": "आधारशिला"
+          },
+          {
+            "sanskrit": "समाप्तम्",
+            "hindi": "समाप्त"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "यथाक्रमम्",
+            "hindi": "क्रमशः"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.26",
+        "ocr_flags": [
+          "hindi_marker_263_differs_from_sanskrit_26"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "परं कवीनामाधारं समाप्तं च यथाक्रमम्‌। महर्षि वाल्मीकिद्वार वर्णित यह आश्चर्यमय काव्य परवती कवियोंके लिये श्रेष्ठ आधारशिला है श्रीरामचन्द्रजीके सम्पूर्ण चरित्रोंका क्रमशः वर्णन करते हुए इसकी समाप्ति की गयी है॥ २६३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

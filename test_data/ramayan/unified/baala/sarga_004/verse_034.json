@@ -1,0 +1,268 @@
+{
+  "id": "baala-004-034",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 34,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 26
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-35"
+    ],
+    "vulgate_in_locators": [
+      "1.4.35"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.35"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004026c"
+      ],
+      "lines": [
+        "ममापि तद्भूतिकरं प्रचक्षते; महानुभावं चरितं निबोधत"
+      ],
+      "punctuated_derived": null,
+      "pada_split": [
+        {
+          "line_index": 0,
+          "padas": [
+            "ममापि तद्भूतिकरं प्रचक्षते",
+            " महानुभावं चरितं निबोधत"
+          ]
+        }
+      ]
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ममापि तद् भूतिकरं प्रचक्षते"
+      ],
+      "locators": [
+        "1-4-35"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ममापि तद् भूतिकरं प्रचक्षते महानुभावं चरितं निबोधत"
+      ],
+      "locators": [
+        "1.4.35"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ममापि तद्‌ भूतिकरं प्रचक्षते"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed",
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.4.35"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ममापि तद्भूतिकरं प्रचक्षते; महानुभावं चरितं निबोधत",
+      "net": "ममापि तद् भूतिकरं प्रचक्षते",
+      "in": "ममापि तद् भूतिकरं प्रचक्षते महानुभावं चरितं निबोधत",
+      "gp": "ममापि तद्‌ भूतिकरं प्रचक्षते",
+      "similarity": {
+        "sim_smith_net": 0.7058823529411765,
+        "sim_in_net": 0.7058823529411765,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तद्भूतिकरं",
+            "b": "तद् भूतिकरं"
+          },
+          {
+            "a": "महानुभावं चरितं निबोधत",
+            "b": ""
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "महानुभावं चरितं निबोधत"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तद्",
+            "b": "तद्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-35",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"These two saint-like Kusha and Lava, who also possess kingly features, but they are great hermits... this narration is endowing good fortune to me also, listen to that great efficacious legend [of Seetha...]\" [So said Rama to those courtiers.] [1-4-35]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-35",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "imau munii paarthivalakShaNaanvitau",
+            "devanagari_machine_converted": "इमौ मुनी पार्थिवलक्षणान्वितौ",
+            "english": "these two, saints, possessing kingly features,"
+          },
+          {
+            "roman_itrans": "kushiilavau cha eva mahaatapasvinau",
+            "devanagari_machine_converted": "कुशीलवौ च एव महातपस्विनौ",
+            "english": "thus great hermits like Kusha and Lava"
+          },
+          {
+            "roman_itrans": "mama api tat bhuutikaram",
+            "devanagari_machine_converted": "मम अपि तत् भूतिकरम्",
+            "english": "to me, also, that, good fortune endowing"
+          },
+          {
+            "roman_itrans": "mahaanubhaavam charitam prachakShate",
+            "devanagari_machine_converted": "महानुभावम् चरितम् प्रचक्षते",
+            "english": "the great efficacious, legend, they tell"
+          },
+          {
+            "roman_itrans": "nibodhata",
+            "devanagari_machine_converted": "निबोधत",
+            "english": "listen it."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-35",
+        "spans_beyond_this_verse": true,
+        "text": "Here Rama tells that this legend is 'efficacious' for it is the legend of Seetha, and should it be Rama's alone, he will get the blemish of self-glorification, aatmaprashamsaa doSa , and brave heroes of legends cannot be subjected to such a blemish. And to listen to the legend of his dearest, who at present is not with him, gives a kind of consolation, and thus he is asking all of us to listen to siitaayaH caritam mahat ..."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.35",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस समय श्रीरामने अपने भाइयोंका ध्यान आकृष्ट करते हुए कहा—’ये दोनों कुमार मुनि होकर भी राजोचित लक्षणोंसे सम्पन्न हैं। संगीतमें कुशल होनेके साथ ही महान् तपस्वी हैं। ये जिस चरित्रका-प्रबन्ध काव्यका गान करते हैं, वह शब्दार्थालङ्कार, उत्तम गुण एवं सुन्दर रीति आदिसे युक्त होनेके कारण अत्यन्त प्रभावशाली है। मेरे लिये भी अभ्युदयकारक है; ऐसा वृद्ध पुरुषोंका कथन है। अतः तुम सब लोग ध्यान देकर इसे सुनो’।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.35",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इमौ",
+            "hindi": "ये दोनों"
+          },
+          {
+            "sanskrit": "मुनी",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "पार्थिवलक्षणान्वितौ",
+            "hindi": "राजोचित लक्षणों से युक्त"
+          },
+          {
+            "sanskrit": "कुशीलवौ",
+            "hindi": "कुश और लव"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "महातपस्विनौ",
+            "hindi": "महान तपस्वी"
+          },
+          {
+            "sanskrit": "मम",
+            "hindi": "मेरे लिए"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (चरित्र)"
+          },
+          {
+            "sanskrit": "भूतिकरम्",
+            "hindi": "अभ्युदय / कल्याण करने वाला"
+          },
+          {
+            "sanskrit": "प्रचक्षते",
+            "hindi": "कहते हैं"
+          },
+          {
+            "sanskrit": "महानुभावम्",
+            "hindi": "प्रभावशाली"
+          },
+          {
+            "sanskrit": "चरितम्",
+            "hindi": "चरित्र को"
+          },
+          {
+            "sanskrit": "निबोधत",
+            "hindi": "समझो / ध्यान से सुनो"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.35",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed",
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "उस समय श्रीरामने अपने भाइयोंका ध्यान आकृष्ट करते हुए कहा--' ये दोनों कुमार मुनि होकर भी राजोचित लक्षणासे सम्पन्न हैं। संगीतमें कुशल होनेके साथ ही महान्‌ तपस्वी हैं। ये जिस चरित्रका--प्रबन्धकाव्यका गान करते हैं, वह शब्दार्थालङ्कार, उत्तम गुण एवं सुन्दर रीति श्रीमद्वाल्मीकीयरामायणे लिये भी अभ्युदयकारक है; ऐसा वृद्ध पुरुषोंका कथन है। अतः तुम सब लोग ध्यान देकर इसे सुनो'॥ ३५॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

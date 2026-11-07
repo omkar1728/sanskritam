@@ -1,0 +1,477 @@
+{
+  "id": "baala-006-032",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 32,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 23
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-25",
+      "1-6-26"
+    ],
+    "vulgate_in_locators": [
+      "1.6.25",
+      "1.6.26"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.26"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006023a",
+        "1006023c"
+      ],
+      "lines": [
+        "नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः",
+        "सा योजने च द्वे भूयः सत्यनामा प्रकाशते"
+      ],
+      "punctuated_derived": "नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः ।\nसा योजने च द्वे भूयः सत्यनामा प्रकाशते ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नित्यमत्तैः सदा पूर्णा नागैरचलसन्निभैः",
+        "सा योजने च द्वे भूयः सत्यनामा प्रकाशते"
+      ],
+      "locators": [
+        "1-6-25",
+        "1-6-26"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "मृगमन्द्रैश्च सा पुरी नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः॥२५",
+        "सा योजने द्वे च भूयः सत्यनामा प्रकाशते"
+      ],
+      "locators": [
+        "1.6.25",
+        "1.6.26"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः",
+        "सा योजने द्वे च भूयः सत्यनामा प्रकाशते"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_25-26"
+      ],
+      "refs": [
+        "1.6.26"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः",
+      "net": "नित्यमत्तैः सदा पूर्णा नागैरचलसन्निभैः",
+      "in": "मृगमन्द्रैश्च सा पुरी नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः॥२५",
+      "gp": "नित्यमत्तैः सदा पूर्णा नागैरचलसंनिभैः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.7906976744186046,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नागैरचलसंनिभैः",
+            "b": "नागैरचलसन्निभैः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "मृगमन्द्रैश्च सा पुरी"
+          },
+          {
+            "a": "नागैरचलसन्निभैः",
+            "b": "नागैरचलसंनिभैः॥२५"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नागैरचलसन्निभैः",
+            "b": "नागैरचलसंनिभैः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सा योजने च द्वे भूयः सत्यनामा प्रकाशते",
+      "net": "सा योजने च द्वे भूयः सत्यनामा प्रकाशते",
+      "in": "सा योजने द्वे च भूयः सत्यनामा प्रकाशते",
+      "gp": "सा योजने द्वे च भूयः सत्यनामा प्रकाशते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.96875,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "द्वे"
+          },
+          {
+            "a": "द्वे",
+            "b": ""
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "",
+            "b": "द्वे"
+          },
+          {
+            "a": "द्वे",
+            "b": ""
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-25",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city is always full with vigorous and mountain like elephants bred mainly from three classes viz., Bhadra, Mandra and Mriga. And inter-bred among these three main classes are Bhadra-Mandra, Mandra-Mriga, Bhadra-Mriga and the like. [1-6-25]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-26",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "While residing in which city King Dasharatha ruled the world that city is further fortified up to two more yojana-s outside city, true to its name a yodhya , an un-assailable one. [1-6-26]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-25",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "25-26a. saa purii",
+            "devanagari_machine_converted": "२५-२६अ। सा पुरी",
+            "english": "that city"
+          },
+          {
+            "roman_itrans": "bhadraiH",
+            "devanagari_machine_converted": "भद्रैः",
+            "english": "class of Bhadra"
+          },
+          {
+            "roman_itrans": "mandraiH",
+            "devanagari_machine_converted": "मन्द्रैः",
+            "english": "class of Mandra"
+          },
+          {
+            "roman_itrans": "mR^igaiH",
+            "devanagari_machine_converted": "मृगैः",
+            "english": "class of mriga"
+          },
+          {
+            "roman_itrans": "cha eva",
+            "devanagari_machine_converted": "च एव",
+            "english": "like that"
+          },
+          {
+            "roman_itrans": "bhadramandramR^igaiH tathaa",
+            "devanagari_machine_converted": "भद्रमन्द्रमृगैः तथा",
+            "english": "a mixture of these three"
+          },
+          {
+            "roman_itrans": "bhadramandraiH",
+            "devanagari_machine_converted": "भद्रमन्द्रैः",
+            "english": "bhadra and mandra"
+          },
+          {
+            "roman_itrans": "bhadramR^igaiH",
+            "devanagari_machine_converted": "भद्रमृगैः",
+            "english": "bhadra and mriga"
+          },
+          {
+            "roman_itrans": "mR^igamandraiH cha",
+            "devanagari_machine_converted": "मृगमन्द्रैः च",
+            "english": "mriga and mandra, also"
+          },
+          {
+            "roman_itrans": "nityamattaiH",
+            "devanagari_machine_converted": "नित्यमत्तैः",
+            "english": "always vigorous"
+          },
+          {
+            "roman_itrans": "naagaiH",
+            "devanagari_machine_converted": "नागैः",
+            "english": "elephants"
+          },
+          {
+            "roman_itrans": "achalasannibhaiH",
+            "devanagari_machine_converted": "अचलसन्निभैः",
+            "english": "mountain like"
+          },
+          {
+            "roman_itrans": "sadaa puurNaa",
+            "devanagari_machine_converted": "सदा पूर्णा",
+            "english": "always, full with."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-26",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "26b-c. raajaa",
+            "devanagari_machine_converted": "२६ब्-च्। राजा",
+            "english": "king"
+          },
+          {
+            "roman_itrans": "dasharathaH naama",
+            "devanagari_machine_converted": "दशरथः नाम",
+            "english": "Dasharatha, named"
+          },
+          {
+            "roman_itrans": "yasyaam",
+            "devanagari_machine_converted": "यस्याम्",
+            "english": "in which [city]"
+          },
+          {
+            "roman_itrans": "vasan",
+            "devanagari_machine_converted": "वसन्",
+            "english": "while residing"
+          },
+          {
+            "roman_itrans": "jagat",
+            "devanagari_machine_converted": "जगत्",
+            "english": "world"
+          },
+          {
+            "roman_itrans": "apaalayat",
+            "devanagari_machine_converted": "अपालयत्",
+            "english": "ruled"
+          },
+          {
+            "roman_itrans": "saa",
+            "devanagari_machine_converted": "सा",
+            "english": "she that Ayodhya"
+          },
+          {
+            "roman_itrans": "bhuuyaH",
+            "devanagari_machine_converted": "भूयः",
+            "english": "further - outside also"
+          },
+          {
+            "roman_itrans": "dve yojane",
+            "devanagari_machine_converted": "द्वे योजने",
+            "english": "two, yojana-s"
+          },
+          {
+            "roman_itrans": "satyanaamaa",
+            "devanagari_machine_converted": "सत्यनामा",
+            "english": "true to its name"
+          },
+          {
+            "roman_itrans": "prakaashate",
+            "devanagari_machine_converted": "प्रकाशते",
+            "english": "shines forth [well fortified.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-25",
+        "spans_beyond_this_verse": true,
+        "text": "The bhadra is the elephant class for King's ride, called bhadragaja . It is a state elephant with high honors and for occasional or ceremonial use. mandra and mR^iga are classes of breed tamed and used in wars or for the ride of other nobility. These are the essential mammals used for other lifting and carrying works."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.25",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "हिमालय पर्वत पर उत्पन्न भद्रजाति के, विन्ध्यपर्वत पर उत्पन्न हुए मन्द्रजाति के तथा सह्यपर्वत पर पैदा हुए मृग जाति के हाथी भी वहाँ मौजूद थे। भद्र, मन्द्र और मृग -इन तीनों के मेल से उत्पन्न हुए संकरजाति के, भद्र और मन्द्र-इन दो जातियों के मेल से पैदा हुए संकर जाति के, भद्र और मृग जातिके संयोगसे उत्पन्न संकरजाति के तथा मृग और मन्द्र-इन दो जातियोंके सम्मिश्रण से पैदा हुए पर्वताकार गजराज भी, जो सदा मदोन्मत्त रहते थे, उस पुरीमें भरे हुए थे।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.26",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तीन योजनके विस्तारवाली अयोध्यामें दो योजनकी भूमि तो ऐसी थी, जहाँ पहुँचकर किसीके लिये भी युद्ध करना असम्भव था, इसलिये वह पुरी 'अयोध्या' इस सत्य एवं सार्थक नामसे प्रकाशित होती थी; जिसमें रहते हुए राजा दशरथ इस जगत् का पालन करते थे॥ २५-२६॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.25",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "भद्रैः",
+            "hindi": "भद्र जाति के हाथियों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्द्रैः",
+            "hindi": "मन्द्र जाति के हाथियों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "भद्रमन्द्रैः",
+            "hindi": "भद्र और मन्द्र के मिश्रण से उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "भद्रमृगैः",
+            "hindi": "भद्र और मृग के मिश्रण से उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "मृगमन्द्रैः",
+            "hindi": "मृग और मन्द्र के मिश्रण से उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सा",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरी",
+            "hindi": "पुरी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यमत्तैः",
+            "hindi": "सदा मदमत्त से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सदा",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "पूर्णा",
+            "hindi": "पूर्ण / भरी हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नागैः",
+            "hindi": "हाथियों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अचलसन्निभैः",
+            "hindi": "पर्वत के समान से (तृतीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.26",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सा",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "योजने",
+            "hindi": "योजन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "द्वे",
+            "hindi": "दो (सप्तमी विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "भूयः",
+            "hindi": "अधिक (अव्यय)"
+          },
+          {
+            "sanskrit": "सत्यनामा",
+            "hindi": "सत्य नाम वाली (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रकाशते",
+            "hindi": "प्रकाशित होती है (प्र + काश्, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "यस्याम्",
+            "hindi": "जिसमें (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वसन्",
+            "hindi": "रहते हुए (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगत्",
+            "hindi": "जगत् का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपालयत्",
+            "hindi": "पालन करते थे (पाल् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.26",
+        "ocr_flags": [
+          "hindi_marker_range_25-26"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "हिमालय पर्वतपर उत्पन्न भद्रजातिके, विन्ध्यपर्वतपर उत्पन्न हुए मन्द्रजातिके तथा सह्यपर्वतपर पैदा हुए मृग श्रीमद्वाल्मीकीयरामायणे जातिके हाथी भी वहाँ मौजूद थे। भद्र, मन्द्र और मृग-_ इन तीनोंके मेलसे उत्पन्न हुए संकरजातिके, भद्र और मन्द्र-इन दो जातियोँके मेलसे पैदा हुए संकर जातिके भद्र और मृग जातिके संयोगसे उत्पन्न संकरजातिके तथा मृग और मन्द्र-इन दो जातियोंके सम्मिश्रणसे पैदा हुए पर्वताकार गजराज भी, जो सदा मदोन्मत्त रहते थे उस पुरीमें भरे हुए थे। (तीन योजनके विस्तारवाली अयोध्यामे) दो योजनको भूमि तो ऐसी थी, जहाँ पहुँचकर किसीके लिये भी युद्ध करना असम्भव था, इसलिये वह पुरी \"अयोध्या' इस सत्य एवं सार्थक नामसे प्रकाशित होती थी; जिसमें रहते हुए राजा दशरथ इस जगतका (अपने राज्यका) पालन करते थे॥ २५-२६॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

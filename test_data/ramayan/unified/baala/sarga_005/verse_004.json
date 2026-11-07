@@ -1,0 +1,77 @@
+{
+  "id": "baala-005-004",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 4,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.5.1"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": null,
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अवतारणा हुई है"
+      ],
+      "ocr_flags": [
+        "hindi_missing",
+        "leading_text_before_sanskrit_moved_to_unparsed",
+        "sanskrit_marker_range_1-3",
+        "verse_number_nonsequential_expected_3"
+      ],
+      "refs": [
+        "1.5.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": null,
+      "in": null,
+      "gp": "अवतारणा हुई है",
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": null,
+    "english_word_by_word": null,
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.1",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed",
+          "sanskrit_marker_range_1-3",
+          "verse_number_nonsequential_expected_3",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

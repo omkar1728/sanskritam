@@ -1,0 +1,229 @@
+{
+  "id": "baala-001-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 14
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-15"
+    ],
+    "vulgate_in_locators": [
+      "1.1.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001014a",
+        "1001014c"
+      ],
+      "lines": [
+        "सर्वशास्त्रार्थतत्त्वज्ञ स्मृतिमान्प्रतिभानवान्",
+        "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः"
+      ],
+      "punctuated_derived": "सर्वशास्त्रार्थतत्त्वज्ञ स्मृतिमान्प्रतिभानवान् ।\nसर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्",
+        "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः"
+      ],
+      "locators": [
+        "1-1-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्",
+        "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः"
+      ],
+      "locators": [
+        "1.1.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान्‌ प्रतिभानवान्‌",
+        "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सर्वशास्त्रार्थतत्त्वज्ञ स्मृतिमान्प्रतिभानवान्",
+      "net": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्",
+      "in": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्",
+      "gp": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान्‌ प्रतिभानवान्‌",
+      "similarity": {
+        "sim_smith_net": 0.989010989010989,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सर्वशास्त्रार्थतत्त्वज्ञ स्मृतिमान्प्रतिभानवान्",
+            "b": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "स्मृतिमान् प्रतिभानवान्",
+            "b": "स्मृतिमान्‌ प्रतिभानवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः",
+      "net": "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः",
+      "in": "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः",
+      "gp": "सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He is the knower of the meaning and essence of all the scriptures, excellent at memory, a brilliant one, and dear to all the worlds, gentle, level-headed and clear-headed in discriminating and distinguishing... [1-1-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "sarvashaastraarthatattvaj~naH",
+            "devanagari_machine_converted": "सर्वशास्त्रार्थतत्त्वज्ञः",
+            "english": "cognizant of the essence and meaning of all the scriptures"
+          },
+          {
+            "roman_itrans": "smR^itimaan",
+            "devanagari_machine_converted": "स्मृतिमान्",
+            "english": "one with excellent memory"
+          },
+          {
+            "roman_itrans": "pratibhaanavaan",
+            "devanagari_machine_converted": "प्रतिभानवान्",
+            "english": "a brilliant one"
+          },
+          {
+            "roman_itrans": "sarvalokapriyaH",
+            "devanagari_machine_converted": "सर्वलोकप्रियः",
+            "english": "dear to all worlds"
+          },
+          {
+            "roman_itrans": "saadhuH",
+            "devanagari_machine_converted": "साधुः",
+            "english": "gentle"
+          },
+          {
+            "roman_itrans": "adiinaatmaa",
+            "devanagari_machine_converted": "अदीनात्मा",
+            "english": "undepressed in spirit [level-headed even in severe trouble]"
+          },
+          {
+            "roman_itrans": "vichakSaNaH",
+            "devanagari_machine_converted": "विचक्षणः",
+            "english": "clear-headed [in discriminating and distinguishing.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वे अखिल शास्त्रोंके तत्त्वज्ञ, स्मरणशक्तिसे युक्त और प्रतिभासम्पन्न हैं। अच्छे विचार और उदार हृदयवाले वे श्रीरामचन्द्रजी बातचीत करनेमें चतुर तथा समस्त लोकोंके प्रिय हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः",
+            "hindi": "सभी शास्त्रों के अर्थ के तत्त्व का ज्ञाता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्मृतिमान्",
+            "hindi": "उत्तम स्मरण शक्ति वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतिभानवान्",
+            "hindi": "प्रतिभा से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वलोकप्रियः",
+            "hindi": "सभी लोकों को प्रिय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "साधुः",
+            "hindi": "सज्जन / सरल (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अदीनात्मा",
+            "hindi": "दीनता रहित / उदार आत्मा वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विचक्षणः",
+            "hindi": "विचारकुशल / चतुर (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.15",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“वे अखिल शास्त्रोंके तत्त्वज्ञ, स्मरणशक्तिसे युक्त और प्रतिभासम्पन्न हैं। अच्छे विचार और उदार हृदयवाले वे श्रीरामचन्द्रजी बातचीत करनेमें चतुर तथा समस्त लोकोंके प्रिय हैं॥ १५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

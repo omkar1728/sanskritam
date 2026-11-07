@@ -1,0 +1,273 @@
+{
+  "id": "baala-009-028",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 28,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 23
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-20"
+    ],
+    "vulgate_in_locators": [
+      "1.9.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008023a",
+        "1008023c"
+      ],
+      "lines": [
+        "अथ हृष्टो दशरथः सुमन्त्रं प्रत्यभाषत",
+        "यथर्ष्यशृङ्गस्त्वानीतो विस्तरेण त्वयोच्यताम्"
+      ],
+      "punctuated_derived": "अथ हृष्टो दशरथः सुमन्त्रं प्रत्यभाषत ।\nयथर्ष्यशृङ्गस्त्वानीतो विस्तरेण त्वयोच्यताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अथ हृष्टो दशरथः सुमंत्रं प्रत्यभाषत",
+        "यथर्ऋष्यशृङ्गस्त्वानीतो विस्तरेण तथोच्यताम्"
+      ],
+      "locators": [
+        "1-9-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अथ हृष्टो दशरथः सुमन्त्रं प्रत्यभाषत",
+        "यथर्ण्यश्रृंगस्त्वानीतो येनोपायेन सोच्यताम्"
+      ],
+      "locators": [
+        "1.9.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अथ हष्टो दशरथः सुमन्त्रं प्रत्यभाषत",
+        "यथर्ष्यशृंगस्त्वानीतो येनोपायेन सोच्यताम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.9.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अथ हृष्टो दशरथः सुमन्त्रं प्रत्यभाषत",
+      "net": "अथ हृष्टो दशरथः सुमंत्रं प्रत्यभाषत",
+      "in": "अथ हृष्टो दशरथः सुमन्त्रं प्रत्यभाषत",
+      "gp": "अथ हष्टो दशरथः सुमन्त्रं प्रत्यभाषत",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9836065573770492
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सुमन्त्रं",
+            "b": "सुमंत्रं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सुमंत्रं",
+            "b": "सुमन्त्रं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "हृष्टो",
+            "b": "हष्टो"
+          },
+          {
+            "a": "सुमंत्रं",
+            "b": "सुमन्त्रं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "यथर्ष्यशृङ्गस्त्वानीतो विस्तरेण त्वयोच्यताम्",
+      "net": "यथर्ऋष्यशृङ्गस्त्वानीतो विस्तरेण तथोच्यताम्",
+      "in": "यथर्ण्यश्रृंगस्त्वानीतो येनोपायेन सोच्यताम्",
+      "gp": "यथर्ष्यशृंगस्त्वानीतो येनोपायेन सोच्यताम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9367088607594937,
+        "sim_in_net": 0.6923076923076923,
+        "sim_gp_net": 0.7532467532467533
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यथर्ष्यशृङ्गस्त्वानीतो",
+            "b": "यथर्ऋष्यशृङ्गस्त्वानीतो"
+          },
+          {
+            "a": "त्वयोच्यताम्",
+            "b": "तथोच्यताम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यथर्ऋष्यशृङ्गस्त्वानीतो विस्तरेण तथोच्यताम्",
+            "b": "यथर्ण्यश्रृंगस्त्वानीतो येनोपायेन सोच्यताम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यथर्ऋष्यशृङ्गस्त्वानीतो विस्तरेण तथोच्यताम्",
+            "b": "यथर्ष्यशृंगस्त्वानीतो येनोपायेन सोच्यताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then King Dasharatha is delighted and in turn spoke to Sumantra \"By what idea Rishyasringa is brought to Anga kingdom, that shall be said elaborately...\" [1-9-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "atha hR^iSTaH dasharathaH",
+            "devanagari_machine_converted": "अथ हृष्टः दशरथः",
+            "english": "then, delighted, Dasharatha"
+          },
+          {
+            "roman_itrans": "sumantram prati abhaaSata",
+            "devanagari_machine_converted": "सुमन्त्रम् प्रति अभाषत",
+            "english": "to Sumantra, in turn, spoke"
+          },
+          {
+            "roman_itrans": "yathaa R^iSyashR^i~NgaH aaniitaH",
+            "devanagari_machine_converted": "यथा ऋष्यशृङ्गः आनीतः",
+            "english": "how, Rishyasringa, brought [to Anga Kingdom]"
+          },
+          {
+            "roman_itrans": "vistareNa tathaa ucyataam",
+            "devanagari_machine_converted": "विस्तरेण तथा उच्यताम्",
+            "english": "shall be said elaborately."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यह सुनकर राजा दशरथ को बड़ी प्रसन्नता हुई। उन्होंने सुमन्त्रसे कहा—’मुनिकुमार ऋष्यशृंगको वहाँ जिस प्रकार और जिस उपायसे बुलाया गया, वह स्पष्टरूपसे बताओ’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अथ",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "हृष्टः",
+            "hindi": "प्रसन्न होकर (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुमन्त्रम्",
+            "hindi": "सुमन्त्र से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रत्यभाषत",
+            "hindi": "कहा / बातचीत की (प्रति + आ + भाष्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जिस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "ऋष्यश्रृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "आनीतः",
+            "hindi": "बुलाया गया (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "येन",
+            "hindi": "जिस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपायेन",
+            "hindi": "उपाय से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "उच्यताम्",
+            "hindi": "कहा जाए / बताया जाए (वच् धातु, कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.20",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "यह सुनकर राजा दशरथको बड़ी प्रसन्नता हुई। उन्होंने सुमन्त्रसे कहा-*मुनिकुमार ऋष्यशृंगको वहाँ जिस प्रकार और जिस उपायसे बुलाया गया, वह स्पष्टरूपसे बताओ'॥ २०॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

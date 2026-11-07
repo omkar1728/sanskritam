@@ -1,0 +1,305 @@
+{
+  "id": "baala-004-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 19
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-20"
+    ],
+    "vulgate_in_locators": [
+      "1.4.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.20",
+      "1.4.21"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004019a",
+        "1004019c"
+      ],
+      "lines": [
+        "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+        "प्रसन्नो वल्कलं कश्चिद्ददौ ताभ्यां महायशाः"
+      ],
+      "punctuated_derived": "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ ।\nप्रसन्नो वल्कलं कश्चिद्ददौ ताभ्यां महायशाः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+        "प्रसन्नो वल्कलं कश्चिद्ददौ ताभ्यां महायशाः"
+      ],
+      "locators": [
+        "1-4-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+        "प्रसन्नो वल्कलं कश्चिद् ददौ ताभ्यां महायशाः"
+      ],
+      "locators": [
+        "1.4.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+        "प्रसन्नो वल्कलं कश्चिद्‌ ददौ ताभ्यां महायशाः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_20-21",
+        "hindi_shared_range",
+        "leading_text_before_sanskrit_moved_to_unparsed",
+        "verse_number_nonsequential_expected_21"
+      ],
+      "refs": [
+        "1.4.20",
+        "1.4.21"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+      "net": "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+      "in": "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+      "gp": "प्रीतः कश्चिन्मुनिस्ताभ्यां संस्थितः कलशं ददौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "प्रसन्नो वल्कलं कश्चिद्ददौ ताभ्यां महायशाः",
+      "net": "प्रसन्नो वल्कलं कश्चिद्ददौ ताभ्यां महायशाः",
+      "in": "प्रसन्नो वल्कलं कश्चिद् ददौ ताभ्यां महायशाः",
+      "gp": "प्रसन्नो वल्कलं कश्चिद्‌ ददौ ताभ्यां महायशाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कश्चिद्ददौ",
+            "b": "कश्चिद् ददौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कश्चिद्ददौ",
+            "b": "कश्चिद्‌ ददौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "And someone, a pleased saint, got up and bestowed a handy vessel to them... another reputed sage, lauding them contributed a jute robe. [1-4-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kashchit muniH",
+            "devanagari_machine_converted": "कश्चित् मुनिः",
+            "english": "someone, a saint"
+          },
+          {
+            "roman_itrans": "priitaH",
+            "devanagari_machine_converted": "प्रीतः",
+            "english": "pleased"
+          },
+          {
+            "roman_itrans": "samsthitaH",
+            "devanagari_machine_converted": "सम्स्थितः",
+            "english": "on getting up"
+          },
+          {
+            "roman_itrans": "taabhyaam",
+            "devanagari_machine_converted": "ताभ्याम्",
+            "english": "to them"
+          },
+          {
+            "roman_itrans": "kalasham dadau",
+            "devanagari_machine_converted": "कलशम् ददौ",
+            "english": "bestowed a handy vessel"
+          },
+          {
+            "roman_itrans": "mahaayashaaH kashchit",
+            "devanagari_machine_converted": "महायशाः कश्चित्",
+            "english": "verily reputed saint, someone"
+          },
+          {
+            "roman_itrans": "prasannaH",
+            "devanagari_machine_converted": "प्रसन्नः",
+            "english": "lauding"
+          },
+          {
+            "roman_itrans": "valkalam dadau",
+            "devanagari_machine_converted": "वल्कलम् ददौ",
+            "english": "contributed jute robe."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.20",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके गान से संतुष्ट हुए किसी मुनि ने उठकर उन्हें पुरस्कार के रूप में एक कलश प्रदान किया। किसी दूसरे महायशस्वी महर्षि ने प्रसन्न होकर उन दोनों को वल्कल वस्त्र दिया। किसीने काला मृगचर्म भेंट किया तो किसीने यज्ञोपवीत।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.20",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रीतः",
+            "hindi": "प्रसन्न"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई एक"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "ताभ्याम्",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "संस्थितः",
+            "hindi": "उठकर / स्थित होकर"
+          },
+          {
+            "sanskrit": "कलशम्",
+            "hindi": "कलश"
+          },
+          {
+            "sanskrit": "ददौ",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "प्रसन्नः",
+            "hindi": "प्रसन्न"
+          },
+          {
+            "sanskrit": "वल्कलम्",
+            "hindi": "वल्कल वस्त्र"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई एक"
+          },
+          {
+            "sanskrit": "ददौ",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "ताभ्याम्",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "महायशाः",
+            "hindi": "महायशस्वी"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "कृष्णाजिनम्",
+            "hindi": "काला मृगचर्म"
+          },
+          {
+            "sanskrit": "अदात्",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "यज्ञसूत्रम्",
+            "hindi": "यज्ञोपवीत"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरे ने"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.20",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed",
+          "verse_number_nonsequential_expected_21",
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उनके गानसे संतुष्ट हुए किसी मुनिने उठकर उन्हें पुरस्कारके रूपमें एक कलश प्रदान किया। किसी दूसरे महायशस्वी महर्षिने प्रसन्न होकर उन दोनोंको वल्कल वस्त्र दिया। किसीने काला मृगचर्म भेंट किया तो किसीने यज्ञोपवीत ॥ २०-२१॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.21",
+        "ocr_flags": [
+          "hindi_marker_range_20-21"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "उनके गानसे संतुष्ट हुए किसी मुनिने उठकर उन्हें पुरस्कारके रूपमें एक कलश प्रदान किया। किसी दूसरे महायशस्वी महर्षिने प्रसन्न होकर उन दोनोंको वल्कल वस्त्र दिया। किसीने काला मृगचर्म भेंट किया तो किसीने यज्ञोपवीत ॥ २०-२१॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

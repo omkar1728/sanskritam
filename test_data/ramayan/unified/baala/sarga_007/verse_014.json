@@ -1,0 +1,279 @@
+{
+  "id": "baala-007-014",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 14,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 11
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-14"
+    ],
+    "vulgate_in_locators": [
+      "1.7.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007011a",
+        "1007011c"
+      ],
+      "lines": [
+        "शुचीनामेकबुद्धीनां सर्वेषां संप्रजानताम्",
+        "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्"
+      ],
+      "punctuated_derived": "शुचीनामेकबुद्धीनां सर्वेषां संप्रजानताम् ।\nनासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "शुचीनामेकबुद्धीनां सर्वेषां संप्रजानताम्",
+        "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्"
+      ],
+      "locators": [
+        "1-7-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "शुचीनामेकबुद्धीनां सर्वेषां सम्प्रजानताम्",
+        "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्॥१४"
+      ],
+      "locators": [
+        "1.7.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "शुचीनामेकबुदद्धीनां सर्वेषां सम्प्रजानताम्‌",
+        "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्‌"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.7.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "शुचीनामेकबुद्धीनां सर्वेषां संप्रजानताम्",
+      "net": "शुचीनामेकबुद्धीनां सर्वेषां संप्रजानताम्",
+      "in": "शुचीनामेकबुद्धीनां सर्वेषां सम्प्रजानताम्",
+      "gp": "शुचीनामेकबुदद्धीनां सर्वेषां सम्प्रजानताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9866666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "संप्रजानताम्",
+            "b": "सम्प्रजानताम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शुचीनामेकबुद्धीनां",
+            "b": "शुचीनामेकबुदद्धीनां"
+          },
+          {
+            "a": "संप्रजानताम्",
+            "b": "सम्प्रजानताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्",
+      "net": "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्",
+      "in": "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्॥१४",
+      "gp": "नासीत्पुरे वा राष्ट्रे वा मृषावादी नरः क्वचित्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "क्वचित्",
+            "b": "क्वचित्॥१४"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "क्वचित्",
+            "b": "क्वचित्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-14",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "All of those ministers are clean administrators of kingdom, and are in league with each other, as such there is none anywhere, either in capital or in country, a liar. [1-7-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-14",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shuchiinaam",
+            "devanagari_machine_converted": "शुचीनाम्",
+            "english": "decent ones"
+          },
+          {
+            "roman_itrans": "ekabuddhiinaam",
+            "devanagari_machine_converted": "एकबुद्धीनाम्",
+            "english": "one minded [in league with]"
+          },
+          {
+            "roman_itrans": "sarveSaam",
+            "devanagari_machine_converted": "सर्वेषाम्",
+            "english": "all of them"
+          },
+          {
+            "roman_itrans": "samprajaanataam",
+            "devanagari_machine_converted": "सम्प्रजानताम्",
+            "english": "administering"
+          },
+          {
+            "roman_itrans": "kwachit",
+            "devanagari_machine_converted": "क्वचित्",
+            "english": "anywhere"
+          },
+          {
+            "roman_itrans": "pure vaa raaSTre vaa",
+            "devanagari_machine_converted": "पुरे वा राष्ट्रे वा",
+            "english": "in capital, or, in kingdom, either"
+          },
+          {
+            "roman_itrans": "mR^iSaavaadii naraH",
+            "devanagari_machine_converted": "मृषावादी नरः",
+            "english": "person speaking lies[liar]"
+          },
+          {
+            "roman_itrans": "na aasiit",
+            "devanagari_machine_converted": "न आसीत्",
+            "english": "is not, there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन सबके भाव शुद्ध और विचार एक थे। उनकी जानकारीमें अयोध्यापुरी अथवा कोसलराज्यके भीतर कहीं एक भी मनुष्य ऐसा नहीं था, जो मिथ्यावादी,-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "शुचीनाम्",
+            "hindi": "शुद्ध भाव वालों के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "एकबुद्धीनाम्",
+            "hindi": "एक समान विचार वालों के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वेषाम्",
+            "hindi": "सभी के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सम्प्रजानताम्",
+            "hindi": "भलीभाँति जानने वालों के (षष्ठी विभक्ति, बहुवचन, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "था (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "पुरे",
+            "hindi": "पुरी में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "राष्ट्रे",
+            "hindi": "राज्य में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "मृषावादी",
+            "hindi": "मिथ्यावादी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नरः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्वचित्",
+            "hindi": "कहीं भी (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.14",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उन सबके भाव शुद्ध और विचार एक थे। उनकी जानकारीमें अयोध्यापुरी अथवा कोसलराज्यके भीतर कहीं एक भी मनुष्य ऐसा नहीं था, जो मिथ्यावादी, दुष्ट और परस्त्रीलम्पट हो। सम्पूर्ण राष्ट्र और नगरमें पूर्ण शान्ति छायी रहती थी॥ १४-१५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

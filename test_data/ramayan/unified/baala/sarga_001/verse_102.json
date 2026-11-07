@@ -1,0 +1,343 @@
+{
+  "id": "baala-001-102",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 102,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 74
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-94, 1-1-95"
+    ],
+    "vulgate_in_locators": [
+      "1.1.94",
+      "1.1.95"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.94",
+      "1.1.95"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001074a",
+        "1001074c"
+      ],
+      "lines": [
+        "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः",
+        "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम्"
+      ],
+      "punctuated_derived": "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः ।\nगवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः",
+        "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम्"
+      ],
+      "locators": [
+        "1-1-94, 1-1-95"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः",
+        "गवां कोट्ययुतं दत्त्वा विद्वद्भयो विधिपूर्वकम्"
+      ],
+      "locators": [
+        "1.1.94",
+        "1.1.95"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अश्वमेधशतैरिष्ट्वा तथा नहुसुवर्णकैः",
+        "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.1.94",
+        "1.1.95"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः",
+      "net": "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः",
+      "in": "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः",
+      "gp": "अश्वमेधशतैरिष्ट्वा तथा नहुसुवर्णकैः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "बहुसुवर्णकैः",
+            "b": "नहुसुवर्णकैः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम्",
+      "net": "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम्",
+      "in": "गवां कोट्ययुतं दत्त्वा विद्वद्भयो विधिपूर्वकम्",
+      "gp": "गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9879518072289156,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "विद्वद्भ्यो",
+            "b": "विद्वद्भयो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विधिपूर्वकम्",
+            "b": "विधिपूर्वकम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-94, 1-1-95",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Like-wise the highly illustrious Rama having performed hundreds of horse rituals and having donated plentiful gold and crores of cows and wealth that cannot be counted to Brahmanas and to scholars according to custom... [1-1-94b, 95a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-94, 1-1-95",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "94b, 95a. tathaa",
+            "devanagari_machine_converted": "९४ब्, ९५अ। तथा",
+            "english": "like-wise; mahaayashaaH = highly illustrious one [Rama]"
+          },
+          {
+            "roman_itrans": "iSTvaa",
+            "devanagari_machine_converted": "इष्ट्वा",
+            "english": "having performed"
+          },
+          {
+            "roman_itrans": "ashvamedhashataiH",
+            "devanagari_machine_converted": "अश्वमेधशतैः",
+            "english": "hundreds of Horse Rituals"
+          },
+          {
+            "roman_itrans": "dattvaa",
+            "devanagari_machine_converted": "दत्त्वा",
+            "english": "[and] having donated"
+          },
+          {
+            "roman_itrans": "bahusuvarNakaiH",
+            "devanagari_machine_converted": "बहुसुवर्णकैः",
+            "english": "plentiful gold"
+          },
+          {
+            "roman_itrans": "gavaam koTyayutam",
+            "devanagari_machine_converted": "गवाम् कोट्ययुतम्",
+            "english": "[and] crores of cows"
+          },
+          {
+            "roman_itrans": "dhanam",
+            "devanagari_machine_converted": "धनम्",
+            "english": "[and] wealth"
+          },
+          {
+            "roman_itrans": "asankhyeyam",
+            "devanagari_machine_converted": "असन्ख्येयम्",
+            "english": "[that] cannot be counted"
+          },
+          {
+            "roman_itrans": "braahmaNebhyaH",
+            "devanagari_machine_converted": "ब्राह्मणेभ्यः",
+            "english": "to Brahmanas"
+          },
+          {
+            "roman_itrans": "vidvadbhyaH",
+            "devanagari_machine_converted": "विद्वद्भ्यः",
+            "english": "[and] to scholars"
+          },
+          {
+            "roman_itrans": "vidhipuurvakam",
+            "devanagari_machine_converted": "विधिपूर्वकम्",
+            "english": "according to custom."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.94",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सत्ययुगकी भाँति सभी लोग सदा प्रसन्न रहेंगे। महायशस्वी राम बहुत-से सुवर्णोंकी दक्षिणावाले सौ अश्वमेध यज्ञ करेंगे"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.95",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनमें विधिपूर्वक विद्वानोंको दस हजार करोड़ (एक खरब) गौ और ब्राह्मणोंको अपरिमित धन देंगे"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.94",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रमुदिताः",
+            "hindi": "प्रसन्न (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          },
+          {
+            "sanskrit": "कृतयुगे",
+            "hindi": "सतयुग में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "वैसे ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अश्वमेधशतैः",
+            "hindi": "सैकड़ों अश्वमेध यज्ञों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इष्ट्वा",
+            "hindi": "यज्ञ करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "बहुसुवर्णकैः",
+            "hindi": "बहुत सुवर्ण वाले (तृतीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.95",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गवाम्",
+            "hindi": "गौओं का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कोट्ययुतम्",
+            "hindi": "दस हज़ार करोड़ (एक खरब) (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "दान देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "विद्वद्भ्यः",
+            "hindi": "विद्वानों को (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "विधिपूर्वकम्",
+            "hindi": "विधि के अनुसार (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "असङ्ख्येयम्",
+            "hindi": "गिनने में न आने वाला (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धनम्",
+            "hindi": "धन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "ब्राह्मणेभ्यः",
+            "hindi": "ब्राह्मणों को (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "महायशाः",
+            "hindi": "महान् कीर्ति वाले ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.94",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.95",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

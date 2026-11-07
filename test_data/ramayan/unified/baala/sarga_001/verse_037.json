@@ -1,0 +1,413 @@
+{
+  "id": "baala-001-037",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 37,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 29
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-33, 1-1-34"
+    ],
+    "vulgate_in_locators": [
+      "1.1.33",
+      "1.1.34"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.33",
+      "1.1.34"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001029a",
+        "1001029c",
+        "1001029e"
+      ],
+      "lines": [
+        "मृते तु तस्मिन्भरतो वसिष्ठप्रमुखैर्द्विजैः",
+        "नियुज्यमानो राज्याय नैच्छद्राज्यं महाबलः",
+        "स जगाम वनं वीरो रामपादप्रसादकः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "मृते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः",
+        "नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः",
+        "स जगाम वनं वीरो रामपादप्रसादकः"
+      ],
+      "locators": [
+        "1-1-33, 1-1-34"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः",
+        "नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः",
+        "स जगाम वनं वीरो रामपादप्रसादकः"
+      ],
+      "locators": [
+        "1.1.33",
+        "1.1.34"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गते तु तस्मिन्‌ भरतो वसिष्ठप्रमुखै्विजैः",
+        "नियुज्यमानो राज्याय नैच्छद्‌ राज्यं महाबलः",
+        "स जगाम वनं वीरो रामपादप्रसादकः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_33-34",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.33",
+        "1.1.34"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "मृते तु तस्मिन्भरतो वसिष्ठप्रमुखैर्द्विजैः",
+      "net": "मृते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः",
+      "in": "गते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः",
+      "gp": "गते तु तस्मिन्‌ भरतो वसिष्ठप्रमुखै्विजैः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.96,
+        "sim_gp_net": 0.9166666666666666
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तस्मिन्भरतो",
+            "b": "तस्मिन् भरतो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मृते",
+            "b": "गते"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मृते",
+            "b": "गते"
+          },
+          {
+            "a": "तस्मिन्",
+            "b": "तस्मिन्‌"
+          },
+          {
+            "a": "वसिष्ठप्रमुखैर्द्विजैः",
+            "b": "वसिष्ठप्रमुखै्विजैः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नियुज्यमानो राज्याय नैच्छद्राज्यं महाबलः",
+      "net": "नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः",
+      "in": "नियुज्यमानो राज्याय नैच्छद् राज्यं महाबलः",
+      "gp": "नियुज्यमानो राज्याय नैच्छद्‌ राज्यं महाबलः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नैच्छद्राज्यं",
+            "b": "नैच्छद् राज्यं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नैच्छद्",
+            "b": "नैच्छद्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "स जगाम वनं वीरो रामपादप्रसादकः",
+      "net": "स जगाम वनं वीरो रामपादप्रसादकः",
+      "in": "स जगाम वनं वीरो रामपादप्रसादकः",
+      "gp": "स जगाम वनं वीरो रामपादप्रसादकः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-33, 1-1-34",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On Dasharatha's dying, though Bharata had been appointed for kingship by Sage Vashishta and other Brahmanas, that highly mighty one did not desire kingdom. That warrior Bharata went to forest to propitiate the venerable Rama... [1-1-33b. 34]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-33, 1-1-34",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "33b, 34. tasmin mR^ite",
+            "devanagari_machine_converted": "३३ब्, ३४। तस्मिन् मृते",
+            "english": "On his (Dasaratha's) dying"
+          },
+          {
+            "roman_itrans": "bharataH tu",
+            "devanagari_machine_converted": "भरतः तु",
+            "english": "though Bharata"
+          },
+          {
+            "roman_itrans": "raajyaaya niyujyamaanaH",
+            "devanagari_machine_converted": "राज्याय नियुज्यमानः",
+            "english": "had been appointed for kingship"
+          },
+          {
+            "roman_itrans": "vasiSThapramukhaiH dvijaiH",
+            "devanagari_machine_converted": "वसिष्ठप्रमुखैः द्विजैः",
+            "english": "by Sage Vasishta and other prominent Brahmanas"
+          },
+          {
+            "roman_itrans": "mahaabalaH",
+            "devanagari_machine_converted": "महाबलः",
+            "english": "(that) highly mighty one"
+          },
+          {
+            "roman_itrans": "raajyam na icChat",
+            "devanagari_machine_converted": "राज्यम् न इच्छत्",
+            "english": "did not desire kingdom"
+          },
+          {
+            "roman_itrans": "saH viiraH",
+            "devanagari_machine_converted": "सः वीरः",
+            "english": "that warrior"
+          },
+          {
+            "roman_itrans": "vanam jagaama",
+            "devanagari_machine_converted": "वनम् जगाम",
+            "english": "went to forest"
+          },
+          {
+            "roman_itrans": "raamapaadaprasaadakaH",
+            "devanagari_machine_converted": "रामपादप्रसादकः",
+            "english": "(to) propitiate the venerable Rama."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.33",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस समय पुत्रके लिये विलाप करते हुए स्वर्गगामी हुए। उनके स्वर्गगमनके पश्चात् वसिष्ठ आदि प्रमुख ब्राह्मणोंद्वारा"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.34",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "राज्यसंचालनके लिये नियुक्त किये जानेपर भी महाबलशाली वीर भरतने राज्यकी कामना न करके पूज्य रामको प्रसन्न करनेके लिये वनको ही प्रस्थान किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.33",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वर्गम्",
+            "hindi": "स्वर्ग को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गमन किया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विलपन्",
+            "hindi": "विलाप करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुतम्",
+            "hindi": "पुत्र के लिए (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गते",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो / हाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (दशरथ) के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "भरतः",
+            "hindi": "भरत (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वसिष्ठप्रमुखैः",
+            "hindi": "वसिष्ठ आदि प्रमुख (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजैः",
+            "hindi": "ब्राह्मणों द्वारा (तृतीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.34",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नियुज्यमानः",
+            "hindi": "नियुक्त किया जाता हुआ (शानच् प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राज्याय",
+            "hindi": "राज्य के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "ऐच्छत्",
+            "hindi": "चाहा (इष् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महाबलः",
+            "hindi": "महाबली ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वनम्",
+            "hindi": "वन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वीरः",
+            "hindi": "वीर ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामपादप्रसादकः",
+            "hindi": "राम के चरणों की कृपा चाहने वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.33",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“उनके स्वर्गगमनके पश्चात्‌ वसिष्ठ आदि प्रमुख ब्राह्मणोंद्वारा राज्यसंचालनके लिये नियुक्त किये जानेपर भी महाबलशाली वीर भरतने राज्यकी कामना न करके पूज्य रामको प्रसन्न करनेके लिये वनको ही प्रस्थान किया॥ ३३-३४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.34",
+        "ocr_flags": [
+          "hindi_marker_range_33-34"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“उनके स्वर्गगमनके पश्चात्‌ वसिष्ठ आदि प्रमुख ब्राह्मणोंद्वारा राज्यसंचालनके लिये नियुक्त किये जानेपर भी महाबलशाली वीर भरतने राज्यकी कामना न करके पूज्य रामको प्रसन्न करनेके लिये वनको ही प्रस्थान किया॥ ३३-३४॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed",
+  "critical_edition_notes": [
+    {
+      "smith_ids": [
+        "1001029a",
+        "1001029c"
+      ],
+      "comment": "In the Critical Notes, the editor remarks, “After 29, 70*, 71* and 73*\nshould be read in the text.” Star passage 70* reads:\nStar passage 71* reads:\nStar passage 73* reads:",
+      "star_passages": [
+        {
+          "label": "70*",
+          "lines": [
+            "अयाचद्भ्रातरं राममार्यभावपुरस्कृतः"
+          ]
+        },
+        {
+          "label": "71*",
+          "lines": [
+            "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत्"
+          ]
+        },
+        {
+          "label": "73*",
+          "lines": [
+            "न चैच्छत्पितुरादेशाद्राज्यं रामो महाबलः"
+          ]
+        }
+      ]
+    }
+  ]
+}

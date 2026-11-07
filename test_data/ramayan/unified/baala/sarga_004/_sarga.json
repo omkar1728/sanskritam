@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 4,
+  "critical_sarga": 4,
+  "vulgate_sarga": 4,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "महर्षि वाल्मीकि का चौबीस हजार श्लोकों से युक्त रामायणकाव्य का निर्माण कर लव-कुशको पढ़ाना, लव और कुश का अयोध्या में श्रीराम द्वारा सम्मानित हो रामदरबार में रामायण गान सुनाना",
+  "title_en_from_in": "Sage Valmiki composes the Ramayana epic of 24,000 verses and teaches it to Lava and Kusha; they are honored by Shri Rama in Ayodhya and recite the Ramayana in his court",
+  "intro_en_from_net": "Valmiki composed twenty four thousand verses and taught them to Lava and Kusha, the sons of Rama and Seetha. The two youngsters sing the ballad among the assemblages of sages and saints, and win laurels. Rama on seeing the boys singing on the streets and king's ways of Ayodhya, brings them to his palace, and summons all his brothers and ministers to listen to the ballad. Rama himself is put to the turmoil, for the ballad sung by these youngsters narrates the legend of Seetha. But he himself collecting his calm, Rama paid his attention to listen the 'Legend of Seetha' siithaayaH charitam mahat as Valmiki calls Ramayana.",
+  "counts": {
+    "smith_lines": 55,
+    "net_lines": 75,
+    "in_lines": 72,
+    "smith_verses": 27,
+    "net_blocks": 31,
+    "in_verses": 34,
+    "gp_lines": 70,
+    "gp_units": 37,
+    "in_declared": 36,
+    "docs": 39
+  }
+}

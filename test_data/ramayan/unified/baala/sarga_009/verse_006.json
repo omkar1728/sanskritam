@@ -1,0 +1,226 @@
+{
+  "id": "baala-009-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-1"
+    ],
+    "vulgate_in_locators": [
+      "1.9.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.1"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम्"
+      ],
+      "locators": [
+        "1-9-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम्"
+      ],
+      "locators": [
+        "1.9.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "श्रूयतां तत्‌ पुरावृत्तं पुराणे च मया श्रुतम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.9.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम्",
+      "in": "श्रूयतां तत् पुरावृत्तं पुराणे च मया श्रुतम्",
+      "gp": "श्रूयतां तत्‌ पुरावृत्तं पुराणे च मया श्रुतम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तत्",
+            "b": "तत्‌"
+          },
+          {
+            "a": "श्रुतम्",
+            "b": "श्रुतम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-1",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Sumantra, the charioteer and one of the misters of King Dasharatha, having heard all about the king's desire to perform a Vedic ritual, said this in confidence to king, \"oh, king, I will tell an early legend, an early legendary narration that I listened... [1-9-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-1",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "etat shrutvaa suutaH",
+            "devanagari_machine_converted": "एतत् श्रुत्वा सूतः",
+            "english": "having heard all this, charioteer(Sumantra)"
+          },
+          {
+            "roman_itrans": "raajaanam",
+            "devanagari_machine_converted": "राजानम्",
+            "english": "to king [Dasharatha]"
+          },
+          {
+            "roman_itrans": "rahaH idam abraviit",
+            "devanagari_machine_converted": "रहः इदम् अब्रवीत्",
+            "english": "in confidence, in this way, said"
+          },
+          {
+            "roman_itrans": "shruuyataam tat",
+            "devanagari_machine_converted": "श्रूयताम् तत्",
+            "english": "I will tell, that"
+          },
+          {
+            "roman_itrans": "puraavR^ittam",
+            "devanagari_machine_converted": "पुरावृत्तम्",
+            "english": "an early legend"
+          },
+          {
+            "roman_itrans": "puraaNe ca mayaa shrutam",
+            "devanagari_machine_converted": "पुराणे च मया श्रुतम्",
+            "english": "legendary narration, also, listened by me."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.1",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "पुत्र के लिये अश्वमेध यज्ञ करने की बात सुनकर सुमन्त्रने राजासे एकान्तमें कहा—’महाराज! एक पुराना इतिहास सुनिये। मैंने पुराण में भी इसका वर्णन सुना है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.1",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "एतत्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय, पूर्वकालिक क्रिया)"
+          },
+          {
+            "sanskrit": "रहः",
+            "hindi": "एकान्त में (अव्यय)"
+          },
+          {
+            "sanskrit": "सूतः",
+            "hindi": "सुमन्त्र ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राजानम्",
+            "hindi": "राजा से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अब्रवीत्",
+            "hindi": "कहा (ब्रू धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "श्रूयताम्",
+            "hindi": "सुनिये (श्रु धातु, कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरावृत्तम्",
+            "hindi": "पुराना इतिहास / वृत्तान्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुराणे",
+            "hindi": "पुराण में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "मया",
+            "hindi": "मैंने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतम्",
+            "hindi": "सुना है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.1",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "पुत्रके लिये अश्वमेध यज्ञ करनेकी बात सुनकर सुमन्त्रने राजासे एकान्तमें कहा--' महाराज! एक पुराना इतिहास सुनिये। मैंने पुराणमें भी इसका वर्णन सुना है॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

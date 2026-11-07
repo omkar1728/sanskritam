@@ -1,0 +1,313 @@
+{
+  "id": "baala-010-035",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 35,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 30
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-30, 1-10-31"
+    ],
+    "vulgate_in_locators": [
+      "1.10.31"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.39"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009030a",
+        "1009030c"
+      ],
+      "lines": [
+        "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः",
+        "वव्रे प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत्"
+      ],
+      "punctuated_derived": "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः ।\nवव्रे प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः",
+        "वव्रे प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत्"
+      ],
+      "locators": [
+        "1-10-30, 1-10-31"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः",
+        "वरं प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत्"
+      ],
+      "locators": [
+        "1.10.31"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अर्घ्य च प्रददौ तस्मै न्यायतः सुसमाहितः",
+        "चत्रे प्रसादं विप्रनद्रान्मा विप्रं मन्युराविशेत्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_31_differs_from_sanskrit_39",
+        "verse_number_nonsequential_expected_31"
+      ],
+      "refs": [
+        "1.10.39"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः",
+      "net": "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः",
+      "in": "अर्घ्यं च प्रददौ तस्मै न्यायतः सुसमाहितः",
+      "gp": "अर्घ्य च प्रददौ तस्मै न्यायतः सुसमाहितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9850746268656716
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "अर्घ्यं",
+            "b": "अर्घ्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "वव्रे प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत्",
+      "net": "वव्रे प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत्",
+      "in": "वरं प्रसादं विप्रेन्द्रान्मा विप्रं मन्युराविशेत्",
+      "gp": "चत्रे प्रसादं विप्रनद्रान्मा विप्रं मन्युराविशेत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9534883720930233,
+        "sim_gp_net": 0.9195402298850575
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "वव्रे",
+            "b": "वरं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वव्रे",
+            "b": "चत्रे"
+          },
+          {
+            "a": "विप्रेन्द्रान्मा",
+            "b": "विप्रनद्रान्मा"
+          },
+          {
+            "a": "मन्युराविशेत्",
+            "b": "मन्युराविशेत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-30, 1-10-31",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The king Romapada personally proceeded towards that Brahman Rishyasring who is now entering Anga kingdom along with rains, made prostratiion before him, offered water customarily with dedication, and then the king Romapada besought beneficence of the best sage Rishyasringa to save him and his kingdom from the fury of his father Sage Vibhandaka, if sage Vibhandaka were to know about this pursuit of bringing Rishyasringa to Anga country, at a later time ... [1-10-30, 31]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-30, 1-10-31",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "30, 31. naraadhipaH",
+            "devanagari_machine_converted": "३०, ३१। नराधिपः",
+            "english": "king[Romapaada]"
+          },
+          {
+            "roman_itrans": "varSeNa eva",
+            "devanagari_machine_converted": "वर्षेण एव",
+            "english": "with specialty [of rain showers]"
+          },
+          {
+            "roman_itrans": "svam viShayam aagatam",
+            "devanagari_machine_converted": "स्वम् विषयम् आगतम्",
+            "english": "arrived into his own country"
+          },
+          {
+            "roman_itrans": "vipram munim",
+            "devanagari_machine_converted": "विप्रम् मुनिम्",
+            "english": "to Brahman, saint"
+          },
+          {
+            "roman_itrans": "prati udgamya",
+            "devanagari_machine_converted": "प्रति उद्गम्य",
+            "english": "gone towards [welcomingly]"
+          },
+          {
+            "roman_itrans": "prahvaH",
+            "devanagari_machine_converted": "प्रह्वः",
+            "english": "bowed his head"
+          },
+          {
+            "roman_itrans": "shirasaa mahiim gataH",
+            "devanagari_machine_converted": "शिरसा महीम् गतः",
+            "english": "touched head to ground"
+          },
+          {
+            "roman_itrans": "susamaahitaH",
+            "devanagari_machine_converted": "सुसमाहितः",
+            "english": "self-composedly"
+          },
+          {
+            "roman_itrans": "tasmai",
+            "devanagari_machine_converted": "तस्मै",
+            "english": "to him"
+          },
+          {
+            "roman_itrans": "nyaayataH arghyam pradadau",
+            "devanagari_machine_converted": "न्यायतः अर्घ्यम् प्रददौ",
+            "english": "as a rule, offered water"
+          },
+          {
+            "roman_itrans": "viprendraat",
+            "devanagari_machine_converted": "विप्रेन्द्रात्",
+            "english": "from best sage [ Vibhandaka]"
+          },
+          {
+            "roman_itrans": "prasaadam vavre",
+            "devanagari_machine_converted": "प्रसादम् वव्रे",
+            "english": "boon [indemnity,] sought"
+          },
+          {
+            "roman_itrans": "vipram manyuH maa aavishet",
+            "devanagari_machine_converted": "विप्रम् मन्युः मा आविशेत्",
+            "english": "let that Brahman be possessed by anger."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-30, 1-10-31",
+        "spans_beyond_this_verse": true,
+        "text": "The salutation in prostration on the ground is usually performed before Gods or Deities, in reverence. It is called saaSTaanga-praNaamam = sa aSTa anga praNaamam , i.e., saluting with eight body parts touching the ground, indicating his absolute surrender to the worshipped."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.31",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“फिर एकाग्रचित्त होकर उन्होंने ऋषिको अर्घ्य निवेदन किया तथा उन विप्रशिरोमणिसे वरदान माँगा, ‘भगवन् ! आप और आपके पिताजीका कृपाप्रसाद मुझे प्राप्त हो।’ ऐसा उन्होंने इसलिये किया कि कहीं कपटपूर्वक यहाँतक लाये जानेका रहस्य जान लेनेपर विप्रवर ऋष्यशृंग अथवा विभाण्डक मुनिके मनमें मेरे प्रति क्रोध न हो ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.31",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अर्घ्यम्",
+            "hindi": "अर्घ्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रददौ",
+            "hindi": "दिया (प्र + दा, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तस्मै",
+            "hindi": "उसे (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "न्यायतः",
+            "hindi": "न्याय / विधि के अनुसार (अव्यय)"
+          },
+          {
+            "sanskrit": "सुसमाहितः",
+            "hindi": "एकाग्रचित्त होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वरम्",
+            "hindi": "वरदान (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रसादम्",
+            "hindi": "प्रसाद / कृपा (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विप्रेन्द्रात्",
+            "hindi": "विप्रश्रेष्ठ से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "मा",
+            "hindi": "नहीं (निषेधार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "विप्रम्",
+            "hindi": "विप्र (ऋष्यशृंग) को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्युः",
+            "hindi": "क्रोध (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "आविशेत्",
+            "hindi": "प्राप्त हो (आ + विश्, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.39",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_31",
+          "hindi_marker_31_differs_from_sanskrit_39"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“फिर एकाग्रचित्त होकर उन्होंने ऋषिको अर्घ्य निवेदन किया तथा उन विप्रशिरोमणिसे वरदान माँगा, ' भगवन्‌! आप और आपके पिताजीका कृपाप्रसाद मुझे प्राप्त हो।' ऐसा उन्होंने इसलिये किया कि कहीं कपटपूर्वक यहाँतक लाये जानेका रहस्य जान लेनेपर विप्रवर ऋष्यशृंग अथवा विभाण्डक मुनिके मनमें मेरे प्रति क्रोध न हो॥ ३१॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

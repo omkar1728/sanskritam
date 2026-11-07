@@ -1,0 +1,285 @@
+{
+  "id": "baala-007-005",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 5,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 3
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-4"
+    ],
+    "vulgate_in_locators": [
+      "1.7.4"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007003a",
+        "1007003c"
+      ],
+      "lines": [
+        "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+        "वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे"
+      ],
+      "punctuated_derived": "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ ।\nवसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+        "वशिष्ठो वामदेवश्च मंत्रिणश्च तथापरे"
+      ],
+      "locators": [
+        "1-7-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+        "वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे॥४"
+      ],
+      "locators": [
+        "1.7.4"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+        "वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.7.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+      "net": "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+      "in": "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+      "gp": "ऋत्विजौ द्वावभिमतौ तस्यास्तामृषिसत्तमौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे",
+      "net": "वशिष्ठो वामदेवश्च मंत्रिणश्च तथापरे",
+      "in": "वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे॥४",
+      "gp": "वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे",
+      "similarity": {
+        "sim_smith_net": 0.96875,
+        "sim_in_net": 0.96875,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वसिष्ठो",
+            "b": "वशिष्ठो"
+          },
+          {
+            "a": "मन्त्रिणश्च",
+            "b": "मंत्रिणश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "वशिष्ठो",
+            "b": "वसिष्ठो"
+          },
+          {
+            "a": "मंत्रिणश्च तथापरे",
+            "b": "मन्त्रिणश्च तथापरे॥४"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वशिष्ठो",
+            "b": "वसिष्ठो"
+          },
+          {
+            "a": "मंत्रिणश्च",
+            "b": "मन्त्रिणश्च"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-4",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Two venerable saints of eminence are religious ministers for they are authorities in Vedic rituals, namely Vashishta and Vamadeva, who are the acquiescent with religious matters, and apart from these two some more religious ministers are also there to King Dasharatha. [1-7-4]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-4",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tasya",
+            "devanagari_machine_converted": "तस्य",
+            "english": "to him, Dasharatha"
+          },
+          {
+            "roman_itrans": "vashiSTaH",
+            "devanagari_machine_converted": "वशिष्टः",
+            "english": "Vashishta"
+          },
+          {
+            "roman_itrans": "vaamadevaH cha",
+            "devanagari_machine_converted": "वामदेवः च",
+            "english": "Vamadeva, also"
+          },
+          {
+            "roman_itrans": "dvau",
+            "devanagari_machine_converted": "द्वौ",
+            "english": "two"
+          },
+          {
+            "roman_itrans": "aastaam R^iSisattamau",
+            "devanagari_machine_converted": "आस्ताम् ऋषिसत्तमौ",
+            "english": "eminent saints were there"
+          },
+          {
+            "roman_itrans": "abhimatau",
+            "devanagari_machine_converted": "अभिमतौ",
+            "english": "acquiescent"
+          },
+          {
+            "roman_itrans": "R^itwijau",
+            "devanagari_machine_converted": "ऋत्विजौ",
+            "english": "Vedic ritual-authorities"
+          },
+          {
+            "roman_itrans": "tathaa apare",
+            "devanagari_machine_converted": "तथा अपरे",
+            "english": "like that, furthermore"
+          },
+          {
+            "roman_itrans": "mantriNaH cha",
+            "devanagari_machine_converted": "मन्त्रिणः च",
+            "english": "ministers, also [are there.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ऋषियों में श्रेष्ठतम वसिष्ठ और वामदेव— ये दो महर्षि राजा के माननीय ऋत्विज् (पुरोहित) थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋत्विजौ",
+            "hindi": "दो ऋत्विज (प्रथमा विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "द्वौ",
+            "hindi": "दो (प्रथमा विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "अभिमतौ",
+            "hindi": "माननीय (प्रथमा विभक्ति, द्विवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आस्ताम्",
+            "hindi": "थे (अस् धातु, लङ् लकार, प्रथम पुरुष द्विवचन)"
+          },
+          {
+            "sanskrit": "ऋषिसत्तमौ",
+            "hindi": "श्रेष्ठ ऋषि (प्रथमा विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "वसिष्ठः",
+            "hindi": "वसिष्ठ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वामदेवः",
+            "hindi": "वामदेव (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "मन्त्रिणः",
+            "hindi": "मंत्री (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "अपरे",
+            "hindi": "अन्य (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.4",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "ऋषियोंमें श्रेष्ठतम वसिष्ठ और वामदेव-ये दो महर्षि राजाके माननीय ऋत्विज्‌ (पुरोहित) थे। इनके सिवा सुयज्ञ, जाबालि, काश्यप, गौतम, दीर्घायु मार्कण्डेय और विप्रवर कात्यायन भी महाराजके मन्त्री थे॥ ४-५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

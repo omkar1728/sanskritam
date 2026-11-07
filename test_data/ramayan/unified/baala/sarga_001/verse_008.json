@@ -1,0 +1,260 @@
+{
+  "id": "baala-001-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 8
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-8"
+    ],
+    "vulgate_in_locators": [
+      "1.1.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001008a",
+        "1001008c"
+      ],
+      "lines": [
+        "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+        "नियतात्मा महावीर्यो द्युतिमान्धृतिमान्वशी"
+      ],
+      "punctuated_derived": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः ।\nनियतात्मा महावीर्यो द्युतिमान्धृतिमान्वशी ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+        "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी"
+      ],
+      "locators": [
+        "1-1-8"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+        "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी"
+      ],
+      "locators": [
+        "1.1.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "इ्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+        "नियतात्मा महावीर्यो झुतिमान्‌ धृतिमान्‌ वशी"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+      "net": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+      "in": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+      "gp": "इ्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9855072463768116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "इक्ष्वाकुवंशप्रभवो",
+            "b": "इ्ष्वाकुवंशप्रभवो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नियतात्मा महावीर्यो द्युतिमान्धृतिमान्वशी",
+      "net": "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी",
+      "in": "नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी",
+      "gp": "नियतात्मा महावीर्यो झुतिमान्‌ धृतिमान्‌ वशी",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9444444444444444
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "द्युतिमान्धृतिमान्वशी",
+            "b": "द्युतिमान् धृतिमान् वशी"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "द्युतिमान् धृतिमान्",
+            "b": "झुतिमान्‌ धृतिमान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-8",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"One emerged from Ikshvaku dynasty, known to people as Rama by name. He is with a controlled self, highly valorous, resplendent, steadfast and a controller of (vice and vile... or) his own senses. [1-1-8]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-8",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "ikshvaakuvamshaprabhavaH",
+            "devanagari_machine_converted": "इक्श्वाकुवम्शप्रभवः",
+            "english": "Born in Ikshvaku dynasty"
+          },
+          {
+            "roman_itrans": "raamaH naama",
+            "devanagari_machine_converted": "रामः नाम",
+            "english": "One named Rama"
+          },
+          {
+            "roman_itrans": "janaiH shrutaH",
+            "devanagari_machine_converted": "जनैः श्रुतः",
+            "english": "has been heard by people"
+          },
+          {
+            "roman_itrans": "niyataatmaa",
+            "devanagari_machine_converted": "नियतात्मा",
+            "english": "with a controlled self"
+          },
+          {
+            "roman_itrans": "mahaaviiryaH",
+            "devanagari_machine_converted": "महावीर्यः",
+            "english": "highly valorous one"
+          },
+          {
+            "roman_itrans": "dyutimaan",
+            "devanagari_machine_converted": "द्युतिमान्",
+            "english": "resplendent one"
+          },
+          {
+            "roman_itrans": "dhR^ithimaan",
+            "devanagari_machine_converted": "धृथिमान्",
+            "english": "steadfast"
+          },
+          {
+            "roman_itrans": "vashii",
+            "devanagari_machine_converted": "वशी",
+            "english": "controller [of vice and vile [or,] senses.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-8",
+        "spans_beyond_this_verse": false,
+        "text": "For the attributes explained by Narada there are some Vedanta imports. From niyataatmaa to vashii these are the attributes of the Supreme Being, Absolute of Brahman. swaruupa-niruupaka- lakShaNaaH . This niyataatmaa is 'immutable Absolute, this is the postulate of any Upanishad: ya aatmaa apahatapaapmaa virajo vimR^ityurvishoko... 8-7-1, Chāndogya-UpaniShad. mahaaviiryaH = acintya vividhavicitrashaktivaan Absolute is Omnicompetent paraa asya shaktiH vividhaa iva shruuyate svaabhaavikii j~naanabalakriyaa ca 6-8, Shwetaashvatara-UpaniShad. The word dyutimaan is for the attribute of Self-Resplendent Absolute, or, Resplendence of Consciousness. tam eva bhaantam anubhaati sarvam tasya bhaasaa sarvam idam bhaati 2-11, Mundaka-UpaniShad. And the dhR^ithimaan is Sublime Bliss, according to Vyjayanti dhR^itiH tu tuSTiH santoSaH and as said in aanando brahma - aanandaat eva khalu imaani bhuutaani jaayante 6, Taittariiya- Upanishad. Next, vashii Absolute is the Omnipotent on the entire Universe. eko vahii sarva bhuutaantaraatmaa 2-5-12, Katha-Upanishad and sarvasya vashii sarvasya iishaanaH and the like. The rest of the attributes of Rama as said by Narada are identifiable with the causative factors of that Absolute in Creation, and the process of Creation is the self-expression of the Absolute."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'इक्ष्वाकुके वंशमें उत्पन्न हुए एक ऐसे पुरुष हैं, जो लोगोंमें राम-नामसे विख्यात हैं, वे ही मनको वशमें रखनेवाले, महाबलवान्, कान्तिमान्, धैर्यवान् और जितेन्द्रिय हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इक्ष्वाकुवंशप्रभवः",
+            "hindi": "इक्ष्वाकु के वंश में उत्पन्न (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम से (अव्यय/द्वितीया विभक्ति का अव्ययीभाव)"
+          },
+          {
+            "sanskrit": "जनैः",
+            "hindi": "लोगों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतः",
+            "hindi": "सुना गया / विख्यात (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "नियतात्मा",
+            "hindi": "नियन्त्रित आत्मा वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महावीर्यः",
+            "hindi": "महान पराक्रम वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्युतिमान्",
+            "hindi": "कान्तियुक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धृतिमान्",
+            "hindi": "धैर्यवान् (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वशी",
+            "hindi": "वश में करने वाला / जितेन्द्रिय (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.8",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'इक्ष्वाकुके वंशमें उत्पन्न हुए एक ऐसे पुरुष हैं, जो लोगोंमें राम-नामसे विख्यात हैं, वे ही मनको वशमें रखनेवाले, महाबलवान्‌, कान्तिमान्‌, धैर्यवान्‌ और जितेन्द्रिय हैं॥ ८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

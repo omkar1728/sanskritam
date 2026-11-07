@@ -1,0 +1,255 @@
+{
+  "id": "baala-007-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 7
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-10"
+    ],
+    "vulgate_in_locators": [
+      "1.7.10"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007007a",
+        "1007007c"
+      ],
+      "lines": [
+        "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+        "प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि"
+      ],
+      "punctuated_derived": "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः ।\nप्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+        "प्राप्तकालं यथादण्डं धारयेयुः सुतेष्वपि"
+      ],
+      "locators": [
+        "1-7-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+        "प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि॥१०"
+      ],
+      "locators": [
+        "1.7.10"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+        "प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्व्रपि"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+      "net": "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+      "in": "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+      "gp": "कुशला व्यवहारेषु सौहृदेषु परीक्षिताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि",
+      "net": "प्राप्तकालं यथादण्डं धारयेयुः सुतेष्वपि",
+      "in": "प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्वपि॥१०",
+      "gp": "प्राप्तकालं यथा दण्डं धारयेयुः सुतेष्व्रपि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यथा दण्डं",
+            "b": "यथादण्डं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यथादण्डं",
+            "b": "यथा दण्डं"
+          },
+          {
+            "a": "सुतेष्वपि",
+            "b": "सुतेष्वपि॥१०"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यथादण्डं",
+            "b": "यथा दण्डं"
+          },
+          {
+            "a": "सुतेष्वपि",
+            "b": "सुतेष्व्रपि"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They are efficient in administration and their friendships are well examined by the king, and those ministers impose punishment even on their own sons, if situation demands it. [1-7-10]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vyavahaareSu",
+            "devanagari_machine_converted": "व्यवहारेषु",
+            "english": "in administration"
+          },
+          {
+            "roman_itrans": "kushalaaH",
+            "devanagari_machine_converted": "कुशलाः",
+            "english": "efficient"
+          },
+          {
+            "roman_itrans": "sauhR^ideSu",
+            "devanagari_machine_converted": "सौहृदेषु",
+            "english": "in their friendships"
+          },
+          {
+            "roman_itrans": "pariikShitaaH",
+            "devanagari_machine_converted": "परीक्षिताः",
+            "english": "well examined [by the king]"
+          },
+          {
+            "roman_itrans": "suteSu api",
+            "devanagari_machine_converted": "सुतेषु अपि",
+            "english": "to their sons, even"
+          },
+          {
+            "roman_itrans": "praaptakaalam yathaa",
+            "devanagari_machine_converted": "प्राप्तकालम् यथा",
+            "english": "according to time[if situation demands]"
+          },
+          {
+            "roman_itrans": "daNDam dhaarayeyuH",
+            "devanagari_machine_converted": "दण्डम् धारयेयुः",
+            "english": "they impose punishment."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे सभी व्यवहारकुशल थे। उनके सौहार्दकी अनेक अवसरोंपर परीक्षा ली जा चुकी थी। वे मौका पड़नेपर अपने पुत्रको भी उचित दण्ड देने में भी नहीं हिचकते थे।॥ १०॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कुशलाः",
+            "hindi": "कुशल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "व्यवहारेषु",
+            "hindi": "व्यवहारों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सौहृदेषु",
+            "hindi": "सौहार्द में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "परीक्षिताः",
+            "hindi": "परीक्षित (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "प्राप्तकालम्",
+            "hindi": "प्राप्त अवसर पर (द्वितीया विभक्ति का अव्ययीभाव/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसा (अव्यय)"
+          },
+          {
+            "sanskrit": "दण्डम्",
+            "hindi": "दण्ड को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धारयेयुः",
+            "hindi": "धारण करें (धृ धातु, प्रयोज्यार्थ, विधिलिङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सुतेषु",
+            "hindi": "पुत्रों पर भी (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.10",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वे सभी व्यवहारकुशल थे। उनके सौहार्दकी अनेक अवसरोंपर परीक्षा ली जा चुकी थी। वे मौका पड़नेपर अपने पुत्रको भी उचित दण्ड देनेमें भी नहीं हिचकते थे॥ १०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

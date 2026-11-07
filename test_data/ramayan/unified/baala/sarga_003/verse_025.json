@@ -1,0 +1,242 @@
+{
+  "id": "baala-003-025",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 25,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 18
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-26"
+    ],
+    "vulgate_in_locators": [
+      "1.3.26"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.26"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003018a",
+        "1003018c"
+      ],
+      "lines": [
+        "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्",
+        "प्रायोपवेशनं चैव संपातेश्चापि दर्शनम्"
+      ],
+      "punctuated_derived": "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम् ।\nप्रायोपवेशनं चैव संपातेश्चापि दर्शनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्",
+        "प्रायोपवेशनं चापि सम्पातेश्चापि दर्शनम्"
+      ],
+      "locators": [
+        "1-3-26"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्",
+        "प्रायोपवेशनं चैव सम्पातेश्चापि दर्शनम्"
+      ],
+      "locators": [
+        "1.3.26"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्‌",
+        "प्रायोपवेशनं चैव सम्पातेशचापि दर्शनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.26"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्",
+      "net": "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्",
+      "in": "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्",
+      "gp": "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "बिलदर्शनम्",
+            "b": "बिलदर्शनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रायोपवेशनं चैव संपातेश्चापि दर्शनम्",
+      "net": "प्रायोपवेशनं चापि सम्पातेश्चापि दर्शनम्",
+      "in": "प्रायोपवेशनं चैव सम्पातेश्चापि दर्शनम्",
+      "gp": "प्रायोपवेशनं चैव सम्पातेशचापि दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9253731343283582,
+        "sim_in_net": 0.9253731343283582,
+        "sim_gp_net": 0.9090909090909091
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "चैव संपातेश्चापि",
+            "b": "चापि सम्पातेश्चापि"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "चापि",
+            "b": "चैव"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चापि सम्पातेश्चापि दर्शनम्",
+            "b": "चैव सम्पातेशचापि दर्शनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-26",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Rama's giving his ring to Hanuma as a token for Seetha's recognition... and the monkeys thus searching Riksha cave, bear-cave, and their fasting unto death for their quest remained unsuccessful, and their seeing Sampaati, another mighty eagle and the brother of slain Jatayu, who guides the monkeys to the destination where Seetha is held captive. [1-3-26]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-26",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "a~nguliiyakadaanam ca",
+            "devanagari_machine_converted": "अञ्गुलीयकदानम् च",
+            "english": "also giving ring of his finger"
+          },
+          {
+            "roman_itrans": "R^ikShasya biladarshanam",
+            "devanagari_machine_converted": "ऋक्षस्य बिलदर्शनम्",
+            "english": "Riksha's cave, seeing"
+          },
+          {
+            "roman_itrans": "praayopaveshanam ca api",
+            "devanagari_machine_converted": "प्रायोपवेशनम् च अपि",
+            "english": "fasting unto death, and, even; sampaateH ca api darshanam = also even seeing Sampaati."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.26",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीरामका सीताके विश्वासके लिये हनुमान जी को अपनी अंगूठी देना, वानरोंको ऋक्ष-बिल (स्वयंप्रभा-गुफा) का दर्शन, उनका प्रायोपवेशन (प्राणत्यागके लिये अनशन), सम्पातीसे उनकी भेंट और बातचीत,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.26",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अङ्गुलीयकदानम्",
+            "hindi": "अंगूठी देना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "ऋक्षस्य",
+            "hindi": "ऋक्ष (भालू) की / ऋक्ष-बिल (गुफा) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "बिलदर्शनम्",
+            "hindi": "बिल / गुफा का दर्शन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रायोपवेशनम्",
+            "hindi": "प्रायोपवेशन (प्राण त्याग के लिए अनशन) (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "सम्पातेः",
+            "hindi": "सम्पाति से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन / भेंट (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.26",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

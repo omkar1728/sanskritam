@@ -1,0 +1,545 @@
+{
+  "id": "baala-001-038",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 38,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-35",
+      "1-1-36"
+    ],
+    "vulgate_in_locators": [
+      "1.1.35",
+      "1.1.36",
+      "1.1.37"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.35",
+      "1.1.36",
+      "1.1.37"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गत्वा तु स महात्मानं रामं सत्यपराक्रमम्",
+        "अयाचद्भ्रातरं राममार्यभावपुरस्कृतः",
+        "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत्",
+        "रामोऽपि परमोदारः सुमुखः सुमहायशाः",
+        "न चैच्छत्पितुरादेशाद्राज्यं रामो महाबलः"
+      ],
+      "locators": [
+        "1-1-35",
+        "1-1-36"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गत्वा तु स महात्मानं रामं सत्यपराक्रमम्",
+        "अयाचद् भ्रातरं राममार्यभावपुरस्कृतः",
+        "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत्",
+        "रामोऽपि परमोदारः सुमुखः सुमहायशाः",
+        "न चैच्छत् पितुरादेशाद् राज्यं रामो महाबलः"
+      ],
+      "locators": [
+        "1.1.35",
+        "1.1.36",
+        "1.1.37"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रत्वा तु स महात्मानं रामं सत्यपराक्रमम्‌",
+        "अयाचद्‌ भ्रातरं राममार्यभावपुरस्कृतः",
+        "रामोऽपि परमोदारः सुमुखः सुमहायशाः",
+        "न चैच्छत्‌ पितुरादेशाद्‌ राज्यं रामो महाबलः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_353_differs_from_sanskrit_35",
+        "hindi_marker_range_36-373",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.35",
+        "1.1.36",
+        "1.1.37"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "गत्वा तु स महात्मानं रामं सत्यपराक्रमम्",
+      "in": "गत्वा तु स महात्मानं रामं सत्यपराक्रमम्",
+      "gp": "रत्वा तु स महात्मानं रामं सत्यपराक्रमम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "गत्वा",
+            "b": "रत्वा"
+          },
+          {
+            "a": "सत्यपराक्रमम्",
+            "b": "सत्यपराक्रमम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "अयाचद्भ्रातरं राममार्यभावपुरस्कृतः",
+      "in": "अयाचद् भ्रातरं राममार्यभावपुरस्कृतः",
+      "gp": "अयाचद्‌ भ्रातरं राममार्यभावपुरस्कृतः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "अयाचद्भ्रातरं",
+            "b": "अयाचद् भ्रातरं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अयाचद्भ्रातरं",
+            "b": "अयाचद्‌ भ्रातरं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत्",
+      "in": "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत्",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "रामोऽपि परमोदारः सुमुखः सुमहायशाः",
+      "in": "रामोऽपि परमोदारः सुमुखः सुमहायशाः",
+      "gp": "रामोऽपि परमोदारः सुमुखः सुमहायशाः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "न चैच्छत्पितुरादेशाद्राज्यं रामो महाबलः",
+      "in": "न चैच्छत् पितुरादेशाद् राज्यं रामो महाबलः",
+      "gp": "न चैच्छत्‌ पितुरादेशाद्‌ राज्यं रामो महाबलः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चैच्छत्पितुरादेशाद्राज्यं",
+            "b": "चैच्छत् पितुरादेशाद् राज्यं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चैच्छत्पितुरादेशाद्राज्यं",
+            "b": "चैच्छत्‌ पितुरादेशाद्‌ राज्यं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-35",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That Bharata, possessed of a worthy way of thinking [to get Rama installed as king], on going to Rama, begged his brother Rama, a great souled one and a truly courageous one. Bharata spoke words in this manner to Rama - \"You alone, the knower of probity, be the king.\" ... ' [1-1-35, 36a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-36",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Even though Rama was very benevolent, gracious also, highly famed and with great prowess, Rama did not desire kingdom due to father's injunction... [1-1-36b, 37a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-35",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "35, 36a. saH",
+            "devanagari_machine_converted": "३५, ३६अ। सः",
+            "english": "That Bharata"
+          },
+          {
+            "roman_itrans": "aaryabhaavapuraskR^itaH",
+            "devanagari_machine_converted": "आर्यभावपुरस्कृतः",
+            "english": "possessed of a worthy way of thinking [to get Rama installed as king]; gatvaa = on going"
+          },
+          {
+            "roman_itrans": "raamam",
+            "devanagari_machine_converted": "रामम्",
+            "english": "to Rama"
+          },
+          {
+            "roman_itrans": "bhraataram raamam ayaachat",
+            "devanagari_machine_converted": "भ्रातरम् रामम् अयाचत्",
+            "english": "begged [his] brother Rama;mahaatmaanam = to the great souled one; satyaparaakramam = to truly courageous one"
+          },
+          {
+            "roman_itrans": "raamam",
+            "devanagari_machine_converted": "रामम्",
+            "english": "To [such] Rama"
+          },
+          {
+            "roman_itrans": "vachaH abraviit iti",
+            "devanagari_machine_converted": "वचः अब्रवीत् इति",
+            "english": "[Bharata] spoke words in this manner"
+          },
+          {
+            "roman_itrans": "tvam eva",
+            "devanagari_machine_converted": "त्वम् एव",
+            "english": "you alone"
+          },
+          {
+            "roman_itrans": "dharmaj~naH",
+            "devanagari_machine_converted": "धर्मज्ञः",
+            "english": "the knower of probity"
+          },
+          {
+            "roman_itrans": "raajaa",
+            "devanagari_machine_converted": "राजा",
+            "english": "[be the] king"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-36",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "36b, 37a. api = even though; raamaH",
+            "devanagari_machine_converted": "३६ब्, ३७अ। अपि = एवेन् थोउघ्; रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "paramodaaraH",
+            "devanagari_machine_converted": "परमोदारः",
+            "english": "(was) very benevolent"
+          },
+          {
+            "roman_itrans": "sumukhaH api",
+            "devanagari_machine_converted": "सुमुखः अपि",
+            "english": "gracious also"
+          },
+          {
+            "roman_itrans": "sumahaayashaaH",
+            "devanagari_machine_converted": "सुमहायशाः",
+            "english": "highly famed; mahaabalaH ca = and with great powers"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "pituH aadeshaat",
+            "devanagari_machine_converted": "पितुः आदेशात्",
+            "english": "due to father's injunction"
+          },
+          {
+            "roman_itrans": "na icChat",
+            "devanagari_machine_converted": "न इच्छत्",
+            "english": "did not desire"
+          },
+          {
+            "roman_itrans": "raajyam",
+            "devanagari_machine_converted": "राज्यम्",
+            "english": "kingdom."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-35",
+        "spans_beyond_this_verse": false,
+        "text": "tu is omitted in the translation since it is there for the purpose of paadapuuraNa."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.35",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वहाँ पहुँचकर सद्भावनायुक्त भरतजीने अपने बड़े भाई सत्यपराक्रमी महात्मा रामसे याचना की"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.36",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और यों कहा-धर्मज्ञ! आप ही राजा हों। परंतु महान् यशस्वी परम उदार प्रसन्नमुख महाबली रामने"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.37",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "पिताके आदेशका पालन करते हुए राज्यकी अभिलाषा न की और उन भरताग्रजने राज्यके लिये न्यास रूपमें अपनी खड़ाऊँ भरतको देकर उन्हें बार-बार आग्रह करके"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.35",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उसने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महात्मानम्",
+            "hindi": "महात्मा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यपराक्रमम्",
+            "hindi": "सत्य पराक्रमी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अयाचत्",
+            "hindi": "प्रार्थना की (याच् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भ्रातरम्",
+            "hindi": "भाई से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आर्यभावपुरस्कृतः",
+            "hindi": "श्रेष्ठ भाव से युक्त होकर (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.36",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "तुम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मज्ञ",
+            "hindi": "हे धर्मज्ञ (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वचः",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अब्रवीत्",
+            "hindi": "कहा (ब्रू धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "परमोदारः",
+            "hindi": "अत्यन्त उदार (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुमुखः",
+            "hindi": "सुन्दर मुख वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुमहायशाः",
+            "hindi": "अत्यन्त यशस्वी (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.37",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "ऐच्छत्",
+            "hindi": "चाहा (इष् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आदेशात्",
+            "hindi": "आदेश के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाबलः",
+            "hindi": "महाबली ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पादुके",
+            "hindi": "खड़ाऊँ को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अस्य",
+            "hindi": "इस (भरत) के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "राज्याय",
+            "hindi": "राज्य के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "न्यासम्",
+            "hindi": "धरोहर रूप में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुनः पुनः",
+            "hindi": "बार-बार (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.35",
+        "ocr_flags": [
+          "hindi_marker_353_differs_from_sanskrit_35"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत्‌। “वहाँ पहुँचकर सद्भावनायुक्त भरतजीने अपने बड़े भाई सत्यपराक्रमी महात्मा रामसे याचना की और यों कहा-धर्मज्ञ! आप ही राजा हों'॥ ३५३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.36",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "निवर्तयामास ततो भरतं भरताग्रजः। “परंतु महान्‌ यशस्वी परम उदार प्रसन्नमुख महाबली रामने भी पिताके आदेशका पालन करते हुए राज्यकी अभिलाषा न की और उन भरताग्रजने राज्यके लिये न्यास (चिह्न) रूपमें अपनी खड़ाऊँ भरतको देकर उन्हें बार- बार आग्रह करके लौटा दिया॥ ३६-३७३ ॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.37",
+        "ocr_flags": [
+          "hindi_marker_range_36-373"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "निवर्तयामास ततो भरतं भरताग्रजः। “परंतु महान्‌ यशस्वी परम उदार प्रसन्नमुख महाबली रामने भी पिताके आदेशका पालन करते हुए राज्यकी अभिलाषा न की और उन भरताग्रजने राज्यके लिये न्यास (चिह्न) रूपमें अपनी खड़ाऊँ भरतको देकर उन्हें बार- बार आग्रह करके लौटा दिया॥ ३६-३७३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

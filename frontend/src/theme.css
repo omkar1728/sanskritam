@@ -21,3 +21,19 @@ label { display: block; margin-bottom: .9rem; color: var(--muted); }
 label > input, label > select, label > textarea { display: block; margin-top: .3rem; width: 100%; max-width: 360px; }
 .success { color: var(--success); } .danger { color: var(--danger); } .muted { color: var(--muted); }
 .devanagari { font-family: 'Noto Sans Devanagari', sans-serif; line-height: 2; font-size: 1.5rem; }
+/* Mobile only; desktop (>600px, fine pointer) is unchanged. */
+@media (max-width: 600px) {
+  body { padding-left: env(safe-area-inset-left); padding-right: env(safe-area-inset-right); overflow-x: hidden; }
+  .app-nav { flex-wrap: wrap; gap: .2rem .9rem; padding: calc(.6rem + env(safe-area-inset-top)) 1rem .4rem; }
+  .app-nav .brand { flex: 1 0 100%; margin-right: 0; }
+  .app-nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 .3rem; }
+  main { padding: 1rem .8rem calc(1rem + env(safe-area-inset-bottom)); }
+  .devanagari { font-size: 1.25rem; overflow-wrap: anywhere; }
+  .card { padding: .9rem; }
+  label > input, label > select, label > textarea { max-width: none; }
+  input, select, textarea { font-size: 16px; }
+}
+@media (pointer: coarse) {
+  .btn, input:not([type=range]), select { min-height: 44px; }
+  .player .w, .player .s { min-height: 32px; }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "baala-001-029",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 29,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 23
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-25"
+    ],
+    "vulgate_in_locators": [
+      "1.1.25"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.25"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001023a",
+        "1001023c"
+      ],
+      "lines": [
+        "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+        "स्नेहाद्विनयसंपन्नः सुमित्रानन्दवर्धनः"
+      ],
+      "punctuated_derived": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह ।\nस्नेहाद्विनयसंपन्नः सुमित्रानन्दवर्धनः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+        "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः"
+      ],
+      "locators": [
+        "1-1-25"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+        "स्नेहाद् विनयसम्पन्नः सुमित्रानन्दवर्धनः"
+      ],
+      "locators": [
+        "1.1.25"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+        "स्नेहाद्‌ विनयसम्पन्नः सुमित्रानन्दवर्धनः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_253_differs_from_sanskrit_25"
+      ],
+      "refs": [
+        "1.1.25"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+      "net": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+      "in": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+      "gp": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "स्नेहाद्विनयसंपन्नः सुमित्रानन्दवर्धनः",
+      "net": "स्नेहाद्विनयसम्पन्नः सुमित्रानन्दवर्धनः",
+      "in": "स्नेहाद् विनयसम्पन्नः सुमित्रानन्दवर्धनः",
+      "gp": "स्नेहाद्‌ विनयसम्पन्नः सुमित्रानन्दवर्धनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "स्नेहाद्विनयसंपन्नः",
+            "b": "स्नेहाद्विनयसम्पन्नः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "स्नेहाद्विनयसम्पन्नः",
+            "b": "स्नेहाद् विनयसम्पन्नः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "स्नेहाद्विनयसम्पन्नः",
+            "b": "स्नेहाद्‌ विनयसम्पन्नः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-25",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"While that Rama was going on exile, Lakshmana, endowed with humbleness, and augmentor of his mother Sumitra's joy, and a loving and a dear brother to Rama, followed him out of affection, showing brotherly fraternity.[1-1-25, 26a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-25",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "25, 26a. lakShmaNaH",
+            "devanagari_machine_converted": "२५, २६अ। लक्ष्मणः",
+            "english": "Lakshmana; vinayasaMpannaH = endowed with humbleness"
+          },
+          {
+            "roman_itrans": "priyaH bhraataa",
+            "devanagari_machine_converted": "प्रियः भ्राता",
+            "english": "a loving brother"
+          },
+          {
+            "roman_itrans": "bhraatuH dayitaH",
+            "devanagari_machine_converted": "भ्रातुः दयितः",
+            "english": "(and) dear to brother [to Rama]; sumitraanandavardhanaH = augmentor [of his mother] Sumitra's joy"
+          },
+          {
+            "roman_itrans": "saubhraatram anudarshayan",
+            "devanagari_machine_converted": "सौभ्रात्रम् अनुदर्शयन्",
+            "english": "showing [brotherly] fraternity"
+          },
+          {
+            "roman_itrans": "snehaat anujagaama ha",
+            "devanagari_machine_converted": "स्नेहात् अनुजगाम ह",
+            "english": "followed [Rama] out of affection"
+          },
+          {
+            "roman_itrans": "vrajantam tam bhraataram",
+            "devanagari_machine_converted": "व्रजन्तम् तम् भ्रातरम्",
+            "english": "while that brother [Rama] was going [to forest]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-25",
+        "spans_beyond_this_verse": true,
+        "text": "व्रजन्तम् is an accusative case of व्रजत् with व्रज् as its root."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तब सुमित्राके आनन्द बढ़ानेवाले विनयशील लक्ष्मणजीने भी, जो अपने बड़े भाई रामको बहुत ही प्रिय थे, स्नेहवश वनको जानेवाले बन्धुवर रामका अनुसरण किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (राम) के (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्रजन्तम्",
+            "hindi": "जाते हुए को (शतृ प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रियः",
+            "hindi": "प्रिय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भ्राता",
+            "hindi": "भाई ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लक्ष्मणः",
+            "hindi": "लक्ष्मण ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुजगाम",
+            "hindi": "पीछे-पीछे गया (अनु + गम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "स्नेहात्",
+            "hindi": "स्नेह के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "विनयसम्पन्नः",
+            "hindi": "विनय से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुमित्रानन्दवर्धनः",
+            "hindi": "सुमित्रा के आनन्द को बढ़ाने वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.25",
+        "ocr_flags": [
+          "hindi_marker_253_differs_from_sanskrit_25"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "भ्रातरं दयितो भ्रातुः सौश्चात्रमनुदर्शयन्‌। “तब सुमित्राके आनन्द बढ़ानेवाले विनयशील लक्ष्मणजीने भी, जो अपने बड़े भाई रामको बहुत ही प्रिय थे, अपने सुबन्धुत्वका परिचय देते हुए स्नेहवश वनको जानेवाले बन्धुवर रामका अनुसरण किया॥ २५३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

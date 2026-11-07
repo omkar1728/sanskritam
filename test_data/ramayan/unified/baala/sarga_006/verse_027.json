@@ -1,0 +1,265 @@
+{
+  "id": "baala-006-027",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 27,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 21
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-23"
+    ],
+    "vulgate_in_locators": [
+      "1.6.23"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.23"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006021a",
+        "1006021c"
+      ],
+      "lines": [
+        "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+        "मदान्वितैरतिबलैर्मातङ्गैः पर्वतोपमैः"
+      ],
+      "punctuated_derived": "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि ।\nमदान्वितैरतिबलैर्मातङ्गैः पर्वतोपमैः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "विंध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+        "मदान्वितैरतिबलैर्मातङ्गैः पर्वतोपमैः"
+      ],
+      "locators": [
+        "1-6-23"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+        "मदान्वितैरतिबलैर्मातंगैः पर्वतोपमैः ॥२३"
+      ],
+      "locators": [
+        "1.6.23"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+        "मदान्वितेरतिबलैर्मातंगैः पर्वतोपमैः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+      "net": "विंध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+      "in": "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+      "gp": "विन्ध्यपर्वतजैर्मत्तैः पूर्णा हैमवतैरपि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विन्ध्यपर्वतजैर्मत्तैः",
+            "b": "विंध्यपर्वतजैर्मत्तैः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "विंध्यपर्वतजैर्मत्तैः",
+            "b": "विन्ध्यपर्वतजैर्मत्तैः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विंध्यपर्वतजैर्मत्तैः",
+            "b": "विन्ध्यपर्वतजैर्मत्तैः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "मदान्वितैरतिबलैर्मातङ्गैः पर्वतोपमैः",
+      "net": "मदान्वितैरतिबलैर्मातङ्गैः पर्वतोपमैः",
+      "in": "मदान्वितैरतिबलैर्मातंगैः पर्वतोपमैः ॥२३",
+      "gp": "मदान्वितेरतिबलैर्मातंगैः पर्वतोपमैः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "मदान्वितैरतिबलैर्मातङ्गैः",
+            "b": "मदान्वितैरतिबलैर्मातंगैः"
+          },
+          {
+            "a": "",
+            "b": "॥२३"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मदान्वितैरतिबलैर्मातङ्गैः",
+            "b": "मदान्वितेरतिबलैर्मातंगैः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-23",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Born in Vindhya Mountains, and also from Himalayan regions, mighty are the elephants fully vigorous and fattened ones, and most powerful in their strength and each in similitude is a huge mountain. [1-6-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-23",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vindhyaparvatajaiH",
+            "devanagari_machine_converted": "विन्ध्यपर्वतजैः",
+            "english": "born in Vindhya mountains"
+          },
+          {
+            "roman_itrans": "mattaiH",
+            "devanagari_machine_converted": "मत्तैः",
+            "english": "vigorous"
+          },
+          {
+            "roman_itrans": "puurNa",
+            "devanagari_machine_converted": "पूर्ण",
+            "english": "full of"
+          },
+          {
+            "roman_itrans": "haimavataiH api",
+            "devanagari_machine_converted": "हैमवतैः अपि",
+            "english": "Himalayan born, also"
+          },
+          {
+            "roman_itrans": "madaanvitaiH",
+            "devanagari_machine_converted": "मदान्वितैः",
+            "english": "fully fattened"
+          },
+          {
+            "roman_itrans": "atibalaiH",
+            "devanagari_machine_converted": "अतिबलैः",
+            "english": "most mighty"
+          },
+          {
+            "roman_itrans": "maatangaiH",
+            "devanagari_machine_converted": "मातन्गैः",
+            "english": "elephants"
+          },
+          {
+            "roman_itrans": "parvatopamaiH",
+            "devanagari_machine_converted": "पर्वतोपमैः",
+            "english": "mountain in similitude."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "विन्ध्य और हिमालय पर्वतोंमें उत्पन्न होनेवाले अत्यन्त बलशाली पर्वताकार मदमत्त गजराजोंसे भी वह नगरी परिपूर्ण रहती थी॥ २३॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विन्ध्यपर्वतजैः",
+            "hindi": "विन्ध्य पर्वत में उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मत्तैः",
+            "hindi": "मदमत्त से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पूर्णा",
+            "hindi": "पूर्ण / भरी हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हैमवतैः",
+            "hindi": "हिमालय में उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "मदान्वितैः",
+            "hindi": "मद से युक्त से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अतिबलैः",
+            "hindi": "अत्यन्त बलशाली से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मातङ्गैः",
+            "hindi": "हाथियों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पर्वतोपमैः",
+            "hindi": "पर्वत के समान से (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.23",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "विन्ध्य और हिमालय पर्वतोंमें उत्पन्न होनेवाले अत्यन्त बलशाली पर्वताकार मदमत्त गजराजोंसे भी वह नगरी परिपूर्ण रहती थी॥ २३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "baala-004-036",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 36,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 27
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-36"
+    ],
+    "vulgate_in_locators": [
+      "1.4.36"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.36"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004027a"
+      ],
+      "lines": [
+        "ततस्तु तौ रामवचः प्रचोदिता;वगायतां मार्गविधानसंपदा"
+      ],
+      "punctuated_derived": null,
+      "pada_split": [
+        {
+          "line_index": 0,
+          "padas": [
+            "ततस्तु तौ रामवचः प्रचोदिता",
+            "वगायतां मार्गविधानसंपदा"
+          ]
+        }
+      ]
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततस्तु तौ रामवचःप्रचोदितावगायतां मार्गविधानसम्पदा"
+      ],
+      "locators": [
+        "1-4-36"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततस्तु तौ रामवचःप्रचोदितावगायतां मार्गविधानसम्पदा"
+      ],
+      "locators": [
+        "1.4.36"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततस्तु तौ रामवचःप्रचोदिता-"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.36"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततस्तु तौ रामवचः प्रचोदिता;वगायतां मार्गविधानसंपदा",
+      "net": "ततस्तु तौ रामवचःप्रचोदितावगायतां मार्गविधानसम्पदा",
+      "in": "ततस्तु तौ रामवचःप्रचोदितावगायतां मार्गविधानसम्पदा",
+      "gp": "ततस्तु तौ रामवचःप्रचोदिता-",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.6764705882352942
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "रामवचः प्रचोदितावगायतां मार्गविधानसंपदा",
+            "b": "रामवचःप्रचोदितावगायतां मार्गविधानसम्पदा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "रामवचःप्रचोदितावगायतां मार्गविधानसम्पदा",
+            "b": "रामवचःप्रचोदिता-"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-36",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then those two singers, motivated by Rama's words, sang the ballad in maarga system, for they are well versed in it, then even Rama, who is also in the congregation, again to pacify his mind, [for the story of Seetha puts his mind to turmoil,] became interested at heart [to continue listening Seetha's story...] [1-4-36]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-36",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "tau",
+            "devanagari_machine_converted": "तौ",
+            "english": "those two, Lava and Kusha"
+          },
+          {
+            "roman_itrans": "raamavacaH prachoditau",
+            "devanagari_machine_converted": "रामवचः प्रचोदितौ",
+            "english": "motivated by Rama's words"
+          },
+          {
+            "roman_itrans": "maargavidhaanasampadaa",
+            "devanagari_machine_converted": "मार्गविधानसम्पदा",
+            "english": "well-versed in maarga system"
+          },
+          {
+            "roman_itrans": "agaayataam",
+            "devanagari_machine_converted": "अगायताम्",
+            "english": "sang"
+          },
+          {
+            "roman_itrans": "pariShadgataH",
+            "devanagari_machine_converted": "परिषद्गतः",
+            "english": "available in congregation"
+          },
+          {
+            "roman_itrans": "saH raamaH api",
+            "devanagari_machine_converted": "सः रामः अपि",
+            "english": "he, that Rama, even"
+          },
+          {
+            "roman_itrans": "shanaiH bubhuuSayaa",
+            "devanagari_machine_converted": "शनैः बुभूषया",
+            "english": "again, to pacify his mind"
+          },
+          {
+            "roman_itrans": "saktamanaaH babhuuva",
+            "devanagari_machine_converted": "सक्तमनाः बभूव",
+            "english": "interested at heart, became."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.36",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तदनन्तर श्रीरामकी आज्ञासे प्रेरित हो वे दोनों भाई मार्गविधानकी रीतिसे रामायणका गान करने लगे। सभामें बैठे हुए भगवान् श्रीराम भी धीरे-धीरे उनका गान सुननेमें तन्मय हो गये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.36",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "रामवचःप्रचोदितौ",
+            "hindi": "राम के वचन से प्रेरित"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गान करने लगे"
+          },
+          {
+            "sanskrit": "मार्गविधानसम्पदा",
+            "hindi": "मार्ग गान विधान की सम्पदा / रीति से"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम"
+          },
+          {
+            "sanskrit": "परिषद्गतः",
+            "hindi": "सभा में स्थित"
+          },
+          {
+            "sanskrit": "शनैः",
+            "hindi": "धीरे-धीरे"
+          },
+          {
+            "sanskrit": "बुभूषया",
+            "hindi": "सुनने की इच्छा से"
+          },
+          {
+            "sanskrit": "आसक्तमनाः",
+            "hindi": "आसक्त मन वाले / तन्मय"
+          },
+          {
+            "sanskrit": "बभूव",
+            "hindi": "हो गए"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.36",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "तदनन्तर श्रीरामको आज्ञासे प्रेरित हो वे दोनों भाई मार्गविधानकी * रीतिसे रामायणका गान करने लगे। सभामें बैठे हुए भगवान्‌ श्रीराम भी धीरे-धीरे उनका आदिसे युक्त होनेके कारण अत्यन्त प्रभावशाली है। मेरे | गान सुननेमें तन्मय हो गये॥ ३६॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

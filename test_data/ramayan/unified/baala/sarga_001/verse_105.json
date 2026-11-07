@@ -1,0 +1,225 @@
+{
+  "id": "baala-001-105",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 105,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 76
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-97"
+    ],
+    "vulgate_in_locators": [
+      "1.1.97"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.97"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001076a",
+        "1001076c"
+      ],
+      "lines": [
+        "दशवर्षसहस्राणि दशवर्षशतानि च",
+        "रामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति"
+      ],
+      "punctuated_derived": "दशवर्षसहस्राणि दशवर्षशतानि च ।\nरामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दशवर्षसहस्राणि दशवर्षशतानि च",
+        "रामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति"
+      ],
+      "locators": [
+        "1-1-97"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दशवर्षसहस्राणि दशवर्षशतानि च",
+        "रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति"
+      ],
+      "locators": [
+        "1.1.97"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दशवर्षसहस्राणि दशवर्षशतानि च",
+        "रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.97"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "दशवर्षसहस्राणि दशवर्षशतानि च",
+      "net": "दशवर्षसहस्राणि दशवर्षशतानि च",
+      "in": "दशवर्षसहस्राणि दशवर्षशतानि च",
+      "gp": "दशवर्षसहस्राणि दशवर्षशतानि च",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "रामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति",
+      "net": "रामो राज्यमुपासित्वा ब्रह्मलोकं गमिष्यति",
+      "in": "रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति",
+      "gp": "रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.868421052631579,
+        "sim_gp_net": 0.868421052631579
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गमिष्यति",
+            "b": "प्रयास्यति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गमिष्यति",
+            "b": "प्रयास्यति"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-97",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Having served the kingdom for ten thousand years and another one thousand years, i.e. for a total of eleven thousand years, Rama will go to the abode of Brahma... [1-1-97]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-97",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaraajyam upaasitvaa",
+            "devanagari_machine_converted": "रामराज्यम् उपासित्वा",
+            "english": "Rama having served the kingdom"
+          },
+          {
+            "roman_itrans": "dashavarSasahasraaNi",
+            "devanagari_machine_converted": "दशवर्षसहस्राणि",
+            "english": "for ten thousand years"
+          },
+          {
+            "roman_itrans": "dashavarShashataani ca",
+            "devanagari_machine_converted": "दशवर्षशतानि च",
+            "english": "and also for thousand years"
+          },
+          {
+            "roman_itrans": "brahmalokam gamiShyati",
+            "devanagari_machine_converted": "ब्रह्मलोकम् गमिष्यति",
+            "english": "will go to the abode of Brahma."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-97",
+        "spans_beyond_this_verse": false,
+        "text": "In raamaraajyam upaasitvaa... the word used is upaasana is not ruling by sceptre but it is 'reverentially serving the kingdom...' as one would regard or treat his personal god with reverence. Rama thus served his kingdom as a devotee of his subjects and this is the concept of raamaraajya. The brahma loka is not the abode of four-faced Brahma, but still higher abode, rather VaikunTha itself."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.97",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'फिर ग्यारह हजार वर्षांतक राज्य करनेके अनन्तर श्रीरामचन्द्रजी अपने परमधामको पधारेंगे"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.97",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दशवर्षसहस्राणि",
+            "hindi": "दस हजार वर्ष (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दशवर्षशतानि",
+            "hindi": "दस सौ (एक हजार) वर्ष (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपासित्वा",
+            "hindi": "प्राप्त करके / भोगकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "ब्रह्मलोकम्",
+            "hindi": "ब्रह्मलोक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रयास्यति",
+            "hindi": "प्राप्त होंगे (प्र + या, लृट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.97",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“फिर ग्यारह हजार वर्षोतक राज्य करनेके अनन्तर श्रीरामचन्द्रजी अपने परमधामको पधारँगे॥ ९७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

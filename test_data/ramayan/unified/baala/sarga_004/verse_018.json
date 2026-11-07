@@ -1,0 +1,354 @@
+{
+  "id": "baala-004-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 16
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-17"
+    ],
+    "vulgate_in_locators": [
+      "1.4.17",
+      "1.4.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.17",
+      "1.4.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004016a",
+        "1004016c"
+      ],
+      "lines": [
+        "अहो गीतस्य माधुर्यं श्लोकानां च विशेषतः",
+        "चिरनिर्वृत्तमप्येतत्प्रत्यक्षमिव दर्शितम्"
+      ],
+      "punctuated_derived": "अहो गीतस्य माधुर्यं श्लोकानां च विशेषतः ।\nचिरनिर्वृत्तमप्येतत्प्रत्यक्षमिव दर्शितम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अहो गीतस्य माधुर्यं श्लोकानां च विशोषतः",
+        "चिरनिर्वृत्तमप्येतत् प्रत्यक्षमिव दर्शितम्"
+      ],
+      "locators": [
+        "1-4-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अहो गीतस्य माधुर्यं श्लोकानां च विशेषतः",
+        "चिरनिर्वृत्तमप्येतत् प्रत्यक्षमिव दर्शितम्"
+      ],
+      "locators": [
+        "1.4.17",
+        "1.4.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अहो गीतस्य माधुर्य श्लोकानां च विशेषतः",
+        "चिरनिर्वृत्तमप्येतत्‌ प्रत्यक्षमिव दर्शितम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_183_differs_from_sanskrit_18"
+      ],
+      "refs": [
+        "1.4.17",
+        "1.4.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अहो गीतस्य माधुर्यं श्लोकानां च विशेषतः",
+      "net": "अहो गीतस्य माधुर्यं श्लोकानां च विशोषतः",
+      "in": "अहो गीतस्य माधुर्यं श्लोकानां च विशेषतः",
+      "gp": "अहो गीतस्य माधुर्य श्लोकानां च विशेषतः",
+      "similarity": {
+        "sim_smith_net": 0.9705882352941176,
+        "sim_in_net": 0.9705882352941176,
+        "sim_gp_net": 0.9552238805970149
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विशेषतः",
+            "b": "विशोषतः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "विशोषतः",
+            "b": "विशेषतः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "माधुर्यं",
+            "b": "माधुर्य"
+          },
+          {
+            "a": "विशोषतः",
+            "b": "विशेषतः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "चिरनिर्वृत्तमप्येतत्प्रत्यक्षमिव दर्शितम्",
+      "net": "चिरनिर्वृत्तमप्येतत् प्रत्यक्षमिव दर्शितम्",
+      "in": "चिरनिर्वृत्तमप्येतत् प्रत्यक्षमिव दर्शितम्",
+      "gp": "चिरनिर्वृत्तमप्येतत्‌ प्रत्यक्षमिव दर्शितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "चिरनिर्वृत्तमप्येतत्प्रत्यक्षमिव",
+            "b": "चिरनिर्वृत्तमप्येतत् प्रत्यक्षमिव"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चिरनिर्वृत्तमप्येतत्",
+            "b": "चिरनिर्वृत्तमप्येतत्‌"
+          },
+          {
+            "a": "दर्शितम्",
+            "b": "दर्शितम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The melody of the ballad, especially the meaning of verses, aha! Superb... though this has happened long-ago it is shown like the one happening presently... [1-4-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "aho giitasya maadhuryam",
+            "devanagari_machine_converted": "अहो गीतस्य माधुर्यम्",
+            "english": "aho, ballad's, melody [is superb]"
+          },
+          {
+            "roman_itrans": "visheSataH cha slokaanam",
+            "devanagari_machine_converted": "विशेषतः च स्लोकानम्",
+            "english": "especially, also, of verses"
+          },
+          {
+            "roman_itrans": "etat chiranirvR^ittam api",
+            "devanagari_machine_converted": "एतत् चिरनिर्वृत्तम् अपि",
+            "english": "all this though happened long-ago"
+          },
+          {
+            "roman_itrans": "pratyakSham iva darshitam",
+            "devanagari_machine_converted": "प्रत्यक्षम् इव दर्शितम्",
+            "english": "shown like happenig one presently."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे रामायण-कथाके गायक कुमार कुश और लवकी, जो प्रशंसा के ही योग्य थे, इस प्रकार प्रशंसा करने लगे—’अहो! इन बालकों के गीत में कितना माधुर्य है। श्लोकों की मधुरता तो और भी अद्भुत है।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘यद्यपि इस काव्यमें वर्णित घटना बहुत दिनों पहले हो चुकी है तो भी इन दोनों बालकोंने इस सभामें प्रवेश करके एक साथ ऐसे सुन्दर भावसे स्वरसम्पन्न, रागयुक्त मधुरगान किया है कि वे पहलेकी घटनाएँ भी प्रत्यक्ष-सी दिखायी देने लगी हैं—मानो अभी-अभी आँखोंके सामने घटित हो रही हों’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रशशंसुः",
+            "hindi": "प्रशंसा करने लगे"
+          },
+          {
+            "sanskrit": "प्रशस्तव्यौ",
+            "hindi": "प्रशंसा के योग्य"
+          },
+          {
+            "sanskrit": "गायमानौ",
+            "hindi": "गान करते हुए"
+          },
+          {
+            "sanskrit": "कुशीलवौ",
+            "hindi": "कुश और लव की"
+          },
+          {
+            "sanskrit": "अहो",
+            "hindi": "अहो"
+          },
+          {
+            "sanskrit": "गीतस्य",
+            "hindi": "गीत की"
+          },
+          {
+            "sanskrit": "माधुर्यम्",
+            "hindi": "मधुरता"
+          },
+          {
+            "sanskrit": "श्लोकानाम्",
+            "hindi": "श्लोकों की"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "विशेषतः",
+            "hindi": "विशेषकर"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चिरनिर्वृत्तम्",
+            "hindi": "बहुत दिनों पहले घटित"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "एतत्",
+            "hindi": "यह"
+          },
+          {
+            "sanskrit": "प्रत्यक्षम्",
+            "hindi": "प्रत्यक्ष"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान"
+          },
+          {
+            "sanskrit": "दर्शितम्",
+            "hindi": "दिखाया गया"
+          },
+          {
+            "sanskrit": "प्रविश्य",
+            "hindi": "प्रवेश करके"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "उभौ",
+            "hindi": "दोनों"
+          },
+          {
+            "sanskrit": "सुष्ठ",
+            "hindi": "सुन्दर"
+          },
+          {
+            "sanskrit": "तथाभावम्",
+            "hindi": "उस भाव को"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गाने लगे"
+          },
+          {
+            "sanskrit": "सहितौ",
+            "hindi": "साथ में"
+          },
+          {
+            "sanskrit": "मधुरम्",
+            "hindi": "मधुर"
+          },
+          {
+            "sanskrit": "रक्तम्",
+            "hindi": "रागयुक्त"
+          },
+          {
+            "sanskrit": "सम्पन्नम्",
+            "hindi": "सम्पन्न"
+          },
+          {
+            "sanskrit": "स्वरसम्पदा",
+            "hindi": "स्वर सम्पदा से"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "वे रामायण-कथाके गायक कुमार कुश और 'लवकी, जो प्रशंसाके ही योग्य थे, इस प्रकार प्रशंसा करने लगे-*अहो! इन बालकोंके गीतमें कितना माधुर्य है। श्लोकोंकी मधुरता तो और भी अद्भुत है॥ १७॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.18",
+        "ocr_flags": [
+          "hindi_marker_183_differs_from_sanskrit_18"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा। “यद्यपि इस काव्यमें वर्णित घटना बहुत दिनों पहले हो चुकी है तो भी इन दोनों बालकोंने इस सभामें प्रवेश करके एक साथ ऐसे सुन्दर भावसे स्वरसम्पन्न, रागयुक्त मधुरगान किया है कि वे पहलेकी घटनाएँ भी प्रत्यक्ष-सी दिखायी देने लगी हैं-मानो अभी-अभी आँखोंके सामने घटित हो रही हों'॥ १८३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

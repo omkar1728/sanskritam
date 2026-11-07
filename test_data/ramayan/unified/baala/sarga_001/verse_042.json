@@ -1,0 +1,292 @@
+{
+  "id": "baala-001-042",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 42,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 32
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-39, 1-1-40"
+    ],
+    "vulgate_in_locators": [
+      "1.1.40"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.40"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001032a",
+        "1001032c"
+      ],
+      "lines": [
+        "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+        "तत्रागमनमेकाग्रे दण्डकान्प्रविवेश ह"
+      ],
+      "punctuated_derived": "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च ।\nतत्रागमनमेकाग्रे दण्डकान्प्रविवेश ह ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+        "तत्रागमनमेकाग्रो दण्डकान्प्रविवेश ह"
+      ],
+      "locators": [
+        "1-1-39, 1-1-40"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+        "तत्रागमनमेकाग्रो दण्डकान् प्रविवेश ह"
+      ],
+      "locators": [
+        "1.1.40"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+        "तत्रागमनमेकाग्रो दण्डकान्‌ प्रविवेश ह"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_39-40"
+      ],
+      "refs": [
+        "1.1.40"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+      "net": "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+      "in": "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+      "gp": "रामस्तु पुनरालक्ष्य नागरस्य जनस्य च",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "तत्रागमनमेकाग्रे दण्डकान्प्रविवेश ह",
+      "net": "तत्रागमनमेकाग्रो दण्डकान्प्रविवेश ह",
+      "in": "तत्रागमनमेकाग्रो दण्डकान् प्रविवेश ह",
+      "gp": "तत्रागमनमेकाग्रो दण्डकान्‌ प्रविवेश ह",
+      "similarity": {
+        "sim_smith_net": 0.967741935483871,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तत्रागमनमेकाग्रे",
+            "b": "तत्रागमनमेकाग्रो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "दण्डकान्प्रविवेश",
+            "b": "दण्डकान् प्रविवेश"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "दण्डकान्प्रविवेश",
+            "b": "दण्डकान्‌ प्रविवेश"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-39, 1-1-40",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On the departure of Bharata, that splendid Rama, truth-bound, and self-controlled, anticipated the repeated visits of citizens and other people. To be undisturbed, Rama then entered Dandaka forests... [1-1-39b, 40]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-39, 1-1-40",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "39b, 40. bharate gate tu",
+            "devanagari_machine_converted": "३९ब्, ४०। भरते गते तु",
+            "english": "However, after Bharata left"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "shriimaan",
+            "devanagari_machine_converted": "श्रीमान्",
+            "english": "the splendid one"
+          },
+          {
+            "roman_itrans": "satyasandhaH",
+            "devanagari_machine_converted": "सत्यसन्धः",
+            "english": "truth-bound one"
+          },
+          {
+            "roman_itrans": "jitendriyaH",
+            "devanagari_machine_converted": "जितेन्द्रियः",
+            "english": "one with conquered senses"
+          },
+          {
+            "roman_itrans": "aalakShya",
+            "devanagari_machine_converted": "आलक्ष्य",
+            "english": "on anticipating"
+          },
+          {
+            "roman_itrans": "punaH tatra aagamanam",
+            "devanagari_machine_converted": "पुनः तत्र आगमनम्",
+            "english": "re-arrival there [Chitrakoota]"
+          },
+          {
+            "roman_itrans": "naagarasya janasya ca",
+            "devanagari_machine_converted": "नागरस्य जनस्य च",
+            "english": "of citizens and (other) people"
+          },
+          {
+            "roman_itrans": "ekaagraH",
+            "devanagari_machine_converted": "एकाग्रः",
+            "english": "(to be) undisturbed"
+          },
+          {
+            "roman_itrans": "pravivesha ha",
+            "devanagari_machine_converted": "प्रविवेश ह",
+            "english": "[he] then entered"
+          },
+          {
+            "roman_itrans": "daNDakaan",
+            "devanagari_machine_converted": "दण्डकान्",
+            "english": "Dandaka forests."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-39, 1-1-40",
+        "spans_beyond_this_verse": true,
+        "text": "The translation of ekaagraH as \"undisturbed\" is done according to the context of Rama's anticipation that there might be repeated visits from various people to Chitrakuta and entreaties from them for Rama to return to Ayodhya. Normally ekaagraH is translated as \"single-pointed attention\". Govindaraja explains ekaagraH with respect to following father's injunction or being alert to increased presence of RakShasaas."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.40",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वहाँपर पुनः नागरिक जनोंका आना-जाना देखकर (उनसे बचनेके लिये) एकाग्रभावसे दण्डकारण्यमें प्रवेश किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.40",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर से (अव्यय)"
+          },
+          {
+            "sanskrit": "आलक्ष्य",
+            "hindi": "देखकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "नागरस्य",
+            "hindi": "नगर के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "जनस्य",
+            "hindi": "लोगों के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "आगमनम्",
+            "hindi": "आगमन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एकाग्रः",
+            "hindi": "एकाग्रचित्त होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दण्डकान्",
+            "hindi": "दण्डक वन में (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रविवेश",
+            "hindi": "प्रवेश किया (प्र + विश्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.40",
+        "ocr_flags": [
+          "hindi_marker_range_39-40"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "' भरतके लौट जानेपर सत्यप्रतिज्ञ जितेन्द्रिय श्रीमान्‌ रामने वहाँपर पुनः नागरिक जनोंका आना-जाना देखकर [उनसे बचनेके लिये] एकाग्रभावसे दण्डकारण्यमें प्रवेश किया॥ ३९-४०॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

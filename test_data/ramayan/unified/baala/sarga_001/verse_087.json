@@ -1,0 +1,219 @@
+{
+  "id": "baala-001-087",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 87,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 66
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-81"
+    ],
+    "vulgate_in_locators": [
+      "1.1.81"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.81"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001066a"
+      ],
+      "lines": [
+        "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे"
+      ],
+      "locators": [
+        "1-1-81"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे"
+      ],
+      "locators": [
+        "1.1.81"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.81"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे",
+      "net": "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे",
+      "in": "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे",
+      "gp": "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-81",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Rama, having gone to the city of Lanka by that bridge, killing Ravana in a battle, experienced great shame on getting Seetha back... [1-1-81]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-81",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "lankaam puriim gatvaa",
+            "devanagari_machine_converted": "लन्काम् पुरीम् गत्वा",
+            "english": "having gone to the city of Lanka"
+          },
+          {
+            "roman_itrans": "tena",
+            "devanagari_machine_converted": "तेन",
+            "english": "by that [bridge]"
+          },
+          {
+            "roman_itrans": "aahave raavaNam hatvaa",
+            "devanagari_machine_converted": "आहवे रावणम् हत्वा",
+            "english": "killing Ravana in a battle"
+          },
+          {
+            "roman_itrans": "siitaam anupraapya",
+            "devanagari_machine_converted": "सीताम् अनुप्राप्य",
+            "english": "on getting Seetha back"
+          },
+          {
+            "roman_itrans": "paraam vriiDaam upaagamat",
+            "devanagari_machine_converted": "पराम् व्रीडाम् उपागमत्",
+            "english": "experienced great shame."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.81",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'उसी पुलसे लङ्कापुरीमें जाकर रावणको मारा, फिर सीताके मिलनेपर रामको बड़ी लज्जा हुई"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.81",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (पुल) से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "लङ्काम्",
+            "hindi": "लंका को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रावणम्",
+            "hindi": "रावण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आहवे",
+            "hindi": "युद्ध में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुप्राप्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "पराम्",
+            "hindi": "बड़ी (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्रीडाम्",
+            "hindi": "लज्जा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपागमत्",
+            "hindi": "प्राप्त हुआ (उप + आ + गम्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.81",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“उसी पुलसे लड्कापुरीमें जाकर रावणको मारा, 'फिर सीताके मिलनेपर रामको बड़ी लज्जा हुई॥ ८१॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

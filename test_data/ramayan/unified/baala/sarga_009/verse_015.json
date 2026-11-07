@@ -1,0 +1,306 @@
+{
+  "id": "baala-009-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 13
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-9"
+    ],
+    "vulgate_in_locators": [
+      "1.9.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.10",
+      "1.9.9"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008013a",
+        "1008013c"
+      ],
+      "lines": [
+        "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः",
+        "ब्राह्मणाञ्श्रुतवृद्धांश्च समानीय प्रवक्ष्यति"
+      ],
+      "punctuated_derived": "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः ।\nब्राह्मणाञ्श्रुतवृद्धांश्च समानीय प्रवक्ष्यति ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः",
+        "ब्राह्मणान् श्रुतवृद्धांश्च समानीय प्रवक्ष्यति"
+      ],
+      "locators": [
+        "1-9-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अनावृष्टयां तु वृत्तायां राजा दुःखसमन्वितः",
+        "ब्राह्मणाञ्छ्रुतसंवृद्धान् समानीय प्रवक्ष्यति"
+      ],
+      "locators": [
+        "1.9.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः",
+        "ब्राह्मणाञ्छुतसंवृद्धान्‌ समानीय प्रवक्ष्यति"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_9-103",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.9.10",
+        "1.9.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः",
+      "net": "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः",
+      "in": "अनावृष्टयां तु वृत्तायां राजा दुःखसमन्वितः",
+      "gp": "अनावृष्ट्यां तु वृत्तायां राजा दुःखसमन्वितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9866666666666667,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "अनावृष्ट्यां",
+            "b": "अनावृष्टयां"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ब्राह्मणाञ्श्रुतवृद्धांश्च समानीय प्रवक्ष्यति",
+      "net": "ब्राह्मणान् श्रुतवृद्धांश्च समानीय प्रवक्ष्यति",
+      "in": "ब्राह्मणाञ्छ्रुतसंवृद्धान् समानीय प्रवक्ष्यति",
+      "gp": "ब्राह्मणाञ्छुतसंवृद्धान्‌ समानीय प्रवक्ष्यति",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9156626506024096,
+        "sim_gp_net": 0.8888888888888888
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ब्राह्मणाञ्श्रुतवृद्धांश्च",
+            "b": "ब्राह्मणान् श्रुतवृद्धांश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ब्राह्मणान् श्रुतवृद्धांश्च",
+            "b": "ब्राह्मणाञ्छ्रुतसंवृद्धान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ब्राह्मणान् श्रुतवृद्धांश्च",
+            "b": "ब्राह्मणाञ्छुतसंवृद्धान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-9",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"While the famine is besetting that king Roamapada will be afflicted with grim, and on summoning Brahmans and learned scholars he will address them... [1-9-9b. 10a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-9",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anaavR^iSTyaam",
+            "devanagari_machine_converted": "अनावृष्ट्याम्",
+            "english": "due to drought"
+          },
+          {
+            "roman_itrans": "vR^ittaayaam",
+            "devanagari_machine_converted": "वृत्तायाम्",
+            "english": "[famine] while besetting"
+          },
+          {
+            "roman_itrans": "raajaa",
+            "devanagari_machine_converted": "राजा",
+            "english": "the king"
+          },
+          {
+            "roman_itrans": "duHkhasamanvitaH",
+            "devanagari_machine_converted": "दुःखसमन्वितः",
+            "english": "afflicted with grim"
+          },
+          {
+            "roman_itrans": "braahmaNaan",
+            "devanagari_machine_converted": "ब्राह्मणान्",
+            "english": "Brahmans"
+          },
+          {
+            "roman_itrans": "shrutavriddhaan",
+            "devanagari_machine_converted": "श्रुतव्रिद्धान्",
+            "english": "in scriptures well versed ones[learned, scholars]"
+          },
+          {
+            "roman_itrans": "samaaniiya",
+            "devanagari_machine_converted": "समानीय",
+            "english": "on summoning"
+          },
+          {
+            "roman_itrans": "pravakShyati",
+            "devanagari_machine_converted": "प्रवक्ष्यति",
+            "english": "addresses them."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.9",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“वर्षा बंद हो जानेसे राजा रोमपादको भी बहुत दुःख होगा। वे शास्त्रज्ञानमें बढ़े-चढ़े ब्राह्मणों को बुलाकर कहेंगे—’विप्रवरो! आप लोग वेद-शास्त्रके अनुसार कर्म करने वाले तथा लोगों के आचार-विचार को जानने वाले हैं; अतः कृपा करके मुझे ऐसा कोई नियम बताइये, जिससे मेरे पापका प्रायश्चित्त हो जाय’।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.9",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अनावृष्टयाम्",
+            "hindi": "अनावृष्टि होने पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "वृत्तायाम्",
+            "hindi": "घटित होने पर (सप्तमी विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दुःखसमन्वितः",
+            "hindi": "दुःख से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्राह्मणान्",
+            "hindi": "ब्राह्मणों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतसंवृद्धान्",
+            "hindi": "शास्त्रज्ञान से सम्पन्न / विद्वान् को (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "समानीय",
+            "hindi": "बुलाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "प्रवक्ष्यति",
+            "hindi": "कहेंगे (प्र + वच्, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भवन्तः",
+            "hindi": "आप लोग (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "श्रुतकर्माणः",
+            "hindi": "शास्त्रानुसार कर्म करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "लोकचारित्रवेदिनः",
+            "hindi": "लोकाचार / संसार के व्यवहार को जानने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "समादिशन्तु",
+            "hindi": "बताइये / आदेश दीजिये (सम् + आ + दिश्, लोट् लकार, मध्यम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "नियमम्",
+            "hindi": "नियम / उपाय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रायश्चित्तम्",
+            "hindi": "प्रायश्चित्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जिससे (अव्यय)"
+          },
+          {
+            "sanskrit": "भवेत्",
+            "hindi": "हो जाए (भू धातु, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.9",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्‌। “वर्षा बंद हो जानेसे राजा रोमपादको भी बहु दुःख होगा। वे शास्त्रज्ञानमें बढ़े-चढ़े ब्राह्मणोंको बुलाकर कहेंगे-*विप्रवरो! आपलोग वेद-शास्त्रके अनुसार करनेवाले तथा लोगोंके आचार-विचारको जाननेवाले हैं; अतः कृपा करके मुझे ऐसा कोई नियम बताइये, जिससे मेरे पापका प्रायश्चित्त हो जाय'॥ ९-१०३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.10",
+        "ocr_flags": [
+          "hindi_marker_range_9-103"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्‌। “वर्षा बंद हो जानेसे राजा रोमपादको भी बहु दुःख होगा। वे शास्त्रज्ञानमें बढ़े-चढ़े ब्राह्मणोंको बुलाकर कहेंगे-*विप्रवरो! आपलोग वेद-शास्त्रके अनुसार करनेवाले तथा लोगोंके आचार-विचारको जाननेवाले हैं; अतः कृपा करके मुझे ऐसा कोई नियम बताइये, जिससे मेरे पापका प्रायश्चित्त हो जाय'॥ ९-१०३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "baala-004-037",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 37,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.4.36"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": null,
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वगायतां मार्गविधानसम्पदा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.36"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": null,
+      "in": null,
+      "gp": "वगायतां मार्गविधानसम्पदा",
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": null,
+    "english_word_by_word": null,
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.36",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "तदनन्तर श्रीरामको आज्ञासे प्रेरित हो वे दोनों भाई मार्गविधानकी * रीतिसे रामायणका गान करने लगे। सभामें बैठे हुए भगवान्‌ श्रीराम भी धीरे-धीरे उनका आदिसे युक्त होनेके कारण अत्यन्त प्रभावशाली है। मेरे | गान सुननेमें तन्मय हो गये॥ ३६॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

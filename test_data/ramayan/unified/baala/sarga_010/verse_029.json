@@ -1,0 +1,293 @@
+{
+  "id": "baala-010-029",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 29,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 26
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-25, 1-10-26"
+    ],
+    "vulgate_in_locators": [
+      "1.10.25"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.26"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009026a"
+      ],
+      "lines": [
+        "एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "एह्याश्रमपदं सौम्य ह्यस्माकमिति चाब्रुवन्"
+      ],
+      "locators": [
+        "1-10-25, 1-10-26"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन्"
+      ],
+      "locators": [
+        "1.10.25"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_25-26"
+      ],
+      "refs": [
+        "1.10.26"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन्",
+      "net": "एह्याश्रमपदं सौम्य ह्यस्माकमिति चाब्रुवन्",
+      "in": "एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन्",
+      "gp": "एह्याश्रमपदं सौम्य अस्माकमिति चाब्रुवन्‌",
+      "similarity": {
+        "sim_smith_net": 0.9444444444444444,
+        "sim_in_net": 0.9444444444444444,
+        "sim_gp_net": 0.9444444444444444
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "अस्माकमिति",
+            "b": "ह्यस्माकमिति"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ह्यस्माकमिति",
+            "b": "अस्माकमिति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ह्यस्माकमिति चाब्रुवन्",
+            "b": "अस्माकमिति चाब्रुवन्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-25, 1-10-26",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\" Then on seeing the arrival of that Brahman, the courtesans felt happy at heart, and all of those courtesans on surrounding him said, \"oh, gentle one, welcome to the threshold of our hermitage... [1-10-25b, 26]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-25, 1-10-26",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "25b, 26. tataH vipram dR^iSTvaa eva aayaantam",
+            "devanagari_machine_converted": "२५ब्, २६। ततः विप्रम् दृष्ट्वा एव आयान्तम्",
+            "english": "then, on seeing the arrival of that brahman"
+          },
+          {
+            "roman_itrans": "hR^iShTamaanasaaH",
+            "devanagari_machine_converted": "हृष्टमानसाः",
+            "english": "with happiness at heart"
+          },
+          {
+            "roman_itrans": "taaH sarvaaH tataH upasR^itya",
+            "devanagari_machine_converted": "ताः सर्वाः ततः उपसृत्य",
+            "english": "they, all, then, on surrounding him"
+          },
+          {
+            "roman_itrans": "tam uuchuH idam vachaH",
+            "devanagari_machine_converted": "तम् ऊचुः इदम् वचः",
+            "english": "said these words to him"
+          },
+          {
+            "roman_itrans": "soumya",
+            "devanagari_machine_converted": "सोउम्य",
+            "english": "oh gentle one"
+          },
+          {
+            "roman_itrans": "asmaakam aashramapadam",
+            "devanagari_machine_converted": "अस्माकम् आश्रमपदम्",
+            "english": "towards our, hermitage's threshold"
+          },
+          {
+            "roman_itrans": "ehi",
+            "devanagari_machine_converted": "एहि",
+            "english": "please come"
+          },
+          {
+            "roman_itrans": "iti cha",
+            "devanagari_machine_converted": "इति च",
+            "english": "thus, also"
+          },
+          {
+            "roman_itrans": "abruvan",
+            "devanagari_machine_converted": "अब्रुवन्",
+            "english": "they have said."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.25",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ब्राह्मण ऋष्यशृंग को आते देख तुरंत ही उन वेश्याओं का हृदय प्रसन्नतासे खिल उठा। वे सब-की सब उनके पास जाकर उनसे इस प्रकार कहने लगी —’सौम्य! आओ, आज हमारे आश्रम पर चलो।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.25",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "विप्रम्",
+            "hindi": "ब्राह्मण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आयान्तम्",
+            "hindi": "आते हुए (शतृ प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हृष्टमानसाः",
+            "hindi": "प्रसन्न मन वाली (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "उपसृत्य",
+            "hindi": "पास जाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वाः",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ताः",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उससे (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ऊचुः",
+            "hindi": "बोलीं (वच् धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वचः",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एहि",
+            "hindi": "आओ (आ + इ, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "आश्रमपदम्",
+            "hindi": "आश्रम में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सौम्य",
+            "hindi": "हे सौम्य / सज्जन! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्माकम्",
+            "hindi": "हमारे (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अब्रुवन्",
+            "hindi": "कहा (ब्रू धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.26",
+        "ocr_flags": [
+          "hindi_marker_range_25-26"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "“ब्राह्मण ऋष्यशृंगको आते देख तुरंत ही उन वेश्याओंका हृदय प्रसन्नतासे खिल उठा। वे सब-की-सब उनके पास जाकर उनसे इस प्रकार कहने लगीं-*सौम्य! आओ, आज हमारे आश्रमपर चलो॥ २५-२६॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

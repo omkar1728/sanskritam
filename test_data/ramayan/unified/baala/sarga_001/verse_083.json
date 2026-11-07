@@ -1,0 +1,294 @@
+{
+  "id": "baala-001-083",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 83,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 62
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-76, 1-1-77"
+    ],
+    "vulgate_in_locators": [
+      "1.1.77"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.77"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001062a",
+        "1001062c"
+      ],
+      "lines": [
+        "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्",
+        "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः"
+      ],
+      "punctuated_derived": "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम् ।\nरामाय प्रियमाख्यातुं पुनरायान्महाकपिः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्",
+        "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः"
+      ],
+      "locators": [
+        "1-1-76, 1-1-77"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्",
+        "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः"
+      ],
+      "locators": [
+        "1.1.77"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्‌",
+        "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed"
+      ],
+      "refs": [
+        "1.1.77"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्",
+      "net": "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्",
+      "in": "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्",
+      "gp": "ततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "मैथिलीम्",
+            "b": "मैथिलीम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः",
+      "net": "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः",
+      "in": "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः",
+      "gp": "रामाय प्रियमाख्यातुं पुनरायान्महाकपिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-76, 1-1-77",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Knowing himself to be free from the captivity of the weapon according to Brahma's boon, the valiant great monkey Hanuma enduring those demons with self-will who tied his tail with ropes with the intention of burning it, there after burning the city of Lanka while leaving from fire the Seetha of Mithila, got back again to convey the pleasant news to Rama ... [1-1-76, 77]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-76, 1-1-77",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "76,77. j~naatvaa",
+            "devanagari_machine_converted": "७६,७७। ज्ञात्वा",
+            "english": "Knowing; aatmaanam = himself"
+          },
+          {
+            "roman_itrans": "astreNonmuktam",
+            "devanagari_machine_converted": "अस्त्रेणोन्मुक्तम्",
+            "english": "to be free from the [captivity of] weapon"
+          },
+          {
+            "roman_itrans": "paitaamahaat varaat",
+            "devanagari_machine_converted": "पैतामहात् वरात्",
+            "english": "from Brahma's, boon; viiraH = the valiant"
+          },
+          {
+            "roman_itrans": "mahaakapiH",
+            "devanagari_machine_converted": "महाकपिः",
+            "english": "great monkey [Hanuma]"
+          },
+          {
+            "roman_itrans": "taan raakShasaan marSayan",
+            "devanagari_machine_converted": "तान् राक्षसान् मर्षयन्",
+            "english": "enduring those demons"
+          },
+          {
+            "roman_itrans": "yadR^icChayaa",
+            "devanagari_machine_converted": "यदृच्छया",
+            "english": "with self-will"
+          },
+          {
+            "roman_itrans": "yantriNaH",
+            "devanagari_machine_converted": "यन्त्रिणः",
+            "english": "who tied [ his tail with ropes]"
+          },
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "there-after"
+          },
+          {
+            "roman_itrans": "lankaam puriim dagdhvaa",
+            "devanagari_machine_converted": "लन्काम् पुरीम् दग्ध्वा",
+            "english": "burning the city of Lanka"
+          },
+          {
+            "roman_itrans": "R^ite ca",
+            "devanagari_machine_converted": "ऋते च",
+            "english": "and leaving"
+          },
+          {
+            "roman_itrans": "maithiliim siithaam",
+            "devanagari_machine_converted": "मैथिलीम् सीथाम्",
+            "english": "the Seetha of Mithila"
+          },
+          {
+            "roman_itrans": "punaH aayaat",
+            "devanagari_machine_converted": "पुनः आयात्",
+            "english": "got back again"
+          },
+          {
+            "roman_itrans": "raamaaya priyam aakhyaatum",
+            "devanagari_machine_converted": "रामाय प्रियम् आख्यातुम्",
+            "english": "to convey the pleasant [news] to Rama."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-76, 1-1-77",
+        "spans_beyond_this_verse": true,
+        "text": "This is in sundara kaanDa. Hanuma sees Ravana and others in the court, and as a show of his strength burns down Lanka except the place where Seetha is stationed, only to prove that the riches and wealth enjoyed at the cost others will burn down to ashes some day, besides Vibheeshana's place, for Vibheeshana is the adherer of Dharma. This episode is to relegate the false pride of Ravana, and as a symbolic suggestion that pomp and effluence without virtue are short lived."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.77",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तत्पश्चात् मिथिलेशकुमारी सीताके [स्थानके] अतिरिक्त समस्त लङ्काको जलाकर वे महाकपि हनुमान् जी रामको प्रिय संदेश सुनानेके लिये लंकासे लौट आये"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.77",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तत्पश्चात् (अव्यय)"
+          },
+          {
+            "sanskrit": "दग्ध्वा",
+            "hindi": "जलाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "लङ्काम्",
+            "hindi": "लंका को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋते",
+            "hindi": "सिवाय / छोड़कर (अव्यय)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "मैथिलीम्",
+            "hindi": "मिथिला की राजकुमारी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामाय",
+            "hindi": "राम के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रियम्",
+            "hindi": "प्रिय (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आख्यातुम्",
+            "hindi": "बताने के लिए (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर से (अव्यय)"
+          },
+          {
+            "sanskrit": "आयात्",
+            "hindi": "आया (आ + या, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "महाकपिः",
+            "hindi": "महान वानर (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.77",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "'तत्पश्चात्‌ मिथिलेशकुमारी सीताके [स्थानके] अतिरिक्त समस्त लङ्काको जलाकर वे महाकपि हनुमानूजी रामको प्रिय संदेश सुनानेके लिये लंकासे लौट आये॥ ७७॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

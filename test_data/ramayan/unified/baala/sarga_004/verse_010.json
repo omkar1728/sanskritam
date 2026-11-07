@@ -1,0 +1,246 @@
+{
+  "id": "baala-004-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 9
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-10"
+    ],
+    "vulgate_in_locators": [
+      "1.4.10"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004009a",
+        "1004009c"
+      ],
+      "lines": [
+        "तौ तु गान्धर्वतत्त्वज्ञौ मूर्च्छनास्थानकोविदौ",
+        "भ्रातरौ स्वरसंपन्नौ गन्धर्वाविव रूपिणौ"
+      ],
+      "punctuated_derived": "तौ तु गान्धर्वतत्त्वज्ञौ मूर्च्छनास्थानकोविदौ ।\nभ्रातरौ स्वरसंपन्नौ गन्धर्वाविव रूपिणौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ",
+        "भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रुपिणौ"
+      ],
+      "locators": [
+        "1-4-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ",
+        "भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रूपिणौ"
+      ],
+      "locators": [
+        "1.4.10"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ",
+        "भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रूपिणौ"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तौ तु गान्धर्वतत्त्वज्ञौ मूर्च्छनास्थानकोविदौ",
+      "net": "तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ",
+      "in": "तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ",
+      "gp": "तौ तु गान्धर्वतत्त्वज्ञौ स्थानमूर्च्छनकोविदौ",
+      "similarity": {
+        "sim_smith_net": 0.8641975308641975,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मूर्च्छनास्थानकोविदौ",
+            "b": "स्थानमूर्च्छनकोविदौ"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "भ्रातरौ स्वरसंपन्नौ गन्धर्वाविव रूपिणौ",
+      "net": "भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रुपिणौ",
+      "in": "भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रूपिणौ",
+      "gp": "भ्रातरौ स्वरसम्पन्नौ गन्धर्वाविव रूपिणौ",
+      "similarity": {
+        "sim_smith_net": 0.9696969696969697,
+        "sim_in_net": 0.9696969696969697,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "स्वरसंपन्नौ",
+            "b": "स्वरसम्पन्नौ"
+          },
+          {
+            "a": "रूपिणौ",
+            "b": "रुपिणौ"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "रुपिणौ",
+            "b": "रूपिणौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "रुपिणौ",
+            "b": "रूपिणौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They are conversant with the art of music and proficient with the pitch and pausing their voices, and those two brothers have not only a wealthy voice, but they also look like celestial singers. [1-4-10]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tau tu gaandharvatattvaj~nau",
+            "devanagari_machine_converted": "तौ तु गान्धर्वतत्त्वज्ञौ",
+            "english": "they are conversant with musical art"
+          },
+          {
+            "roman_itrans": "sthaanamuurchanakovidau",
+            "devanagari_machine_converted": "स्थानमूर्चनकोविदौ",
+            "english": "proficient in pause pitch of voice"
+          },
+          {
+            "roman_itrans": "bhraatarau svarasampannou",
+            "devanagari_machine_converted": "भ्रातरौ स्वरसम्पन्नोउ",
+            "english": "two brothers with wealthy voice"
+          },
+          {
+            "roman_itrans": "gandharvau iva ruupiNau",
+            "devanagari_machine_converted": "गन्धर्वौ इव रूपिणौ",
+            "english": "celestial singers, like, in appearance."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-10",
+        "spans_beyond_this_verse": false,
+        "text": "The gandharva-s are celestial beings with adorable personalities and performers of all kinds of performing arts. Hence, Indian musical art is termed as gaandhava-vidyaa."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सुन्दर रूप और शुभ लक्षण उनकी सहज सम्पत्ति थे। वे दोनों भाई बड़े मधुर स्वरसे वार्तालाप करते थे। जैसे बिम्बसे प्रतिबिम्ब प्रकट होते हैं, उसी प्रकार श्रीरामके शरीरसे उत्पन्न हुए वे दोनों राजकुमार दूसरे युगल श्रीराम ही प्रतीत होते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "गान्धर्वतत्त्वज्ञौ",
+            "hindi": "संगीत के तत्त्व के ज्ञाता"
+          },
+          {
+            "sanskrit": "स्थानमूर्च्छनकोविदौ",
+            "hindi": "स्थान और मूर्च्छना में कुशल"
+          },
+          {
+            "sanskrit": "भ्रातरौ",
+            "hindi": "दोनों भाई"
+          },
+          {
+            "sanskrit": "स्वरसम्पन्नौ",
+            "hindi": "मधुर स्वर वाले"
+          },
+          {
+            "sanskrit": "गन्धर्वौ",
+            "hindi": "गन्धर्व"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान"
+          },
+          {
+            "sanskrit": "रूपिणौ",
+            "hindi": "सुन्दर रूप वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.10",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "चे दोनों भाई गान्धर्व विद्या (संगीत-शास्त्र) के तत्त्वज्ञ, स्थानः और मूर्च्छनाके? जानकार, मधुर स्वरसे सम्पन्न तथा गन्ध्वोके समान मनोहर रूपवाले थे॥ १०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,259 @@
+{
+  "id": "baala-005-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 15
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-15"
+    ],
+    "vulgate_in_locators": [
+      "1.5.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005015a",
+        "1005015c"
+      ],
+      "lines": [
+        "प्रसादै रत्नविकृतैः पर्वतैरुपशोभिताम्",
+        "कूटागारैश्च संपूर्णामिन्द्रस्येवामरावतीम्"
+      ],
+      "punctuated_derived": "प्रसादै रत्नविकृतैः पर्वतैरुपशोभिताम् ।\nकूटागारैश्च संपूर्णामिन्द्रस्येवामरावतीम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रासादै रत्नविकृतैः पर्वतैरुपशोभिताम्",
+        "कूटागारैश्च सम्पुर्णामिन्द्रस्येवामरावतीम्"
+      ],
+      "locators": [
+        "1-5-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम्",
+        "कूटागारैश्च सम्पूर्णामिन्द्रस्येवामरावतीम्"
+      ],
+      "locators": [
+        "1.5.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम्‌",
+        "कूटागारैश्च सम्पूर्णामिन्द्रस्येवामरावतीम्‌"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed"
+      ],
+      "refs": [
+        "1.5.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रसादै रत्नविकृतैः पर्वतैरुपशोभिताम्",
+      "net": "प्रासादै रत्नविकृतैः पर्वतैरुपशोभिताम्",
+      "in": "प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम्",
+      "gp": "प्रासादै रत्नविकृतैः पर्वतैरिव शोभिताम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9855072463768116,
+        "sim_in_net": 0.9428571428571428,
+        "sim_gp_net": 0.9428571428571428
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "प्रसादै",
+            "b": "प्रासादै"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "पर्वतैरुपशोभिताम्",
+            "b": "पर्वतैरिव शोभिताम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पर्वतैरुपशोभिताम्",
+            "b": "पर्वतैरिव शोभिताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कूटागारैश्च संपूर्णामिन्द्रस्येवामरावतीम्",
+      "net": "कूटागारैश्च सम्पुर्णामिन्द्रस्येवामरावतीम्",
+      "in": "कूटागारैश्च सम्पूर्णामिन्द्रस्येवामरावतीम्",
+      "gp": "कूटागारैश्च सम्पूर्णामिन्द्रस्येवामरावतीम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9736842105263158,
+        "sim_in_net": 0.9736842105263158,
+        "sim_gp_net": 0.9736842105263158
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संपूर्णामिन्द्रस्येवामरावतीम्",
+            "b": "सम्पुर्णामिन्द्रस्येवामरावतीम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सम्पुर्णामिन्द्रस्येवामरावतीम्",
+            "b": "सम्पूर्णामिन्द्रस्येवामरावतीम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सम्पुर्णामिन्द्रस्येवामरावतीम्",
+            "b": "सम्पूर्णामिन्द्रस्येवामरावतीम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Buildings are ornamentally studded with precious gems, and with such multi-storied sky scrappers she is adorned, and filled with them she is like Amaravati, the capital of Indra. [1-5-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "praasaadaiH ratnavikR^itaiH",
+            "devanagari_machine_converted": "प्रासादैः रत्नविकृतैः",
+            "english": "precious gems studded ornamentally buildings"
+          },
+          {
+            "roman_itrans": "parvataiH upashobhitaam",
+            "devanagari_machine_converted": "पर्वतैः उपशोभिताम्",
+            "english": "adorned with mountain [skyscrapers,]"
+          },
+          {
+            "roman_itrans": "kuuTaagaaraiH cha sampuurNaam",
+            "devanagari_machine_converted": "कूटागारैः च सम्पूर्णाम्",
+            "english": "also filled with multi-storeyed"
+          },
+          {
+            "roman_itrans": "indrasya iva amaraavatiim",
+            "devanagari_machine_converted": "इन्द्रस्य इव अमरावतीम्",
+            "english": "like Indra's Amaraavati."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वहाँके महलोंका निर्माण नाना प्रकारके रत्नोंसे हुआ था। वे गगनचुम्बी प्रासाद पर्वतोंके समान जान पड़ते थे। उनसे उस पुरीकी बड़ी शोभा हो रही थी। बहुसंख्यक कूटागारों (गुप्तगृहों अथवा स्त्रियोंके क्रीड़ाभवनों) से परिपूर्ण वह नगरी इन्द्रकी अमरावतीके समान जान पड़ती थी॥ १५ ॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रासादैः",
+            "hindi": "प्रासादों / महलों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रत्नविकृतैः",
+            "hindi": "रत्नों से निर्मित / विचित्र से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पर्वतैः",
+            "hindi": "पर्वतों के (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "शोभिताम्",
+            "hindi": "शोभित को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कूटागारैः",
+            "hindi": "कूटागारों / गुप्त गृहों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सम्पूर्णाम्",
+            "hindi": "सम्पूर्ण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इन्द्रस्य",
+            "hindi": "इन्द्र की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "अमरावतीम्",
+            "hindi": "अमरावती नगरी के समान को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.15",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "वहाँके महलोंका निर्माण नाना प्रकारके रत्नोंसे हुआ था। वे गगनचुम्बी प्रासाद पर्वतोंके समान जान पड़ते थे। उनसे उस पुरीकी बड़ी शोभा हो रही थी। बहुसंख्यक कूटागारों (गुप्तगृहों अथवा स्त्रियोंके क्रीड़ाभवनों) से परिपूर्ण वह नगरी इन्द्रकी अमरावतीके समान जान पड़ती थी॥ १५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,243 @@
+{
+  "id": "baala-003-033",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 33,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 22
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-32"
+    ],
+    "vulgate_in_locators": [
+      "1.3.32"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.32"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003022a",
+        "1003022c"
+      ],
+      "lines": [
+        "मणिप्रदानं सीताया वृक्षभङ्गं तथैव च",
+        "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्"
+      ],
+      "punctuated_derived": "मणिप्रदानं सीताया वृक्षभङ्गं तथैव च ।\nराक्षसीविद्रवं चैव किंकराणां निबर्हणम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "मणिप्रदानं सीताया वृक्षभङ्गं तथैव च",
+        "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्"
+      ],
+      "locators": [
+        "1-3-32"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "मणिप्रदानं सीताया वृक्षभंगं तथैव च",
+        "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्"
+      ],
+      "locators": [
+        "1.3.32"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "मणिप्रदानं सीताया वृक्षभंगं तथैव च",
+        "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing",
+        "verse_number_nonsequential_expected_31"
+      ],
+      "refs": [
+        "1.3.32"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "मणिप्रदानं सीताया वृक्षभङ्गं तथैव च",
+      "net": "मणिप्रदानं सीताया वृक्षभङ्गं तथैव च",
+      "in": "मणिप्रदानं सीताया वृक्षभंगं तथैव च",
+      "gp": "मणिप्रदानं सीताया वृक्षभंगं तथैव च",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "वृक्षभङ्गं",
+            "b": "वृक्षभंगं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वृक्षभङ्गं",
+            "b": "वृक्षभंगं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्",
+      "net": "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्",
+      "in": "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्",
+      "gp": "राक्षसीविद्रवं चैव किंकराणां निबर्हणम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "निबर्हणम्",
+            "b": "निबर्हणम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-32",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Seetha's giving her bejeweled hairslide to be shown to Rama, Hanuma's uprooting of the trees of that beautiful Ashoka gardens, thereby the demonesses fleeing in scare, his killing the guards of that garden... [1-3-32]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-32",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "maNipradaanam siitaayaaH",
+            "devanagari_machine_converted": "मणिप्रदानम् सीतायाः",
+            "english": "giving jewel of Seetha"
+          },
+          {
+            "roman_itrans": "vR^ikShabha~ngam tathaa eva ca",
+            "devanagari_machine_converted": "वृक्षभञ्गम् तथा एव च",
+            "english": "thereby thus trees uprooting"
+          },
+          {
+            "roman_itrans": "raakShasiividravam ca eva",
+            "devanagari_machine_converted": "राक्षसीविद्रवम् च एव",
+            "english": "demoness's fleeing, also, thus"
+          },
+          {
+            "roman_itrans": "kinkaraaNaam nibarhaNam",
+            "devanagari_machine_converted": "किन्कराणाम् निबर्हणम्",
+            "english": "killing of guards [at the gardens]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.32",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सीताका हनुमान जी को चूड़ामणि प्रदान करना, हनुमान् जी का अशोकवाटिकाके वृक्षोंको तोड़ना, राक्षसियोंका भागना, रावणके सेवकोंका हनुमान जी के द्वारा संहार,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.32",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "मणिप्रदानम्",
+            "hindi": "मणि (चूड़ामणि) का प्रदान करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सीतायाः",
+            "hindi": "सीता का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वृक्षभङ्गम्",
+            "hindi": "वृक्षों का भङ्ग / तोड़ना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "राक्षसीविद्रवम्",
+            "hindi": "राक्षसियों का विद्रव / भागना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "किङ्कराणाम्",
+            "hindi": "किंकरों (सेवकों) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "निबर्हणम्",
+            "hindi": "वध / संहार (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.32",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_31",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

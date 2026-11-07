@@ -1,0 +1,252 @@
+{
+  "id": "baala-007-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 8
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-11"
+    ],
+    "vulgate_in_locators": [
+      "1.7.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007008a",
+        "1007008c"
+      ],
+      "lines": [
+        "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे",
+        "अहितं चापि पुरुषं न विहिंस्युरदूषकम्"
+      ],
+      "punctuated_derived": "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे ।\nअहितं चापि पुरुषं न विहिंस्युरदूषकम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे",
+        "अहितं चापि पुरुषं न हिंस्युरविदूषकम्"
+      ],
+      "locators": [
+        "1-7-11"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे",
+        "अहितं चापि पुरुषं न हिंस्युरविदूषकम्॥११"
+      ],
+      "locators": [
+        "1.7.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे!",
+        "अहितं चापि पुरुषं न हिस्युरविदूषकम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे",
+      "net": "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे",
+      "in": "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे",
+      "gp": "कोशसंग्रहणे युक्ता बलस्य च परिग्रहे!",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9841269841269841
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "परिग्रहे",
+            "b": "परिग्रहे!"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "अहितं चापि पुरुषं न विहिंस्युरदूषकम्",
+      "net": "अहितं चापि पुरुषं न हिंस्युरविदूषकम्",
+      "in": "अहितं चापि पुरुषं न हिंस्युरविदूषकम्॥११",
+      "gp": "अहितं चापि पुरुषं न हिस्युरविदूषकम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9354838709677419,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9836065573770492
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विहिंस्युरदूषकम्",
+            "b": "हिंस्युरविदूषकम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "हिंस्युरविदूषकम्",
+            "b": "हिंस्युरविदूषकम्॥११"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "हिंस्युरविदूषकम्",
+            "b": "हिस्युरविदूषकम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-11",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In collections to their treasury and to militarise their armies they are dutiful, even an unfriendly person will not be tortured, if he were not really blameworthy. [1-7-11]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-11",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "koshasamgrahaNe yuktaaH",
+            "devanagari_machine_converted": "कोशसम्ग्रहणे युक्ताः",
+            "english": "dutiful in collecting treasury"
+          },
+          {
+            "roman_itrans": "balasya cha parigrahe",
+            "devanagari_machine_converted": "बलस्य च परिग्रहे",
+            "english": "militarising of armies, also"
+          },
+          {
+            "roman_itrans": "ahitam cha api puruSam",
+            "devanagari_machine_converted": "अहितम् च अपि पुरुषम्",
+            "english": "even unfriendly person also"
+          },
+          {
+            "roman_itrans": "aviduuShakam",
+            "devanagari_machine_converted": "अविदूषकम्",
+            "english": "not really blameworthy"
+          },
+          {
+            "roman_itrans": "na himsyuH",
+            "devanagari_machine_converted": "न हिम्स्युः",
+            "english": "do not, torture."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कोषके संचय तथा चतुरंगिणी सेनाके संग्रहमें सदा लगे रहते थे। शत्रुने भी यदि अपराध न किया हो तो वे उसकी हिंसा नहीं करते थे॥११॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कोशसङ्ग्रहणे",
+            "hindi": "कोष के संग्रह में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "युक्ताः",
+            "hindi": "लगे रहने वाले (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "बलस्य",
+            "hindi": "सेना का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "परिग्रहे",
+            "hindi": "संग्रह करने में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अहितम्",
+            "hindi": "अहितकर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "पुरुषम्",
+            "hindi": "पुरुष को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "हिंस्युः",
+            "hindi": "हिंसा करते (हिंस् धातु, विधिलिङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "अविदूषकम्",
+            "hindi": "अपराध न करने वाले को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'कोषके संचय तथा चतुरंगिणी सेनाके संग्रहमें सदा लगे रहते थे। शत्रुने भी यदि अपराध न किया हो तो वे उसकी हिंसा नहीं करते थे॥ ११॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,269 @@
+{
+  "id": "baala-006-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 6
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-6"
+    ],
+    "vulgate_in_locators": [
+      "1.6.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006006a",
+        "1006006c"
+      ],
+      "lines": [
+        "तस्मिन्पुरवरे हृष्टा धर्मात्मना बहुश्रुताः",
+        "नरास्तुष्टाधनैः स्वैः स्वैरलुब्धाः सत्यवादिनः"
+      ],
+      "punctuated_derived": "तस्मिन्पुरवरे हृष्टा धर्मात्मना बहुश्रुताः ।\nनरास्तुष्टाधनैः स्वैः स्वैरलुब्धाः सत्यवादिनः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्मिन्पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः",
+        "नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः"
+      ],
+      "locators": [
+        "1-6-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्मिन् पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः",
+        "नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः॥६"
+      ],
+      "locators": [
+        "1.6.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्मिन्‌ पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः",
+        "नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्मिन्पुरवरे हृष्टा धर्मात्मना बहुश्रुताः",
+      "net": "तस्मिन्पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः",
+      "in": "तस्मिन् पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः",
+      "gp": "तस्मिन्‌ पुरवरे हृष्टा धर्मात्मानो बहुश्रुताः",
+      "similarity": {
+        "sim_smith_net": 0.961038961038961,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "धर्मात्मना",
+            "b": "धर्मात्मानो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "तस्मिन्पुरवरे",
+            "b": "तस्मिन् पुरवरे"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तस्मिन्पुरवरे",
+            "b": "तस्मिन्‌ पुरवरे"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नरास्तुष्टाधनैः स्वैः स्वैरलुब्धाः सत्यवादिनः",
+      "net": "नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः",
+      "in": "नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः॥६",
+      "gp": "नरास्तुष्टा धनैः स्वैः स्वैरलुब्धाः सत्यवादिनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नरास्तुष्टाधनैः",
+            "b": "नरास्तुष्टा धनैः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सत्यवादिनः",
+            "b": "सत्यवादिनः॥६"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In that best city Ayodhya all are exuberant yet virtuous ones, and scholars are variously learned ones, people are satisfied with their own riches, they have no greed, and they advocate truthfulness alone. [1-6-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tasmin puravare",
+            "devanagari_machine_converted": "तस्मिन् पुरवरे",
+            "english": "in that, the best city"
+          },
+          {
+            "roman_itrans": "naraaH hR^iSTaaH",
+            "devanagari_machine_converted": "नराः हृष्टाः",
+            "english": "people, exuberant"
+          },
+          {
+            "roman_itrans": "dharmaatmaanaH bahushrutaaH",
+            "devanagari_machine_converted": "धर्मात्मानः बहुश्रुताः",
+            "english": "virtuous ones, variously heard [learnt]"
+          },
+          {
+            "roman_itrans": "svaiH svaiH",
+            "devanagari_machine_converted": "स्वैः स्वैः",
+            "english": "of their, their"
+          },
+          {
+            "roman_itrans": "dhanaiH",
+            "devanagari_machine_converted": "धनैः",
+            "english": "with riches"
+          },
+          {
+            "roman_itrans": "tuSTaaH",
+            "devanagari_machine_converted": "तुष्टाः",
+            "english": "satisfied"
+          },
+          {
+            "roman_itrans": "alubdhaaH",
+            "devanagari_machine_converted": "अलुब्धाः",
+            "english": "not greedy"
+          },
+          {
+            "roman_itrans": "satyavaadinaH",
+            "devanagari_machine_converted": "सत्यवादिनः",
+            "english": "truth advocating ones."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस उत्तम नगरमें निवास करनेवाले सभी मनुष्य प्रसन्न, धर्मात्मा, बहुश्रुत, निर्लोभ, सत्यवादी तथा अपने-अपने धनसे संतुष्ट रहनेवाले थे॥६॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरवरे",
+            "hindi": "उत्तम नगर में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "हृष्टाः",
+            "hindi": "प्रसन्न (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "धर्मात्मानः",
+            "hindi": "धर्मात्मा (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "बहुश्रुताः",
+            "hindi": "बहुश्रुत / अधिक ज्ञानी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नराः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तुष्टाः",
+            "hindi": "सन्तुष्ट (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "धनैः",
+            "hindi": "धन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वैः स्वैः",
+            "hindi": "अपने-अपने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अलुब्धाः",
+            "hindi": "निर्लोभ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सत्यवादिनः",
+            "hindi": "सत्य बोलने वाले (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.6",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उस उत्तम नगरमें निवास करनेवाले सभी मनुष्य प्रसन्न, धर्मात्मा, बहुश्रुत, निलोभ, सत्यवादी तथां अपने-अपने धनसे संतुष्ट रहनेवाले थे॥६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "baala-010-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 8
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-8, 1-10-9"
+    ],
+    "vulgate_in_locators": [
+      "1.10.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009008e"
+      ],
+      "lines": [
+        "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्"
+      ],
+      "locators": [
+        "1-10-8, 1-10-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्"
+      ],
+      "locators": [
+        "1.10.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्",
+      "net": "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्",
+      "in": "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्",
+      "gp": "पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "चाश्रमात्",
+            "b": "चाश्रमात्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-8, 1-10-9",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Always satisfied is sage Rishyasringa to be in hermitage, thus he never stirred out of that hermitage, and thus he has not seen any female, or a male, or even any other objects of pleasure, either of city or of countryside from the time of birth onwards... [1-10-8b, 9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-8, 1-10-9",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "8b, 9. nityasantuShTaH",
+            "devanagari_machine_converted": "८ब्, ९। नित्यसन्तुष्टः",
+            "english": "always satisfied"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he Rishyasringa"
+          },
+          {
+            "roman_itrans": "pituH aashramaat",
+            "devanagari_machine_converted": "पितुः आश्रमात्",
+            "english": "his father's, hermitage"
+          },
+          {
+            "roman_itrans": "na ati chakraama",
+            "devanagari_machine_converted": "न अति चक्राम",
+            "english": "not, out of way, stirred out"
+          },
+          {
+            "roman_itrans": "tapasvinaa",
+            "devanagari_machine_converted": "तपस्विना",
+            "english": "by hermit"
+          },
+          {
+            "roman_itrans": "tena janmaprabhR^iti",
+            "devanagari_machine_converted": "तेन जन्मप्रभृति",
+            "english": "by him, birth onwards"
+          },
+          {
+            "roman_itrans": "strii vaa pumaan",
+            "devanagari_machine_converted": "स्त्री वा पुमान्",
+            "english": "female, or, male"
+          },
+          {
+            "roman_itrans": "nagararaaSTrajam",
+            "devanagari_machine_converted": "नगरराष्ट्रजम्",
+            "english": "of city or of countryside"
+          },
+          {
+            "roman_itrans": "yat anyat",
+            "devanagari_machine_converted": "यत् अन्यत्",
+            "english": "that which, any other"
+          },
+          {
+            "roman_itrans": "sattvam",
+            "devanagari_machine_converted": "सत्त्वम्",
+            "english": "being"
+          },
+          {
+            "roman_itrans": "na dR^iShTapuurvam",
+            "devanagari_machine_converted": "न दृष्टपूर्वम्",
+            "english": "not seen earlier."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-8, 1-10-9",
+        "spans_beyond_this_verse": true,
+        "text": "Rishyasringa is thus not aware of gender differentiation or exposed to any other object of pleasure, and thus his father conditioned him to achieve some supreme ritual ideal."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.8",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“मुनिकुमार ऋष्यशृंग बड़े ही धीर स्वभावके थे। सदा आश्रममें ही रहा करते थे। उन्हें सर्वदा अपने पिताके पास रहनेमें ही अधिक सुख मिलता था। अतः वे कभी आश्रमके बाहर नहीं निकलते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.8",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋषेः",
+            "hindi": "ऋषि (विभाण्डक) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रस्य",
+            "hindi": "पुत्र का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धीरस्य",
+            "hindi": "धीर / स्थिर स्वभाव वाले का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रमवासिनः",
+            "hindi": "आश्रम में रहने वाले का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता के (षष्ठी विभक्ति, सप्तमी के अर्थ में)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यसन्तुष्टः",
+            "hindi": "सदा सन्तुष्ट रहने वाले (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अतिचक्राम",
+            "hindi": "बाहर निकले (अति + क्रम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रमात्",
+            "hindi": "आश्रम से (पञ्चमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.8",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“मुनिकुमार ऋष्यशृंग बड़े ही धीर स्वभावके थे। सदा आश्रममें ही रहा करते थे। उन्हें सर्वदा अपने पिताके पास रहनेमें ही अधिक सुख मिलता था। अतः वे कभी आश्रमके बाहर नहीं निकलते थे॥८॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

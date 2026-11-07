@@ -1,0 +1,333 @@
+{
+  "id": "baala-001-057",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 57,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 43
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-53"
+    ],
+    "vulgate_in_locators": [
+      "1.1.53",
+      "1.1.54"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.53"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001043a",
+        "1001043c"
+      ],
+      "lines": [
+        "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम्",
+        "राघवः शोकसंतप्तो विललापाकुलेन्द्रियः"
+      ],
+      "punctuated_derived": "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् ।\nराघवः शोकसंतप्तो विललापाकुलेन्द्रियः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम्",
+        "राघवः शोकसन्तप्तो विललापाकुलेन्द्रियः"
+      ],
+      "locators": [
+        "1-1-53"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गृधं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम्",
+        "राघवः शोकसंतप्तो विललापाकुलेन्द्रियः"
+      ],
+      "locators": [
+        "1.1.53",
+        "1.1.54"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गुश्न॑ च निहतं दृष्ट्वा हतां श्रुत्वा च मैथिलीम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_533_differs_from_sanskrit_53"
+      ],
+      "refs": [
+        "1.1.53"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम्",
+      "net": "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम्",
+      "in": "गृधं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम्",
+      "gp": "गुश्न॑ च निहतं दृष्ट्वा हतां श्रुत्वा च मैथिलीम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.975,
+        "sim_gp_net": 0.8888888888888888
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गृध्रं",
+            "b": "गृधं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गृध्रं",
+            "b": "गुश्न॑"
+          },
+          {
+            "a": "हृतां",
+            "b": "हतां"
+          },
+          {
+            "a": "मैथिलीम्",
+            "b": "मैथिलीम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "राघवः शोकसंतप्तो विललापाकुलेन्द्रियः",
+      "net": "राघवः शोकसन्तप्तो विललापाकुलेन्द्रियः",
+      "in": "राघवः शोकसंतप्तो विललापाकुलेन्द्रियः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "शोकसंतप्तो",
+            "b": "शोकसन्तप्तो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "शोकसन्तप्तो",
+            "b": "शोकसंतप्तो"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-53",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Raghava on seeing the smitten Jatayu and also on hearing about Seetha's abduction, wailed with disturbed senses, seething with anguish ... [1-1-53b, 54a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-53",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "53b, 54a. raaghavaH",
+            "devanagari_machine_converted": "५३ब्, ५४अ। राघवः",
+            "english": "Raghava"
+          },
+          {
+            "roman_itrans": "nihatam gR^idhram dR^iSThvaa",
+            "devanagari_machine_converted": "निहतम् गृध्रम् दृष्ठ्वा",
+            "english": "on seeing the smitten vulture Jatayu"
+          },
+          {
+            "roman_itrans": "maithiliim hR^itaam shR^itvaa ca",
+            "devanagari_machine_converted": "मैथिलीम् हृताम् शृत्वा च",
+            "english": "and also on hearing about Mythili's [Seetha's] abduction; vilalaapa = wailed"
+          },
+          {
+            "roman_itrans": "akulendriyaH",
+            "devanagari_machine_converted": "अकुलेन्द्रियः",
+            "english": "with disturbed senses"
+          },
+          {
+            "roman_itrans": "shokasantaptaH",
+            "devanagari_machine_converted": "शोकसन्तप्तः",
+            "english": "seething with anguish."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.53",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और स्वयं रामकी पत्नी सीताका अपहरण कर लिया, [जाते समय मार्गमें विघ्न डालनेके कारण] उसने जटायु नामक गृध्रका वध किया। तत्पश्चात् जटायुको आहत देखकर और (उसीके मुखसे) सीताका हरण सुनकर"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.54",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "रामचन्द्रजी शोकसे पीड़ित होकर विलाप करने लगे, उस समय उनकी सभी इन्द्रियाँ व्याकुल हो उठी थीं। फिर उसी शोकमें पड़े हुए उन्होंने जटायु गृध्रका अग्निसंस्कार किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.53",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "जहार",
+            "hindi": "हरण किया (हृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भार्याम्",
+            "hindi": "पत्नी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "गृधम्",
+            "hindi": "गिद्ध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "जटायुषम्",
+            "hindi": "जटायु को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गृधम्",
+            "hindi": "गिद्ध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "निहतम्",
+            "hindi": "मारे हुए को (द्वितीया विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "हृताम्",
+            "hindi": "हर ली गई को (द्वितीया विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "मैथिलीम्",
+            "hindi": "मैथिली को (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.54",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राघवः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शोकसन्तप्तः",
+            "hindi": "शोक से सन्तप्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विललाप",
+            "hindi": "विलाप किया (वि + लप्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "आकुलेन्द्रियः",
+            "hindi": "व्याकुल इन्द्रियों वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उसी (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "शोकेन",
+            "hindi": "शोक से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गृधम्",
+            "hindi": "गिद्ध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दग्ध्वा",
+            "hindi": "जलाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "जटायुषम्",
+            "hindi": "जटायु को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.53",
+        "ocr_flags": [
+          "hindi_marker_533_differs_from_sanskrit_53"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "राघवः शोकसंतप्तो विललापाकुलेन्द्रियः। “तत्पश्चात्‌ जटायुको आहत देखकर और (उसीके मुखसे) सीताका हरण सुनकर रामचन्द्रजी शोकसे पीड़ित होकर विलाप करने लगे, उस समय उनकी सभी इऱ्द्रियाँ व्याकुल हो उठी थीं॥५३३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

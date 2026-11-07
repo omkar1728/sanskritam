@@ -1,0 +1,246 @@
+{
+  "id": "baala-007-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 9
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-12"
+    ],
+    "vulgate_in_locators": [
+      "1.7.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.12"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007009a",
+        "1007009c"
+      ],
+      "lines": [
+        "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+        "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्"
+      ],
+      "punctuated_derived": "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः ।\nशुचीनां रक्षितारश्च नित्यं विषयवासिनाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+        "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्"
+      ],
+      "locators": [
+        "1-7-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+        "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्॥१२"
+      ],
+      "locators": [
+        "1.7.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+        "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+      "net": "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+      "in": "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+      "gp": "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्",
+      "net": "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्",
+      "in": "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्॥१२",
+      "gp": "शुचीनां रक्षितारश्च नित्यं विषयवासिनाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "विषयवासिनाम्",
+            "b": "विषयवासिनाम्॥१२"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विषयवासिनाम्",
+            "b": "विषयवासिनाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-12",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They are valiant ones with engineered enthusiasm, administrators of political science, clean persons and protectors of subjects of their kingdom at all times. [1-7-12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-12",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "viiraaH",
+            "devanagari_machine_converted": "वीराः",
+            "english": "valiant"
+          },
+          {
+            "roman_itrans": "niyatotsaahaaH",
+            "devanagari_machine_converted": "नियतोत्साहाः",
+            "english": "engineered enthusiasm"
+          },
+          {
+            "roman_itrans": "raajashaastram",
+            "devanagari_machine_converted": "राजशास्त्रम्",
+            "english": "political science"
+          },
+          {
+            "roman_itrans": "anuSTitaaH",
+            "devanagari_machine_converted": "अनुष्टिताः",
+            "english": "administrators of"
+          },
+          {
+            "roman_itrans": "viSayavaasinaam",
+            "devanagari_machine_converted": "विषयवासिनाम्",
+            "english": "dwelling in kingdom[subjects of kingdom]"
+          },
+          {
+            "roman_itrans": "shuchiinaam",
+            "devanagari_machine_converted": "शुचीनाम्",
+            "english": "clean persons"
+          },
+          {
+            "roman_itrans": "nityam",
+            "devanagari_machine_converted": "नित्यम्",
+            "english": "at all times"
+          },
+          {
+            "roman_itrans": "rakShitaaraH",
+            "devanagari_machine_converted": "रक्षितारः",
+            "english": "protectors."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन सबमें सदा शौर्य एवं उत्साह भरा रहता था। वे राजनीतिके अनुसार कार्य करते तथा अपने राज्यके भीतर रहनेवाले सत्पुरुषोंकी सदा रक्षा करते थे॥ १२ ॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वीराः",
+            "hindi": "वीर (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नियतोत्साहाः",
+            "hindi": "नियत उत्साह वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "राजशास्त्रम्",
+            "hindi": "राजनीति के अनुसार (द्वितीया विभक्ति का अव्ययीभाव)"
+          },
+          {
+            "sanskrit": "अनुष्ठिताः",
+            "hindi": "अनुष्ठान करने वाले (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "शुचीनाम्",
+            "hindi": "सत्पुरुषों की (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "रक्षितारः",
+            "hindi": "रक्षा करने वाले (प्रथमा विभक्ति, बहुवचन, तृच् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "विषयवासिनाम्",
+            "hindi": "राज्य में रहने वालों की (षष्ठी विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.12",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उन सबमें सदा शौर्य एवं उत्साह भरा रहता था। वे राजनीतिके अनुसार कार्य करते तथा अपने राज्यके भीतर रहनेवाले सत्पुरुषॉकी सदा रक्षा करते थे॥ १२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

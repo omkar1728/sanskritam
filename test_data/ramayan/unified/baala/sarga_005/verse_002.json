@@ -1,0 +1,290 @@
+{
+  "id": "baala-005-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 2
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-1, 1-5-2, 1-5-3"
+    ],
+    "vulgate_in_locators": [
+      "1.5.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.2"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005002a",
+        "1005002c"
+      ],
+      "lines": [
+        "येषां स सगरो नाम सागरो येन खानितः",
+        "षष्टिः पुत्रसहस्राणि यं यान्तं पर्यवारयन्"
+      ],
+      "punctuated_derived": "येषां स सगरो नाम सागरो येन खानितः ।\nषष्टिः पुत्रसहस्राणि यं यान्तं पर्यवारयन् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "येषां स सगरो नाम सागरो येन खानितः",
+        "षष्टिः पुत्रसहस्राणि यं यान्तं पर्यवारयन्"
+      ],
+      "locators": [
+        "1-5-1, 1-5-2, 1-5-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "येषां स सगरो नाम सागरो येन खानितः",
+        "षष्टिपुत्रसहस्राणि यं यान्तं पर्यवारयन्"
+      ],
+      "locators": [
+        "1.5.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "येषां स सगरो नाम सागरो येन खानितः",
+        "षष्टिपुत्रसहस्त्राणि यं यान्तं पर्यवारयन्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_3_differs_from_sanskrit_2"
+      ],
+      "refs": [
+        "1.5.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "येषां स सगरो नाम सागरो येन खानितः",
+      "net": "येषां स सगरो नाम सागरो येन खानितः",
+      "in": "येषां स सगरो नाम सागरो येन खानितः",
+      "gp": "येषां स सगरो नाम सागरो येन खानितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "षष्टिः पुत्रसहस्राणि यं यान्तं पर्यवारयन्",
+      "net": "षष्टिः पुत्रसहस्राणि यं यान्तं पर्यवारयन्",
+      "in": "षष्टिपुत्रसहस्राणि यं यान्तं पर्यवारयन्",
+      "gp": "षष्टिपुत्रसहस्त्राणि यं यान्तं पर्यवारयन्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9859154929577465,
+        "sim_gp_net": 0.958904109589041
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "षष्टिः पुत्रसहस्राणि",
+            "b": "षष्टिपुत्रसहस्राणि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "षष्टिः पुत्रसहस्राणि",
+            "b": "षष्टिपुत्रसहस्त्राणि"
+          },
+          {
+            "a": "पर्यवारयन्",
+            "b": "पर्यवारयन्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-1, 1-5-2, 1-5-3",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Once upon a time, under which victorious kings, starting from Prajapati-s, this entire earth with all its islands is there, among which kings one king named Sagara is there, well-known for his deepening the oceans, and whom his sixty thousand sons were fencing in when he is set out for action, in the dynasty of such Ikshvaku kings this highly revered and reputed epic Ramayana is originated. [1-5-1, 3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-1, 1-5-2, 1-5-3",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "1-3. iyam kR^itsnaa vasundharaa",
+            "devanagari_machine_converted": "१-३। इयम् कृत्स्ना वसुन्धरा",
+            "english": "this, entire, earth"
+          },
+          {
+            "roman_itrans": "sarvaa",
+            "devanagari_machine_converted": "सर्वा",
+            "english": "(sakaladwiipaatmaka) = with all islands; upaadaaya prajaapatim = starting from, Prajapati"
+          },
+          {
+            "roman_itrans": "jayashaalinaam",
+            "devanagari_machine_converted": "जयशालिनाम्",
+            "english": "victorious ones"
+          },
+          {
+            "roman_itrans": "yeSaam nR^ipaaNam",
+            "devanagari_machine_converted": "येषाम् नृपाणम्",
+            "english": "[under] which, kings"
+          },
+          {
+            "roman_itrans": "puurvam aasiit",
+            "devanagari_machine_converted": "पूर्वम् आसीत्",
+            "english": "once, it is there"
+          },
+          {
+            "roman_itrans": "yena saagaraH khaanitaH",
+            "devanagari_machine_converted": "येन सागरः खानितः",
+            "english": "by whom, oceans, deepened"
+          },
+          {
+            "roman_itrans": "yam yaantam",
+            "devanagari_machine_converted": "यम् यान्तम्",
+            "english": "whom, while setting out in battles"
+          },
+          {
+            "roman_itrans": "SaSTiH putrasahasraaNi",
+            "devanagari_machine_converted": "षष्टिः पुत्रसहस्राणि",
+            "english": "sixty-thousand, sons; paryavaarayan = [going with him] fencing in"
+          },
+          {
+            "roman_itrans": "yeSaam",
+            "devanagari_machine_converted": "येषाम्",
+            "english": "in which kings"
+          },
+          {
+            "roman_itrans": "saH saagaraH naama",
+            "devanagari_machine_converted": "सः सागरः नाम",
+            "english": "he, that Sagara, named [king was there]"
+          },
+          {
+            "roman_itrans": "teShaam mahaatmanaam",
+            "devanagari_machine_converted": "तेषाम् महात्मनाम्",
+            "english": "such of those, great-souled"
+          },
+          {
+            "roman_itrans": "IkShwaakuuNaam raaj~naam vamshe",
+            "devanagari_machine_converted": "ईक्ष्वाकूणाम् राज्ञाम् वम्शे",
+            "english": "Ikshvaku, kings', dynasty; raamaayaNam = Ramayana"
+          },
+          {
+            "roman_itrans": "iti shrutam",
+            "devanagari_machine_converted": "इति श्रुतम्",
+            "english": "thus, heard [reputed]"
+          },
+          {
+            "roman_itrans": "idam mahat aakhyaanam utpannam",
+            "devanagari_machine_converted": "इदम् महत् आख्यानम् उत्पन्नम्",
+            "english": "this, highly revered, epic, originated."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जिन्होंने समुद्र को खुदवाया था और जिन्हें यात्राकाल में साठ हजार पुत्र घेरकर चलते थे, वे महाप्रतापी राजा सगर जिनके कुलमें उत्पन्न हुए,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "येषाम्",
+            "hindi": "जिनके (वंश में) (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सगरः",
+            "hindi": "सगर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम से (अव्यय/द्वितीया विभक्ति का अव्ययीभाव)"
+          },
+          {
+            "sanskrit": "सागरः",
+            "hindi": "समुद्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "येन",
+            "hindi": "जिसके द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "खानितः",
+            "hindi": "खुदवाया गया (खन् धातु, प्रयोज्यार्थ, क्त प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "षष्टिपुत्रसहस्राणि",
+            "hindi": "साठ हजार पुत्र (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "यम्",
+            "hindi": "जिनको (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यान्तम्",
+            "hindi": "यात्रा करते हुए (शतृ प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पर्यवारयन्",
+            "hindi": "चारों ओर से घेर लेते थे (परि + आ + वृ, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.2",
+        "ocr_flags": [
+          "hindi_marker_3_differs_from_sanskrit_2"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम्‌ महदुत्पन्नमाख्यानं रामायणमिति श्रुतम्‌॥ ३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

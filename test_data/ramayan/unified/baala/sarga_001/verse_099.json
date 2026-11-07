@@ -1,0 +1,264 @@
+{
+  "id": "baala-001-099",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 99,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 72
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-91"
+    ],
+    "vulgate_in_locators": [
+      "1.1.91"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.91"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001072a",
+        "1001072c"
+      ],
+      "lines": [
+        "न पुत्रमरणं केचिद्द्रक्ष्यन्ति पुरुषाः क्वचित्",
+        "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः"
+      ],
+      "punctuated_derived": "न पुत्रमरणं केचिद्द्रक्ष्यन्ति पुरुषाः क्वचित् ।\nनार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न पुत्रमरणं किंचिद्द्रक्ष्यन्ति पुरुषाः क्वचित्",
+        "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः"
+      ],
+      "locators": [
+        "1-1-91"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न पुत्रमरणं केचिद् द्रक्ष्यन्ति पुरुषाः क्वचित्",
+        "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः"
+      ],
+      "locators": [
+        "1.1.91"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न पुत्रमरणं केचिद्‌ द्रक्ष्यन्ति पुरुषाः क्वचित्‌",
+        "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.91"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न पुत्रमरणं केचिद्द्रक्ष्यन्ति पुरुषाः क्वचित्",
+      "net": "न पुत्रमरणं किंचिद्द्रक्ष्यन्ति पुरुषाः क्वचित्",
+      "in": "न पुत्रमरणं केचिद् द्रक्ष्यन्ति पुरुषाः क्वचित्",
+      "gp": "न पुत्रमरणं केचिद्‌ द्रक्ष्यन्ति पुरुषाः क्वचित्‌",
+      "similarity": {
+        "sim_smith_net": 0.963855421686747,
+        "sim_in_net": 0.963855421686747,
+        "sim_gp_net": 0.963855421686747
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "केचिद्द्रक्ष्यन्ति",
+            "b": "किंचिद्द्रक्ष्यन्ति"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "किंचिद्द्रक्ष्यन्ति",
+            "b": "केचिद् द्रक्ष्यन्ति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "किंचिद्द्रक्ष्यन्ति",
+            "b": "केचिद्‌ द्रक्ष्यन्ति"
+          },
+          {
+            "a": "क्वचित्",
+            "b": "क्वचित्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः",
+      "net": "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः",
+      "in": "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः",
+      "gp": "नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-91",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"While Rama is on the throne men will not see the deaths of their children anywhere in their lifetime, and the ladies will remain husband-devouted and unwidowed during their lifetime... [1-1-91]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-91",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "puruShaaH",
+            "devanagari_machine_converted": "पुरुषाः",
+            "english": "men"
+          },
+          {
+            "roman_itrans": "na drakShyanti",
+            "devanagari_machine_converted": "न द्रक्ष्यन्ति",
+            "english": "will not see"
+          },
+          {
+            "roman_itrans": "putramaraNam",
+            "devanagari_machine_converted": "पुत्रमरणम्",
+            "english": "son's, death; kvachit = anywhere"
+          },
+          {
+            "roman_itrans": "kimchit",
+            "devanagari_machine_converted": "किम्चित्",
+            "english": "in the least"
+          },
+          {
+            "roman_itrans": "naaryaH ca",
+            "devanagari_machine_converted": "नार्यः च",
+            "english": "ladies also"
+          },
+          {
+            "roman_itrans": "avidhavaaH",
+            "devanagari_machine_converted": "अविधवाः",
+            "english": "without being widowed"
+          },
+          {
+            "roman_itrans": "nityam bhaviShyanti",
+            "devanagari_machine_converted": "नित्यम् भविष्यन्ति",
+            "english": "[will] always become"
+          },
+          {
+            "roman_itrans": "pativrataaH",
+            "devanagari_machine_converted": "पतिव्रताः",
+            "english": "devoted to husband."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.91",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'कोई कहीं भी अपने पुत्रकी मृत्यु नहीं देखेंगे, स्त्रियाँ विधवा न होंगी, सदा ही पतिव्रता होंगी"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.91",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "पुत्रमरणम्",
+            "hindi": "पुत्र की मृत्यु को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "केचित्",
+            "hindi": "कोई (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "द्रक्ष्यन्ति",
+            "hindi": "देखेंगे (दृश् धातु, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "पुरुषाः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्वचित्",
+            "hindi": "कहीं भी (अव्यय)"
+          },
+          {
+            "sanskrit": "नार्यः",
+            "hindi": "स्त्रियाँ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अविधवाः",
+            "hindi": "विधवा नहीं (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "भविष्यन्ति",
+            "hindi": "होंगी (भू धातु, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "पतिव्रताः",
+            "hindi": "पतिव्रता (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.91",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“कोई कहीं भी अपने पुत्रकी मृत्यु नहीं देखेंगे, स्त्रियाँ विधवा न होंगी, सदा ही पतिव्रता होंगी॥ ९१॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

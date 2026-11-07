@@ -1,0 +1,267 @@
+{
+  "id": "baala-009-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 21
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-18"
+    ],
+    "vulgate_in_locators": [
+      "1.9.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008021a",
+        "1008021c"
+      ],
+      "lines": [
+        "एवमङ्गाधिपेनैव गणिकाभिरृषेः सुतः",
+        "आनीतोऽवर्षयद्देवः शान्ता चास्मै प्रदीयते"
+      ],
+      "punctuated_derived": "एवमङ्गाधिपेनैव गणिकाभिरृषेः सुतः ।\nआनीतोऽवर्षयद्देवः शान्ता चास्मै प्रदीयते ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "एवमङ्गाधिपेनैव गणिकाभिर्ऋषेः सुतः",
+        "आनीतोऽवर्षयद्देवः शान्ता चास्मै प्रदीयते"
+      ],
+      "locators": [
+        "1-9-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "एवमंगाधिपेनैव गणिकाभिरृषेः सुतः",
+        "आनीतोऽवर्षयद् देवः शान्ता चास्मै प्रदीयते"
+      ],
+      "locators": [
+        "1.9.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "एवमंगाधिपेनैव गणिकाभिऋषे: सुतः",
+        "आनीतोऽवर्षयद्‌ देवः शान्ता चास्मै प्रदीयते"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.9.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "एवमङ्गाधिपेनैव गणिकाभिरृषेः सुतः",
+      "net": "एवमङ्गाधिपेनैव गणिकाभिर्ऋषेः सुतः",
+      "in": "एवमंगाधिपेनैव गणिकाभिरृषेः सुतः",
+      "gp": "एवमंगाधिपेनैव गणिकाभिऋषे: सुतः",
+      "similarity": {
+        "sim_smith_net": 0.9491525423728814,
+        "sim_in_net": 0.9491525423728814,
+        "sim_gp_net": 0.9473684210526315
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "गणिकाभिरृषेः",
+            "b": "गणिकाभिर्ऋषेः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "एवमङ्गाधिपेनैव गणिकाभिर्ऋषेः",
+            "b": "एवमंगाधिपेनैव गणिकाभिरृषेः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "एवमङ्गाधिपेनैव गणिकाभिर्ऋषेः",
+            "b": "एवमंगाधिपेनैव गणिकाभिऋषे:"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "आनीतोऽवर्षयद्देवः शान्ता चास्मै प्रदीयते",
+      "net": "आनीतोऽवर्षयद्देवः शान्ता चास्मै प्रदीयते",
+      "in": "आनीतोऽवर्षयद् देवः शान्ता चास्मै प्रदीयते",
+      "gp": "आनीतोऽवर्षयद्‌ देवः शान्ता चास्मै प्रदीयते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "आनीतोऽवर्षयद्देवः",
+            "b": "आनीतोऽवर्षयद् देवः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "आनीतोऽवर्षयद्देवः",
+            "b": "आनीतोऽवर्षयद्‌ देवः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-18",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Thus by the king of Anga kingdom and by his courtesans the son of sage Rishyasringa will be brought and the presiding deity for rains will shower rains, and Shanta will also be given in marriage to that sage...' [1-9-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-18",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "evam angaadhipena eva",
+            "devanagari_machine_converted": "एवम् अन्गाधिपेन एव",
+            "english": "thus, Anga country's king [Romapaada] thus"
+          },
+          {
+            "roman_itrans": "gaNikaabhiH",
+            "devanagari_machine_converted": "गणिकाभिः",
+            "english": "by courtesans"
+          },
+          {
+            "roman_itrans": "R^iSeH sutaH",
+            "devanagari_machine_converted": "ऋषेः सुतः",
+            "english": "Sage's, son [Rishyasringa]"
+          },
+          {
+            "roman_itrans": "aaniitaH",
+            "devanagari_machine_converted": "आनीतः",
+            "english": "[sage will be] brought"
+          },
+          {
+            "roman_itrans": "[then] devaH avarSayat",
+            "devanagari_machine_converted": "[थेन्] देवः अवर्षयत्",
+            "english": "god[Rain-god] will shower rains"
+          },
+          {
+            "roman_itrans": "shaantaa pradiiyate cha",
+            "devanagari_machine_converted": "शान्ता प्रदीयते च",
+            "english": "Shanta will be given to him, also."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“इस प्रकार गणिकाओं की सहायता से अंगराज मुनिकुमार ऋष्यशृंग को अपने यहाँ बुलायेंगे। उनके आते ही इन्द्रदेव उस राज्य में वर्षा करेंगे। फिर राजा उन्हें अपनी पुत्री शान्ता समर्पित कर देंगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "एवम्",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "अङ्गाधिपेन",
+            "hindi": "अंगराज द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "गणिकाभिः",
+            "hindi": "गणिकाओं की सहायता से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषेः",
+            "hindi": "ऋषि के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सुतः",
+            "hindi": "पुत्र (ऋष्यशृंग) (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "आनीतः",
+            "hindi": "बुलाया गया (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अवर्षयत्",
+            "hindi": "वर्षा की (वृष् धातु, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "देवः",
+            "hindi": "देव (इन्द्र) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शान्ता",
+            "hindi": "शान्ता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अस्मै",
+            "hindi": "उसे (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रदीयते",
+            "hindi": "दी गई (प्र + दा, कर्मवाच्य, लट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.18",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“इस प्रकार वेश्याओंकी सहायतासे अंगराज मुनिकुमार ऋष्यशृंगको अपने यहाँ बुलायेंगे। उनके आते ही इन्द्रदेन उस राज्यमें वर्षा करेंगे। फिर राजा उन्हें अपनी पुत्री शान्ता समर्पित कर देंगे॥ १८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "baala-007-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 17
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-24"
+    ],
+    "vulgate_in_locators": [
+      "1.7.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.24"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007017c"
+      ],
+      "lines": [
+        "स पार्थिवो दीप्तिमवाप युक्त;स्तेजोमयैर्गोभिरिवोदितोऽर्कः"
+      ],
+      "punctuated_derived": null,
+      "pada_split": [
+        {
+          "line_index": 0,
+          "padas": [
+            "स पार्थिवो दीप्तिमवाप युक्त",
+            "स्तेजोमयैर्गोभिरिवोदितोऽर्कः"
+          ]
+        }
+      ]
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेजोमयैर्गोभिरिवोदितोऽर्कः"
+      ],
+      "locators": [
+        "1-7-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स पार्थिवो दीप्तिमवाप युक्तस्तेजोमयैर्गोभिरिवोदितोऽर्कः॥२४"
+      ],
+      "locators": [
+        "1.7.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स्तेजोमयैर्गोभिरिवोदितोऽरकं:"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स पार्थिवो दीप्तिमवाप युक्त;स्तेजोमयैर्गोभिरिवोदितोऽर्कः",
+      "net": "तेजोमयैर्गोभिरिवोदितोऽर्कः",
+      "in": "स पार्थिवो दीप्तिमवाप युक्तस्तेजोमयैर्गोभिरिवोदितोऽर्कः॥२४",
+      "gp": "स्तेजोमयैर्गोभिरिवोदितोऽरकं:",
+      "similarity": {
+        "sim_smith_net": 0.6578947368421053,
+        "sim_in_net": 0.6578947368421053,
+        "sim_gp_net": 0.9019607843137255
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "स पार्थिवो दीप्तिमवाप युक्तस्तेजोमयैर्गोभिरिवोदितोऽर्कः",
+            "b": "तेजोमयैर्गोभिरिवोदितोऽर्कः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "तेजोमयैर्गोभिरिवोदितोऽर्कः",
+            "b": "स पार्थिवो दीप्तिमवाप युक्तस्तेजोमयैर्गोभिरिवोदितोऽर्कः॥२४"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तेजोमयैर्गोभिरिवोदितोऽर्कः",
+            "b": "स्तेजोमयैर्गोभिरिवोदितोऽरकं:"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-24",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In the company of those ministers, who are conducive to the strategies, interested in the king and subjects as well, skilful and efficient ones, he that King Dasharatha obtained brilliance, like the rising Sun along with resplendent sunrays. [1-7-24]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-24",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mantrahite niviSTaiH",
+            "devanagari_machine_converted": "मन्त्रहिते निविष्टैः",
+            "english": "conducive to strategies, concerned"
+          },
+          {
+            "roman_itrans": "anuraktaiH",
+            "devanagari_machine_converted": "अनुरक्तैः",
+            "english": "interested in"
+          },
+          {
+            "roman_itrans": "kushalaiH",
+            "devanagari_machine_converted": "कुशलैः",
+            "english": "well skilled"
+          },
+          {
+            "roman_itrans": "samarthaiH",
+            "devanagari_machine_converted": "समर्थैः",
+            "english": "efficient"
+          },
+          {
+            "roman_itrans": "taiH mantribhiH",
+            "devanagari_machine_converted": "तैः मन्त्रिभिः",
+            "english": "with those, ministers"
+          },
+          {
+            "roman_itrans": "vR^itaH",
+            "devanagari_machine_converted": "वृतः",
+            "english": "surrounded by, in the company of"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he"
+          },
+          {
+            "roman_itrans": "paarthivaH",
+            "devanagari_machine_converted": "पार्थिवः",
+            "english": "king"
+          },
+          {
+            "roman_itrans": "uditaH arkaH [yathaa]",
+            "devanagari_machine_converted": "उदितः अर्कः [यथा]",
+            "english": "rising, Sun [as with]"
+          },
+          {
+            "roman_itrans": "yuktaH tejomayaiH gobhiH",
+            "devanagari_machine_converted": "युक्तः तेजोमयैः गोभिः",
+            "english": "having resplendent sunrays"
+          },
+          {
+            "roman_itrans": "diiptim avaapa",
+            "devanagari_machine_converted": "दीप्तिम् अवाप",
+            "english": "brilliance, obtained."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.24",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके मन्त्री मन्त्रणाको गुप्त रखने तथा राज्यके हित-साधनमें संलग्न रहते थे। वे राजाके प्रति अनुरक्त, कार्यकुशल और शक्तिशाली थे। जैसे सूर्य अपनी तेजोमयी किरणोंके साथ उदित होकर प्रकाशित होते हैं, उसी प्रकार राजा दशरथ उन तेजस्वी मन्त्रियोंसे घिरे रहकर बड़ी शोभा पाते थे॥२४॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.24",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तैः",
+            "hindi": "उन (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रिभिः",
+            "hindi": "मंत्रियों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रहिते",
+            "hindi": "मंत्र और हित में (सप्तमी विभक्ति, द्विवचन/समाहार द्वन्द्व)"
+          },
+          {
+            "sanskrit": "निविष्टैः",
+            "hindi": "लगे हुए से (तृतीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "वृतः",
+            "hindi": "घिरा हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अनुरक्तैः",
+            "hindi": "अनुरक्त से (तृतीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "कुशलैः",
+            "hindi": "कुशल से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समर्थैः",
+            "hindi": "समर्थ से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पार्थिवः",
+            "hindi": "राजा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दीप्तिम्",
+            "hindi": "दीप्ति / शोभा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अवाप",
+            "hindi": "प्राप्त करता था (अव + आप्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "युक्तः",
+            "hindi": "युक्त हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तेजोमयैः",
+            "hindi": "तेजोमय से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गोभिः",
+            "hindi": "किरणों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "उदितः",
+            "hindi": "उदित हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अर्कः",
+            "hindi": "सूर्य (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.24",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "उनके मन्त्री मन्त्रणाको गुप्त रखने तथा राज्यके हित-साधनमें संलग्न रहते थे। वे राजाके प्रति अनुरक्त, कार्यकुशल और शक्तिशाली थे। जैसे सूर्य अपनी तेजोमयी किरणांके साथ उदित होकर प्रकाशित होते हैं, उसी प्रकार राजा दशरथ उन तेजस्वी मन्त्रियोंसे घिरे रहकर बड़ी शोभा पाते थे॥ २४॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,235 @@
+{
+  "id": "baala-005-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 12
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-12"
+    ],
+    "vulgate_in_locators": [
+      "1.5.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.12"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005012a",
+        "1005012c"
+      ],
+      "lines": [
+        "वधूनाटकसङ्घैश्च संयुक्तां सर्वतः पुरीम्",
+        "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्"
+      ],
+      "punctuated_derived": "वधूनाटकसङ्घैश्च संयुक्तां सर्वतः पुरीम् ।\nउद्यानाम्रवणोपेतां महतीं सालमेखलाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वधूनाटकसंङ्घैश्च संयुक्तां सर्वतः पुरीम्",
+        "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्"
+      ],
+      "locators": [
+        "1-5-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वधूनाटकसंधैश्च संयुक्तां सर्वतः पुरीम्",
+        "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्"
+      ],
+      "locators": [
+        "1.5.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वधूनाटकसंघैश्च संयुक्तां सर्वतः पुरीम्‌",
+        "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वधूनाटकसङ्घैश्च संयुक्तां सर्वतः पुरीम्",
+      "net": "वधूनाटकसंङ्घैश्च संयुक्तां सर्वतः पुरीम्",
+      "in": "वधूनाटकसंधैश्च संयुक्तां सर्वतः पुरीम्",
+      "gp": "वधूनाटकसंघैश्च संयुक्तां सर्वतः पुरीम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9855072463768116,
+        "sim_in_net": 0.9565217391304348,
+        "sim_gp_net": 0.9855072463768116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वधूनाटकसङ्घैश्च",
+            "b": "वधूनाटकसंङ्घैश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "वधूनाटकसंङ्घैश्च",
+            "b": "वधूनाटकसंधैश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वधूनाटकसंङ्घैश्च",
+            "b": "वधूनाटकसंघैश्च"
+          },
+          {
+            "a": "पुरीम्",
+            "b": "पुरीम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्",
+      "net": "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्",
+      "in": "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्",
+      "gp": "उद्यानाम्रवणोपेतां महतीं सालमेखलाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सालमेखलाम्",
+            "b": "सालमेखलाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-12",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city Ayodhya accommodates groups of danseuses and theatrical personnel, and she is surrounded everywhere with the gardens and brakes of mango trees, and her wide fort-wall is like her cincture ornament. [1-5-12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-12",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vadhuunaaTakasanghaiH cha samyuktaam",
+            "devanagari_machine_converted": "वधूनाटकसन्घैः च सम्युक्ताम्",
+            "english": "[she] contains [accommodates] danseuses and theatrical groups"
+          },
+          {
+            "roman_itrans": "sarvataH puriim",
+            "devanagari_machine_converted": "सर्वतः पुरीम्",
+            "english": "everywhere, in city"
+          },
+          {
+            "roman_itrans": "udyaanaaamravaNopetaam",
+            "devanagari_machine_converted": "उद्यानाअम्रवणोपेताम्",
+            "english": "surrounded with gardens and mango brakes"
+          },
+          {
+            "roman_itrans": "mahatiim saalamekhalaam",
+            "devanagari_machine_converted": "महतीम् सालमेखलाम्",
+            "english": "great [wide,] fort wall, as cincture ornament."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस पुरीमें ऐसी बहुत-सी नाटक-मण्डलियाँ थीं, जिनमें केवल स्त्रियाँ ही नृत्य एवं अभिनय करती थीं। उस नगरीमें चारों ओर उद्यान तथा आमोंके बगीचे थे। लम्बाई और चौड़ाईकी दृष्टिसे वह पुरी बहुत विशाल थी तथा साखूके वन उसे सब ओरसे घेरे हुए थे। १२॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वधूनाटकसन्धैः",
+            "hindi": "स्त्रियों के नाटक समूहों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "संयुक्ताम्",
+            "hindi": "युक्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वतः",
+            "hindi": "चारों ओर से (अव्यय)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उद्यानाम्रवणोपेताम्",
+            "hindi": "उद्यानों और आम के वनों से युक्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महतीम्",
+            "hindi": "विशाल को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सालमेखलाम्",
+            "hindi": "साल वृक्षों की मेखला / घेराव वाली को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.12",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उस पुरीमें ऐसी बहुत-सी नाटक-मण्डलियाँ थीं, जिनमें केवल स्त्रियाँ ही नृत्य एवं अभिनय करती थीं। उस नगरीमें चारों ओर उद्यान तथा आमोंके बगीचे थे। लम्बाई और चौड़ाईकी दूष्टिसे वह पुरी बहुत विशाल थी तथा साखूके वन उसे सब ओरसे घेरे हुए थे॥ १२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

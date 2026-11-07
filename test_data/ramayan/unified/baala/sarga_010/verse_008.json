@@ -1,0 +1,378 @@
+{
+  "id": "baala-010-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 7
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-7"
+    ],
+    "vulgate_in_locators": [
+      "1.10.7",
+      "1.10.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.7",
+      "1.10.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009007a",
+        "1009007c",
+        "1009007e"
+      ],
+      "lines": [
+        "वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत्",
+        "आश्रमस्याविदूरेऽस्मिन्यत्नं कुर्वन्ति दर्शने",
+        "ऋषिपुत्रस्य घोरस्य नित्यमाश्रमवासिनः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत्",
+        "आश्रमस्याविदूरेऽस्मिन्यत्नं कुर्वन्ति दर्शने",
+        "ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः"
+      ],
+      "locators": [
+        "1-10-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत्",
+        "आश्रमस्याविदूरेऽस्मिन् यत्नं कुर्वन्ति दर्शने",
+        "ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः"
+      ],
+      "locators": [
+        "1.10.7",
+        "1.10.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वारमुख्यास्तु तच्छुत्वा वनं प्रविविशुर्महत्‌",
+        "आश्रमस्याविदूरेऽस्मिन्‌ यत्नं कुर्वन्ति दर्शने",
+        "ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.7",
+        "1.10.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत्",
+      "net": "वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत्",
+      "in": "वारमुख्यास्तु तच्छ्रुत्वा वनं प्रविविशुर्महत्",
+      "gp": "वारमुख्यास्तु तच्छुत्वा वनं प्रविविशुर्महत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.975609756097561
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तच्छ्रुत्वा",
+            "b": "तच्छुत्वा"
+          },
+          {
+            "a": "प्रविविशुर्महत्",
+            "b": "प्रविविशुर्महत्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "आश्रमस्याविदूरेऽस्मिन्यत्नं कुर्वन्ति दर्शने",
+      "net": "आश्रमस्याविदूरेऽस्मिन्यत्नं कुर्वन्ति दर्शने",
+      "in": "आश्रमस्याविदूरेऽस्मिन् यत्नं कुर्वन्ति दर्शने",
+      "gp": "आश्रमस्याविदूरेऽस्मिन्‌ यत्नं कुर्वन्ति दर्शने",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "आश्रमस्याविदूरेऽस्मिन्यत्नं",
+            "b": "आश्रमस्याविदूरेऽस्मिन् यत्नं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "आश्रमस्याविदूरेऽस्मिन्यत्नं",
+            "b": "आश्रमस्याविदूरेऽस्मिन्‌ यत्नं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ऋषिपुत्रस्य घोरस्य नित्यमाश्रमवासिनः",
+      "net": "ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः",
+      "in": "ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः",
+      "gp": "ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः",
+      "similarity": {
+        "sim_smith_net": 0.8985507246376812,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ऋषिपुत्रस्य घोरस्य",
+            "b": "ऋषेः पुत्रस्य धीरस्य"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-7",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On hearing that order of the king those best courtesans have entered that great forest, and they camped not very far from that hermitage, making all the trials for showing themselves off to a glance of that sage. [1-10-7]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-7",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "7, 8a. tat shrutvaa vaaramukhyaaH tu",
+            "devanagari_machine_converted": "७, ८अ। तत् श्रुत्वा वारमुख्याः तु",
+            "english": "hearing that, best courtesans"
+          },
+          {
+            "roman_itrans": "mahat vanam pravivishuH",
+            "devanagari_machine_converted": "महत् वनम् प्रविविशुः",
+            "english": "entered great forests"
+          },
+          {
+            "roman_itrans": "aashramasya asmin aviduure",
+            "devanagari_machine_converted": "आश्रमस्य अस्मिन् अविदूरे",
+            "english": "not very far from hermitage"
+          },
+          {
+            "roman_itrans": "darshane",
+            "devanagari_machine_converted": "दर्शने",
+            "english": "to catch a glance [to show themselves to sage]"
+          },
+          {
+            "roman_itrans": "dhiirasya",
+            "devanagari_machine_converted": "धीरस्य",
+            "english": "of that highly intelligent sage"
+          },
+          {
+            "roman_itrans": "nityam aashramavaasinaH",
+            "devanagari_machine_converted": "नित्यम् आश्रमवासिनः",
+            "english": "always dwelling in hermitage"
+          },
+          {
+            "roman_itrans": "R^iSheH putrsya",
+            "devanagari_machine_converted": "ऋषेः पुत्र्स्य",
+            "english": "Sage', son"
+          },
+          {
+            "roman_itrans": "yatnam kurvanti",
+            "devanagari_machine_converted": "यत्नम् कुर्वन्ति",
+            "english": "trials, they made."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-7",
+        "spans_beyond_this_verse": false,
+        "text": "Any dictionary would give the meaning of courtesan as 'whore' or as 'court mistress'. But in Indian context, the courtesan is not to be taken in such a lowly way as just a prostitute or a whore. They belong to a caste/class of artists. Juxtaposed to the Four-Caste system there was a devadasi Temple Dancers system, which is the artist's class. On their receiving enough education and skills in the performing arts and as per their capabilities, they will be nominated as Court Dancers or Temple Dancers and the like. Ancients recognized sixty-four arts chatuSSaSThi-kalaa , which include right from music, dance, and drama, sculpture, painting etc., up to the art of thievery. Kings in their political or sovereign pursuits variedly used these Deva Daasis, the courtesans."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“तब नगरकी मुख्य-मुख्य वेश्याएँ राजाका आदेश सुनकर उस महान् वनमें गयीं और मुनिके आश्रमसे थोड़ी ही दूरपर ठहरकर उनके दर्शनका उद्योग करने लगीं।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.8",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“मुनिकुमार ऋष्यशृंग बड़े ही धीर स्वभावके थे। सदा आश्रममें ही रहा करते थे। उन्हें सर्वदा अपने पिताके पास रहनेमें ही अधिक सुख मिलता था। अतः वे कभी आश्रमके बाहर नहीं निकलते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वारमुख्याः",
+            "hindi": "मुख्य वेश्याएँ / गणिकाएँ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (आदेश) (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "वनम्",
+            "hindi": "वन में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रविविशुः",
+            "hindi": "प्रवेश किया (प्र + विश्, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "महत्",
+            "hindi": "महान् (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आश्रमस्य",
+            "hindi": "आश्रम से (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अविदूरे",
+            "hindi": "दूर नहीं (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्मिन्",
+            "hindi": "इस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "यत्नम्",
+            "hindi": "प्रयत्न / उद्योग को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कुर्वन्ति",
+            "hindi": "करने लगीं (कृ धातु, लट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "दर्शने",
+            "hindi": "दर्शन के लिए (सप्तमी विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.8",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋषेः",
+            "hindi": "ऋषि (विभाण्डक) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रस्य",
+            "hindi": "पुत्र का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धीरस्य",
+            "hindi": "धीर / स्थिर स्वभाव वाले का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रमवासिनः",
+            "hindi": "आश्रम में रहने वाले का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता के (षष्ठी विभक्ति, सप्तमी के अर्थ में)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यसन्तुष्टः",
+            "hindi": "सदा सन्तुष्ट रहने वाले (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अतिचक्राम",
+            "hindi": "बाहर निकले (अति + क्रम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रमात्",
+            "hindi": "आश्रम से (पञ्चमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.7",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“तब नगरकी मुख्य-मुख्य वेश्याएँ राजाका आदेश सुनकर उस महान्‌ वनमें गयीं और मुनिके आश्रमसे थोड़ी ही दूरपर ठहरकर उनके दर्शनका उद्योग करने लगीं॥ ७॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.8",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“मुनिकुमार ऋष्यशृंग बड़े ही धीर स्वभावके थे। सदा आश्रममें ही रहा करते थे। उन्हें सर्वदा अपने पिताके पास रहनेमें ही अधिक सुख मिलता था। अतः वे कभी आश्रमके बाहर नहीं निकलते थे॥८॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

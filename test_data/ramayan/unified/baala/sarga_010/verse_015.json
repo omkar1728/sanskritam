@@ -1,0 +1,281 @@
+{
+  "id": "baala-010-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 14
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-14"
+    ],
+    "vulgate_in_locators": [
+      "1.10.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009014a",
+        "1009014c"
+      ],
+      "lines": [
+        "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+        "ऋश्यशृङ्ग इति ख्यातं नाम कर्म च मे भुवि"
+      ],
+      "punctuated_derived": "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः ।\nऋश्यशृङ्ग इति ख्यातं नाम कर्म च मे भुवि ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+        "ऋष्यशृङ्ग इति ख्यातं नामकर्म च मे भुवि"
+      ],
+      "locators": [
+        "1-10-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+        "ऋष्यशृंग इति ख्यातं नाम कर्म च मे भुवि"
+      ],
+      "locators": [
+        "1.10.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+        "ऋष्यश्ृंग इति ख्यातं नाम कर्म च मे भुवि"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+      "net": "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+      "in": "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+      "gp": "पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "ऋश्यशृङ्ग इति ख्यातं नाम कर्म च मे भुवि",
+      "net": "ऋष्यशृङ्ग इति ख्यातं नामकर्म च मे भुवि",
+      "in": "ऋष्यशृंग इति ख्यातं नाम कर्म च मे भुवि",
+      "gp": "ऋष्यश्ृंग इति ख्यातं नाम कर्म च मे भुवि",
+      "similarity": {
+        "sim_smith_net": 0.967741935483871,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9841269841269841
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ऋश्यशृङ्ग",
+            "b": "ऋष्यशृङ्ग"
+          },
+          {
+            "a": "नाम कर्म",
+            "b": "नामकर्म"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ऋष्यशृङ्ग",
+            "b": "ऋष्यशृंग"
+          },
+          {
+            "a": "नामकर्म",
+            "b": "नाम कर्म"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ऋष्यशृङ्ग",
+            "b": "ऋष्यश्ृंग"
+          },
+          {
+            "a": "नामकर्म",
+            "b": "नाम कर्म"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-14",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"My father is Sage Vibhandaka and I am his true descent son. I am known as Rishyasringa, by my name and by an event on my birth, and thus renowned on earth...\""
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-14",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "VibhandakaH asmaakam pitaa",
+            "devanagari_machine_converted": "Vइभन्दकः अस्माकम् पिता",
+            "english": "Vibhandaka is our, father"
+          },
+          {
+            "roman_itrans": "aham tasya aurasaH sutaH",
+            "devanagari_machine_converted": "अहम् तस्य औरसः सुतः",
+            "english": "I am, his, true descent, son"
+          },
+          {
+            "roman_itrans": "me",
+            "devanagari_machine_converted": "मे",
+            "english": "mine"
+          },
+          {
+            "roman_itrans": "RiShyashringaH iti",
+            "devanagari_machine_converted": "ऱिष्यश्रिन्गः इति",
+            "english": "Rishyashringa- thus"
+          },
+          {
+            "roman_itrans": "naamakarma",
+            "devanagari_machine_converted": "नामकर्म",
+            "english": "name [ used here to indicate his birth time even of horn on head]"
+          },
+          {
+            "roman_itrans": "bhuvi khyaatam",
+            "devanagari_machine_converted": "भुवि ख्यातम्",
+            "english": "renowned on earth."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-14",
+        "spans_beyond_this_verse": false,
+        "text": "The birth-event associated with his name is that he is born with a horn on the crown of his head. Thus he is named as Rishyasringa, i.e., R^iSi= the Sage; sR^i~Nga= horn; a Sage with a horn, and this here he recalls his birth time event."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“वे बोले—’मेरे पिताका नाम विभाण्डक मुनि है। मैं उनका औरस पुत्र हूँ। मेरा ऋष्यशृंग नाम और तपस्या आदि कर्म इस भूमण्डलमें प्रसिद्ध है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पिता",
+            "hindi": "पिता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विभाण्डकः",
+            "hindi": "विभाण्डक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्माकम्",
+            "hindi": "मेरे (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अहम्",
+            "hindi": "मैं (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुतः",
+            "hindi": "पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "औरसः",
+            "hindi": "औरस / उत्पन्न (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋष्यश्रृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "ख्यातम्",
+            "hindi": "प्रसिद्ध है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कर्म",
+            "hindi": "कर्म (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "मे",
+            "hindi": "मेरा (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भुवि",
+            "hindi": "पृथ्वी पर (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.14",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“वे बोले-*मेरे पिताका नाम विभाण्डक मुनि है। मैं उनका औरस पुत्र हूँ। मेरा ऋष्यशंग नाम और तपस्या आदि कर्म इस भूमण्डलमें प्रसिद्ध है॥ १४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "baala-004-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 1
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-1"
+    ],
+    "vulgate_in_locators": [
+      "1.4.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.1"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004001a",
+        "1004001c"
+      ],
+      "lines": [
+        "प्राप्तराज्यस्य रामस्य वाल्मीकिर्भगवानृषिः",
+        "चकार चरितं कृत्स्नं विचित्रपदमात्मवान्"
+      ],
+      "punctuated_derived": "प्राप्तराज्यस्य रामस्य वाल्मीकिर्भगवानृषिः ।\nचकार चरितं कृत्स्नं विचित्रपदमात्मवान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्राप्तराज्यस्य रामस्य वाल्मीकिर्भगवानृषिः",
+        "चकार चरितं कृत्स्नं विचित्रपदमर्थवत्"
+      ],
+      "locators": [
+        "1-4-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्राप्तराजस्य रामस्य वाल्मीकिर्भगवानृषिः",
+        "चकार चरितं कृत्स्नं विचित्रपदमर्थवत्"
+      ],
+      "locators": [
+        "1.4.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्राप्तराजस्य रामस्य वाल्मीकिर्भगवानृषिः",
+        "चकार चरितं कृत्स्नं विचित्रपदमर्थवत्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्राप्तराज्यस्य रामस्य वाल्मीकिर्भगवानृषिः",
+      "net": "प्राप्तराज्यस्य रामस्य वाल्मीकिर्भगवानृषिः",
+      "in": "प्राप्तराजस्य रामस्य वाल्मीकिर्भगवानृषिः",
+      "gp": "प्राप्तराजस्य रामस्य वाल्मीकिर्भगवानृषिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9743589743589743,
+        "sim_gp_net": 0.9743589743589743
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "प्राप्तराज्यस्य",
+            "b": "प्राप्तराजस्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "प्राप्तराज्यस्य",
+            "b": "प्राप्तराजस्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "चकार चरितं कृत्स्नं विचित्रपदमात्मवान्",
+      "net": "चकार चरितं कृत्स्नं विचित्रपदमर्थवत्",
+      "in": "चकार चरितं कृत्स्नं विचित्रपदमर्थवत्",
+      "gp": "चकार चरितं कृत्स्नं विचित्रपदमर्थवत्‌",
+      "similarity": {
+        "sim_smith_net": 0.8529411764705882,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विचित्रपदमात्मवान्",
+            "b": "विचित्रपदमर्थवत्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विचित्रपदमर्थवत्",
+            "b": "विचित्रपदमर्थवत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-1",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The godly saint Valmiki composed Ramayana on Rama's retrieving kingdom, wording admirably and meaningfully. [1-4-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-1",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhagavaan R^iSiH",
+            "devanagari_machine_converted": "भगवान् ऋषिः",
+            "english": "godly, saint Valmiki"
+          },
+          {
+            "roman_itrans": "praaptaraajasya raamasya",
+            "devanagari_machine_converted": "प्राप्तराजस्य रामस्य",
+            "english": "on retrieval, of kingdom by Rama"
+          },
+          {
+            "roman_itrans": "vichitrapadam",
+            "devanagari_machine_converted": "विचित्रपदम्",
+            "english": "admirably worded"
+          },
+          {
+            "roman_itrans": "kR^itsnam",
+            "devanagari_machine_converted": "कृत्स्नम्",
+            "english": "in entirety"
+          },
+          {
+            "roman_itrans": "charitam",
+            "devanagari_machine_converted": "चरितम्",
+            "english": "legend"
+          },
+          {
+            "roman_itrans": "arthavat",
+            "devanagari_machine_converted": "अर्थवत्",
+            "english": "meaningfully"
+          },
+          {
+            "roman_itrans": "chakaara",
+            "devanagari_machine_converted": "चकार",
+            "english": "composed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीरामचन्द्रजीने जब वनसे लौटकर राज्यका शासन अपने हाथमें ले लिया, उसके बाद भगवान् वाल्मीकि मुनिने उनके सम्पूर्ण चरित्रके आधारपर विचित्र पद और अर्थसे युक्त रामायणकाव्यका निर्माण किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्राप्तराजस्य",
+            "hindi": "राज्य प्राप्त हो जाने पर"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम के"
+          },
+          {
+            "sanskrit": "वाल्मीकिः",
+            "hindi": "वाल्मीकि"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान्"
+          },
+          {
+            "sanskrit": "ऋषिः",
+            "hindi": "ऋषि ने"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "बनाया / रचना की"
+          },
+          {
+            "sanskrit": "चरितम्",
+            "hindi": "चरित्र को"
+          },
+          {
+            "sanskrit": "कृत्स्नम्",
+            "hindi": "सम्पूर्ण"
+          },
+          {
+            "sanskrit": "विचित्रपदम्",
+            "hindi": "विचित्र पदों वाला"
+          },
+          {
+            "sanskrit": "अर्थवत्",
+            "hindi": "अर्थयुक्त"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.1",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "श्रीरामचन्द्रजीने जब वनसे लौटकर राज्यका शासन अपने हाथमें ले लिया, उसके बाद भगवान्‌ वाल्मीकि मुनिने उनके सम्पूर्ण चरित्रके आधारपर विचित्र पद और अर्थसे युक्त रामायणकाव्यका निर्माण किया॥ १॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

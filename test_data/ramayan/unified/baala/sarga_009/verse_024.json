@@ -1,0 +1,268 @@
+{
+  "id": "baala-009-024",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 24,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 19
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-16"
+    ],
+    "vulgate_in_locators": [
+      "1.9.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008019a",
+        "1008019c"
+      ],
+      "lines": [
+        "ते तु राज्ञो वचः श्रुत्वा व्यथिता वनताननाः",
+        "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्"
+      ],
+      "punctuated_derived": "ते तु राज्ञो वचः श्रुत्वा व्यथिता वनताननाः ।\nन गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः",
+        "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्"
+      ],
+      "locators": [
+        "1-9-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः",
+        "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्"
+      ],
+      "locators": [
+        "1.9.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः",
+        "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.9.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ते तु राज्ञो वचः श्रुत्वा व्यथिता वनताननाः",
+      "net": "ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः",
+      "in": "ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः",
+      "gp": "ते तु राज्ञो वचः श्रुत्वा व्यथिता विनताननाः",
+      "similarity": {
+        "sim_smith_net": 0.9863013698630136,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वनताननाः",
+            "b": "विनताननाः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्",
+      "net": "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्",
+      "in": "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्",
+      "gp": "न गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नृपम्",
+            "b": "नृपम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"They on hearing king's words are awestruck and lowering their faces they will say, 'we can not go there as we are afraid of sage Vibhandaka, father of Rishyasringa...' [1-9-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "te tu",
+            "devanagari_machine_converted": "ते तु",
+            "english": "they, but"
+          },
+          {
+            "roman_itrans": "raajnaH vachaH",
+            "devanagari_machine_converted": "राज्नः वचः",
+            "english": "king's, words"
+          },
+          {
+            "roman_itrans": "shrutvaa",
+            "devanagari_machine_converted": "श्रुत्वा",
+            "english": "on hearing"
+          },
+          {
+            "roman_itrans": "vyathitaaH",
+            "devanagari_machine_converted": "व्यथिताः",
+            "english": "awestruck"
+          },
+          {
+            "roman_itrans": "vinataananaaH",
+            "devanagari_machine_converted": "विनताननाः",
+            "english": "lowering faces"
+          },
+          {
+            "roman_itrans": "na gacChema",
+            "devanagari_machine_converted": "न गच्छेम",
+            "english": "[we] can not go"
+          },
+          {
+            "roman_itrans": "R^iSeH bhiitaaH",
+            "devanagari_machine_converted": "ऋषेः भीताः",
+            "english": "afraid of that sage"
+          },
+          {
+            "roman_itrans": "anuneShyanti",
+            "devanagari_machine_converted": "अनुनेष्यन्ति",
+            "english": "plead for mercy"
+          },
+          {
+            "roman_itrans": "tam nripam",
+            "devanagari_machine_converted": "तम् न्रिपम्",
+            "english": "of that, king."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“राजा की बात सुनकर वे मन्त्री और पुरोहित मुँह लटकाकर दुःखी हो यों कहने लगेंगे कि ‘हम महर्षिसे डरते हैं, इसलिये वहाँ नहीं जायँगे।’ यों कहकर वे राजासे बड़ी अनुनय-विनय करेंगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "राज्ञः",
+            "hindi": "राजा का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वचः",
+            "hindi": "वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "व्यथिताः",
+            "hindi": "दुःखी / व्याकुल (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "विनताननाः",
+            "hindi": "झुके मुख वाले / मुँह लटकाये हुए (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "गच्छेम",
+            "hindi": "जायेंगे (गम् धातु, विधिलिङ् लकार, उत्तम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "ऋषेः",
+            "hindi": "ऋषि से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "भीताः",
+            "hindi": "भयभीत (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अनुनेष्यन्ति",
+            "hindi": "अनुनय / विनय करेंगे (अनु + नी, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नृपम्",
+            "hindi": "राजा से (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“राजाकी बात सुनकर वे मन्त्री और पुरोहित मुँह लटकाकर दुःखी हो यों कहने लगेंगे कि “हम महषिसे डरते हैं, इसलिये वहाँ नहीं जायँगे।' यों कहकर वे राजासे बड़ी अनुनय-विनय करेंगे॥ १६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

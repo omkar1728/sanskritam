@@ -1,11 +1,14 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { api, bundleUrl, FALLBACK_EXECUTORS } from '../api'
+import EpicBatch from './generate/EpicBatch'
+import './generate/epicBatch.css'
 import type { ExecutorInfo, Job, Meter, MeterSuggestion, Verse, Voice } from '../types'
 
 const FINAL = ['done', 'failed', 'cancelled']
 
 export default function Generate() {
+  const [mode, setMode] = useState<'verse' | 'epic'>('verse')
   const [params] = useSearchParams()
   const [verses, setVerses] = useState<Verse[]>([])
   const [meters, setMeters] = useState<Meter[]>([])
@@ -98,6 +101,12 @@ export default function Generate() {
   return (
     <div>
       <h1>Generate</h1>
+      <div className="gen-tabs" role="group" aria-label="Generate mode">
+        <button className="btn secondary" aria-pressed={mode === 'verse'} onClick={() => setMode('verse')}>Library verse</button>
+        <button className="btn secondary" aria-pressed={mode === 'epic'} onClick={() => setMode('epic')}>Epic verses</button>
+      </div>
+      {mode === 'epic' && <EpicBatch />}
+      {mode === 'verse' && <>
       <p className="muted">A local render takes several minutes. Keep this page open to follow progress.</p>
       {err && <p className="danger" role="alert">{err}</p>}
       <div className="card">
@@ -178,6 +187,7 @@ export default function Generate() {
           {job.status === 'done' && <Link to={`/learn/${job.id}`}><button className="btn" type="button">Open in Learn</button></Link>}
         </div>
       )}
+      </>}
     </div>
   )
 }

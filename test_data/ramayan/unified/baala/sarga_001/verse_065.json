@@ -1,0 +1,308 @@
+{
+  "id": "baala-001-065",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 65,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 49
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-61"
+    ],
+    "vulgate_in_locators": [
+      "1.1.61",
+      "1.1.62"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.61"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001049a",
+        "1001049c"
+      ],
+      "lines": [
+        "ततो वानरराजेन वैरानुकथनं प्रति",
+        "रामायावेदितं सर्वं प्रणयाद्दुःखितेन च"
+      ],
+      "punctuated_derived": "ततो वानरराजेन वैरानुकथनं प्रति ।\nरामायावेदितं सर्वं प्रणयाद्दुःखितेन च ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततो वानरराजेन वैरानुकथनं प्रति",
+        "रामायावेदितं सर्वं प्रणयाद्दुःखितेन च"
+      ],
+      "locators": [
+        "1-1-61"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततो वानरराजेन वैरानुकथनं प्रति",
+        "रामायावेदितं सर्वं प्रणयाद् दुःखितेन च"
+      ],
+      "locators": [
+        "1.1.61",
+        "1.1.62"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततो वानरराजेन वैरानुकथनं प्रति"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.61"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततो वानरराजेन वैरानुकथनं प्रति",
+      "net": "ततो वानरराजेन वैरानुकथनं प्रति",
+      "in": "ततो वानरराजेन वैरानुकथनं प्रति",
+      "gp": "ततो वानरराजेन वैरानुकथनं प्रति",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "रामायावेदितं सर्वं प्रणयाद्दुःखितेन च",
+      "net": "रामायावेदितं सर्वं प्रणयाद्दुःखितेन च",
+      "in": "रामायावेदितं सर्वं प्रणयाद् दुःखितेन च",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "प्रणयाद्दुःखितेन",
+            "b": "प्रणयाद् दुःखितेन"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-61",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then out of affection, the incident was related with regard to Sugreeva's enemity with Vali in its entirety by the Vanara King with grief to Rama ... [1-1-61b, 62a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-61",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "61b, 62a. tataH",
+            "devanagari_machine_converted": "६१ब्, ६२अ। ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "praNayaat",
+            "devanagari_machine_converted": "प्रणयात्",
+            "english": "out of affection"
+          },
+          {
+            "roman_itrans": "aaveditam",
+            "devanagari_machine_converted": "आवेदितम्",
+            "english": "[the incident] was related"
+          },
+          {
+            "roman_itrans": "vairaanukathanam prati",
+            "devanagari_machine_converted": "वैरानुकथनम् प्रति",
+            "english": "with regard to [Sugreeva's] enemity [with Vali]"
+          },
+          {
+            "roman_itrans": "sarvam",
+            "devanagari_machine_converted": "सर्वम्",
+            "english": "[in its] entirety"
+          },
+          {
+            "roman_itrans": "duHkhitena vaanararaajena",
+            "devanagari_machine_converted": "दुःखितेन वानरराजेन",
+            "english": "by the Vanara King with grief"
+          },
+          {
+            "roman_itrans": "raamaaya",
+            "devanagari_machine_converted": "रामाय",
+            "english": "to Rama."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.61",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके साथ प्रेमपूर्वक अग्निको साक्षी बनाकर मित्रता की। उसके बाद वानरराज सुग्रीवने"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.62",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "स्नेहवश वालीके साथ वैर होनेकी सारी बातें रामसे दुःखी होकर बतलायीं। उस समय रामने वालीको मारनेकी प्रतिज्ञा की"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.61",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सख्यम्",
+            "hindi": "मित्रता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामेण",
+            "hindi": "राम के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रीतः",
+            "hindi": "प्रसन्न होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "अग्निसाक्षिकम्",
+            "hindi": "अग्नि को साक्षी करके किया हुआ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "उसके बाद (अव्यय)"
+          },
+          {
+            "sanskrit": "वानरराजेन",
+            "hindi": "वानरराज के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वैरानुकथनम्",
+            "hindi": "वैर का वर्णन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रति",
+            "hindi": "के बारे में (कर्मप्रवचनीय अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.62",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रामाय",
+            "hindi": "राम से (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "आवेदितम्",
+            "hindi": "निवेदन किया गया (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रणयात्",
+            "hindi": "प्रेम के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दुःखितेन",
+            "hindi": "दुःखी हुए के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "प्रतिज्ञातम्",
+            "hindi": "प्रतिज्ञा की गई (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "रामेण",
+            "hindi": "राम के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "वालिवधम्",
+            "hindi": "वाली के वध के (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रति",
+            "hindi": "प्रति / के लिए (कर्मप्रवचनीय अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.61",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "रामायावेदितं सर्व प्रणयाद्‌ दुःखितेन च। “उसके बाद वानरराज सुग्रीवने स्नेहवश वालीके साथ वैर होनेकी सारी बातें रामसे दुःखी होकर बतलायीं॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

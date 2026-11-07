@@ -1,0 +1,274 @@
+{
+  "id": "baala-010-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 12
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-12"
+    ],
+    "vulgate_in_locators": [
+      "1.10.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.12"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009012a",
+        "1009012c"
+      ],
+      "lines": [
+        "कस्त्वं किं वर्तसे ब्रह्मञ्ज्ञातुमिच्छामहे वयम्",
+        "एकस्त्वं विजने घोरे वने चरसि शंस नः"
+      ],
+      "punctuated_derived": "कस्त्वं किं वर्तसे ब्रह्मञ्ज्ञातुमिच्छामहे वयम् ।\nएकस्त्वं विजने घोरे वने चरसि शंस नः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम्",
+        "एकस्त्वं विजने घोरे वने चरसि शंस नः"
+      ],
+      "locators": [
+        "1-10-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम्",
+        "एकस्त्वं विजने दूरे वने चरसि शंस नः"
+      ],
+      "locators": [
+        "1.10.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "एकस्त्वं विजने दूरे वने चरसि शंस नः"
+      ],
+      "ocr_flags": [
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.10.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कस्त्वं किं वर्तसे ब्रह्मञ्ज्ञातुमिच्छामहे वयम्",
+      "net": "कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम्",
+      "in": "कस्त्वं किं वर्तसे ब्रह्मन् ज्ञातुमिच्छामहे वयम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ब्रह्मञ्ज्ञातुमिच्छामहे",
+            "b": "ब्रह्मन् ज्ञातुमिच्छामहे"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "एकस्त्वं विजने घोरे वने चरसि शंस नः",
+      "net": "एकस्त्वं विजने घोरे वने चरसि शंस नः",
+      "in": "एकस्त्वं विजने दूरे वने चरसि शंस नः",
+      "gp": "एकस्त्वं विजने दूरे वने चरसि शंस नः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9310344827586207,
+        "sim_gp_net": 0.9310344827586207
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "घोरे",
+            "b": "दूरे"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "घोरे",
+            "b": "दूरे"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-12",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Who you are? Why you move lonely in these deep and desolate forests, why you conduct yourself like this? Oh! Brahman, we are interested to know... please tell us...\" [1-10-12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-12",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "brahman",
+            "devanagari_machine_converted": "ब्रह्मन्",
+            "english": "oh Brahman"
+          },
+          {
+            "roman_itrans": "tvam kaH",
+            "devanagari_machine_converted": "त्वम् कः",
+            "english": "who, you are"
+          },
+          {
+            "roman_itrans": "ekaH vijane ghore vane",
+            "devanagari_machine_converted": "एकः विजने घोरे वने",
+            "english": "lonely, devoid of people [desolate,] in deep, forests"
+          },
+          {
+            "roman_itrans": "[kim] charasi",
+            "devanagari_machine_converted": "[किम्] चरसि",
+            "english": "why you move"
+          },
+          {
+            "roman_itrans": "kim vartase",
+            "devanagari_machine_converted": "किम् वर्तसे",
+            "english": "why, you conduct yourself"
+          },
+          {
+            "roman_itrans": "vayam j~natum icChaamahe",
+            "devanagari_machine_converted": "वयम् ज्ञतुम् इच्छामहे",
+            "english": "we are interested to know"
+          },
+          {
+            "roman_itrans": "shamsa naH",
+            "devanagari_machine_converted": "शम्स नः",
+            "english": "you move, tell us."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ब्रह्मन् ! आप कौन हैं? क्या करते हैं? तथा इस निर्जन वनमें आश्रमसे इतनी दूर आकर अकेले क्यों विचर रहे हैं? यह हमें बताइये। हमलोग इस बातको जानना चाहती हैं’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "आप (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "किम्",
+            "hindi": "क्या (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वर्तसे",
+            "hindi": "करते हैं / रहते हैं (वृत् धातु, लट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ब्रह्मन्",
+            "hindi": "हे ब्राह्मण / ब्रह्मन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्ञातुम्",
+            "hindi": "जानना (ज्ञा धातु, तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "इच्छामहे",
+            "hindi": "चाहती हैं (इष् धातु, लट् लकार, उत्तम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "वयम्",
+            "hindi": "हम (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "एकः",
+            "hindi": "अकेले (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "आप (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विजने",
+            "hindi": "निर्जन (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दूरे",
+            "hindi": "दूर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "चरसि",
+            "hindi": "विचर रहे हैं (चर् धातु, लट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "शंस",
+            "hindi": "बताइये (शंस् धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "नः",
+            "hindi": "हमें (अस्मद्, षष्ठी विभक्ति, बहुवचन, चतुर्थी के अर्थ में)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.12",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“ब्रह्मन्‌! आप कौन हैं? कया करते हैं? तथा इस निर्जन वनमें आश्रमसे इतनी दूर आकर अकेले क्यों विचर रहे हैं? यह हमें बताइये। हमलोग इस बातको जानना चाहती हैं'॥ १२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

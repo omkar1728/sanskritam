@@ -1,0 +1,243 @@
+{
+  "id": "baala-001-027",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 27,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 21
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-23"
+    ],
+    "vulgate_in_locators": [
+      "1.1.23"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.23"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001021a",
+        "1001021c"
+      ],
+      "lines": [
+        "स सत्यवचनाद्राजा धर्मपाशेन संयतः",
+        "विवासयामास सुतं रामं दशरथः प्रियम्"
+      ],
+      "punctuated_derived": "स सत्यवचनाद्राजा धर्मपाशेन संयतः ।\nविवासयामास सुतं रामं दशरथः प्रियम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स सत्यवचनाद् राजा धर्मपाशेन संयतः",
+        "विवासयामास सुतं रामं दशरथः प्रियम्"
+      ],
+      "locators": [
+        "1-1-23"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स सत्यवचनाद् राजा धर्मपाशेन संयतः",
+        "विवासयामास सुतं रामं दशरथः प्रियम्"
+      ],
+      "locators": [
+        "1.1.23"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स सत्यवचनाद्‌ राजा धर्मपाशेन संयतः",
+        "विवासयामास सुतं रामं दशरथः प्रियम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स सत्यवचनाद्राजा धर्मपाशेन संयतः",
+      "net": "स सत्यवचनाद् राजा धर्मपाशेन संयतः",
+      "in": "स सत्यवचनाद् राजा धर्मपाशेन संयतः",
+      "gp": "स सत्यवचनाद्‌ राजा धर्मपाशेन संयतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सत्यवचनाद्राजा",
+            "b": "सत्यवचनाद् राजा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सत्यवचनाद्",
+            "b": "सत्यवचनाद्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विवासयामास सुतं रामं दशरथः प्रियम्",
+      "net": "विवासयामास सुतं रामं दशरथः प्रियम्",
+      "in": "विवासयामास सुतं रामं दशरथः प्रियम्",
+      "gp": "विवासयामास सुतं रामं दशरथः प्रियम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रियम्",
+            "b": "प्रियम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-23",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Bound by his true plighted word and by the noose of righteousness that king Dasharatha exiled his dear son Rama to forests. [1-1-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-23",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH raajaa dasharathaH",
+            "devanagari_machine_converted": "सः राजा दशरथः",
+            "english": "That king Dasaratha"
+          },
+          {
+            "roman_itrans": "saMyataH",
+            "devanagari_machine_converted": "संयतः",
+            "english": "bound"
+          },
+          {
+            "roman_itrans": "dharmapaashena",
+            "devanagari_machine_converted": "धर्मपाशेन",
+            "english": "by noose of virtuousness"
+          },
+          {
+            "roman_itrans": "satyavacanaat",
+            "devanagari_machine_converted": "सत्यवचनात्",
+            "english": "by his true (plighted) word"
+          },
+          {
+            "roman_itrans": "vivaasayaamaasa",
+            "devanagari_machine_converted": "विवासयामास",
+            "english": "exiled"
+          },
+          {
+            "roman_itrans": "priyam sutam raamam",
+            "devanagari_machine_converted": "प्रियम् सुतम् रामम्",
+            "english": "dear son Rama; ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'राजा दशरथने सत्य वचनके कारण धर्म-बन्धनमें बँधकर प्यारे पुत्र रामको वनवास दे दिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यवचनात्",
+            "hindi": "सत्य वचन के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मपाशेन",
+            "hindi": "धर्म रूपी बन्धन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "संयतः",
+            "hindi": "बाँधा हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विवासयामास",
+            "hindi": "वनवास दिया (विवस् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सुतम्",
+            "hindi": "पुत्र को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रियम्",
+            "hindi": "प्रिय को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.23",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "\"राजा दशरथने सत्य वचनके कारण धर्म- बन्धनमें बँधकर प्यारे पुत्र रामको वनवास दे दिया॥ २३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

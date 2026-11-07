@@ -1,0 +1,312 @@
+{
+  "id": "baala-007-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 6
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-8, 1-7-9"
+    ],
+    "vulgate_in_locators": [
+      "1.7.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.9"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007006a",
+        "1007006c"
+      ],
+      "lines": [
+        "तेषामविदितं किंचित्स्वेषु नास्ति परेषु वा",
+        "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्"
+      ],
+      "punctuated_derived": "तेषामविदितं किंचित्स्वेषु नास्ति परेषु वा ।\nक्रियमाणं कृतं वापि चारेणापि चिकीर्षितम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेषामविदितं किंचित्स्वेषु नास्ति परेषु वा",
+        "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्"
+      ],
+      "locators": [
+        "1-7-8, 1-7-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तेषामविदितं किंचित् स्वेषु नास्ति परेषु वा",
+        "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्॥९"
+      ],
+      "locators": [
+        "1.7.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तेषामविदितं किंचित्‌ स्वेषु नास्ति परेषु वा",
+        "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तेषामविदितं किंचित्स्वेषु नास्ति परेषु वा",
+      "net": "तेषामविदितं किंचित्स्वेषु नास्ति परेषु वा",
+      "in": "तेषामविदितं किंचित् स्वेषु नास्ति परेषु वा",
+      "gp": "तेषामविदितं किंचित्‌ स्वेषु नास्ति परेषु वा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "किंचित्स्वेषु",
+            "b": "किंचित् स्वेषु"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "किंचित्स्वेषु",
+            "b": "किंचित्‌ स्वेषु"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्",
+      "net": "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्",
+      "in": "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्॥९",
+      "gp": "क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चिकीर्षितम्",
+            "b": "चिकीर्षितम्॥९"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चिकीर्षितम्",
+            "b": "चिकीर्षितम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-8, 1-7-9",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They never speak untruthful words in anger or in greed or for monetary reasons either. There is nothing unknown to them, even a little, in their own country or in the others either, or about everything that is happening or has happened, or that is going to happen, for they know them through agents. [1-7-8b, 9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-8, 1-7-9",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "8b, 9. krodhaat kaamaarthahetoH vaa",
+            "devanagari_machine_converted": "८ब्, ९। क्रोधात् कामार्थहेतोः वा",
+            "english": "in anger, in greed, for monetary reason, either"
+          },
+          {
+            "roman_itrans": "anR^itam",
+            "devanagari_machine_converted": "अनृतम्",
+            "english": "untruthful"
+          },
+          {
+            "roman_itrans": "vachaH",
+            "devanagari_machine_converted": "वचः",
+            "english": "words"
+          },
+          {
+            "roman_itrans": "na bruuyuH",
+            "devanagari_machine_converted": "न ब्रूयुः",
+            "english": "never, they speak"
+          },
+          {
+            "roman_itrans": "teShaam",
+            "devanagari_machine_converted": "तेषाम्",
+            "english": "to them"
+          },
+          {
+            "roman_itrans": "aviditam",
+            "devanagari_machine_converted": "अविदितम्",
+            "english": "unknown"
+          },
+          {
+            "roman_itrans": "kimchit",
+            "devanagari_machine_converted": "किम्चित्",
+            "english": "a little"
+          },
+          {
+            "roman_itrans": "sveSu",
+            "devanagari_machine_converted": "स्वेषु",
+            "english": "in their own [country]"
+          },
+          {
+            "roman_itrans": "naasti",
+            "devanagari_machine_converted": "नास्ति",
+            "english": "not there"
+          },
+          {
+            "roman_itrans": "pareSu vaa",
+            "devanagari_machine_converted": "परेषु वा",
+            "english": "in other [countries,] either"
+          },
+          {
+            "roman_itrans": "kriyamaaNam",
+            "devanagari_machine_converted": "क्रियमाणम्",
+            "english": "that is happening"
+          },
+          {
+            "roman_itrans": "kR^ritam",
+            "devanagari_machine_converted": "क्ऱ्^रितम्",
+            "english": "already happened"
+          },
+          {
+            "roman_itrans": "vaa api",
+            "devanagari_machine_converted": "वा अपि",
+            "english": "either, that too"
+          },
+          {
+            "roman_itrans": "chaareNa",
+            "devanagari_machine_converted": "चारेण",
+            "english": "through agents"
+          },
+          {
+            "roman_itrans": "chikiirSitam",
+            "devanagari_machine_converted": "चिकीर्षितम्",
+            "english": "that is going to be undertaken [by others, is not there]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "अपने या शत्रुपक्ष के राजाओं की कोई भी बात उनसे छिपी नहीं रहती थी। दूसरे राजा क्या करते हैं, क्या कर चुके हैं और क्या करना चाहते हैं—ये सभी बातें गुप्तचरोंद्वारा उन्हें मालूम रहती थीं॥९॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तेषाम्",
+            "hindi": "उनसे (षष्ठी विभक्ति, कर्तृवाच्य में अपादान के अर्थ में)"
+          },
+          {
+            "sanskrit": "अविदितम्",
+            "hindi": "अज्ञात (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "किञ्चित्",
+            "hindi": "कुछ भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वेषु",
+            "hindi": "अपने लोगों में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "नास्ति",
+            "hindi": "नहीं है (नञ् + अस्, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "परेषु",
+            "hindi": "दूसरों में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "क्रियमाणम्",
+            "hindi": "किया जा रहा (प्रथमा विभक्ति, शानच् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "कृतम्",
+            "hindi": "किया हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "चारेण",
+            "hindi": "गुप्तचरों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "चिकीर्षितम्",
+            "hindi": "करने की इच्छा (प्रथमा विभक्ति, सन्नन्त क्त प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.9",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "अपने या शत्रुपक्षेके राजाओंकी कोई भी बात उनसे छिपी नहीँ रहती थी। दूसरे राजा क्या करते हैं, क्या कर चुके हैं और क्‍या करना चाहते हैं-ये सभी बातें गुप्तचरोंद्वारा उन्हें मालूम रहती थीं॥ ९॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

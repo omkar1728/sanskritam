@@ -1,0 +1,345 @@
+{
+  "id": "baala-001-031",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 31,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 24
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-26, 1-1-27"
+    ],
+    "vulgate_in_locators": [
+      "1.1.27",
+      "1.1.28"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.27",
+      "1.1.28"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001024a",
+        "1001024c"
+      ],
+      "lines": [
+        "सर्वलक्षणसंपन्ना नारीणामुत्तमा वधूः",
+        "सीताप्यनुगता रामं शशिनं रोहिणी यथा"
+      ],
+      "punctuated_derived": "सर्वलक्षणसंपन्ना नारीणामुत्तमा वधूः ।\nसीताप्यनुगता रामं शशिनं रोहिणी यथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः",
+        "सीताप्यनुगता रामं शशिनं रोहिणी यथा"
+      ],
+      "locators": [
+        "1-1-26, 1-1-27"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः",
+        "सीताप्यनुगता रामं शशिनं रोहिणी यथा"
+      ],
+      "locators": [
+        "1.1.27",
+        "1.1.28"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः",
+        "सीताप्यनुगता रामं शशिनं रोहिणी यथा"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_26-28",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.27",
+        "1.1.28"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सर्वलक्षणसंपन्ना नारीणामुत्तमा वधूः",
+      "net": "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः",
+      "in": "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः",
+      "gp": "सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सर्वलक्षणसंपन्ना",
+            "b": "सर्वलक्षणसम्पन्ना"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सीताप्यनुगता रामं शशिनं रोहिणी यथा",
+      "net": "सीताप्यनुगता रामं शशिनं रोहिणी यथा",
+      "in": "सीताप्यनुगता रामं शशिनं रोहिणी यथा",
+      "gp": "सीताप्यनुगता रामं शशिनं रोहिणी यथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-26, 1-1-27",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Even Seetha, daughter-in-law of Dasaratha, and Rama's beloved wife equalling to Rama's life, ever well disposed, born in the family of Janaka and one as though fashioned by a Divine marvel, endowed with all good characteristics and the best among women, followed Rama to forest, like Rohini following the Moon... [1-1-26b, 27, 28a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-26, 1-1-27",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "26b, 27, 28a. siitha api",
+            "devanagari_machine_converted": "२६ब्, २७, २८अ। सीथ अपि",
+            "english": "Even Seetha"
+          },
+          {
+            "roman_itrans": "vadhuuH",
+            "devanagari_machine_converted": "वधूः",
+            "english": "daughter-in-law [of Dasharatha]; raamasya dayitaa bhaaryaa = (and) Rama' beloved wife"
+          },
+          {
+            "roman_itrans": "praaNasamaa",
+            "devanagari_machine_converted": "प्राणसमा",
+            "english": "equal to life (of Rama)"
+          },
+          {
+            "roman_itrans": "nityam hitaa",
+            "devanagari_machine_converted": "नित्यम् हिता",
+            "english": "ever well disposed one"
+          },
+          {
+            "roman_itrans": "janakasya kule jaataa",
+            "devanagari_machine_converted": "जनकस्य कुले जाता",
+            "english": "born in the family of Janaka"
+          },
+          {
+            "roman_itrans": "nirmitaa devamaayaa iva",
+            "devanagari_machine_converted": "निर्मिता देवमाया इव",
+            "english": "as though fashioned by divine marvel"
+          },
+          {
+            "roman_itrans": "sarvalakShaNasaMpannaa",
+            "devanagari_machine_converted": "सर्वलक्षणसंपन्ना",
+            "english": "possessor of all characteristics [befitting to an ideal lady]"
+          },
+          {
+            "roman_itrans": "nariiNaam uttamaa",
+            "devanagari_machine_converted": "नरीणाम् उत्तमा",
+            "english": "the best one among women"
+          },
+          {
+            "roman_itrans": "raamam anugataa",
+            "devanagari_machine_converted": "रामम् अनुगता",
+            "english": "followed Rama"
+          },
+          {
+            "roman_itrans": "rohiNii shashinam yathaa",
+            "devanagari_machine_converted": "रोहिणी शशिनम् यथा",
+            "english": "like Rohini with Moon."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-26, 1-1-27",
+        "spans_beyond_this_verse": true,
+        "text": "Here devamaayaa refers to many concepts. VaiShNavaite tenets tell that the word deva is ascribable only to Vishnu, but not to other gods. Thus, this is ViShNumaayaa, when He assumed an extraordinary female form called Mohini, when distributing amR^ita, the divine elixir, to gods and demons. Next is the form of Tilottama, a divine beauty to hoodwink demons called Sunda and Upasunda. The other is Vishnu's liilaa shakti, which is divinely fascinating. Yet another is grammatical connotation, maa yaa where, maa= Goddess Lakshmi; yaa= who that is; meaning yaa siitaa saa maa= 'who is Goddess Lakshmi... She is Seetha...' and this results in the saying: ati ruupavatii siitaa... ati muurkhaH cha raavaNa 'While Seetha is extraordinarily beautiful, Ravana is exceedingly stupid..."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जनकके कुलमें उत्पन्न, अवतीर्ण हुई देवमायाकी भाँति सुन्दरी, समस्त शुभलक्षणोंसे विभूषित, स्त्रियोंमें उत्तम वधू"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.28",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सीता भी रामचन्द्रजीके पीछे चली; जैसे चन्द्रमाके पीछे रोहिणी चलती है। उस समय पिता दशरथ और पुरवासी मनुष्योंने दूरतक उनका अनुसरण किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "जनकस्य",
+            "hindi": "जनक के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कुले",
+            "hindi": "कुल में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "जाता",
+            "hindi": "उत्पन्न हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "देवमाया",
+            "hindi": "देवमाया (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान (अव्यय)"
+          },
+          {
+            "sanskrit": "निर्मिता",
+            "hindi": "रची गई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वलक्षणसम्पन्ना",
+            "hindi": "सभी लक्षणों से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नारीणाम्",
+            "hindi": "स्त्रियों में (षष्ठी विभक्ति, निर्धारण)"
+          },
+          {
+            "sanskrit": "उत्तमा",
+            "hindi": "उत्तम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वधूः",
+            "hindi": "वधू (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.28",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सीता",
+            "hindi": "सीता ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अनुगता",
+            "hindi": "अनुसरण किया (प्रथमा विभक्ति, भूतकालिक कृदन्त)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शशिनम्",
+            "hindi": "चन्द्रमा का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रोहिणी",
+            "hindi": "रोहिणी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जिस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "पौरैः",
+            "hindi": "नगरवासियों ने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुगतः",
+            "hindi": "अनुसरण किया गया (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "दूरम्",
+            "hindi": "दूर तक (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "पित्रा",
+            "hindi": "पिता ने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथेन",
+            "hindi": "दशरथ ने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.27",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "'और जनकके कुलमें उत्पन्न सीता भी, जो अवतीर्ण हुई देवमायाकी भाँति सुन्दरी, समस्त शुभलक्षणोंसे विभूषित, स्त्रियामें उत्तम, रामके प्राणोंके समान प्रियतमा पली तथा सदा ही पतिका हित चाहनेवाली थी, रामचन्द्रजीके पीछे चली; जैसे चन्द्रमाके पीछे रोहिणी चलती है। उस समय पिता दशरथ [ने अपना सारथि भेजकर] और पुरवासी मनुष्योंने [स्वयं साथ जाकर] दूरतक उनका अनुसरण किया॥ २६-२८॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.28",
+        "ocr_flags": [
+          "hindi_marker_range_26-28"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "'और जनकके कुलमें उत्पन्न सीता भी, जो अवतीर्ण हुई देवमायाकी भाँति सुन्दरी, समस्त शुभलक्षणोंसे विभूषित, स्त्रियामें उत्तम, रामके प्राणोंके समान प्रियतमा पली तथा सदा ही पतिका हित चाहनेवाली थी, रामचन्द्रजीके पीछे चली; जैसे चन्द्रमाके पीछे रोहिणी चलती है। उस समय पिता दशरथ [ने अपना सारथि भेजकर] और पुरवासी मनुष्योंने [स्वयं साथ जाकर] दूरतक उनका अनुसरण किया॥ २६-२८॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

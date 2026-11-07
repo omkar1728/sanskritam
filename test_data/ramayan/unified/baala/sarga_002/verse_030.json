@@ -1,0 +1,261 @@
+{
+  "id": "baala-002-030",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 30,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 28
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-29"
+    ],
+    "vulgate_in_locators": [
+      "1.2.29"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.29"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002028a",
+        "1002028c"
+      ],
+      "lines": [
+        "शोचन्नेव मुहुः क्रौञ्चीमुपश्लोकमिमं पुनः",
+        "जगावन्तर्गतमना भूत्वा शोकपरायणः"
+      ],
+      "punctuated_derived": "शोचन्नेव मुहुः क्रौञ्चीमुपश्लोकमिमं पुनः ।\nजगावन्तर्गतमना भूत्वा शोकपरायणः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "शोचन्नेव मुहुः क्रौञ्चीमुपश्लोकमिमं पुनः",
+        "जगावन्तर्गतमना भूत्वा शोकपरायणः"
+      ],
+      "locators": [
+        "1-2-29"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ",
+        "पुनरन्तर्गतमना भूत्वा शोकपरायणः"
+      ],
+      "locators": [
+        "1.2.29"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.2.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "शोचन्नेव मुहुः क्रौञ्चीमुपश्लोकमिमं पुनः",
+      "net": "शोचन्नेव मुहुः क्रौञ्चीमुपश्लोकमिमं पुनः",
+      "in": "शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ",
+      "gp": "शोचन्नेव पुनः क्रौञ्चीमुपश्लोकमिमं जगौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8235294117647058,
+        "sim_gp_net": 0.8235294117647058
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "मुहुः",
+            "b": "पुनः"
+          },
+          {
+            "a": "पुनः",
+            "b": "जगौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मुहुः",
+            "b": "पुनः"
+          },
+          {
+            "a": "पुनः",
+            "b": "जगौ"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "जगावन्तर्गतमना भूत्वा शोकपरायणः",
+      "net": "जगावन्तर्गतमना भूत्वा शोकपरायणः",
+      "in": "पुनरन्तर्गतमना भूत्वा शोकपरायणः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8571428571428571
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "जगावन्तर्गतमना",
+            "b": "पुनरन्तर्गतमना"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-29",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Remaining in melancholic mood Valmiki turned his mind to the depth of thinking, and again thinking only on the krouncha bird he sung the same verse, involuntarily. [1-2-29b-30a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-29",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "29b-30a. shokaparaayaNaH",
+            "devanagari_machine_converted": "२९ब्-३०अ। शोकपरायणः",
+            "english": "one in melancholic mood[Valmiki]"
+          },
+          {
+            "roman_itrans": "antargatamanaaH bhuutvaa",
+            "devanagari_machine_converted": "अन्तर्गतमनाः भूत्वा",
+            "english": "on turning in depths of mind"
+          },
+          {
+            "roman_itrans": "punaH",
+            "devanagari_machine_converted": "पुनः",
+            "english": "again"
+          },
+          {
+            "roman_itrans": "kraunchiim shochan eva",
+            "devanagari_machine_converted": "क्रौन्चीम् शोचन् एव",
+            "english": "only on thinking about Krouncha bird"
+          },
+          {
+            "roman_itrans": "shlokam imam jagau",
+            "devanagari_machine_converted": "श्लोकम् इमम् जगौ",
+            "english": "[involuntarily]sung verse ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-29",
+        "spans_beyond_this_verse": false,
+        "text": "The word jaguH is singing; gai= shabde; liT; prathama bahu; jagau - jagatuH - jaguH; variant of gaay; c.f. Raghuvamsha of Kalidasa, verse 20, in fourth sarga; aakumaarakathodghaatam shaaligopyo jaguryashaH"
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.29",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यही सोचते-सोचते उन्होंने क्रौञ्चीके आर्तनादको सुनकर निषादको लक्ष्य करके जो श्लोक कहा था, उसीको फिर ब्रह्माजीके सामने दुहराया। उसे दुहराते ही फिर उनके मनमें अपने दिये हुए शापके अनौचित्यका ध्यान आया। तब वे शोक और चिन्तामें डूब गये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.29",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "शोचन्",
+            "hindi": "शोक करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "क्रौञ्चीम्",
+            "hindi": "क्रौञ्ची के लिए (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपश्लोकम्",
+            "hindi": "श्लोक के समीप (अव्ययीभाव)"
+          },
+          {
+            "sanskrit": "इमम्",
+            "hindi": "इस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जगौ",
+            "hindi": "गाने लगे / दुहराया (गै धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्तर्गतमनाः",
+            "hindi": "अन्तर्मन वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भूत्वा",
+            "hindi": "होकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "शोकपरायणः",
+            "hindi": "शोक में लीन (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.29",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "पुनरन्तर्गतमना भूत्वा शोकपरायणः। यही सोचते-सोचते उन्होंने क्रौञ्चीके आर्तनादको सुनकर निषादको लक्ष्य करके जो श्लोक कहा था, उसीको फिर ब्रह्माजीके सामने दुहराया। उसे दुहराते ही फिर उनके मनमें अपने दिये हुए शापके ॒ ध्यान आया। तब वे शोक और चिन्तामें डूब गये॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

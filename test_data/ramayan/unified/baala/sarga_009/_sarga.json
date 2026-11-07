@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 9,
+  "critical_sarga": 8,
+  "vulgate_sarga": 9,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "सुमन्त्र का दशरथ को ऋष्यशृंग मुनि को बुलाने की सलाह देते हुए उनके अंगदेश जाने और शान्ता से विवाह का प्रसंग सुनाना",
+  "title_en_from_in": "Sumantra advises Dasharatha to invite Rishyashringa Muni, narrating the story of his going to Angadesha and his marriage to Shanta",
+  "intro_en_from_net": "Sumantra, the minister of King Dasharatha, details the importance of Sage Rishyasringa and beseeches the king to invite that sage to preside over the contemplated Vedic ritual, for that Sage's entry into any kingdom is auspicious for that land and people.",
+  "counts": {
+    "smith_lines": 46,
+    "net_lines": 41,
+    "in_lines": 40,
+    "smith_verses": 23,
+    "net_blocks": 18,
+    "in_verses": 16,
+    "gp_lines": 35,
+    "gp_units": 20,
+    "in_declared": 20,
+    "docs": 28
+  }
+}

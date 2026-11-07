@@ -1,0 +1,269 @@
+{
+  "id": "baala-002-038",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 38,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 36
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-37"
+    ],
+    "vulgate_in_locators": [
+      "1.2.37"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.37"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002036a",
+        "1002036c"
+      ],
+      "lines": [
+        "यावद्रामस्य च कथा त्वत्कृता प्रचरिष्यति",
+        "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि"
+      ],
+      "punctuated_derived": "यावद्रामस्य च कथा त्वत्कृता प्रचरिष्यति ।\nतावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "यावद्रामायणकथा त्वत्कृता प्रचरिष्यति",
+        "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि"
+      ],
+      "locators": [
+        "1-2-37"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रामस्य च कथा त्वत्कृता प्रचरिष्यति",
+        "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि"
+      ],
+      "locators": [
+        "1.2.37"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "यावद्‌ रामस्य च कथा त्वत्कृता प्रचरिष्यति"
+      ],
+      "ocr_flags": [
+        "hindi_marker_373_differs_from_sanskrit_37"
+      ],
+      "refs": [
+        "1.2.37"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "यावद्रामस्य च कथा त्वत्कृता प्रचरिष्यति",
+      "net": "यावद्रामायणकथा त्वत्कृता प्रचरिष्यति",
+      "in": "रामस्य च कथा त्वत्कृता प्रचरिष्यति",
+      "gp": "यावद्‌ रामस्य च कथा त्वत्कृता प्रचरिष्यति",
+      "similarity": {
+        "sim_smith_net": 0.927536231884058,
+        "sim_in_net": 0.84375,
+        "sim_gp_net": 0.927536231884058
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यावद्रामस्य च कथा",
+            "b": "यावद्रामायणकथा"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यावद्रामायणकथा",
+            "b": "रामस्य च कथा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यावद्रामायणकथा",
+            "b": "यावद्‌ रामस्य च कथा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि",
+      "net": "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि",
+      "in": "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-37",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"And as long as Rama's legend authored by you flourishes...till then you will flourish in heavenly, in netherworlds, and even in my abode, namely Abode of Brahma... [1-2-37]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-37",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tvat",
+            "devanagari_machine_converted": "त्वत्",
+            "english": "by you; kR^itaa = authored"
+          },
+          {
+            "roman_itrans": "yaavat",
+            "devanagari_machine_converted": "यावत्",
+            "english": "as long as; raamasya katha = Rama's legend"
+          },
+          {
+            "roman_itrans": "prachariShyati",
+            "devanagari_machine_converted": "प्रचरिष्यति",
+            "english": "flourishes"
+          },
+          {
+            "roman_itrans": "taavat",
+            "devanagari_machine_converted": "तावत्",
+            "english": "till then"
+          },
+          {
+            "roman_itrans": "tvam",
+            "devanagari_machine_converted": "त्वम्",
+            "english": "you"
+          },
+          {
+            "roman_itrans": "uurdhvam",
+            "devanagari_machine_converted": "ऊर्ध्वम्",
+            "english": "heavenward"
+          },
+          {
+            "roman_itrans": "adhaH ca",
+            "devanagari_machine_converted": "अधः च",
+            "english": "in netherworlds, even"
+          },
+          {
+            "roman_itrans": "mat lokeSu",
+            "devanagari_machine_converted": "मत् लोकेषु",
+            "english": "in my abode [Brahma loka]"
+          },
+          {
+            "roman_itrans": "nivatsyasi",
+            "devanagari_machine_converted": "निवत्स्यसि",
+            "english": "you will be dwelling, [flourishing]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.37",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘जबतक तुम्हारी बनायी हुई श्रीरामकथाका लोकमें प्रचार रहेगा, तबतक तुम इच्छानुसार ऊपर-नीचे तथा मेरे लोकोंमें निवास करोगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.37",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "कथा",
+            "hindi": "कथा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "त्वत्कृता",
+            "hindi": "तुम्हारे द्वारा रचित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रचरिष्यति",
+            "hindi": "प्रचारित होगी (प्र + चर्, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तावत्",
+            "hindi": "तब तक (अव्यय)"
+          },
+          {
+            "sanskrit": "ऊर्ध्वम्",
+            "hindi": "ऊपर (अव्यय)"
+          },
+          {
+            "sanskrit": "अधः",
+            "hindi": "नीचे (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "तुम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मल्लोकेषु",
+            "hindi": "मेरे लोकों में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "निवत्स्यसि",
+            "hindi": "निवास करोगे (नि + वस्, लृट् लकार, मध्यम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.37",
+        "ocr_flags": [
+          "hindi_marker_373_differs_from_sanskrit_37"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "तावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि। 'जबतक तुम्हारी बनायी हुई श्रीरामकथाका लोकमें प्रचार रहेगा, तबतक तुम इच्छानुसार ऊपर-नीचे तथा मेरे लोकोंमें निवास करोगे'॥ ३७३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

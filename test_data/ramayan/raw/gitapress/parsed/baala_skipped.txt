@@ -1,0 +1,481 @@
+5451	no-devanagari-noise	A
+5507	no-devanagari-noise	oo NNN |
+5558	running-header	बालकाण्डे प्रथमः सर्गः
+5609	no-devanagari-noise	५५
+5662	no-devanagari-noise	५६
+5766	running-header	बालकाण्डे प्रथमः सर्गः
+5769	no-devanagari-noise	५७
+5863	no-devanagari-noise	५८
+5966	running-header	बालकाण्डे द्वितीयः सर्गः
+5969	no-devanagari-noise	५९
+5998	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे प्रथमः सर्गः॥ १॥
+5999	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें पहला सर्ग पूरा हुआ॥ १॥
+6060	no-devanagari-noise	६०
+6070	page-footer-signature	इत्या हुई देख उसकी भार्या क्रौञ्ची करुणाजनक स्वरमें
+6151	running-header	बालकाण्डे द्वितीयः सर्गः
+6154	no-devanagari-noise	६१
+6254	no-devanagari-noise	६२
+6285	no-devanagari-noise	र ____________________
+6314	page-footer-signature	इत्यार्वे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वितीयः सर्गः ॥ २॥
+6315	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें दूसरा सर्ग पूरा हुआ॥ २॥
+6359	running-header	बालकाण्डे तृतीयः सर्गः
+6362	no-devanagari-noise	६३
+6453	no-devanagari-noise	६४
+6503	no-devanagari-noise	TT Too
+6548	running-header	बालकाण्डे चतुर्थः सर्गः
+6551	no-devanagari-noise	६५
+6578	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे तृतीयः सर्गः॥ ३॥
+6579	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें तीसरा सर्ग पूरा हुआ॥ ३॥
+6612	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section_4_l_Front
+6638	no-devanagari-noise	६६
+6727	no-devanagari-noise	75 Srimad Valmiki Ramayan (I) _Section_4_]_Back
+6730	running-header	बालकाण्डे चतुर्थः सर्गः
+6733	no-devanagari-noise	६७
+6778	no-devanagari-noise	75 Srimad Valmiki Ramayan (L)_Section_4_2_Front
+6825	no-devanagari-noise	६८
+6854	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुर्थः सर्गः॥ ४॥
+6855	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें चौथा सर्ग पूरा हुआ॥ ४॥
+6911	no-devanagari-noise	75 Srimad Valmiki Ramayan (L)_Section_4_2_Back
+6914	running-header	बालकाण्डे पञ्चमः सर्गः
+6956	no-devanagari-noise	६९
+6998	no-devanagari-noise	DY THN DP ME MSS EMS SA
+7006	no-devanagari-noise	bo
+7027	no-devanagari-noise	NNN.
+7053	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चमः सर्गः॥ ५॥
+7054	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पाँचवाँ सर्ग पूरा हुआ॥५॥
+7107	running-header	बालकाण्डे षष्ठः सर्गः
+7110	no-devanagari-noise	७१
+7197	no-devanagari-noise	७२
+7232	no-devanagari-noise	|
+7265	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षष्ठः सर्गः॥ ६॥
+7266	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें छठा सर्ग पूरा हुआ॥ ६ ॥
+7291	running-header	बालकाण्डे सप्तमः सर्गः
+7294	no-devanagari-noise	७३
+7381	no-devanagari-noise	७४
+7407	no-devanagari-noise	|
+7435	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तमः सर्गः॥ ७॥
+7436	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिमिंत आर्षणमायण आदिकाव्यके बालकाण्डमें सातवाँ सर्ग पूरा हुआ॥७॥
+7474	running-header	बालकाण्डे अष्टमः सर्गः
+7477	no-devanagari-noise	७५
+7569	no-devanagari-noise	७६
+7606	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टमः सर्गः॥ ८॥
+7607	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८ ॥
+7674	running-header	बालकाण्डे दशमः सर्गः
+7677	no-devanagari-noise	७७
+7744	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे नवमः सर्गः॥ ९॥
+7745	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें नवाँ सर्ग पूरा हुआ॥ ९ ॥
+7771	no-devanagari-noise	७८
+7870	running-header	बालकाण्डे दशमः सर्गः
+7873	no-devanagari-noise	७९
+7960	no-devanagari-noise	6८०
+8012	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे दशमः सर्गः॥ १०॥
+8013	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें दसवाँ सर्ग पूरा हुआ॥ १०॥
+8067	running-header	बालकाण्डे एकादशः सर्गः ८१
+8154	no-devanagari-noise	८२
+8180	no-devanagari-noise	ई
+8201	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकादशः सर्गः॥ ११॥
+8202	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें ग्यारहवाँ सर्ग पूरा हुआ॥ ११॥
+8245	running-header	बालकाण्डे द्वादशः सर्गः
+8251	no-devanagari-noise	८३
+8254	no-devanagari-noise	i `
+8340	no-devanagari-noise	< ४
+8349	no-devanagari-noise	र
+8354	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वादशः सर्गः॥ १२॥
+8355	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मिव आर्षयमायण आदिकाव्यके बालकाण्डमें बारहवाँ सर्ग पूरा हुआ॥ १२॥
+8428	running-header	बालकाण्डे त्रयोदशः सर्गः
+8478	no-devanagari-noise	८५
+8525	no-devanagari-noise	८६
+8614	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रयोदशः सर्गः ॥ १३॥
+8615	sarga-colophon	' इस ग्रकार श्रीवाल्मीकिनिर्मित आर्वमावण आदिकाव्यके बालकाण्डमें तेरहवाँ सर्ग पूरा हुआ॥ १३ ॥
+8618	running-header	बालकाण्डे चतुर्दशः सर्गः
+8621	no-devanagari-noise	८७
+8704	no-devanagari-noise	८८
+8794	running-header	बालकाण्डे चतुर्दशः सर्गः
+8797	no-devanagari-noise	८९
+8887	no-devanagari-noise	२०
+8893	no-devanagari-noise	ooo
+8981	running-header	बालकाण्डे पञ्चदशः सर्गः
+8984	no-devanagari-noise	९१
+9045	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुर्दशः सर्गः॥ १४॥
+9046	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें चौदहवाँ सर्ग पूरा हुआ॥ १४॥
+9077	no-devanagari-noise	९२
+9123	no-devanagari-noise	आ
+9168	running-header	बालकाण्डे पञ्चदशः सर्गः
+9171	no-devanagari-noise	९३
+9269	no-devanagari-noise	` 8
+9300	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चदशः सर्गः॥ १५॥
+9301	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पंद्रहवाँ सर्ग पूरा हुआ॥ १५ ॥
+9356	running-header	बालकाण्डे षोडशः सर्गः
+9359	no-devanagari-noise	९५
+9446	no-devanagari-noise	९६
+9482	no-devanagari-noise	0
+9515	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षोडशः सर्गः॥ ९६॥
+9516	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्पपमायण आदिकाव्यके बालकाण्डमें सोलहवोँ सर्ग पूरा हुआ॥ १६॥
+9542	no-devanagari-noise	॥
+9548	no-devanagari-noise	Fe
+9551	running-header	बालकाण्डे सप्तदशः सर्गः
+9554	no-devanagari-noise	९७
+9599	no-devanagari-noise	75 Srimad Valmiki Ramayan (L)_Section_5_l_Front
+9644	no-devanagari-noise	९८
+9690	no-devanagari-noise	MR ________
+9735	no-devanagari-noise	75 Srimad Valmiki Ramayan ()_Section_5_l_Back
+9738	running-header	बालकाण्डे अष्टादशः सर्गः
+9748	no-devanagari-noise	९९
+9771	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तदशः सर्गः॥ १७॥
+9772	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सत्रहवाँ सर्ग पूरा हुआ॥ १७॥
+9807	no-devanagari-noise	75 Srimad Valmiki Ramayan (L)_Section_S_2_Front
+9836	no-devanagari-noise	१००
+9877	no-devanagari-noise	Fi -+-++---
+9928	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section_5_2_Back
+9931	running-header	बालकाण्डे अष्टादशः सर्गः
+9976	no-devanagari-noise	१०१
+10026	no-devanagari-noise	१०२
+10081	no-devanagari-noise	3 988
+10132	running-header	बालकाण्डे एकोनविंशः सर्गः
+10135	no-devanagari-noise	१०३
+10181	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टादशः सर्गः॥ १८॥
+10182	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अठारहवाँ सर्ग पूरा हुआ॥ १८॥
+10222	no-devanagari-noise	१०४
+10329	running-header	बालकाण्डे विंशः सर्गः
+10332	no-devanagari-noise	१०५
+10349	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनविंशः सर्गः॥ १९॥
+10350	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमावण आदिकाव्यके बालकाण्डमें उन्नीसवाँ सर्ग प्रा हुआ॥ १९॥
+10428	no-devanagari-noise	१०६
+10481	no-devanagari-noise	= si
+10526	running-header	बालकाण्डे एकविंशः सर्गः
+10529	no-devanagari-noise	१०७
+10552	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे विंशः सर्गः॥ २०॥
+10553	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें बीसवाँ सर्ग पूरा हुआ॥ २०॥
+10620	no-devanagari-noise	१०८
+10712	sarga-colophon	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकविंशः सर्ग:॥ २१॥
+10713	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मिव आर्षयमायण आदिकाव्यके बालकाण्डमें इक्कीसवाँ सर्ग पूरा हुआ॥ २१॥
+10716	running-header	बालकाण्डे द्वाविंशः सर्गः
+10719	no-devanagari-noise	१०९
+10805	no-devanagari-noise	११०
+10893	sarga-colophon	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वाविंशः सर्ग:॥ २२॥
+10894	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्यित आर्षामायण आदिकाव्यके बालकाण्डमें बाईसवाँ सग पूरा हुआ॥ २२॥
+10897	running-header	बालकाण्डे त्रयोविंशः सर्गः
+10981	no-devanagari-noise	११२
+11046	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रयोविंशः सर्गः॥ २३॥
+11047	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरमायण आदिकाव्यके बालकाण्डमें वेईसवाँ सर्ग पूरा हुआ॥ २३॥
+11081	running-header	बालकाण्डे चतुर्विशः सर्गः
+11126	no-devanagari-noise	११३
+11178	no-devanagari-noise	११४
+11275	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुर्विशः सर्गः॥ २४॥
+11276	sarga-colophon	इस प्रकार श्रीवाल्मीकितरिित आर्कामायण आदिकाव्यके बालकाण्डमें चौबीसवाँ सर्ग पूरा हुआ॥ २४॥
+11279	running-header	बालकाण्डे पञ्चविंशः सर्गः
+11282	no-devanagari-noise	११५
+11372	no-devanagari-noise	११६
+11378	no-devanagari-noise	NNN RN
+11449	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चविंशः सर्गः॥ २५॥
+11450	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें पचीसवाँ सर्ग पूरा हुआ॥ २५ ॥
+11487	running-header	बालकाण्डे षड्विंशः सर्गः
+11534	no-devanagari-noise	११७
+11582	no-devanagari-noise	११८
+11679	running-header	बालकाण्डे सप्तविंशः सर्गः
+11693	no-devanagari-noise	११९
+11712	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षड्विंशः सर्गः॥ २६॥
+11713	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षपमायण आदिकाव्यके बालकाण्डमें छन्बीसवाँ सर्ग पूरा हुआ॥ २६ ॥
+11772	no-devanagari-noise	१२०
+11818	no-devanagari-noise	CEE) _—॑_—_)__\))))— है
+11863	running-header	बालकाण्डे अष्टाविंशः सर्गः
+11870	no-devanagari-noise	१२१
+11879	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तविंशः सर्गः॥ २७॥
+11880	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें सत्ताईसवाँ सर्ग पूरा हुआ॥ २७॥
+11954	no-devanagari-noise	१२२
+12012	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टाविंशः सर्गः॥ २८॥
+12013	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अद्राईसवाँ सर्ग पूरा हुआ॥ २८॥
+12057	running-header	बालकाण्डे एकोनत्रिंशः सर्गः
+12102	no-devanagari-noise	१२३
+12147	no-devanagari-noise	२२४
+12237	sarga-colophon	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनत्रिंशः सर्ग:॥ २९॥
+12238	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्बणमायण आदिकाव्यके बालकाण्डमें उन्तीसवाँ सर्ग पूरा हुआ॥ २९॥
+12241	running-header	बालकाण्डे त्रिंशः सर्गः
+12245	no-devanagari-noise	१२५
+12330	no-devanagari-noise	१२६
+12414	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिंशः सर्गः॥ ३०॥
+12415	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षययायण आदिकाव्यके बालकाण्डमें तीसवाँ सरग पूरा हुआ॥ ३० ॥
+12418	running-header	बालकाण्डे एकत्रिंशः सर्गः
+12421	no-devanagari-noise	PE, i... ___ 0
+12505	no-devanagari-noise	१२८
+12567	no-devanagari-noise	{
+12570	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकत्रिंशः सर्गः॥ ३१॥
+12571	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामावण आदिकाव्यके बालकाण्डमें इकतीसवाँ सर्ग पूरा हुआ॥ ३१ ॥
+12600	running-header	बालकाण्डे द्वात्रिंशः सर्गः
+12637	no-devanagari-noise	१२९
+12674	no-devanagari-noise	UT OD Tesi 0 की MES NSIS MASS
+12687	no-devanagari-noise	75 Srimad Valmiki Ramayan (L)_Section_6_l_Front
+12690	no-devanagari-noise	१३०
+12735	no-devanagari-noise	ooo
+12783	no-devanagari-noise	75 Srimad Valmiki Ramayan ()_Section_6-L-Ber
+12786	running-header	बालकाण्डे त्रयस्त्रिशः सर्गः
+12789	no-devanagari-noise	१३१
+12794	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वात्रिंशः सर्गः॥ ३२॥
+12795	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें बत्तीसवोँ सर्ग पूरा हुआ॥ ३२॥
+12836	no-devanagari-noise	5 Srimad Valmiki Ramayan (L)_Section_6_2_Front
+12872	no-devanagari-noise	१३२
+12962	no-devanagari-noise	ck
+12963	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section_6-2-B*
+12966	running-header	बालकाण्डे चतुस्त्रिशः सर्गः
+12973	no-devanagari-noise	१२३
+12982	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रयस्त्रिशः सर्गः ॥ ३३॥
+12983	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षमायण आदिकाव्यके बालकाण्डमें तैंतीसवाँ सर्ग पूरा हुआ॥ ३३॥
+13053	no-devanagari-noise	२२४
+13123	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुस्त्रशः सर्गः ॥ ३४॥
+13124	sarga-colophon	इस ग्रकार श्रीवाल्मीकितिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें चौतीसवाँ सर्ग पूरा हुआ॥ ३४॥
+13142	running-header	बालकाण्डे पञ्चत्रिंशः सर्गः
+13145	no-devanagari-noise	१३५
+13148	no-devanagari-noise	ER MS 7 SO
+13193	no-devanagari-noise	भा
+13239	no-devanagari-noise	१३६
+13291	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चत्रिंशः सर्गः॥ ३५॥
+13292	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मिव आर्षयमायण आदिकाव्यके बालकाण्डमें पैंतीसवाँ सर्ग पूरा हुआ॥ ३५ ॥
+13338	running-header	बालकाण्डे षद्त्रिंशः सर्गः
+13341	no-devanagari-noise	१३७
+13431	no-devanagari-noise	१३८
+13487	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्त्रिंशः सर्गः॥ ३६॥
+13488	page-footer-signature	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें
+13489	sarga-colophon	छत्तीसवाँ सर्ग पूरा हुआ॥ ३६ ॥
+13520	running-header	बालकाण्डे सप्तत्रिंशः सर्गः
+13523	no-devanagari-noise	१३९
+13526	no-devanagari-noise	PR ARRAN) PO) TO
+13530	no-devanagari-noise	॥५॥
+13620	no-devanagari-noise	१४०
+13704	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सपत्रिंशः सर्गः॥ ३७॥
+13705	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्पामायण आदिकाव्यके बालकाण्डमें सैतीसवाँ सर्ग पूरा हुआ॥ ३७॥
+13708	running-header	बालकाण्डे अष्टात्रिंशः सर्गः
+13711	no-devanagari-noise	१४१
+13714	no-devanagari-noise	MMMM) OW em
+13807	no-devanagari-noise	१४२
+13871	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टात्रिंशः सर्गः॥ ३८॥
+13872	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें अड़तीसवाँ सर्ग पूरा हुआ॥ ३८॥
+13908	running-header	बालकाण्डे एकोनचत्वारिंशः सर्गः
+13911	no-devanagari-noise	१४३
+14006	no-devanagari-noise	२४४
+14054	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनचत्वारिंशः सर्गः॥ ३९॥
+14055	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मिव आर्षरामायण आदिकाव्यके बालकाण्डमें उनतालीसवोँ सर्ग पूरा हुआ॥ ३९ ॥
+14099	no-devanagari-noise	ee -->-+-+«
+14102	running-header	बालकाण्डे चत्वारिंशः सर्गः
+14105	no-devanagari-noise	९४५
+14108	no-devanagari-noise	RR KRY FC —
+14195	no-devanagari-noise	१४६
+14256	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चत्वारिंशः सर्गः ॥ ४०॥
+14257	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चालीसवाँ सर्ग पूरा हुआ॥ ४० ॥
+14304	running-header	बालकाण्डे एकचत्वारिंशः सर्गः
+14307	no-devanagari-noise	९४७
+14310	no-devanagari-noise	RR SS SR न
+14429	no-devanagari-noise	१४८
+14489	page-footer-signature	इत्यार्षे औमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकचत्वारिंशः सर्गः॥ ४१॥
+14490	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें इकवालीसवाँ सर्ग पूरा हुआ॥ ४१॥
+14544	running-header	बालकाण्डे द्विचत्वारिंशः सर्गः
+14547	no-devanagari-noise	१४९
+14550	no-devanagari-noise	FR MRS SMS O_O OO Coo
+14637	no-devanagari-noise	१५०
+14646	no-devanagari-noise	_ क ___ __ ™_™_\_\_™\_™\_™\_\_\_
+14684	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विचत्वारिंशः सर्गः॥ ४२॥
+14685	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्पशमायण आदिकाव्यके बालकाण्डमें बयालीसवाँ सर्ग पूरा हुआ॥ ४२ ॥
+14742	running-header	बालकाण्डे त्रिचत्वारिंशः सर्ग॑:
+14745	no-devanagari-noise	१५१
+14748	no-devanagari-noise	PRR NR 0 SD
+14839	no-devanagari-noise	१५२
+14942	running-header	बालकाण्डे चतुश्चत्वारिशः सर्गः
+14945	no-devanagari-noise	१५३
+14948	no-devanagari-noise	ETE FS NSS St US SRR ०
+14965	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिचत्वारिंशः सर्गः ॥ ४३॥
+14966	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्परमायण आदिकाव्यके बालकाण्डमेँ तैतालीसवाँ सर्ग पूरा हुआ॥ ४३॥
+15036	no-devanagari-noise	१५४
+15106	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुश्चत्वारिंशः सर्गः ॥ ४४॥
+15107	sarga-colophon	इस ग्रकार श्रीवाल्मीकितिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें चवालीसवाँ सर्ग पूरा हुआ॥ ४४॥
+15125	running-header	बालकाण्डे पश्चचत्वारिंशः सर्गः
+15170	no-devanagari-noise	५५५
+15215	no-devanagari-noise	१५८६
+15312	running-header	बालकाण्डे पञ्चचत्वारिंशः सर्गः
+15315	no-devanagari-noise	१५७
+15397	page-footer-signature	इत्याषे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चचत्वारिंशः सर्गः॥ ४५॥
+15398	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्परामायय आदिकाव्यके बालकाण्डमें पैतालीसवाँ सर्ग पूरा हुआ॥ ४५ ॥
+15401	no-devanagari-noise	DO
+15404	no-devanagari-noise	१५८
+15490	running-header	बालकाण्डे सप्तचत्वारिंशः सर्ग;
+15493	no-devanagari-noise	१५९
+15558	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षद्चत्वारिंशः सर्गः॥ ४६॥
+15559	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षयमायण आदिकाव्यके बालकाण्डे छियालीसवाँ सर्ग पूरा हुआ॥ ४६ ॥
+15590	no-devanagari-noise	१६०
+15682	no-devanagari-noise	|
+15685	running-header	बालकाण्डे अष्टचत्वारिंशः सर्गः
+15703	no-devanagari-noise	१६१
+15721	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥
+15722	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें सैतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
+15754	no-devanagari-noise	7S Srimad Valmiki Ramayan (L)_Section_7_l_Front
+15780	no-devanagari-noise	३६२
+15870	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section_7_I_Back
+15939	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टचत्वारिंशः सर्गः॥ ४८॥
+15940	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्परमायण आदिकाव्यके बालकाण्डमें अड़तालीसवाँ सर्ग पूरा हुआ॥ ४८ ॥
+15954	no-devanagari-noise	75 Srimag Valmiki Ramayan (J)_Section_7_2_Front
+15961	no-devanagari-noise	१६४
+16051	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section_7_2_Back
+16054	running-header	बालकाण्डे पञ्ञाशः सर्गः
+16057	no-devanagari-noise	१६५
+16107	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनपञ्चाशः सर्गः॥ ४९॥
+16108	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें उनचासवाँ सर्ग पूरा हुआ॥ ४९ ॥
+16159	no-devanagari-noise	२६६
+16249	running-header	बालकाण्डे एकपञ्चाशः सर्गः
+16252	no-devanagari-noise	९६
+16290	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चाशः सर्गः॥ ५०॥
+16291	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें पचासवाँ सर्ग पूरा हुआ॥५०॥
+16348	no-devanagari-noise	१६८
+16446	running-header	बालकाण्डे द्विपञ्चाशः सर्गः
+16449	no-devanagari-noise	१६९
+16456	no-devanagari-noise	४ ।
+16481	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकपञ्चाशः सर्गः॥ ५९॥
+16482	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें इक्यावनवाँ सर्ग पूरा हुआ॥५१॥
+16538	no-devanagari-noise	१७०
+16630	running-header	बालकाण्डे त्रिपञ्चाशः सर्गः
+16633	no-devanagari-noise	९७९
+16647	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विपञ्चाशः
+16649	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षधमायण आदिकाव्यके बालकाण्डमें बावनवाँ सर्ग पूरा हुआ॥ ५२॥
+16723	no-devanagari-noise	१७२
+16803	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिपञ्चाशः सर्गः॥ ५३॥
+16804	page-footer-signature	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमावण आदिकाव्यके बालकाण्डमें
+16805	sarga-colophon	तिरपनवाँ सर्ग प्ररा हुआ॥५३॥
+16811	no-devanagari-noise	१७३
+16814	no-devanagari-noise	SEB ३
+16923	no-devanagari-noise	१७४
+16993	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुःपञ्चाशः सर्गः ॥ ५४॥
+16994	sarga-colophon	इस प्रकार श्रीवाल्यीकितिर्मित आर्षरामावण आदिकाव्यके बालकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
+17022	running-header	बालकाण्डे पञ्चपञ्चाशः सर्गः
+17025	no-devanagari-noise	१७५
+17120	no-devanagari-noise	5 .______ ToS
+17186	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चपञ्जाशः सर्गः॥ ५७५॥
+17187	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें प्रचपनवाँ सर्ग पूरा हुआ॥ ५५॥
+17219	running-header	बालकाण्डे षट्पञ्चाशः सर्गः
+17222	no-devanagari-noise	२७७
+17324	no-devanagari-noise	२ ७८
+17355	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्पञ्जाशः सर्गः॥ ५६॥
+17356	sarga-colophon	इस ग्रकार श्रीवाल्मीकितिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६ ॥
+17421	running-header	बालकाण्डे अष्टपञ्चाशः सर्गः
+17424	no-devanagari-noise	१७९
+17460	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये
+17461	page-footer-signature	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षणमावण
+17496	running-header	आदिकाव्ये बालकाण्डे सप्तपञ्चाशः सर्गः॥ ५७॥
+17497	sarga-colophon	आदिकाव्यके बालकाण्डमें सत्तावनवाँ सर्ग पूरा हुआ॥ ५७॥
+17525	no-devanagari-noise	१८०
+17623	no-devanagari-noise	१८१
+17626	no-devanagari-noise	< NE SS NN)
+17671	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टपञ्जाशः सर्गः॥ ५८॥
+17672	page-footer-signature	इस प्रकार श्रीवाल्मीकितिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें
+17673	sarga-colophon	अद्ञवनवाँ सर्ग पूरा हुआ॥ ५८॥
+17715	no-devanagari-noise	१८२
+17813	no-devanagari-noise	१८३.
+17816	no-devanagari-noise	Te NsiI
+17834	sarga-colophon	इत्याषे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनषष्टितमः सर्ग:॥ ५९॥
+17835	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षतमायण आदिकाव्यके बालकाण्डमें उनसठवाँ सर्ग पूरा हुआ॥१९॥
+17899	no-devanagari-noise	२८४
+17989	running-header	बालकाण्डेएकषष्टितमः सर्गः
+17992	no-devanagari-noise	२८५
+17995	no-devanagari-noise	ne SE Pm
+18047	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षष्टितमः सर्गः॥ ६०॥
+18048	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्परामायण आदिकाव्यके बालकाण्डमें साठवाँ सर्ग पूरा हुआ॥ ६० ॥
+18086	no-devanagari-noise	श्८६
+18134	no-devanagari-noise	| ___________ 2
+18185	running-header	बालकाण्डे द्विषष्टितमः सर्गः
+18188	no-devanagari-noise	२८७
+18214	page-footer-signature	इत्या श्रामद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकषष्टितमः सर्गः ६१॥
+18215	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षधमायण आदिकाव्यके बालकाण्डमें एकसठवाँ सर्ग यूरा हुआ॥ ६१ ॥
+18284	no-devanagari-noise	२८८
+18375	running-header	बालकाण्डे त्रिषष्टितमः सर्गः
+18378	no-devanagari-noise	२८९
+18381	no-devanagari-noise	Rm) 8
+18404	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विषष्टितमः सर्गः॥
+18405	sarga-colophon	: सर्गः॥ ६२॥
+18406	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकान्यके बालकाण्डमें बासठवाँ सर्ग पूरा हुआ॥ ६२॥
+18443	no-devanagari-noise	श।
+18476	no-devanagari-noise	३९०
+18568	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिषष्टितमः सर्गः ॥ ६३॥
+18569	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मित आर्षयमायवण आदिकाव्यके बालकाण्डमें तिरसठवाँ सर्ग पूरा हुआ॥ ६३॥
+18575	no-devanagari-noise	१९१
+18658	no-devanagari-noise	१९२
+18717	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुःषष्टितमः सर्गः ॥ ६४॥
+18718	sarga-colophon	इस ग्रकार श्रीवाल्मीकिनिर्मिव आर्वयमायण आदिकाव्यके बालकाण्डमें चौंसठवाँ सर्ग पूरा हुआ॥ ६४॥
+18815	no-devanagari-noise	१९३
+18866	no-devanagari-noise	१९४
+18956	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_ Section _8_l_Back
+18962	no-devanagari-noise	१९५
+19001	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चषष्टितमः सर्गः॥ ६५॥
+19002	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षामायण आदिकाव्यके बालकाण्डमें पैँसठवाँ सर्ग पूरा हुआ॥ ६५ ॥
+19033	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section_8_2_Front
+19058	no-devanagari-noise	१९६
+19155	no-devanagari-noise	75 Srimad Valmiki Ramayan (I)_Section 8_2_Back
+19158	running-header	बालकाण्डे सप्तपष्टितमः सर्गः
+19161	no-devanagari-noise	१९७
+19164	no-devanagari-noise	PI mR MNES YC EE
+19200	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्षष्टितमः सर्गः॥ ६६॥
+19201	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षधमायण आदिकाव्यके बालकाण्डमें छाछठवाँ सर्ग पूरा हुआ॥ ६६ ॥
+19253	no-devanagari-noise	२१२८
+19343	no-devanagari-noise	१९९
+19346	no-devanagari-noise	SSR... ___\
+19380	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सपषष्टितमः सर्गः ॥ ६७॥
+19381	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षयमायण आदिकाव्यके बालकाण्डमें सरसठवाँ सर्ग पूरा हुआ॥ ६७॥
+19433	no-devanagari-noise	२००
+19527	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टषष्टितमः सर्गैः ॥ ६८॥
+19528	sarga-colophon	इस ग्रकार श्रीवाल्यीकिनिर्मिव आर्षयामावण आदिकाव्यके बालकाण्डमें अड़सठवाँ सर्ग पूरा हुआ॥ ६८॥
+19553	running-header	बालकाण्डेएकोनसप्ततितमः सर्गः
+19556	no-devanagari-noise	२०१
+19654	no-devanagari-noise	२०२
+19684	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनसप्ततितमः सर्गः॥ ६९॥
+19685	sarga-colophon	इस ग्रकार श्रीवाल्मीकितिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें उनहचरवाँ सर्ग पूरा हुआ॥ ६९ ॥
+19748	running-header	बालकाण्डे सप्ततितमः सर्गः
+19751	no-devanagari-noise	२०३
+19754	no-devanagari-noise	Rms A UU me
+19854	no-devanagari-noise	२०४
+19945	running-header	बालकाण्डेएकसपतितमः सर्गः
+19948	no-devanagari-noise	२०५
+19968	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्ततितमः प्र Won
+19985	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षणमायण आदिकाव्यके बालकाण्डमें सत्तरवाँ सर्ग पूरा हुआ॥ ७० ॥
+20016	no-devanagari-noise	MSW
+20042	no-devanagari-noise	2.
+20045	no-devanagari-noise	२०६
+20135	running-header	बालकाण्डे द्विसप्ततितमः सर्गः ८0
+20138	no-devanagari-noise	२०७
+20146	page-footer-signature	इस प्रकार श्रीवाल्मीकिनिर्मित
+20153	running-header	वाल्मीकीये आदिकाव्ये बालकाण्डे एकसप्ततितमः सर्गः ॥ ७१॥
+20154	running-header	आर्वामायण आदिकाव्यके बालकाण्डमें इकहत्तरवाँ सर्ग पू हुआ॥७१॥
+20223	no-devanagari-noise	२०८
+20312	running-header	बालकाण्डे त्रिसप्ततितमः सर्गः
+20315	no-devanagari-noise	२०९
+20318	no-devanagari-noise	MM YC
+20331	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विसप्ततितमः सर्गः ७
+20332	sarga-colophon	: सर्ग:॥ ७२॥
+20333	sarga-colophon	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षमायण आदिकाव्यके बालकाण्डमें बहत्तरवाँ सर्ग पूरा हुआ॥ ७२॥
+20408	no-devanagari-noise	२१०
+20497	running-header	बालकाण्डे त्रिसपतितमः सर्गः
+20500	no-devanagari-noise	२११
+20581	page-footer-signature	इत्यार्षे श्रीमद्रामायणे बाल्मीकीये आदिकाव्ये बालकाण्डे त्रिसप्ततितमः सर्गः॥ ७३॥
+20590	sarga-colophon	विहत्तरवाँ सर्ग पूरा हुआ ॥ ७३ ॥
+20596	no-devanagari-noise	२१२
+20686	running-header	बालकाण्डे पञ्चसप्ततितमः सर्गः
+20689	no-devanagari-noise	२१३
+20692	no-devanagari-noise	i
+20759	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकये आदिकाव्ये बालकाण्डे चतुःसप्ततितमः सर्गः॥ ७४॥
+20768	sarga-colophon	चौहत्तरवाँ सर्ग पूरा हुआ॥ ७४॥
+20784	no-devanagari-noise	२१५४
+20872	running-header	बालकाण्डे पञ्चसप्ततितमः सर्गः
+20875	no-devanagari-noise	२१५
+20878	no-devanagari-noise	PR RO DO 2
+20886	no-devanagari-noise	:।
+20965	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चसप्ततितमः सर्गः ॥ ७५॥
+20974	sarga-colophon	पचहत्तरवाँ सर्ग पूरा हुआ॥ ७५ ॥
+20977	no-devanagari-noise	२१६
+21064	running-header	बालकाण्डेषट्सप्ततितमः सर्गः
+21067	no-devanagari-noise	२१७
+21070	no-devanagari-noise	TTT SNES 3 न
+21185	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्सपतितमः सर्गः॥ ७६॥
+21186	sarga-colophon	इस प्रकार श्रीवाल्मीकितिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें छिहत्तरवाँ सर्ग पूरा हुआ॥ ७६ ॥
+21189	no-devanagari-noise	२१८
+21273	running-header	बालकाण्डेसप्तसप्ततितमः सर्गः
+21276	no-devanagari-noise	२१९
+21279	no-devanagari-noise	mS RE 5 oe
+21374	no-devanagari-noise	२२०
+21426	page-footer-signature	इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तसप्ततितमः सर्गः॥ ७७॥
+21427	page-footer-signature	इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डे
+21428	sarga-colophon	सतहत्तरवाँ सर्ग पूरा हुआ॥ ७७॥
+21431	sarga-colophon	॥ बालकाण्डं सम्पूर्णम्‌॥

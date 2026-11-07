@@ -1,0 +1,252 @@
+{
+  "id": "baala-009-027",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 27,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 22
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-19"
+    ],
+    "vulgate_in_locators": [
+      "1.9.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.19"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008022a",
+        "1008022c"
+      ],
+      "lines": [
+        "ऋश्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति",
+        "सनत्कुमारकथितमेतावद्व्याहृतं मया"
+      ],
+      "punctuated_derived": "ऋश्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति ।\nसनत्कुमारकथितमेतावद्व्याहृतं मया ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋष्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति",
+        "सनत्कुमारकथितमेतावद्व्याहृतं मया"
+      ],
+      "locators": [
+        "1-9-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋष्यश्रृंगस्तु जामाता पुत्रांस्तव विधास्यति",
+        "सनत्कुमारकथितमेतावद् व्याहृतं मया"
+      ],
+      "locators": [
+        "1.9.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋष्यशृंगस्तु जामाता पुत्रांस्तव विधास्यति",
+        "सनत्कुमारकथितमेतावद्‌ व्याहतं मया"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.9.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋश्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति",
+      "net": "ऋष्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति",
+      "in": "ऋष्यश्रृंगस्तु जामाता पुत्रांस्तव विधास्यति",
+      "gp": "ऋष्यशृंगस्तु जामाता पुत्रांस्तव विधास्यति",
+      "similarity": {
+        "sim_smith_net": 0.9736842105263158,
+        "sim_in_net": 0.9743589743589743,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ऋश्यशृङ्गस्तु",
+            "b": "ऋष्यशृङ्गस्तु"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ऋष्यशृङ्गस्तु",
+            "b": "ऋष्यश्रृंगस्तु"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ऋष्यशृङ्गस्तु",
+            "b": "ऋष्यशृंगस्तु"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सनत्कुमारकथितमेतावद्व्याहृतं मया",
+      "net": "सनत्कुमारकथितमेतावद्व्याहृतं मया",
+      "in": "सनत्कुमारकथितमेतावद् व्याहृतं मया",
+      "gp": "सनत्कुमारकथितमेतावद्‌ व्याहतं मया",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9836065573770492
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सनत्कुमारकथितमेतावद्व्याहृतं",
+            "b": "सनत्कुमारकथितमेतावद् व्याहृतं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सनत्कुमारकथितमेतावद्व्याहृतं",
+            "b": "सनत्कुमारकथितमेतावद्‌ व्याहतं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Sage Rishyasringa, son-in-law of Romapaada, King of Anga ad as well as to you, if invited to our kingdom he will bless you to beget sons, oh! King... so said Sage Sanatkumaara to other sages and all this is retold by me.\" [Thus the charioteer and the Minister Sumantra completed his narration in confidence to King Dasharatha.] [1-9-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "RiShyasringaH tu jaamaataa",
+            "devanagari_machine_converted": "ऱिष्यस्रिन्गः तु जामाता",
+            "english": "Rishyasringa, son-in-law(of Romapaada)"
+          },
+          {
+            "roman_itrans": "putraan tava vidhaasyati",
+            "devanagari_machine_converted": "पुत्रान् तव विधास्यति",
+            "english": "bless with sons to you"
+          },
+          {
+            "roman_itrans": "etaavat vyaahR^itam mayaa",
+            "devanagari_machine_converted": "एतावत् व्याहृतम् मया",
+            "english": "all this, retold, by me"
+          },
+          {
+            "roman_itrans": "sanatkumaarakathitam",
+            "devanagari_machine_converted": "सनत्कुमारकथितम्",
+            "english": "as said by Sanatkumaara."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-19",
+        "spans_beyond_this_verse": false,
+        "text": "Sage Rishyasringa is also a son-in-law to King Dasharatha. Princess Shanta, in a distant relationship is a daughter to King Dasharatha in relation and the adopted daughter of Romapaada, the King of Anga. Thus Sumantra's saying son-in-law also means Dasharatha's son-in-law, besides Romapada's."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“इस तरह ऋष्यशृंग आपके जामाता हुए। वे ही आपके लिये पुत्रों को सुलभ कराने वाले यज्ञकर्म का सम्पादन करेंगे। यह सनत्कुमारजीकी कही हुई बात मैंने आपसे निवेदन की है” ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋष्यश्रृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "जामाता",
+            "hindi": "जामाता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रान्",
+            "hindi": "पुत्रों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तव",
+            "hindi": "आपके लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "विधास्यति",
+            "hindi": "करेगा / सुलभ करायेगा (वि + धा, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सनत्कुमारकथितम्",
+            "hindi": "सनत्कुमार द्वारा कही गई (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "एतावत्",
+            "hindi": "इतनी बात (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "व्याहृतम्",
+            "hindi": "कही / निवेदित की (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "मया",
+            "hindi": "मैंने (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.19",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“इस तरह ऋष्यशृंग आपके जामाता हुए। वे ही आपके लिये पुत्रोंको सुलभ करानेवाले यज्ञकर्मका सम्पादन करेंगे। यह सनत्कुमारजीकी कही हुई बात मैंने आपसे निवेदन की है''॥ १९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

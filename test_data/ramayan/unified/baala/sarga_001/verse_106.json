@@ -1,0 +1,275 @@
+{
+  "id": "baala-001-106",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 106,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 77
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-98"
+    ],
+    "vulgate_in_locators": [
+      "1.1.98"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.98"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001077a",
+        "1001077c"
+      ],
+      "lines": [
+        "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च संमितम्",
+        "यः पठेद्रामचरितं सर्वपापैः प्रमुच्यते"
+      ],
+      "punctuated_derived": "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च संमितम् ।\nयः पठेद्रामचरितं सर्वपापैः प्रमुच्यते ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम्",
+        "यः पठेद्रामचरितं सर्वपापैः प्रमुच्यते"
+      ],
+      "locators": [
+        "1-1-98"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम्",
+        "यः पठेद् रामचरितं सर्वपापैः प्रमुच्यते"
+      ],
+      "locators": [
+        "1.1.98"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "इदं पवित्रं पापध्न॑ पुण्यं वेदैश्च सम्मितम्‌",
+        "यः पठेद्‌ रामचरितं सर्वपापैः प्रमुच्यते"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.98"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च संमितम्",
+      "net": "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम्",
+      "in": "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम्",
+      "gp": "इदं पवित्रं पापध्न॑ पुण्यं वेदैश्च सम्मितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9428571428571428
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संमितम्",
+            "b": "सम्मितम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पापघ्नं",
+            "b": "पापध्न॑"
+          },
+          {
+            "a": "सम्मितम्",
+            "b": "सम्मितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "यः पठेद्रामचरितं सर्वपापैः प्रमुच्यते",
+      "net": "यः पठेद्रामचरितं सर्वपापैः प्रमुच्यते",
+      "in": "यः पठेद् रामचरितं सर्वपापैः प्रमुच्यते",
+      "gp": "यः पठेद्‌ रामचरितं सर्वपापैः प्रमुच्यते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पठेद्रामचरितं",
+            "b": "पठेद् रामचरितं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पठेद्रामचरितं",
+            "b": "पठेद्‌ रामचरितं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-98",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"This Ramayana is holy, sin-eradicating, merit-endowing, and conformable with the teachings of Vedas. Whoever reads this Legend of Rama, will be verily liberated of all sins... [1-1-98]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-98",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "idam",
+            "devanagari_machine_converted": "इदम्",
+            "english": "this"
+          },
+          {
+            "roman_itrans": "raamacharitam",
+            "devanagari_machine_converted": "रामचरितम्",
+            "english": "Rama's, legend; pavitram = is holy"
+          },
+          {
+            "roman_itrans": "paapaghnam",
+            "devanagari_machine_converted": "पापघ्नम्",
+            "english": "sin-eradicating"
+          },
+          {
+            "roman_itrans": "puNyam",
+            "devanagari_machine_converted": "पुण्यम्",
+            "english": "merit-endowing"
+          },
+          {
+            "roman_itrans": "vedaiH sammitam ca",
+            "devanagari_machine_converted": "वेदैः सम्मितम् च",
+            "english": "and consisting of [teachings of] Vedas"
+          },
+          {
+            "roman_itrans": "yaH",
+            "devanagari_machine_converted": "यः",
+            "english": "whoever"
+          },
+          {
+            "roman_itrans": "paThet",
+            "devanagari_machine_converted": "पठेत्",
+            "english": "studies [this Ramayana]"
+          },
+          {
+            "roman_itrans": "sarvapaapaiH pramuchyate",
+            "devanagari_machine_converted": "सर्वपापैः प्रमुच्यते",
+            "english": "is truly liberated of all sins."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.98",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वेदोंके समान पवित्र, पापनाशक और पुण्यमय इस रामचरितको जो पढ़ेगा, वह सब पापोंसे मुक्त हो जायगा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.98",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पवित्रम्",
+            "hindi": "पवित्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पापघ्नम्",
+            "hindi": "पापों का नाश करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुण्यम्",
+            "hindi": "पुण्यमय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वेदैः",
+            "hindi": "वेदों के (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सम्मितम्",
+            "hindi": "तुल्य / समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यः",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पठेत्",
+            "hindi": "पढ़ेगा (पठ् धातु, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "रामचरितम्",
+            "hindi": "राम के चरित्र को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वपापैः",
+            "hindi": "सभी पापों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रमुच्यते",
+            "hindi": "मुक्त हो जाता है (प्र + मुच्, कर्मवाच्य, लट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.98",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "'वेदोंके समान पवित्र, पापनाशक और पुण्यमय इस रामचरितको जो पढ़ेगा, वह सब पापोंसे मुक्त हो जायगा॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,212 @@
+{
+  "id": "baala-003-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 10
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-17"
+    ],
+    "vulgate_in_locators": [
+      "1.3.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003010a"
+      ],
+      "lines": [
+        "पादुकाग्र्याभिषेकं च नन्दिग्राम निवासनम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पादुकाग्र्याभिषेकं च नन्द्रिग्रामनिवासनम्"
+      ],
+      "locators": [
+        "1-3-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पादुकाग्र्याभिषेकं च नन्दिग्रामनिवासनम्"
+      ],
+      "locators": [
+        "1.3.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पादुकाग्रयाभिषेकं च नन्दिग्रामनिवासनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पादुकाग्र्याभिषेकं च नन्दिग्राम निवासनम्",
+      "net": "पादुकाग्र्याभिषेकं च नन्द्रिग्रामनिवासनम्",
+      "in": "पादुकाग्र्याभिषेकं च नन्दिग्रामनिवासनम्",
+      "gp": "पादुकाग्रयाभिषेकं च नन्दिग्रामनिवासनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9722222222222222,
+        "sim_in_net": 0.9722222222222222,
+        "sim_gp_net": 0.9577464788732394
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नन्दिग्राम निवासनम्",
+            "b": "नन्द्रिग्रामनिवासनम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "नन्द्रिग्रामनिवासनम्",
+            "b": "नन्दिग्रामनिवासनम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पादुकाग्र्याभिषेकं",
+            "b": "पादुकाग्रयाभिषेकं"
+          },
+          {
+            "a": "नन्द्रिग्रामनिवासनम्",
+            "b": "नन्दिग्रामनिवासनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-17",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Enthroning shoe-sandals of Rama by Bharata; Bharata's living in a village Nandigrama; Rama's going to Dandaka forests; killing the demon named Viradha... [1-3-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-17",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "paadukaagryaabhiShekam ca",
+            "devanagari_machine_converted": "पादुकाग्र्याभिषेकम् च",
+            "english": "also high enthroning of sandsls[shoes]"
+          },
+          {
+            "roman_itrans": "nandigraamanivaasanam",
+            "devanagari_machine_converted": "नन्दिग्रामनिवासनम्",
+            "english": "living [of Bharata] in the village Nandigrama"
+          },
+          {
+            "roman_itrans": "dandakaaraNyagamanam",
+            "devanagari_machine_converted": "दन्दकारण्यगमनम्",
+            "english": "going Dandaka forests"
+          },
+          {
+            "roman_itrans": "viraadhasya vadham tathaa",
+            "devanagari_machine_converted": "विराधस्य वधम् तथा",
+            "english": "Viradha's, killing, thus."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "भरत द्वारा अयोध्या के राजसिंहासन पर श्रीरामचन्द्रजी की श्रेष्ठ पादुकाओं का अभिषेक एवं स्थापन, नन्दिग्राममें भरतका निवास, श्रीरामका दण्डकारण्यमें गमन, उनके द्वारा विराधका वध,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.17",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पादुकाग्र्याभिषेकम्",
+            "hindi": "श्रेष्ठ पादुकाओं के अभिषेक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नन्दिग्रामनिवासनम्",
+            "hindi": "नन्दिग्राम में निवास को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दण्डकारण्यगमनम्",
+            "hindi": "दण्डकारण्य के गमन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विराधस्य",
+            "hindi": "विराध का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वधम्",
+            "hindi": "वध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.17",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

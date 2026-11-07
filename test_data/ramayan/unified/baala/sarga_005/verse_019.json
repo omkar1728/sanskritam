@@ -1,0 +1,253 @@
+{
+  "id": "baala-005-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 18
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-18"
+    ],
+    "vulgate_in_locators": [
+      "1.5.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005018a",
+        "1005018c"
+      ],
+      "lines": [
+        "दुन्दुभीभिर्मृदङ्गैश्च वीणाभिः पणवैस्तथा",
+        "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्"
+      ],
+      "punctuated_derived": "दुन्दुभीभिर्मृदङ्गैश्च वीणाभिः पणवैस्तथा ।\nनादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दुन्दुभीभिर्मृदङ्गैश्च वीणाभिः पणवैस्तथा",
+        "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्"
+      ],
+      "locators": [
+        "1-5-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दुन्दुभीभिर्मृदंगैश्च वीणाभिः पणवैस्तथा",
+        "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्"
+      ],
+      "locators": [
+        "1.5.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दुन्दुभीभिर्मृदंगैश्च वीणाभिः पणवैस्तथा",
+        "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "दुन्दुभीभिर्मृदङ्गैश्च वीणाभिः पणवैस्तथा",
+      "net": "दुन्दुभीभिर्मृदङ्गैश्च वीणाभिः पणवैस्तथा",
+      "in": "दुन्दुभीभिर्मृदंगैश्च वीणाभिः पणवैस्तथा",
+      "gp": "दुन्दुभीभिर्मृदंगैश्च वीणाभिः पणवैस्तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "दुन्दुभीभिर्मृदङ्गैश्च",
+            "b": "दुन्दुभीभिर्मृदंगैश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "दुन्दुभीभिर्मृदङ्गैश्च",
+            "b": "दुन्दुभीभिर्मृदंगैश्च"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्",
+      "net": "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्",
+      "in": "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्",
+      "gp": "नादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तामनुत्तमाम्",
+            "b": "तामनुत्तमाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-18",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city is sounding with the drumbeats of great drums, and with musical rhythm instruments like mridanga, cymbals, and with string instruments like Veena etc., and on earth she is uniquely the best city. [1-5-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-18",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dundubhiibhiH mR^idangaiH cha",
+            "devanagari_machine_converted": "दुन्दुभीभिः मृदन्गैः च",
+            "english": "great drums, rhythm instruments, also"
+          },
+          {
+            "roman_itrans": "viiNaabhiH paNavaiH tathaa",
+            "devanagari_machine_converted": "वीणाभिः पणवैः तथा",
+            "english": "Veena, string instruments, cymbals, also"
+          },
+          {
+            "roman_itrans": "naaditaam bhR^isham",
+            "devanagari_machine_converted": "नादिताम् भृशम्",
+            "english": "sounding, markedly"
+          },
+          {
+            "roman_itrans": "pR^ithivyaam atyartham anuttamam taam",
+            "devanagari_machine_converted": "पृथिव्याम् अत्यर्थम् अनुत्तमम् ताम्",
+            "english": "on earth, uniquely, the best [city]"
+          },
+          {
+            "roman_itrans": "taam",
+            "devanagari_machine_converted": "ताम्",
+            "english": "her [Dasharatha made an abode.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-18",
+        "spans_beyond_this_verse": false,
+        "text": "Great drums, called dundubhi , placed on castle walls and at central places to drum the times of the day or night, or at the arrivals of the noblemen or to keep the sentry whistles. As well, the melodious tunes from string instruments like Veena or rhythmic instrument mridanga and from various other instruments are always made available to the citizens, as a sort of background music, since royalty sponsors these performing arts."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "भूमण्डलकी वह सर्वोत्तम नगरी दुन्दुभि, मृदंग, वीणा, पणव आदि वाद्योंकी मधुर ध्वनिसे अत्यन्त गूंजती रहती थी॥ १८॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दुन्दुभिभिः",
+            "hindi": "दुन्दुभि (नगाड़े) से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मृदङ्गैः",
+            "hindi": "मृदंग से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "वीणाभिः",
+            "hindi": "वीणाओं से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पणवैः",
+            "hindi": "पणव (एक वाद्य) से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "नादिताम्",
+            "hindi": "गूंजती हुई को (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "भृशम्",
+            "hindi": "बहुत अधिक (अव्यय)"
+          },
+          {
+            "sanskrit": "अत्यर्थम्",
+            "hindi": "अत्यन्त (अव्यय)"
+          },
+          {
+            "sanskrit": "पृथिव्याम्",
+            "hindi": "पृथ्वी पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "ताम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुत्तमाम्",
+            "hindi": "सर्वोत्तम / जिससे उत्तम कोई नहीं उसको (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.18",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "भूमण्डलको वह सर्वोत्तम नगरी दुन्दुभि, मृदंग, वीणा, पणव आदि वाद्योंकी मधुर ध्वनिसे अत्यन्त गूँजती रहती थी॥ १८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

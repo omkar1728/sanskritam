@@ -1,0 +1,284 @@
+{
+  "id": "baala-006-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 11
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-11"
+    ],
+    "vulgate_in_locators": [
+      "1.6.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006011a",
+        "1006011c"
+      ],
+      "lines": [
+        "नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक्",
+        "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्"
+      ],
+      "punctuated_derived": "नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक् ।\nनाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक्",
+        "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्"
+      ],
+      "locators": [
+        "1-6-11"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नामृष्टभोजी नादाता नाप्यनंगदनिष्कधृक्",
+        "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्॥११"
+      ],
+      "locators": [
+        "1.6.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नामृष्टभोजी नादाता नाप्यनंगदनिष्कधृक्‌",
+        "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक्",
+      "net": "नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक्",
+      "in": "नामृष्टभोजी नादाता नाप्यनंगदनिष्कधृक्",
+      "gp": "नामृष्टभोजी नादाता नाप्यनंगदनिष्कधृक्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नाप्यनङ्गदनिष्कधृक्",
+            "b": "नाप्यनंगदनिष्कधृक्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाप्यनङ्गदनिष्कधृक्",
+            "b": "नाप्यनंगदनिष्कधृक्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्",
+      "net": "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्",
+      "in": "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्॥११",
+      "gp": "नाहस्ताभरणो वापि दृश्यते नाप्यनात्मवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नाप्यनात्मवान्",
+            "b": "नाप्यनात्मवान्॥११"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाप्यनात्मवान्",
+            "b": "नाप्यनात्मवान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-11",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "There is none who is famsihed, an uncharitable one in his nature, one with an undecorated body with ornaments like bracelets or chest plates, and there is none without a heart. [1-6-11]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-11",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "amRiSTabhojii",
+            "devanagari_machine_converted": "अम्ऱिष्टभोजी",
+            "english": "not eating stomachfuls - on an empty stomach, not famished"
+          },
+          {
+            "roman_itrans": "adaataa",
+            "devanagari_machine_converted": "अदाता",
+            "english": "none uncharitable"
+          },
+          {
+            "roman_itrans": "na dR^ishyate",
+            "devanagari_machine_converted": "न दृश्यते",
+            "english": "not, seen"
+          },
+          {
+            "roman_itrans": "na api",
+            "devanagari_machine_converted": "न अपि",
+            "english": "none, even"
+          },
+          {
+            "roman_itrans": "ana~NgadaniSkadhR^ik",
+            "devanagari_machine_converted": "अनङ्गदनिष्कधृक्",
+            "english": "with undecorated body ornaments"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "unseen"
+          },
+          {
+            "roman_itrans": "na ahastaabharaNaH",
+            "devanagari_machine_converted": "न अहस्ताभरणः",
+            "english": "none, without arms' ornaments"
+          },
+          {
+            "roman_itrans": "vaa api",
+            "devanagari_machine_converted": "वा अपि",
+            "english": "either, also"
+          },
+          {
+            "roman_itrans": "na anaatmavaan",
+            "devanagari_machine_converted": "न अनात्मवान्",
+            "english": "none, without a heart."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "अपवित्र अन्न भोजन करनेवाला, दान न देनेवाला तथा मनको काबूमें न रखनेवाला मनुष्य तो वहाँ कोई दिखायी ही नहीं देता था। कोई भी ऐसा पुरुष देखनेमें नहीं आता था, जो बाजूबन्द, निष्क तथा हाथका आभूषण धारण न किये हो॥११॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अमृष्टभोजी",
+            "hindi": "बिना साफ भोजन करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अदाता",
+            "hindi": "दान न देने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अनङ्गदनिष्कधृक्",
+            "hindi": "बिना अंगद और निष्क धारण करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अहस्ताभरणः",
+            "hindi": "बिना हाथ के आभूषण वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "दृश्यते",
+            "hindi": "देखा जाता है (दृश् धातु, कर्मवाच्य, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अनात्मवान्",
+            "hindi": "बिना आत्मसंयम वाला / अजितात्मा (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "अपवित्र अन्न भोजन करनेवाला, दान न देनेवाला तथा मनको काबूमें न रखनेवाला मनुष्य तो वहाँ कोई दिखायी ही नहीं देता था। कोई भी ऐसा पुरुष देखनेमें नहीं आता था, जो बाजूबन्द, निष्क (स्वर्णपदक या मोहर) तथा हाथका आभूषण (कड़ा आदि) धारण न किये हो॥ ११॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

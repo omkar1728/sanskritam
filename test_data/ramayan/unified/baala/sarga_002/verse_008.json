@@ -1,0 +1,258 @@
+{
+  "id": "baala-002-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 8
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-8"
+    ],
+    "vulgate_in_locators": [
+      "1.2.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002008a",
+        "1002008c"
+      ],
+      "lines": [
+        "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+        "विचचार ह पश्यंस्तत्सर्वतो विपुलं वनम्"
+      ],
+      "punctuated_derived": "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः ।\nविचचार ह पश्यंस्तत्सर्वतो विपुलं वनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+        "विचचार ह पश्यंस्तत्सर्वतो विपुलं वनम्"
+      ],
+      "locators": [
+        "1-2-8"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+        "विचचार ह पश्यंस्तत् सर्वतो विपुलं वनम्"
+      ],
+      "locators": [
+        "1.2.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+        "विचचार ह पश्यंस्तत्‌ सर्वतो विपुलं वनम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+      "net": "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+      "in": "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+      "gp": "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रियः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "विचचार ह पश्यंस्तत्सर्वतो विपुलं वनम्",
+      "net": "विचचार ह पश्यंस्तत्सर्वतो विपुलं वनम्",
+      "in": "विचचार ह पश्यंस्तत् सर्वतो विपुलं वनम्",
+      "gp": "विचचार ह पश्यंस्तत्‌ सर्वतो विपुलं वनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पश्यंस्तत्सर्वतो",
+            "b": "पश्यंस्तत् सर्वतो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पश्यंस्तत्सर्वतो",
+            "b": "पश्यंस्तत्‌ सर्वतो"
+          },
+          {
+            "a": "वनम्",
+            "b": "वनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-8",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That self-controlled Sage Valmiki on taking bark-garment from his disciple's hands, and looking in all directions, indeed moved away from that wide expanse of forest. [1-2-8]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-8",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "He [Valmiki]"
+          },
+          {
+            "roman_itrans": "niyatendriyaH",
+            "devanagari_machine_converted": "नियतेन्द्रियः",
+            "english": "with controlled senses"
+          },
+          {
+            "roman_itrans": "aadaaya",
+            "devanagari_machine_converted": "आदाय",
+            "english": "on taking"
+          },
+          {
+            "roman_itrans": "shiShyahastaat",
+            "devanagari_machine_converted": "शिष्यहस्तात्",
+            "english": "from disciple's, hands"
+          },
+          {
+            "roman_itrans": "valkalam",
+            "devanagari_machine_converted": "वल्कलम्",
+            "english": "the bark-garment"
+          },
+          {
+            "roman_itrans": "pashyan sarvataH",
+            "devanagari_machine_converted": "पश्यन् सर्वतः",
+            "english": "looking in all directions"
+          },
+          {
+            "roman_itrans": "vichachaara ha",
+            "devanagari_machine_converted": "विचचार ह",
+            "english": "indeed moved away from"
+          },
+          {
+            "roman_itrans": "tat vipulam vanam",
+            "devanagari_machine_converted": "तत् विपुलम् वनम्",
+            "english": "that wide forest."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "शिष्यके हाथसे वल्कल लेकर वे जितेन्द्रिय मुनि वहाँके विशाल वनकी शोभा देखते हुए सब ओर विचरने लगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शिष्यहस्तात्",
+            "hindi": "शिष्य के हाथ से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "आदाय",
+            "hindi": "लेकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "वल्कलम्",
+            "hindi": "वल्कल को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नियतेन्द्रियः",
+            "hindi": "जितेन्द्रिय ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विचचार",
+            "hindi": "विचरने लगे (वि + चर्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "पश्यन्",
+            "hindi": "देखता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वतः",
+            "hindi": "सब ओर (अव्यय)"
+          },
+          {
+            "sanskrit": "विपुलम्",
+            "hindi": "विशाल (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वनम्",
+            "hindi": "वन को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.8",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "शिष्यके हाथसे वल्कल लेकर वे जितेन्द्रिय मुनि वहाँके विशाल वनकी शोभा देखते हुए सब ओर विचरने लगे॥ ८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

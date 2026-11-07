@@ -1,0 +1,228 @@
+{
+  "id": "baala-004-030",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 30,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 25
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-32"
+    ],
+    "vulgate_in_locators": [
+      "1.4.32"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.32"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004025a",
+        "1004025c"
+      ],
+      "lines": [
+        "श्रूयतामिदमाख्यानमनयोर्देववर्चसोः",
+        "विचित्रार्थपदं सम्यग्गायतोर्मधुरस्वरम्"
+      ],
+      "punctuated_derived": "श्रूयतामिदमाख्यानमनयोर्देववर्चसोः ।\nविचित्रार्थपदं सम्यग्गायतोर्मधुरस्वरम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः",
+        "विचित्रार्थपदं सम्यग्गायकौ समचोदयत्"
+      ],
+      "locators": [
+        "1-4-32"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः",
+        "विचित्रार्थपदं सम्यग्गायकौ समचोदयत्"
+      ],
+      "locators": [
+        "1.4.32"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.4.32"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "श्रूयतामिदमाख्यानमनयोर्देववर्चसोः",
+      "net": "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः",
+      "in": "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः",
+      "gp": "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः",
+      "similarity": {
+        "sim_smith_net": 0.9393939393939394,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "श्रूयतामिदमाख्यानमनयोर्देववर्चसोः",
+            "b": "श्रूयतामेतदाख्यानमनयोर्देववर्चसोः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विचित्रार्थपदं सम्यग्गायतोर्मधुरस्वरम्",
+      "net": "विचित्रार्थपदं सम्यग्गायकौ समचोदयत्",
+      "in": "विचित्रार्थपदं सम्यग्गायकौ समचोदयत्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 0.7164179104477612,
+        "sim_in_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सम्यग्गायतोर्मधुरस्वरम्",
+            "b": "सम्यग्गायकौ समचोदयत्"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-32",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Rama said to thus, \"Let this ballad be keenly heard from these divinely resplendent brothers, for it contains versatile words and meanings...' and thus he motivated the singers. [1-4-32]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-32",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anayoH devavarchasoH",
+            "devanagari_machine_converted": "अनयोः देववर्चसोः",
+            "english": "from them, divinely resplendent ones"
+          },
+          {
+            "roman_itrans": "vichitraarthapadam",
+            "devanagari_machine_converted": "विचित्रार्थपदम्",
+            "english": "having versatile meanings wordings"
+          },
+          {
+            "roman_itrans": "idam aakhyaanam samyak shruuyataam",
+            "devanagari_machine_converted": "इदम् आख्यानम् सम्यक् श्रूयताम्",
+            "english": "this, legend [ballad], keenly, be heard"
+          },
+          {
+            "roman_itrans": "[tau] gaayakau samachodayat",
+            "devanagari_machine_converted": "[तौ] गायकौ समचोदयत्",
+            "english": "[them,] two singers, motivated."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.32",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘ये देवताके समान तेजस्वी दोनों कुमार विचित्र अर्थ और पदोंसे युक्त मधुर काव्य बड़े सुन्दर ढंगसे गाकर सुनाते हैं। तुम सब लोग इसे सुनो।’ यों कहकर उन्होंने उन दोनों भाइयोंको गानेकी आज्ञा दी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.32",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रूयताम्",
+            "hindi": "सुना जाए"
+          },
+          {
+            "sanskrit": "एतत्",
+            "hindi": "यह"
+          },
+          {
+            "sanskrit": "आख्यानम्",
+            "hindi": "आख्यान / काव्य"
+          },
+          {
+            "sanskrit": "अनयोः",
+            "hindi": "इन दोनों के द्वारा"
+          },
+          {
+            "sanskrit": "देववर्चसोः",
+            "hindi": "देवताओं के समान तेज वाले"
+          },
+          {
+            "sanskrit": "विचित्रार्थपदम्",
+            "hindi": "विचित्र अर्थ और पदों वाला"
+          },
+          {
+            "sanskrit": "सम्यक्",
+            "hindi": "भलीभाँति / सुन्दर ढंग से"
+          },
+          {
+            "sanskrit": "गायकौ",
+            "hindi": "गायक"
+          },
+          {
+            "sanskrit": "समचोदयत्",
+            "hindi": "आज्ञा दी / प्रेरित किया"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.32",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "विचित्रार्थपदं सम्यग्गायकौ समचोदयत्‌। एक समय सर्वत्र प्रशंसित होनेवाले राजकुमार कुश और लव अयोध्याकी गलियों और सड़कोंपर रामायणके श्लोकोंका गान करते हुए विचर रहे थे। इसी समय उनके ऊपर भरतके बड़े भाई श्रीरामकी दृष्टि पड़ी। उन्होंने उन समादरयोग्य बन्धुओंको अपने घर बुलाकर उनका यथोचित सम्मान किया। तदनन्तर शज्रुओंका संहार करनेवाले श्रीराम सुवर्णमय दिव्य सिंहासनपर विराजमान हुए। उनके मन्त्री और भाई भी उनके पास ही बैठे थे। उन सबके साथ सुन्दर रूपवाले उन दोनों विनयशील भाइयोंकी ओर देखकर श्रीरामचन्द्रजीने भरत, लक्ष्मण और शत्रुष्नसे कहा--'ये देवताके समान तेजस्वी दोनों कुमार विचित्र अर्थ और पदोंसे युक्त मधुर काव्य बड़े सुन्दर ढंगसे गाकर सुनाते हैं। तुम सब लोग इसे सुनो ।' यों कहकर उन्होंने उन दोनों भाइयोंको गानेकी आज्ञा दी॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

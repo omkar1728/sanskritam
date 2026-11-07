@@ -1,0 +1,271 @@
+{
+  "id": "baala-007-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 16
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-21, 1-7-22"
+    ],
+    "vulgate_in_locators": [
+      "1.7.21"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.29"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007016a"
+      ],
+      "lines": [
+        "अवेक्षमाणश्चारेण प्रजा धर्मेण रञ्जयन्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अवेक्षमाणश्चारेण प्रजा धर्मेण रक्षयन्"
+      ],
+      "locators": [
+        "1-7-21, 1-7-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अवेक्ष्यमाणश्चारेण प्रजा धर्मेण रक्षयन्"
+      ],
+      "locators": [
+        "1.7.21"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अवेक्ष्यमाणश्चारेण प्रजा धर्मेण रक्षयन्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_21_differs_from_sanskrit_29",
+        "verse_number_nonsequential_expected_21"
+      ],
+      "refs": [
+        "1.7.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अवेक्षमाणश्चारेण प्रजा धर्मेण रञ्जयन्",
+      "net": "अवेक्षमाणश्चारेण प्रजा धर्मेण रक्षयन्",
+      "in": "अवेक्ष्यमाणश्चारेण प्रजा धर्मेण रक्षयन्",
+      "gp": "अवेक्ष्यमाणश्चारेण प्रजा धर्मेण रक्षयन्‌",
+      "similarity": {
+        "sim_smith_net": 0.9253731343283582,
+        "sim_in_net": 0.9714285714285714,
+        "sim_gp_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "रञ्जयन्",
+            "b": "रक्षयन्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "अवेक्षमाणश्चारेण",
+            "b": "अवेक्ष्यमाणश्चारेण"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अवेक्षमाणश्चारेण",
+            "b": "अवेक्ष्यमाणश्चारेण"
+          },
+          {
+            "a": "रक्षयन्",
+            "b": "रक्षयन्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-21, 1-7-22",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He that most generous one among men, Dasharatha, while observing through spies, and to protect people righteously, and to give a good governance to them, he forsook unrighteousness and became a generous king avowed to truthfulness alone, and thus he that Dasharatha ruled the earth, which rulership is renowned in all the three worlds. [1-7-21,22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-21, 1-7-22",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "20-21. puruSavyaaghraH",
+            "devanagari_machine_converted": "२०-२१। पुरुषव्याघ्रः",
+            "english": "tigerly man [most generous among people]"
+          },
+          {
+            "roman_itrans": "chaareNa avekShyamaaNaH",
+            "devanagari_machine_converted": "चारेण अवेक्ष्यमाणः",
+            "english": "observing by spies"
+          },
+          {
+            "roman_itrans": "prajaaH",
+            "devanagari_machine_converted": "प्रजाः",
+            "english": "people"
+          },
+          {
+            "roman_itrans": "rakShayan",
+            "devanagari_machine_converted": "रक्षयन्",
+            "english": "to protect"
+          },
+          {
+            "roman_itrans": "dharmeNa",
+            "devanagari_machine_converted": "धर्मेण",
+            "english": "virtuously"
+          },
+          {
+            "roman_itrans": "prajaanaam paalanam kurvan",
+            "devanagari_machine_converted": "प्रजानाम् पालनम् कुर्वन्",
+            "english": "to give good rule to people"
+          },
+          {
+            "roman_itrans": "adharmam parivarjayan",
+            "devanagari_machine_converted": "अधर्मम् परिवर्जयन्",
+            "english": "entirely giving up unrighteousness"
+          },
+          {
+            "roman_itrans": "vadaanyaH",
+            "devanagari_machine_converted": "वदान्यः",
+            "english": "generous"
+          },
+          {
+            "roman_itrans": "satyasangaraH",
+            "devanagari_machine_converted": "सत्यसन्गरः",
+            "english": "avowedly truthful"
+          },
+          {
+            "roman_itrans": "triSu lokeSu vishrutaH",
+            "devanagari_machine_converted": "त्रिषु लोकेषु विश्रुतः",
+            "english": "renowned in three worlds"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he, Dasharatha"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "from there"
+          },
+          {
+            "roman_itrans": "shashaasa",
+            "devanagari_machine_converted": "शशास",
+            "english": "ruled."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.21",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे गुप्तचरोंके द्वारा अपने और शत्रु-राज्यके वृत्तान्तोंपर दृष्टि रखते थे, प्रजाका धर्मपूर्वक पालन करते थे तथा प्रजापालन करते हुए अधर्मसे दूर ही रहते थे॥२१॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.21",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अवेक्ष्यमाणः",
+            "hindi": "देखते हुए / अवलोकन करते हुए (प्रथमा विभक्ति, शानच् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "चारेण",
+            "hindi": "गुप्तचरों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रजाः",
+            "hindi": "प्रजा को (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "धर्मेण",
+            "hindi": "धर्म से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रक्षयन्",
+            "hindi": "रक्षा करते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "प्रजानाम्",
+            "hindi": "प्रजा का (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "पालनम्",
+            "hindi": "पालन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कुर्वन्",
+            "hindi": "करते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अधर्मम्",
+            "hindi": "अधर्म से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "परिवर्जयन्",
+            "hindi": "दूर रहते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.29",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_21",
+          "hindi_marker_21_differs_from_sanskrit_29"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "वे गुप्तचरोंके द्वार अपने और शत्रु-राज्यके वृत्तान्तांपर दृष्टि रखते थे, प्रजाका धर्मपूर्वक पालन करते थे तथा प्रजापालन करते हुए अधर्मसे दूर ही रहते थे॥ २१॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,478 @@
+{
+  "id": "baala-007-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-5",
+      "1-7-6, 1-7-7"
+    ],
+    "vulgate_in_locators": [
+      "1.7.5",
+      "1.7.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.5",
+      "1.7.6"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः",
+        "मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः",
+        "एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः",
+        "विद्याविनीता ह्रीमंतः कुशला नियतेन्द्रियाः"
+      ],
+      "locators": [
+        "1-7-5",
+        "1-7-6, 1-7-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः",
+        "मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः॥५",
+        "एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः",
+        "विद्याविनीता हीमन्तः कुशला नियतेन्द्रियाः॥६"
+      ],
+      "locators": [
+        "1.7.5",
+        "1.7.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः",
+        "मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः",
+        "एतैब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः",
+        "विद्याविनीता ह्रीमन्तः कुशला नियतेन्द्रियाः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_4-5",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.7.5",
+        "1.7.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः",
+      "in": "सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः",
+      "gp": "सुयज्ञोऽप्यथ जाबालिः काश्यपोऽप्यथ गौतमः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः",
+      "in": "मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः॥५",
+      "gp": "मार्कण्डेयस्तु दीर्घायुस्तथा कात्यायनो द्विजः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "द्विजः",
+            "b": "द्विजः॥५"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः",
+      "in": "एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः",
+      "gp": "एतैब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9772727272727273
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य",
+            "b": "एतैब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "विद्याविनीता ह्रीमंतः कुशला नियतेन्द्रियाः",
+      "in": "विद्याविनीता हीमन्तः कुशला नियतेन्द्रियाः॥६",
+      "gp": "विद्याविनीता ह्रीमन्तः कुशला नियतेन्द्रियाः",
+      "similarity": {
+        "sim_in_net": 0.972972972972973,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "ह्रीमंतः",
+            "b": "हीमन्तः"
+          },
+          {
+            "a": "नियतेन्द्रियाः",
+            "b": "नियतेन्द्रियाः॥६"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ह्रीमंतः",
+            "b": "ह्रीमन्तः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Suyajna, Jabaali, Kaashyapa, Gautama, Maarkandeya, Deerghaayu, and then Kaatyayana are the scholarly Brahmans acting as religious ministers, and along with them there are also Brahma-sages who are always the ancestral ritual scholars for Dasharatha's family. [1-7-5, 6a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-6, 1-7-7",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "All the ministers are well versed in scriptures, they shun bad deeds, skilful ones in their duties with their senses regulated. Those great souls are affluent, knowers of all sciences, firmly courageous, and they are distinguished and quiet-souls, and those ministers are true to their word. They are magnificent, patient and famed ones and they smile afore they converse. [1-7-6b, 8a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "5, 6a. suyaj~naH api",
+            "devanagari_machine_converted": "५, ६अ। सुयज्ञः अपि",
+            "english": "Suyajna, also"
+          },
+          {
+            "roman_itrans": "atha jaabaaliH",
+            "devanagari_machine_converted": "अथ जाबालिः",
+            "english": "then, Jaabaali"
+          },
+          {
+            "roman_itrans": "kaashaypaH api",
+            "devanagari_machine_converted": "काशय्पः अपि",
+            "english": "Kashyapa, also"
+          },
+          {
+            "roman_itrans": "atha gautamaH",
+            "devanagari_machine_converted": "अथ गौतमः",
+            "english": "then, Gautama"
+          },
+          {
+            "roman_itrans": "maarkaNDeyaH tu",
+            "devanagari_machine_converted": "मार्कण्डेयः तु",
+            "english": "Maarkandeya, also"
+          },
+          {
+            "roman_itrans": "diirghaayuH tathaa",
+            "devanagari_machine_converted": "दीर्घायुः तथा",
+            "english": "Deerghaayu, like that"
+          },
+          {
+            "roman_itrans": "kaatyaayanaH",
+            "devanagari_machine_converted": "कात्यायनः",
+            "english": "Kaatyayana"
+          },
+          {
+            "roman_itrans": "dvijaH",
+            "devanagari_machine_converted": "द्विजः",
+            "english": "Brahman"
+          },
+          {
+            "roman_itrans": "etaiH",
+            "devanagari_machine_converted": "एतैः",
+            "english": "along with them"
+          },
+          {
+            "roman_itrans": "brahmarSibhiH",
+            "devanagari_machine_converted": "ब्रह्मर्षिभिः",
+            "english": "Brahma-sages"
+          },
+          {
+            "roman_itrans": "nityam",
+            "devanagari_machine_converted": "नित्यम्",
+            "english": "always"
+          },
+          {
+            "roman_itrans": "R^itvijaH",
+            "devanagari_machine_converted": "ऋत्विजः",
+            "english": "ritual scholars"
+          },
+          {
+            "roman_itrans": "tasya paurvakaaH",
+            "devanagari_machine_converted": "तस्य पौर्वकाः",
+            "english": "his ancestral pundits."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-6, 1-7-7",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "6b, 8a vidyaaviniitaaH",
+            "devanagari_machine_converted": "६ब्, ८अ विद्याविनीताः",
+            "english": "well-versed in scriptures"
+          },
+          {
+            "roman_itrans": "hriimantaH",
+            "devanagari_machine_converted": "ह्रीमन्तः",
+            "english": "shun bad deeds"
+          },
+          {
+            "roman_itrans": "kushalaaH",
+            "devanagari_machine_converted": "कुशलाः",
+            "english": "skilful"
+          },
+          {
+            "roman_itrans": "niyatendriyaaH",
+            "devanagari_machine_converted": "नियतेन्द्रियाः",
+            "english": "with regulated senses"
+          },
+          {
+            "roman_itrans": "shriimantaH cha",
+            "devanagari_machine_converted": "श्रीमन्तः च",
+            "english": "affluent ones"
+          },
+          {
+            "roman_itrans": "mahaaatmaanaH",
+            "devanagari_machine_converted": "महाअत्मानः",
+            "english": "great souls"
+          },
+          {
+            "roman_itrans": "shaastraj~naaH",
+            "devanagari_machine_converted": "शास्त्रज्ञाः",
+            "english": "knowers of sciences"
+          },
+          {
+            "roman_itrans": "dhR^iDhavikramaaH",
+            "devanagari_machine_converted": "धृढविक्रमाः",
+            "english": "firmly courageous"
+          },
+          {
+            "roman_itrans": "kiirtimantaH",
+            "devanagari_machine_converted": "कीर्तिमन्तः",
+            "english": "distinguished ones"
+          },
+          {
+            "roman_itrans": "praNihitaaH",
+            "devanagari_machine_converted": "प्रणिहिताः",
+            "english": "quiet souls"
+          },
+          {
+            "roman_itrans": "yathaavachanakaariNaH",
+            "devanagari_machine_converted": "यथावचनकारिणः",
+            "english": "doers as per their word, [true to their word]"
+          },
+          {
+            "roman_itrans": "tejaHkShamaayashaHpraaptaaH",
+            "devanagari_machine_converted": "तेजःक्षमायशःप्राप्ताः",
+            "english": "having magnificence, patience, fame"
+          },
+          {
+            "roman_itrans": "smitapuurvaabhibhaaShiNaH",
+            "devanagari_machine_converted": "स्मितपूर्वाभिभाषिणः",
+            "english": "smile afore while they converse."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इनके सिवा सुयज्ञ, जाबालि, काश्यप, गौतम, दीर्घायु मार्कण्डेय और विप्रवर कात्यायन भी महाराज के मन्त्री थे।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इन ब्रह्मर्षियोंके साथ राजाके पूर्वपरम्परागत ऋत्विज् भी सदा मन्त्रीका कार्य करते थे। वे सब-के-सब विद्वान् होनेके कारण विनयशील, सलज्ज, कार्यकुशल, जितेन्द्रिय,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सुयज्ञः",
+            "hindi": "सुयज्ञ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अथ",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "जाबालिः",
+            "hindi": "जाबालि (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "काश्यपः",
+            "hindi": "काश्यप (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अथ",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "गौतमः",
+            "hindi": "गौतम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मार्कण्डेयः",
+            "hindi": "मार्कण्डेय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "दीर्घायुः",
+            "hindi": "दीर्घायु (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "कात्यायनः",
+            "hindi": "कात्यायन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजः",
+            "hindi": "ब्राह्मण (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "एतैः",
+            "hindi": "इनके साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रह्मर्षिभिः",
+            "hindi": "ब्रह्मर्षियों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "ऋत्विजः",
+            "hindi": "ऋत्विज (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पौर्वकाः",
+            "hindi": "पूर्व परम्परा के (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विद्याविनीताः",
+            "hindi": "विद्या से विनम्र (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ह्रीमन्तः",
+            "hindi": "सलज्ज (प्रथमा विभक्ति, बहुवचन, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "कुशलाः",
+            "hindi": "कार्यकुशल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नियतेन्द्रियाः",
+            "hindi": "जितेन्द्रिय (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.5",
+        "ocr_flags": [
+          "hindi_marker_range_4-5"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "ऋषियोंमें श्रेष्ठतम वसिष्ठ और वामदेव-ये दो महर्षि राजाके माननीय ऋत्विज्‌ (पुरोहित) थे। इनके सिवा सुयज्ञ, जाबालि, काश्यप, गौतम, दीर्घायु मार्कण्डेय और विप्रवर कात्यायन भी महाराजके मन्त्री थे॥ ४-५॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.6",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "इन ब्रह्मर्षियोंके साथ राजाके पूर्वपरम्परागत ऋत्विज्‌ भी सदा मन्त्रीका कार्य करते थे। वे सब- के-सब विद्वान्‌ होनेके कारण विनयशील, सलज्ज, कार्यकुशल, जितेन्द्रिय, श्रीसम्मन्न, महात्मा, शस्त्रविद्याके ज्ञाता, सुदृढ़ पराक्रमी, यशस्वी, समस्त राजकार्योमे सावधान, राजाकी आज्ञाके अनुसार कार्य करनेवाले, तेजस्वी, क्षमाशील, कीर्तिमान्‌ तथा मुसकराकर बात करनेवाले थे। वे कभी काम, क्रोध या स्वार्थके वशीभूत होकर झूठ नहीँ बोलते थे॥ ६-८॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

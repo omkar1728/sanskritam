@@ -1,0 +1,360 @@
+{
+  "id": "baala-003-027",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 27,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-27",
+      "1-3-28"
+    ],
+    "vulgate_in_locators": [
+      "1.3.27",
+      "1.3.28"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.27",
+      "1.3.28"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "समुद्रवचनाच्चैव मैनाकस्य च दर्शनम्",
+        "राक्षसीतर्जनं चैव छायाग्राहस्य दर्शनम्",
+        "सिंहिकायाश्च निधनं लङ्कामलयदर्शनम्"
+      ],
+      "locators": [
+        "1-3-27",
+        "1-3-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "समुद्रवचनाच्चैव मैनाकस्य च दर्शनम्",
+        "राक्षसीतर्जनं चैव च्छायाग्राहस्य दर्शनम्",
+        "सिंहिकायाश्च निधनं लङ्कामलयदर्शनम्"
+      ],
+      "locators": [
+        "1.3.27",
+        "1.3.28"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "समुद्रवचनाच्चैव मैनाकस्य च दर्शनम्‌",
+        "राक्षसीतर्जनं चैव च्छायाग्राहस्य दर्शनम्‌",
+        "सिंहिकायाशच निधनं लङ्कामलयदर्शनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.27",
+        "1.3.28"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "समुद्रवचनाच्चैव मैनाकस्य च दर्शनम्",
+      "in": "समुद्रवचनाच्चैव मैनाकस्य च दर्शनम्",
+      "gp": "समुद्रवचनाच्चैव मैनाकस्य च दर्शनम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "दर्शनम्",
+            "b": "दर्शनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "राक्षसीतर्जनं चैव छायाग्राहस्य दर्शनम्",
+      "in": "राक्षसीतर्जनं चैव च्छायाग्राहस्य दर्शनम्",
+      "gp": "राक्षसीतर्जनं चैव च्छायाग्राहस्य दर्शनम्‌",
+      "similarity": {
+        "sim_in_net": 0.9714285714285714,
+        "sim_gp_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "छायाग्राहस्य",
+            "b": "च्छायाग्राहस्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "छायाग्राहस्य दर्शनम्",
+            "b": "च्छायाग्राहस्य दर्शनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "सिंहिकायाश्च निधनं लङ्कामलयदर्शनम्",
+      "in": "सिंहिकायाश्च निधनं लङ्कामलयदर्शनम्",
+      "gp": "सिंहिकायाशच निधनं लङ्कामलयदर्शनम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9830508474576272
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सिंहिकायाश्च",
+            "b": "सिंहिकायाशच"
+          },
+          {
+            "a": "लङ्कामलयदर्शनम्",
+            "b": "लङ्कामलयदर्शनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-27",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Hanuma's climbing Mt. Mahendra to leap over the ocean, and on the advice of the Ocean, Mt. Mainaka's coming up from under waters to give rest to Hanuma, and Hanuma's seeing that mountain are depicted. [1-3-27]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-28",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Hanuma's killing the demoness Surasa, and his seeing of Simhika, a rapacious creature of gigantic origin, which captures its prey by the shadow, and Hanuma's killing that Simhika, and his seeing the mountain of Lanka, called Mt. Trikuta, on which the state of Lanka is built, Valmiki described them all. [1-3-28]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-27",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "parvataarohaNam ca api",
+            "devanagari_machine_converted": "पर्वतारोहणम् च अपि",
+            "english": "mountain [Mt. Mahendra] climbing, also, even"
+          },
+          {
+            "roman_itrans": "saagarasya ca la~nghanam",
+            "devanagari_machine_converted": "सागरस्य च लञ्घनम्",
+            "english": "also leaping out of ocean"
+          },
+          {
+            "roman_itrans": "samudravachanaat ca eva",
+            "devanagari_machine_converted": "समुद्रवचनात् च एव",
+            "english": "advise of Ocean, also, thus"
+          },
+          {
+            "roman_itrans": "mainaakasya ca darshanam",
+            "devanagari_machine_converted": "मैनाकस्य च दर्शनम्",
+            "english": "also seeing of Mt. Mainaka."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-28",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raakShasii tarjanam ca eva",
+            "devanagari_machine_converted": "राक्षसी तर्जनम् च एव",
+            "english": "demoness', killing, also, thus"
+          },
+          {
+            "roman_itrans": "Chaayaagraahsya darshanam",
+            "devanagari_machine_converted": "छायाग्राह्स्य दर्शनम्",
+            "english": "seeing Simhika the capturer by shadow"
+          },
+          {
+            "roman_itrans": "simhikaayaaH ca nidhanam",
+            "devanagari_machine_converted": "सिम्हिकायाः च निधनम्",
+            "english": "Simhika's, killing, also"
+          },
+          {
+            "roman_itrans": "la~nkaamalayadarshanam",
+            "devanagari_machine_converted": "लञ्कामलयदर्शनम्",
+            "english": "seeing Lanka mountain."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "समुद्रलङ्घनके लिये हनुमान् जी का महेन्द्र पर्वतपर चढ़ना, समुद्रको लाँघना, समुद्रके कहनेसे ऊपर उठे हुए मैनाकका दर्शन करना,"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इनको राक्षसीका डाँटना, हनुमान्द्वारा छायाग्राहिणी सिंहिका का दर्शन एवं निधन, लङ्काके आधारभूत पर्वत त्रिकूट का दर्शन,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पर्वतारोहणम्",
+            "hindi": "पर्वत पर चढ़ना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "सागरस्य",
+            "hindi": "समुद्र का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "लङ्घनम्",
+            "hindi": "लाँघना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रवचनात्",
+            "hindi": "समुद्र के कहने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "मैनाकस्य",
+            "hindi": "मैनाक पर्वत का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राक्षसीतर्जनम्",
+            "hindi": "राक्षसी (सीता को) धमकाना / डाँटना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "च्छायाग्राहस्य",
+            "hindi": "छाया ग्रहण करने वाली (सिंहिका) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सिंहिकायाः",
+            "hindi": "सिंहिका का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "निधनम्",
+            "hindi": "निधन / मृत्यु (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "लङ्कामलयदर्शनम्",
+            "hindi": "लंका के मलय पर्वत (त्रिकूट) का दर्शन (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.27",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.28",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

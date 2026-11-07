@@ -1,0 +1,406 @@
+{
+  "id": "baala-001-061",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 61,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 46
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-56",
+      "1-1-57"
+    ],
+    "vulgate_in_locators": [
+      "1.1.56",
+      "1.1.57"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.56",
+      "1.1.57"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001046a",
+        "1001046c",
+        "1001046e"
+      ],
+      "lines": [
+        "स चास्य कथयामास शबरीं धर्मचारिणीम्",
+        "श्रमणीं धर्मनिपुणामभिगच्छेति राघव",
+        "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स चास्य कथयामास शबरीं धर्मचारिणीम्",
+        "श्रमणीं धर्मनिपुणामभिगच्छेति राघव",
+        "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः"
+      ],
+      "locators": [
+        "1-1-56",
+        "1-1-57"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स चास्य कथयामास शबरी धर्मचारिणीम्",
+        "श्रमणां धर्मनिपुणामभिगच्छेति राघव",
+        "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः"
+      ],
+      "locators": [
+        "1.1.56",
+        "1.1.57"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स चास्य कथयामास शबरीं धर्मचारिणीम्‌",
+        "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_563_differs_from_sanskrit_56",
+        "hindi_marker_573_differs_from_sanskrit_57"
+      ],
+      "refs": [
+        "1.1.56",
+        "1.1.57"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स चास्य कथयामास शबरीं धर्मचारिणीम्",
+      "net": "स चास्य कथयामास शबरीं धर्मचारिणीम्",
+      "in": "स चास्य कथयामास शबरी धर्मचारिणीम्",
+      "gp": "स चास्य कथयामास शबरीं धर्मचारिणीम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9824561403508771,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शबरीं",
+            "b": "शबरी"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "धर्मचारिणीम्",
+            "b": "धर्मचारिणीम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "श्रमणीं धर्मनिपुणामभिगच्छेति राघव",
+      "net": "श्रमणीं धर्मनिपुणामभिगच्छेति राघव",
+      "in": "श्रमणां धर्मनिपुणामभिगच्छेति राघव",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.967741935483871
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "श्रमणीं",
+            "b": "श्रमणां"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः",
+      "net": "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः",
+      "in": "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः",
+      "gp": "सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-56",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That Rama with great arms after slaying Kabandha, cremated him and Kabandha obtanined heaven. Before going to heaven, he spoke thus to Rama: 'Oh Raghava! You proceed to Sabari, a lady with righteous conduct, an expert in probity and a devotee.'... [1-1-56, 57a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-57",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That great resplendent Rama, the son of Dasaratha, an anhillator of enemies, approached Sabari and was thoroughly honoured by her... [1-1-57b, 58a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-56",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "56, 57a. mahaabaahuH",
+            "devanagari_machine_converted": "५६, ५७अ। महाबाहुः",
+            "english": "[Rama with] great arms"
+          },
+          {
+            "roman_itrans": "tam nihatya",
+            "devanagari_machine_converted": "तम् निहत्य",
+            "english": "after slaying Kabandha; dadaaha = cremated [Kabandha]"
+          },
+          {
+            "roman_itrans": "saH svargataH ca",
+            "devanagari_machine_converted": "सः स्वर्गतः च",
+            "english": "and he [Kabandha] obtained the heaven; saH ca kathayaamaasa iti = he spoke thus"
+          },
+          {
+            "roman_itrans": "asya",
+            "devanagari_machine_converted": "अस्य",
+            "english": "to him [to Rama]"
+          },
+          {
+            "roman_itrans": "raaghava",
+            "devanagari_machine_converted": "राघव",
+            "english": "Oh Raghava!; abhigacCha = you proceed; shabariim = to Shabari"
+          },
+          {
+            "roman_itrans": "dharmacaariNiim",
+            "devanagari_machine_converted": "धर्मचारिणीम्",
+            "english": "a lady with righteous conduct"
+          },
+          {
+            "roman_itrans": "dharmanipuNaam",
+            "devanagari_machine_converted": "धर्मनिपुणाम्",
+            "english": "she who is an expert in probity"
+          },
+          {
+            "roman_itrans": "shramaNiim",
+            "devanagari_machine_converted": "श्रमणीम्",
+            "english": "a devotee."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-57",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "57b, 58a. saH mahaatejaaH",
+            "devanagari_machine_converted": "५७ब्, ५८अ। सः महातेजाः",
+            "english": "That great resplendent"
+          },
+          {
+            "roman_itrans": "dasharathaatmajaH raamaH",
+            "devanagari_machine_converted": "दशरथात्मजः रामः",
+            "english": "Rama the son of Dasaratha"
+          },
+          {
+            "roman_itrans": "shatrusuudanaH",
+            "devanagari_machine_converted": "शत्रुसूदनः",
+            "english": "an anhillator of enemies"
+          },
+          {
+            "roman_itrans": "shabariim abhyaagacChat",
+            "devanagari_machine_converted": "शबरीम् अभ्यागच्छत्",
+            "english": "approached Sabari"
+          },
+          {
+            "roman_itrans": "shabaryaa samyak puujitaH",
+            "devanagari_machine_converted": "शबर्या सम्यक् पूजितः",
+            "english": "[and] was thoroughly honoured by Sabari."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-57",
+        "spans_beyond_this_verse": true,
+        "text": "Next verse onwards the episodes in KiShkindha are introduced. Now Rama meets Hanuma, the Vaanara. vanena= in forests, charati= moves about, iti= thus; therefore vaanara = 'forest-ranger' is the declination of the term Vaanara. Traditionally Hanuma is worshipped as a god."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.56",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "महाबाहु रामने उसे मारकर उसका भी दाह किया, अतः वह स्वर्गको चला गया। जाते समय उसने रामसे धर्मचारिणी शबरीका पता बतलाया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.57",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और कहा—'रघुनन्दन! आप धर्मपरायणा संन्यासिनी शबरीके आश्रमपर जाइये'। शत्रुहन्ता महान् तेजस्वी दशरथकुमार राम शबरीके यहाँ गये"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.56",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तम्",
+            "hindi": "उसको (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "निहत्य",
+            "hindi": "मारकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "महाबाहुः",
+            "hindi": "महाबाहु (राम) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ददाह",
+            "hindi": "जलाया (दह् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "स्वर्गतः",
+            "hindi": "स्वर्ग को गया हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उस (कबन्ध) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अस्य",
+            "hindi": "इस (राम) को (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "कथयामास",
+            "hindi": "बतलाया (कथ् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "शबरीम्",
+            "hindi": "शबरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मचारिणीम्",
+            "hindi": "धर्म का आचरण करने वाली को (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.57",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रमणाम्",
+            "hindi": "श्रमणी / तपस्विनी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मनिपुणाम्",
+            "hindi": "धर्म में निपुण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिगच्छ",
+            "hindi": "प्राप्त हो (अभि + गम्, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "राघव",
+            "hindi": "हे राघव (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभ्यगच्छत्",
+            "hindi": "गया (अभि + गम्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "महातेजाः",
+            "hindi": "महातेजस्वी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शबरीम्",
+            "hindi": "शबरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शत्रुसूदनः",
+            "hindi": "शत्रुओं का वध करने वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.56",
+        "ocr_flags": [
+          "hindi_marker_563_differs_from_sanskrit_56"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "श्रमणां धर्मनिपुणामभिगच्छेति राघव। “जाते समय उसने रामसे धर्मचारिणी शबरीका पता बतलाया और कहा-- रघुनन्दन! आप धर्मपरायणा संन्यासिनी शबरीके आश्रमपर जाइये'॥ ५६३ ॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.57",
+        "ocr_flags": [
+          "hindi_marker_573_differs_from_sanskrit_57"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "शबर्या पूजितः सम्यग्‌ रामो दशरथात्मजः। “शत्रुहन्ता महान्‌ तेजस्वी दशरथकुमार राम शबरीके यहाँ गये, उसने इनका भलीभाँति पूजन किया॥ ५७३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

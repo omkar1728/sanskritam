@@ -1,0 +1,279 @@
+{
+  "id": "baala-007-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-23"
+    ],
+    "vulgate_in_locators": [
+      "1.7.23"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.23"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "मित्रवान्नतसामन्तः प्रतापहतकण्टकः",
+        "स शशास जगद्राजा दिवं देवपतिर्यथा"
+      ],
+      "locators": [
+        "1-7-23"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "मित्रवान्नतसामन्तः प्रतापहतकण्टकः",
+        "स शशास जगद् राजा दिवि देवपतिर्यथा॥२३"
+      ],
+      "locators": [
+        "1.7.23"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "मित्रवान्नतसामन्तः प्रतापहतकण्टकः",
+        "स शशास जगद्‌ राजा दिवि देवपतिर्यथा"
+      ],
+      "ocr_flags": [
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.7.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "मित्रवान्नतसामन्तः प्रतापहतकण्टकः",
+      "in": "मित्रवान्नतसामन्तः प्रतापहतकण्टकः",
+      "gp": "मित्रवान्नतसामन्तः प्रतापहतकण्टकः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "स शशास जगद्राजा दिवं देवपतिर्यथा",
+      "in": "स शशास जगद् राजा दिवि देवपतिर्यथा॥२३",
+      "gp": "स शशास जगद्‌ राजा दिवि देवपतिर्यथा",
+      "similarity": {
+        "sim_in_net": 0.9642857142857143,
+        "sim_gp_net": 0.9642857142857143
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "जगद्राजा दिवं देवपतिर्यथा",
+            "b": "जगद् राजा दिवि देवपतिर्यथा॥२३"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "जगद्राजा दिवं",
+            "b": "जगद्‌ राजा दिवि"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-23",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Emperor Dasharatha has not encountered either a superior or an equal in his kingship, and to him there are many friends, subdued are his provincial kings and eliminated is thorniness by his own valour. He thus ruled the world like Indra would in Heaven. [1-7-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-23",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mitravaan",
+            "devanagari_machine_converted": "मित्रवान्",
+            "english": "one who has many friends"
+          },
+          {
+            "roman_itrans": "natasaamantaH",
+            "devanagari_machine_converted": "नतसामन्तः",
+            "english": "subdued provincial kings"
+          },
+          {
+            "roman_itrans": "prataapahatakanTakaH",
+            "devanagari_machine_converted": "प्रतापहतकन्टकः",
+            "english": "eliminated thorniness by valour"
+          },
+          {
+            "roman_itrans": "aatmanaH",
+            "devanagari_machine_converted": "आत्मनः",
+            "english": "to himsef"
+          },
+          {
+            "roman_itrans": "vishiSTam vaa",
+            "devanagari_machine_converted": "विशिष्टम् वा",
+            "english": "a superior one, either"
+          },
+          {
+            "roman_itrans": "tulyam vaa",
+            "devanagari_machine_converted": "तुल्यम् वा",
+            "english": "equal one, or"
+          },
+          {
+            "roman_itrans": "shatrum",
+            "devanagari_machine_converted": "शत्रुम्",
+            "english": "an enemy"
+          },
+          {
+            "roman_itrans": "na adhyagacChat",
+            "devanagari_machine_converted": "न अध्यगच्छत्",
+            "english": "not encountered"
+          },
+          {
+            "roman_itrans": "divam devapatiH yathaa",
+            "devanagari_machine_converted": "दिवम् देवपतिः यथा",
+            "english": "in Heaven, like Indra"
+          },
+          {
+            "roman_itrans": "saH shashaasa jagat",
+            "devanagari_machine_converted": "सः शशास जगत्",
+            "english": "he, ruled, the world."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.23",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन्हें कभी अपनेसे बड़ा अथवा अपने समान भी कोई शत्रु नहीं मिला। उनके मित्रोंकी संख्या बहुत थी। सभी सामन्त उनके चरणोंमें मस्तक झुकाते थे। उनके प्रतापसे राज्यके सारे कण्टक (शत्रु एवं चोर आदि) नष्ट हो गये थे। जैसे देवराज इन्द्र स्वर्गमें रहकर तीनों लोकोंका पालन करते हैं, उसी प्रकार राजा दशरथ अयोध्यामें रहकर सम्पूर्ण जगत् का शासन करते थे। २३॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.23",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अध्यगच्छत्",
+            "hindi": "पाया (अधि + गम्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विशिष्टम्",
+            "hindi": "बड़ा (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "तुल्यम्",
+            "hindi": "समान (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "शत्रुम्",
+            "hindi": "शत्रु को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आत्मनः",
+            "hindi": "अपने से (षष्ठी विभक्ति, पञ्चमी के अर्थ में)"
+          },
+          {
+            "sanskrit": "मित्रवान्",
+            "hindi": "मित्रों वाला (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "नतसामन्तः",
+            "hindi": "झुके हुए सामन्त वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतापहतकण्टकः",
+            "hindi": "प्रताप से कण्टक (शत्रु) नष्ट करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शशास",
+            "hindi": "शासन करते थे (शास् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "जगत्",
+            "hindi": "जगत का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दिवि",
+            "hindi": "स्वर्ग में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "देवपतिः",
+            "hindi": "देवराज इन्द्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.23",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "उन्हें कभी अपनेसे बड़ा अथवा अपने समान भी कोई शत्रु नहीं मिला। उनके मित्रोंकी संख्या बहुत थी। सभी सामन्त उनके चरणोंमें मस्तक झुकाते थे। उनके प्रतापसे राज्यके सारे कण्टक (शत्रु एवं चोर आदि) नष्ट हो गये थे। जैसे देवराज इन्द्र स्वर्गमें रहकर तीनों लोकोंका पालन करते हैं, उसी प्रकार राजा दशरथ अयोध्यामें रहकर सम्पूर्ण जगतका शासन करते थे॥ २३॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

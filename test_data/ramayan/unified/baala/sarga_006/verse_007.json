@@ -1,0 +1,242 @@
+{
+  "id": "baala-006-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 5
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-5"
+    ],
+    "vulgate_in_locators": [
+      "1.6.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006005a",
+        "1006005c"
+      ],
+      "lines": [
+        "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता",
+        "पालिता सा पुरी श्रेष्ठेन्द्रेण इवामरावती"
+      ],
+      "punctuated_derived": "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता ।\nपालिता सा पुरी श्रेष्ठेन्द्रेण इवामरावती ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता",
+        "पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती"
+      ],
+      "locators": [
+        "1-6-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता",
+        "पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती॥५"
+      ],
+      "locators": [
+        "1.6.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तेन सत्याभिसंधेन त्ररिवर्गमनुतिष्ठता",
+        "पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता",
+      "net": "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता",
+      "in": "तेन सत्याभिसंधेन त्रिवर्गमनुतिष्ठता",
+      "gp": "तेन सत्याभिसंधेन त्ररिवर्गमनुतिष्ठता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9850746268656716
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "त्रिवर्गमनुतिष्ठता",
+            "b": "त्ररिवर्गमनुतिष्ठता"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पालिता सा पुरी श्रेष्ठेन्द्रेण इवामरावती",
+      "net": "पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती",
+      "in": "पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती॥५",
+      "gp": "पालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती",
+      "similarity": {
+        "sim_smith_net": 0.9295774647887324,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "श्रेष्ठेन्द्रेण इवामरावती",
+            "b": "श्रेष्ठा इन्द्रेणेवामरावती"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "इन्द्रेणेवामरावती",
+            "b": "इन्द्रेणेवामरावती॥५"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He that truth-abiding king, who adheres to the three-fold virtues rules the vast of that kingdom from that best city Ayodhya, as Indra rules heaven from his capital Amaravati. [1-6-5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tena",
+            "devanagari_machine_converted": "तेन",
+            "english": "by him"
+          },
+          {
+            "roman_itrans": "satyaabhisandhena",
+            "devanagari_machine_converted": "सत्याभिसन्धेन",
+            "english": "truth abiding"
+          },
+          {
+            "roman_itrans": "trivargam anutiSTataa",
+            "devanagari_machine_converted": "त्रिवर्गम् अनुतिष्टता",
+            "english": "adherent to the three-fold virtues"
+          },
+          {
+            "roman_itrans": "paalitaa saa shreSTaa purii",
+            "devanagari_machine_converted": "पालिता सा श्रेष्टा पुरी",
+            "english": "ruled, that, best, city"
+          },
+          {
+            "roman_itrans": "indreNa iva amaraavati",
+            "devanagari_machine_converted": "इन्द्रेण इव अमरावति",
+            "english": "by Indra, like, Amaravati."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "धर्म, अर्थ और कामका सम्पादन करने वाले कर्मों का अनुष्ठान करते हुए वे सत्यप्रतिज्ञ नरेश उस श्रेष्ठ अयोध्यापुरी का उसी तरह पालन करते थे, जैसे इन्द्र अमरावतीपुरी का॥ ५॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तेन",
+            "hindi": "उनके द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्याभिसन्धेन",
+            "hindi": "सत्यप्रतिज्ञ के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रिवर्गम्",
+            "hindi": "धर्म, अर्थ और काम का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुतिष्ठता",
+            "hindi": "अनुष्ठान करते हुए के द्वारा (शतृ प्रत्ययान्त, तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पालिता",
+            "hindi": "पालन की गई (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सा",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरी",
+            "hindi": "पुरी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रेष्ठा",
+            "hindi": "श्रेष्ठ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इन्द्रेण",
+            "hindi": "इन्द्र के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "अमरावती",
+            "hindi": "अमरावती (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.5",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "धर्म, अर्थ और कामका सम्पादन करनेवाले कर्मोका अनुष्ठान करते हुए वे सत्यप्रतिज्ञ नरेश उस श्रेष्ठ अयोध्यापुरीका उसी तरह पालन करते थे, जैसे इन्द्र अमरावतीपुरीका॥ ५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "baala-005-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 21
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-21"
+    ],
+    "vulgate_in_locators": [
+      "1.5.21"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.21"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005021a",
+        "1005021c"
+      ],
+      "lines": [
+        "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने",
+        "हन्तारो निशितैः शस्त्रैर्बलाद्बाहुबलैरपि"
+      ],
+      "punctuated_derived": "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने ।\nहन्तारो निशितैः शस्त्रैर्बलाद्बाहुबलैरपि ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सिंहव्याघ्रवराहाणां मत्तानां नर्दतां वने",
+        "हन्तारो निशितैः शस्त्रैर्बलाद्बाहुबलैरपि"
+      ],
+      "locators": [
+        "1-5-21"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने",
+        "हन्तारो निशितैः शस्त्रैर्बलाद् बाहुबलैरपि"
+      ],
+      "locators": [
+        "1.5.21"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने",
+        "इन्तारो निशितैः शस्त्रैर्बलाद्‌ बाहुबलैरपि"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.5.21"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने",
+      "net": "सिंहव्याघ्रवराहाणां मत्तानां नर्दतां वने",
+      "in": "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने",
+      "gp": "सिंहव्याघ्रवराहाणां मत्तानां नदतां वने",
+      "similarity": {
+        "sim_smith_net": 0.9722222222222222,
+        "sim_in_net": 0.9722222222222222,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नदतां",
+            "b": "नर्दतां"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "नर्दतां",
+            "b": "नदतां"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नर्दतां",
+            "b": "नदतां"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "हन्तारो निशितैः शस्त्रैर्बलाद्बाहुबलैरपि",
+      "net": "हन्तारो निशितैः शस्त्रैर्बलाद्बाहुबलैरपि",
+      "in": "हन्तारो निशितैः शस्त्रैर्बलाद् बाहुबलैरपि",
+      "gp": "इन्तारो निशितैः शस्त्रैर्बलाद्‌ बाहुबलैरपि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.972972972972973
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शस्त्रैर्बलाद्बाहुबलैरपि",
+            "b": "शस्त्रैर्बलाद् बाहुबलैरपि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "हन्तारो",
+            "b": "इन्तारो"
+          },
+          {
+            "a": "शस्त्रैर्बलाद्बाहुबलैरपि",
+            "b": "शस्त्रैर्बलाद्‌ बाहुबलैरपि"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-21",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They kill the fattened and roaring lions, tigers and wild boars with the might of their sharp weaponry, or even with the might of their own arms alone. [1-4-21]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-21",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "simhavyaaghravaraahaaNaam",
+            "devanagari_machine_converted": "सिम्हव्याघ्रवराहाणाम्",
+            "english": "lions, tigers, wild boars"
+          },
+          {
+            "roman_itrans": "mattaanaam nardataam vane",
+            "devanagari_machine_converted": "मत्तानाम् नर्दताम् वने",
+            "english": "fattened ones, roaring, in forests"
+          },
+          {
+            "roman_itrans": "hantaaraH nishitaiH shastraiH",
+            "devanagari_machine_converted": "हन्तारः निशितैः शस्त्रैः",
+            "english": "killers, with sharp, weapons"
+          },
+          {
+            "roman_itrans": "balaat baahubalaiH api",
+            "devanagari_machine_converted": "बलात् बाहुबलैः अपि",
+            "english": "with might by arms might also."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जो वनमें गर्जते हुए मतवाले सिंहों, व्याघ्रों और सूअरोंको तीखे शस्त्रों से एवं भुजाओं के बल से भी बलपूर्वक मार डालने में समर्थ हैं, ऐसे सहस्रों महारथी वीरों से अयोध्यापुरी भरी-पूरी थी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सिंहव्याघ्रवराहाणाम्",
+            "hindi": "सिंह, व्याघ्र और वराह (सूअर) के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "मत्तानाम्",
+            "hindi": "मतवाले / मद में चूर के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नदताम्",
+            "hindi": "गर्जते हुए के (शतृ प्रत्ययान्त, षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "हन्तारः",
+            "hindi": "मारने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "निशितैः",
+            "hindi": "तीखे / धारदार से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शस्त्रैः",
+            "hindi": "शस्त्रों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "बलात्",
+            "hindi": "बलपूर्वक (पञ्चमी विभक्ति का अव्यय)"
+          },
+          {
+            "sanskrit": "बाहुबलैः",
+            "hindi": "भुजाओं के बल से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.21",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "जो अपने समूहसे बिछुड्कर असहाय हो गया हो, जिसके आगे-पीछे कोई न हो (अर्थात्‌ जो पिता और पुत्र दोनोंसे हीन हो) तथा जो शब्दवेधी बाणद्वारा बेधने योग्य हों अथवा युद्धसे हारकर भागे जा रहे हों, ऐसे पुरुषापर जो लोग बाणोंका प्रहार नहीं करते, जिनके सधे-सधाये हाथ शीप्रतापूर्वक लक्ष्यवेध करनेमें समर्थ हैं, अस्त्र-शस्त्रोंके प्रयोगमें कुशलता प्राप्त कर चुके हैं ्रीमद्वाल्मीकीयरामायणे तथा जो वनमें गर्जते हुए मतवाले सिंहों, व्याघ्रो और सूअरोंको तीखे शस्त्रोंसे एवं भुजाओंके बलसे भी बलपूर्वक मार डालनेमें समर्थ हैं, ऐसे सहस्रो महारथी वीरोंसे अयोध्यापुरी भरी-पूरी थी। उसे महाराज दशरथने बसाया और पाला था॥ २०-२२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

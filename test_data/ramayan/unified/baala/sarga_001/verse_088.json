@@ -1,0 +1,571 @@
+{
+  "id": "baala-001-088",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 88,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-81",
+      "1-1-82",
+      "1-1-83, 1-1-84"
+    ],
+    "vulgate_in_locators": [
+      "1.1.81",
+      "1.1.82",
+      "1.1.83"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.81",
+      "1.1.82",
+      "1.1.83"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रामः सीतामनुप्राप्य परां व्रीडामुपागमत्",
+        "तामुवाच ततो रामः परुषं जनसंसदि",
+        "अमृष्यमाणा सा सीता विवेश ज्वलनं सती",
+        "ततोऽग्निवचनात्सीतां ज्ञात्वा विगतकल्मषाम्"
+      ],
+      "locators": [
+        "1-1-81",
+        "1-1-82",
+        "1-1-83, 1-1-84"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रामः सीतामनुप्राप्य परां व्रीडामुपागमत्",
+        "तामुवाच ततो रामः परुषं जनसंसदि",
+        "अमृष्यमाणा सा सीता विवेश ज्वलनं सती",
+        "ततोऽग्निवचनात् सीतां ज्ञात्वा विगतकल्मषाम्"
+      ],
+      "locators": [
+        "1.1.81",
+        "1.1.82",
+        "1.1.83"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रामः सीतामनुप्राप्य परां व्रीडामुपागमत्‌",
+        "तामुवाच ततो रामः परुषं जनसंसदि",
+        "अमृष्यमाणा सा सीता विवेश ज्वलनं सती",
+        "तततोऽर्निवचनात्‌ सीतां ज्ञात्वा विगतकल्मषाम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_833_differs_from_sanskrit_83"
+      ],
+      "refs": [
+        "1.1.81",
+        "1.1.82",
+        "1.1.83"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "रामः सीतामनुप्राप्य परां व्रीडामुपागमत्",
+      "in": "रामः सीतामनुप्राप्य परां व्रीडामुपागमत्",
+      "gp": "रामः सीतामनुप्राप्य परां व्रीडामुपागमत्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "व्रीडामुपागमत्",
+            "b": "व्रीडामुपागमत्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तामुवाच ततो रामः परुषं जनसंसदि",
+      "in": "तामुवाच ततो रामः परुषं जनसंसदि",
+      "gp": "तामुवाच ततो रामः परुषं जनसंसदि",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "अमृष्यमाणा सा सीता विवेश ज्वलनं सती",
+      "in": "अमृष्यमाणा सा सीता विवेश ज्वलनं सती",
+      "gp": "अमृष्यमाणा सा सीता विवेश ज्वलनं सती",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "ततोऽग्निवचनात्सीतां ज्ञात्वा विगतकल्मषाम्",
+      "in": "ततोऽग्निवचनात् सीतां ज्ञात्वा विगतकल्मषाम्",
+      "gp": "तततोऽर्निवचनात्‌ सीतां ज्ञात्वा विगतकल्मषाम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "ततोऽग्निवचनात्सीतां",
+            "b": "ततोऽग्निवचनात् सीतां"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ततोऽग्निवचनात्सीतां",
+            "b": "तततोऽर्निवचनात्‌ सीतां"
+          },
+          {
+            "a": "विगतकल्मषाम्",
+            "b": "विगतकल्मषाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-81",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Rama, having gone to the city of Lanka by that bridge, killing Ravana in a battle, experienced great shame on getting Seetha back... [1-1-81]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-82",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"There-after, Rama spoke harshly to Seetha in the assembly of the people. Being devoted to her husband, that Seetha, intolerant of the harsh words of Rama, entered into burning fire... [1-1-82]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-83, 1-1-84",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then, upon the word of Fire-god, having known Seetha to be sinless, Rama became extremely glad. Worshipped by all gods he became resplendent. By that accomplishment of the great Raghava the three worlds together with mobile and immobile beings, and with groups of gods and sages became exultant... [1-1-83, 84]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-81",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "lankaam puriim gatvaa",
+            "devanagari_machine_converted": "लन्काम् पुरीम् गत्वा",
+            "english": "having gone to the city of Lanka"
+          },
+          {
+            "roman_itrans": "tena",
+            "devanagari_machine_converted": "तेन",
+            "english": "by that [bridge]"
+          },
+          {
+            "roman_itrans": "aahave raavaNam hatvaa",
+            "devanagari_machine_converted": "आहवे रावणम् हत्वा",
+            "english": "killing Ravana in a battle"
+          },
+          {
+            "roman_itrans": "siitaam anupraapya",
+            "devanagari_machine_converted": "सीताम् अनुप्राप्य",
+            "english": "on getting Seetha back"
+          },
+          {
+            "roman_itrans": "paraam vriiDaam upaagamat",
+            "devanagari_machine_converted": "पराम् व्रीडाम् उपागमत्",
+            "english": "experienced great shame."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-82",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "there-after; raamaH = Rama"
+          },
+          {
+            "roman_itrans": "janasaMsadi",
+            "devanagari_machine_converted": "जनसंसदि",
+            "english": "in the assembly of the people"
+          },
+          {
+            "roman_itrans": "paruSam uvaaca",
+            "devanagari_machine_converted": "परुषम् उवाच",
+            "english": "spoke harshly"
+          },
+          {
+            "roman_itrans": "taam",
+            "devanagari_machine_converted": "ताम्",
+            "english": "to her"
+          },
+          {
+            "roman_itrans": "saa siitaa",
+            "devanagari_machine_converted": "सा सीता",
+            "english": "that Seetha"
+          },
+          {
+            "roman_itrans": "satii",
+            "devanagari_machine_converted": "सती",
+            "english": "[being] devoted to her husband"
+          },
+          {
+            "roman_itrans": "amR^iShyamaaNaa",
+            "devanagari_machine_converted": "अमृष्यमाणा",
+            "english": "intolerant [of the harsh words of Rama]"
+          },
+          {
+            "roman_itrans": "jvalanam vivesha",
+            "devanagari_machine_converted": "ज्वलनम् विवेश",
+            "english": "entered into burning fire."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-83, 1-1-84",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH agnivachanaat",
+            "devanagari_machine_converted": "ततः अग्निवचनात्",
+            "english": "Then upon the word of the Fire-god"
+          },
+          {
+            "roman_itrans": "j~naatvaa",
+            "devanagari_machine_converted": "ज्ञात्वा",
+            "english": "having known"
+          },
+          {
+            "roman_itrans": "siitaam",
+            "devanagari_machine_converted": "सीताम्",
+            "english": "Seetha"
+          },
+          {
+            "roman_itrans": "vigatakalmaSaam",
+            "devanagari_machine_converted": "विगतकल्मषाम्",
+            "english": "to be sinless"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "samprahR^iSTaH",
+            "devanagari_machine_converted": "सम्प्रहृष्टः",
+            "english": "became extremely glad"
+          },
+          {
+            "roman_itrans": "puujitaH",
+            "devanagari_machine_converted": "पूजितः",
+            "english": "worshipped"
+          },
+          {
+            "roman_itrans": "sarvadaivataiH",
+            "devanagari_machine_converted": "सर्वदैवतैः",
+            "english": "by all gods"
+          },
+          {
+            "roman_itrans": "babhau",
+            "devanagari_machine_converted": "बभौ",
+            "english": "became resplendent"
+          },
+          {
+            "roman_itrans": "mahataa tena karmaNaa",
+            "devanagari_machine_converted": "महता तेन कर्मणा",
+            "english": "by that great accomplishment - of eliminating Ravana"
+          },
+          {
+            "roman_itrans": "mahaatmanaH raaghavasya",
+            "devanagari_machine_converted": "महात्मनः राघवस्य",
+            "english": "of the great Raghava"
+          },
+          {
+            "roman_itrans": "trailokyam",
+            "devanagari_machine_converted": "त्रैलोक्यम्",
+            "english": "the three worlds"
+          },
+          {
+            "roman_itrans": "sacharaacharam",
+            "devanagari_machine_converted": "सचराचरम्",
+            "english": "together with all beings"
+          },
+          {
+            "roman_itrans": "sadevarShigaNam",
+            "devanagari_machine_converted": "सदेवर्षिगणम्",
+            "english": "with groups of gods and sages"
+          },
+          {
+            "roman_itrans": "tuSTham",
+            "devanagari_machine_converted": "तुष्ठम्",
+            "english": "[became] exultant."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.81",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'उसी पुलसे लङ्कापुरीमें जाकर रावणको मारा, फिर सीताके मिलनेपर रामको बड़ी लज्जा हुई"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.82",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तब भरी सभामें सीताके प्रति वे मर्मभेदी वचन कहने लगे। उनकी इस बातको न सह सकनेके कारण साध्वी सीता अग्निमें प्रवेश कर गयी"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.83",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'इसके बाद अग्निके कहनेसे उन्होंने सीताको निष्कलङ्क माना। महात्मा रामचन्द्रजीके इस महान् कर्मसे चराचर त्रिभुवन"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.81",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (पुल) से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "लङ्काम्",
+            "hindi": "लंका को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रावणम्",
+            "hindi": "रावण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आहवे",
+            "hindi": "युद्ध में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुप्राप्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "पराम्",
+            "hindi": "बड़ी (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्रीडाम्",
+            "hindi": "लज्जा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपागमत्",
+            "hindi": "प्राप्त हुआ (उप + आ + गम्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.82",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ताम्",
+            "hindi": "उस (सीता) से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उवाच",
+            "hindi": "बोले (वच् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "परुषम्",
+            "hindi": "कठोर वचन (द्वितीया विभक्ति/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "जनसंसदि",
+            "hindi": "सभा में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अमृष्यमाणा",
+            "hindi": "सहन न कर पाने के कारण (शानच् प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सा",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सीता",
+            "hindi": "सीता ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विवेश",
+            "hindi": "प्रवेश किया (विश् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ज्वलनम्",
+            "hindi": "अग्नि में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सती",
+            "hindi": "साध्वी ने (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.83",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "इसके बाद (अव्यय)"
+          },
+          {
+            "sanskrit": "अग्निवचनात्",
+            "hindi": "अग्नि के वचन से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्ञात्वा",
+            "hindi": "जानकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "विगतकल्मषाम्",
+            "hindi": "दूर हुए पाप वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कर्मणा",
+            "hindi": "कर्म से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महता",
+            "hindi": "महान् से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रैलोक्यम्",
+            "hindi": "तीनों लोक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सचराचरम्",
+            "hindi": "चर और अचर सहित (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.81",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“उसी पुलसे लड्कापुरीमें जाकर रावणको मारा, 'फिर सीताके मिलनेपर रामको बड़ी लज्जा हुई॥ ८१॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.82",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“तब भरी सभामें सीताके प्रति वे मर्मभेदी वचन 'कहने लगे। उनकी इस बातको न सह सकनेके कारण साध्वी सीता अग्निमें प्रवेश कर गयी॥ ८२॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.83",
+        "ocr_flags": [
+          "hindi_marker_833_differs_from_sanskrit_83"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः। “इसके बाद अग्निके कहनेसे उन्होंने सीताको निष्कलङ्क माना। महात्मा रामचन्द्रजीके इस महान्‌ कर्मसे देवता और ऋषियोंसहित चराचर त्रिभुवन संतुष्ट हो गया॥ ८३३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

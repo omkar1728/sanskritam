@@ -1,0 +1,252 @@
+{
+  "id": "baala-006-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-15"
+    ],
+    "vulgate_in_locators": [
+      "1.6.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.15"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नाषडङ्गविदत्रासीन्नाव्रतो नासहस्रदः"
+      ],
+      "locators": [
+        "1-6-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नाषडंगविदत्रास्ति नाव्रतो नासहस्रदः"
+      ],
+      "locators": [
+        "1.6.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नाषडंगविदत्रासिति नाव्रतो नासहस्त्रदः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "नाषडङ्गविदत्रासीन्नाव्रतो नासहस्रदः",
+      "in": "नाषडंगविदत्रास्ति नाव्रतो नासहस्रदः",
+      "gp": "नाषडंगविदत्रासिति नाव्रतो नासहस्त्रदः",
+      "similarity": {
+        "sim_in_net": 0.9230769230769231,
+        "sim_gp_net": 0.8955223880597015
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नाषडङ्गविदत्रासीन्नाव्रतो",
+            "b": "नाषडंगविदत्रास्ति नाव्रतो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाषडङ्गविदत्रासीन्नाव्रतो नासहस्रदः",
+            "b": "नाषडंगविदत्रासिति नाव्रतो नासहस्त्रदः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-15",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "None can be found anywhere in Ayodhya without the knowledge of the six ancillaries of Veda-s like astrology, prosody, grammar etc., none a non-performer of the prescribed rituals, and none a non-donor in thousands, thus none with a saddened heart, turmoil in mind or agonised in will is there. [1-6-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-15",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "none"
+          },
+          {
+            "roman_itrans": "aSaDa~Ngavit na asti",
+            "devanagari_machine_converted": "अषडङ्गवित् न अस्ति",
+            "english": "unknowing scholar of Veda's ancillaries, is not there"
+          },
+          {
+            "roman_itrans": "na avrataH",
+            "devanagari_machine_converted": "न अव्रतः",
+            "english": "none, non-performer of rituals"
+          },
+          {
+            "roman_itrans": "na asahasradaH",
+            "devanagari_machine_converted": "न असहस्रदः",
+            "english": "donor in thousands"
+          },
+          {
+            "roman_itrans": "na diinaH",
+            "devanagari_machine_converted": "न दीनः",
+            "english": "none, saddened person"
+          },
+          {
+            "roman_itrans": "kShiptachittaH",
+            "devanagari_machine_converted": "क्षिप्तचित्तः",
+            "english": "with mental turmoil"
+          },
+          {
+            "roman_itrans": "vaa",
+            "devanagari_machine_converted": "वा",
+            "english": "or"
+          },
+          {
+            "roman_itrans": "vyathitaH",
+            "devanagari_machine_converted": "व्यथितः",
+            "english": "agonised one"
+          },
+          {
+            "roman_itrans": "vaa api",
+            "devanagari_machine_converted": "वा अपि",
+            "english": "or, even"
+          },
+          {
+            "roman_itrans": "kashchana",
+            "devanagari_machine_converted": "कश्चन",
+            "english": "anyone."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस पुरीमें वेदके छहों अंगोंको न जाननेवाला, व्रतहीन, सहस्रोंसे कम दान देनेवाला, दीन, विक्षिप्तचित्त अथवा दुःखी भी कोई नहीं था॥१५॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अषडङ्गवित्",
+            "hindi": "छह अंगों को न जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अत्र",
+            "hindi": "यहाँ / इस पुरी में (अव्यय)"
+          },
+          {
+            "sanskrit": "अस्ति",
+            "hindi": "है (अस् धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अव्रतः",
+            "hindi": "व्रतहीन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "असहस्रदः",
+            "hindi": "हजारों से कम दान देने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "दीनः",
+            "hindi": "दीन / दरिद्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षिप्तचित्तः",
+            "hindi": "विक्षिप्तचित्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "व्यथितः",
+            "hindi": "दुःखी / व्यथित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "कश्चन",
+            "hindi": "कोई भी (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.15",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "उस पुरीमें वेदके छहों अंगोंको न जाननेवाला, ब्रतहीन, सहस्नोंसे कम दान देनेवाला, दीन, विक्षिप्त- चित्त अथवा दुःखी भी कोई नहीं था॥ १५॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

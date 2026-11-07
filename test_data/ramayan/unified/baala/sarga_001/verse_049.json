@@ -1,0 +1,264 @@
+{
+  "id": "baala-001-049",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 49,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 37
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-47"
+    ],
+    "vulgate_in_locators": [
+      "1.1.47"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.47"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001037a",
+        "1001037c"
+      ],
+      "lines": [
+        "ततः शूर्पणखावाक्यादुद्युक्तान्सर्वराक्षसान्",
+        "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्"
+      ],
+      "punctuated_derived": "ततः शूर्पणखावाक्यादुद्युक्तान्सर्वराक्षसान् ।\nखरं त्रिशिरसं चैव दूषणं चैव राक्षसम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान्",
+        "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्"
+      ],
+      "locators": [
+        "1-1-47"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान्",
+        "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्"
+      ],
+      "locators": [
+        "1.1.47"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तततः शाूर्पणखावाक्यादुद्युक्तान्‌ सर्वराक्षसान्‌",
+        "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_473_differs_from_sanskrit_47"
+      ],
+      "refs": [
+        "1.1.47"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततः शूर्पणखावाक्यादुद्युक्तान्सर्वराक्षसान्",
+      "net": "ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान्",
+      "in": "ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान्",
+      "gp": "तततः शाूर्पणखावाक्यादुद्युक्तान्‌ सर्वराक्षसान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9761904761904762
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "शूर्पणखावाक्यादुद्युक्तान्सर्वराक्षसान्",
+            "b": "शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान्",
+            "b": "तततः शाूर्पणखावाक्यादुद्युक्तान्‌ सर्वराक्षसान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्",
+      "net": "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्",
+      "in": "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्",
+      "gp": "खरं त्रिशिरसं चैव दूषणं चैव राक्षसम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "राक्षसम्",
+            "b": "राक्षसम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-47",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then in a battle, Rama killed all demons who became zealously active incited by Suurphanakha's words, including the demons Khara, Trishira, Duushana together with all of their foot-followers... [1-1-47, 48a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-47",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "47, 48a. tataH raamaH raNe nijaghaana",
+            "devanagari_machine_converted": "४७, ४८अ। ततः रामः रणे निजघान",
+            "english": "Then Rama in a battle killed; udyuktaan sarvaraakShasaan = all zealously active demons"
+          },
+          {
+            "roman_itrans": "shuurpaNakhaavaakyaat",
+            "devanagari_machine_converted": "शूर्पणखावाक्यात्",
+            "english": "[incited] by Shuurpanakha's words"
+          },
+          {
+            "roman_itrans": "kharam",
+            "devanagari_machine_converted": "खरम्",
+            "english": "[including] Khara"
+          },
+          {
+            "roman_itrans": "trishirasam ca eva",
+            "devanagari_machine_converted": "त्रिशिरसम् च एव",
+            "english": "and Trishira"
+          },
+          {
+            "roman_itrans": "duuSaNam raakShasam ca eva",
+            "devanagari_machine_converted": "दूषणम् राक्षसम् च एव",
+            "english": "and the demon Duushana"
+          },
+          {
+            "roman_itrans": "teSaam padaanugaan ca eva",
+            "devanagari_machine_converted": "तेषाम् पदानुगान् च एव",
+            "english": "and their foot followers."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-47",
+        "spans_beyond_this_verse": true,
+        "text": "We are ignoring in translation the एव part of चैव and translating the word चैव as \"and\"."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.47",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तब शूर्पणखाके कहनेसे चढ़ाई करनेवाले सभी राक्षसोंको और खर, दूषण, त्रिशिरा नामक राक्षसोंको"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.47",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "शूर्पणखावाक्यात्",
+            "hindi": "शूर्पणखा के वचन से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "उद्युक्तान्",
+            "hindi": "उद्यत हुए को / चढ़ाई करने वाले को (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वराक्षसान्",
+            "hindi": "सभी राक्षसों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "खरम्",
+            "hindi": "खर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रिशिरसम्",
+            "hindi": "त्रिशिरा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "दूषणम्",
+            "hindi": "दूषण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "राक्षसम्",
+            "hindi": "राक्षस को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.47",
+        "ocr_flags": [
+          "hindi_marker_473_differs_from_sanskrit_47"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "निजघान रणे रामस्तेषां चैव पदानुगान्‌। “तब शार्पणखाके कहनेसे चढ़ाई करनेवाले सभी राक्षसोंको और खर, दूषण, त्रिशिरा तथा उनके पृष्ठपोषक असुरोंको रामने युद्धमें मार डाला॥ ४७३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

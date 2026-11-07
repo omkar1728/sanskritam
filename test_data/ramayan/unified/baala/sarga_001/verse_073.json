@@ -1,0 +1,242 @@
+{
+  "id": "baala-001-073",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 73,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 53
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-67"
+    ],
+    "vulgate_in_locators": [
+      "1.1.67"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.67"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001053a",
+        "1001053c"
+      ],
+      "lines": [
+        "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः",
+        "किष्किन्धां रामसहितो जगाम च गुहां तदा"
+      ],
+      "punctuated_derived": "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः ।\nकिष्किन्धां रामसहितो जगाम च गुहां तदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततः प्रीतमनाश्चैव विश्वस्तश्च महाकपिः",
+        "किष्किन्धां रामसहितो जगाम च गुहां तदा"
+      ],
+      "locators": [
+        "1-1-67"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः",
+        "किष्किन्धां रामसहितो जगाम च गुहां तदा"
+      ],
+      "locators": [
+        "1.1.67"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः",
+        "किष्किन्धां रामसहितो जगाम च गुहां तदा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.67"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः",
+      "net": "ततः प्रीतमनाश्चैव विश्वस्तश्च महाकपिः",
+      "in": "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः",
+      "gp": "ततः प्रीतमनास्तेन विश्वस्तः स महाकपिः",
+      "similarity": {
+        "sim_smith_net": 0.8059701492537313,
+        "sim_in_net": 0.8059701492537313,
+        "sim_gp_net": 0.8059701492537313
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "प्रीतमनास्तेन विश्वस्तः स",
+            "b": "प्रीतमनाश्चैव विश्वस्तश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "प्रीतमनाश्चैव विश्वस्तश्च",
+            "b": "प्रीतमनास्तेन विश्वस्तः स"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "प्रीतमनाश्चैव विश्वस्तश्च",
+            "b": "प्रीतमनास्तेन विश्वस्तः स"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "किष्किन्धां रामसहितो जगाम च गुहां तदा",
+      "net": "किष्किन्धां रामसहितो जगाम च गुहां तदा",
+      "in": "किष्किन्धां रामसहितो जगाम च गुहां तदा",
+      "gp": "किष्किन्धां रामसहितो जगाम च गुहां तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-67",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Thereafter great monkey Sugreeva with a gladdened heart by that act of Rama, proceeded to cave-like Kishkindha then along with Rama and with confidence in Rama's strength... [1-1-67]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-67",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "Thereafter; mahaakapiH = great monkey [Sugreeva]; priitamanaaH = [with a] gladdened heart; tena = by it [that act of Rama]"
+          },
+          {
+            "roman_itrans": "guhaam kiShkindhaam jagaama ca",
+            "devanagari_machine_converted": "गुहाम् किष्किन्धाम् जगाम च",
+            "english": "proceeded to cave-like Kishkindha"
+          },
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "raamasahitaH",
+            "devanagari_machine_converted": "रामसहितः",
+            "english": "along with Rama; vishvastaH ca = and with confidence [in Rama's strength]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.67",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तदनन्तर रामके इस कार्यसे महाकपि सुग्रीव मनही-मन प्रसन्न हुए और उन्हें रामपर विश्वास हो गया। फिर वे उनके साथ किष्किन्धा गुहामें गये"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.67",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रीतमनाः",
+            "hindi": "प्रसन्न मन वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (राम) से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विश्वस्तः",
+            "hindi": "विश्वस्त हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाकपिः",
+            "hindi": "महान वानर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "किष्किन्धाम्",
+            "hindi": "किष्किन्धा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामसहितः",
+            "hindi": "राम के साथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "गुहाम्",
+            "hindi": "गुहा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.67",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“तदनन्तर रामके इस कार्यसे महाकपि सुग्रीव मन-ही-मन प्रसन्न हुए और उन्हें रामपर विश्वास हो गया। फिर वे उनके साथ किष्किन्धा गुहामें गये॥ ६७॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,270 @@
+{
+  "id": "baala-003-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 2
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-2"
+    ],
+    "vulgate_in_locators": [
+      "1.3.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.2"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003002a",
+        "1003002c"
+      ],
+      "lines": [
+        "उपस्पृश्योदकं संयन्मुनिः स्थित्वा कृताञ्जलिः",
+        "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्"
+      ],
+      "punctuated_derived": "उपस्पृश्योदकं संयन्मुनिः स्थित्वा कृताञ्जलिः ।\nप्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "उपस्पृश्योदकं सम्यक् मुनिः स्थित्वा कृताञ्जलिः",
+        "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्"
+      ],
+      "locators": [
+        "1-3-2"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "उपस्पृश्योदकं सम्यङ्मुनिः स्थित्वा कृताञ्जलिः",
+        "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्"
+      ],
+      "locators": [
+        "1.3.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "उपस्पृश्योदकं सम्यङ्मुनिः स्थित्वा कृताञ्जलिः",
+        "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.3.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "उपस्पृश्योदकं संयन्मुनिः स्थित्वा कृताञ्जलिः",
+      "net": "उपस्पृश्योदकं सम्यक् मुनिः स्थित्वा कृताञ्जलिः",
+      "in": "उपस्पृश्योदकं सम्यङ्मुनिः स्थित्वा कृताञ्जलिः",
+      "gp": "उपस्पृश्योदकं सम्यङ्मुनिः स्थित्वा कृताञ्जलिः",
+      "similarity": {
+        "sim_smith_net": 0.9620253164556962,
+        "sim_in_net": 0.9620253164556962,
+        "sim_gp_net": 0.9620253164556962
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संयन्मुनिः",
+            "b": "सम्यक् मुनिः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सम्यक् मुनिः",
+            "b": "सम्यङ्मुनिः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सम्यक् मुनिः",
+            "b": "सम्यङ्मुनिः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्",
+      "net": "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्",
+      "in": "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्",
+      "gp": "प्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "गतिम्",
+            "b": "गतिम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-2",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Valmiki sitting on a sacred grass mat, whose apices are towards east, touched waters, and made his palms adjoined in reverence, and then by his yogic insight started to search comprehensively, for the narrative course of Ramayana. [1-3-2]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-2",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "muniH",
+            "devanagari_machine_converted": "मुनिः",
+            "english": "that saint; praachiinaagreSu = having apices eastward"
+          },
+          {
+            "roman_itrans": "darbheSu",
+            "devanagari_machine_converted": "दर्भेषु",
+            "english": "sacred darbha grass [and its mat]"
+          },
+          {
+            "roman_itrans": "sthitvaa",
+            "devanagari_machine_converted": "स्थित्वा",
+            "english": "on abiding (on sitting)"
+          },
+          {
+            "roman_itrans": "udakam upaspR^ishya",
+            "devanagari_machine_converted": "उदकम् उपस्पृश्य",
+            "english": "water, on touching"
+          },
+          {
+            "roman_itrans": "kR^itaa~njaliH",
+            "devanagari_machine_converted": "कृताञ्जलिः",
+            "english": "making palm fold in reverence"
+          },
+          {
+            "roman_itrans": "dharmeNa",
+            "devanagari_machine_converted": "धर्मेण",
+            "english": "yogajadharmeNa - [dharmaakuutam] - by yogic dharma"
+          },
+          {
+            "roman_itrans": "samyak",
+            "devanagari_machine_converted": "सम्यक्",
+            "english": "comprehensively"
+          },
+          {
+            "roman_itrans": "anveSate gatim",
+            "devanagari_machine_converted": "अन्वेषते गतिम्",
+            "english": "is searching, for course [of Ramayana.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-2",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: Touching/sipping waters aachamana, pariSechana , before undertaking any auspicious work, including daily meal, is customary, because water cleanses the internal system, both mind and body."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे पूर्वाग्र कुशोंके आसनपर बैठ गये और विधिवत् आचमन करके हाथ जोड़े हुए स्थिर भावसे स्थित हो योगधर्म (समाधि) के द्वारा श्रीराम आदिके चरित्रोंका अनुसंधान करने लगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "उपस्पृश्य",
+            "hindi": "आचमन करके / जल स्पर्श करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "उदकम्",
+            "hindi": "जल को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सम्यक्",
+            "hindi": "विधिवत् / भलीभाँति (अव्यय)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्थित्वा",
+            "hindi": "स्थित होकर / बैठकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "कृताञ्जलिः",
+            "hindi": "हाथ जोड़े हुए (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राचीनाग्रेषु",
+            "hindi": "पूर्व की ओर अग्रभाग वाले (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्भेषु",
+            "hindi": "कुशों पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मेण",
+            "hindi": "योगधर्म (समाधि) के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अन्वेषते",
+            "hindi": "खोज / अनुसंधान करने लगे (अनु + इष्, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "गतिम्",
+            "hindi": "चरित्र / गति को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.2",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वे पूर्वाग्र कुशॉके आसनपर बैठ गये और विधिवत्‌ आचमन करके हाथ जोड़े हुए स्थिर भावसे स्थित हो योगधर्म (समाधि) के द्वारा श्रीराम आदिके चरित्रोंका अनुसंधान करने लगे॥ २॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

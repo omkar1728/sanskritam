@@ -1,0 +1,225 @@
+{
+  "id": "baala-001-092",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 92,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-85"
+    ],
+    "vulgate_in_locators": [
+      "1.1.85"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.85"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम्"
+      ],
+      "locators": [
+        "1-1-85"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम्"
+      ],
+      "locators": [
+        "1.1.85"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_84-85"
+      ],
+      "refs": [
+        "1.1.85"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम्",
+      "in": "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम्",
+      "gp": "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "विभीषणम्",
+            "b": "विभीषणम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-85",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Enthroning Vibheeshana as the chieftain of demons in Lanka, and with a done deed, Rama then rejoiced highly indeed free from distress... [1-1-85]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-85",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "la~Nkaayaam abhiShichya",
+            "devanagari_machine_converted": "लङ्कायाम् अभिषिच्य",
+            "english": "anointing in Lanka"
+          },
+          {
+            "roman_itrans": "vibhiiShaNam",
+            "devanagari_machine_converted": "विभीषणम्",
+            "english": "Vibheeshana"
+          },
+          {
+            "roman_itrans": "raakShasendram",
+            "devanagari_machine_converted": "राक्षसेन्द्रम्",
+            "english": "as demons' chieftain"
+          },
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "kR^itakR^ityaH",
+            "devanagari_machine_converted": "कृतकृत्यः",
+            "english": "[Rama] with a done deed"
+          },
+          {
+            "roman_itrans": "pramumoda",
+            "devanagari_machine_converted": "प्रमुमोद",
+            "english": "[became] highly rejoiced"
+          },
+          {
+            "roman_itrans": "vijvaraH",
+            "devanagari_machine_converted": "विज्वरः",
+            "english": "free from distress"
+          },
+          {
+            "roman_itrans": "ha",
+            "devanagari_machine_converted": "ह",
+            "english": "indeed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.85",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और राक्षसराज विभीषणको लङ्काके राज्यपर अभिषिक्त करके कृतार्थ हो गये। उस समय निश्चिन्त होनेके कारण उनके आनन्दका ठिकाना न रहा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.85",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अभिषिच्य",
+            "hindi": "अभिषेक करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "लङ्कायाम्",
+            "hindi": "लंका में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राक्षसेन्द्रम्",
+            "hindi": "राक्षसराज को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विभीषणम्",
+            "hindi": "विभीषण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कृतकृत्यः",
+            "hindi": "कृतार्थ हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विज्वरः",
+            "hindi": "सन्ताप रहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रमुमोद",
+            "hindi": "बहुत प्रसन्न हुआ (प्र + मुद्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.85",
+        "ocr_flags": [
+          "hindi_marker_range_84-85"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "“फिर सभी देवताओंसे पूजित होकर राम बहुत ही प्रसन्न हुए और राक्षसराज विभीषणको लङ्काके राज्यपर अभिषिक्त करके कृतार्थ हो गये। उस समय निश्चिन्त होनेके कारण उनके आनन्दका ठिकाना न रहा॥ ८४-८५॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

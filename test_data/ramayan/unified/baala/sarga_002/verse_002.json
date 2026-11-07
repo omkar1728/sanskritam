@@ -1,0 +1,283 @@
+{
+  "id": "baala-002-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 2
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-2"
+    ],
+    "vulgate_in_locators": [
+      "1.2.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.2"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002002a",
+        "1002002c"
+      ],
+      "lines": [
+        "यथावत्पूजितस्तेन देवर्षिर्नारदस्तदा",
+        "आपृष्ट्वैवाभ्यनुज्ञातः स जगाम विहायसम्"
+      ],
+      "punctuated_derived": "यथावत्पूजितस्तेन देवर्षिर्नारदस्तदा ।\nआपृष्ट्वैवाभ्यनुज्ञातः स जगाम विहायसम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "यथावत्पूजितस्तेन देवर्षिर्नारदस्तथा",
+        "आपृच्छैवाभ्यनुज्ञातः स जगाम विहायसम्"
+      ],
+      "locators": [
+        "1-2-2"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "यथावत् पूजितस्तेन देवर्षिर्नारदस्तथा",
+        "आपृच्छ्यैवाभ्यनुज्ञातः स जगाम विहायसम्"
+      ],
+      "locators": [
+        "1.2.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "यथावत्‌ पूजितस्तेन देवषिर्नारदस्तथा",
+        "आपुच्छ्येवाभ्यनुज्ञातः स जगाम विहायसम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "यथावत्पूजितस्तेन देवर्षिर्नारदस्तदा",
+      "net": "यथावत्पूजितस्तेन देवर्षिर्नारदस्तथा",
+      "in": "यथावत् पूजितस्तेन देवर्षिर्नारदस्तथा",
+      "gp": "यथावत्‌ पूजितस्तेन देवषिर्नारदस्तथा",
+      "similarity": {
+        "sim_smith_net": 0.9705882352941176,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "देवर्षिर्नारदस्तदा",
+            "b": "देवर्षिर्नारदस्तथा"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यथावत्पूजितस्तेन",
+            "b": "यथावत् पूजितस्तेन"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यथावत्पूजितस्तेन देवर्षिर्नारदस्तथा",
+            "b": "यथावत्‌ पूजितस्तेन देवषिर्नारदस्तथा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "आपृष्ट्वैवाभ्यनुज्ञातः स जगाम विहायसम्",
+      "net": "आपृच्छैवाभ्यनुज्ञातः स जगाम विहायसम्",
+      "in": "आपृच्छ्यैवाभ्यनुज्ञातः स जगाम विहायसम्",
+      "gp": "आपुच्छ्येवाभ्यनुज्ञातः स जगाम विहायसम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9090909090909091,
+        "sim_in_net": 0.9696969696969697,
+        "sim_gp_net": 0.9090909090909091
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "आपृष्ट्वैवाभ्यनुज्ञातः",
+            "b": "आपृच्छैवाभ्यनुज्ञातः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "आपृच्छैवाभ्यनुज्ञातः",
+            "b": "आपृच्छ्यैवाभ्यनुज्ञातः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "आपृच्छैवाभ्यनुज्ञातः",
+            "b": "आपुच्छ्येवाभ्यनुज्ञातः"
+          },
+          {
+            "a": "विहायसम्",
+            "b": "विहायसम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-2",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That divine sage Narada being worshipped befittingly by Valmiki in that way, on seeking permission of Valmiki to leave and having been permitted by Valmiki, went away heaven-ward. [1-2-2]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-2",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "That"
+          },
+          {
+            "roman_itrans": "devarShiH",
+            "devanagari_machine_converted": "देवर्षिः",
+            "english": "divine sage"
+          },
+          {
+            "roman_itrans": "yathaavat puujitaH",
+            "devanagari_machine_converted": "यथावत् पूजितः",
+            "english": "being worshipped befittingly"
+          },
+          {
+            "roman_itrans": "tena",
+            "devanagari_machine_converted": "तेन",
+            "english": "by him [by Valmiki]"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "in that way"
+          },
+          {
+            "roman_itrans": "aapR^icCha",
+            "devanagari_machine_converted": "आपृच्छ",
+            "english": "asking [for permission to leave]"
+          },
+          {
+            "roman_itrans": "abhyanuj~naataH",
+            "devanagari_machine_converted": "अभ्यनुज्ञातः",
+            "english": "being permitted [by Valmiki]"
+          },
+          {
+            "roman_itrans": "vihaayasam jagaama",
+            "devanagari_machine_converted": "विहायसम् जगाम",
+            "english": "went heaven-ward."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वाल्मीकिजीसे यथावत् सम्मानित हो देवर्षि नारदजीने जानेके लिये उनसे आज्ञा माँगी और उनसे अनुमति मिल जानेपर वे आकाशमार्गसे चले गये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "यथावत्",
+            "hindi": "यथोचित रूप से (अव्यय)"
+          },
+          {
+            "sanskrit": "पूजितः",
+            "hindi": "पूजित हुआ (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उन (वाल्मीकि) के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "देवर्षिः",
+            "hindi": "देवर्षि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नारदः",
+            "hindi": "नारद ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "आपृच्छ्य",
+            "hindi": "आज्ञा माँगकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अभ्यनुज्ञातः",
+            "hindi": "अनुमति पाया हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गए (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विहायसम्",
+            "hindi": "आकाश मार्ग से (द्वितीया विभक्ति का अव्ययीभाव)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.2",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वाल्मीकिजीसे यथावत्‌ सम्मानित हो देवर्षि नारदजीने जानेके लिये उनसे आज्ञा माँगी और उनसे अनुमति मिल जानेपर वे आकाशमार्गसे चले गये॥ २॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,288 @@
+{
+  "id": "baala-001-072",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 72,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 52
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-66"
+    ],
+    "vulgate_in_locators": [
+      "1.1.66"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.66"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001052a",
+        "1001052c"
+      ],
+      "lines": [
+        "बिभेद च पुनः सालान्सप्तैकेन महेषुणा",
+        "गिरिं रसातलं चैव जनयन्प्रत्ययं तदा"
+      ],
+      "punctuated_derived": "बिभेद च पुनः सालान्सप्तैकेन महेषुणा ।\nगिरिं रसातलं चैव जनयन्प्रत्ययं तदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "बिभेद च पुनः सालान् सप्तैकेन महेषुणा",
+        "गिरिं रसातलं चैव जनयन् प्रत्ययं तदा"
+      ],
+      "locators": [
+        "1-1-66"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "बिभेद च पुनस्तालान् सप्तैकेन महेषुणा",
+        "गिरिं रसातलं चैव जनयन् प्रत्ययं तदा"
+      ],
+      "locators": [
+        "1.1.66"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "बिभेद च पुनस्तालान्‌ सप्तैकेन महेषुणा",
+        "गिरिं रसातलं चैव जनयन्‌ प्रत्ययं तदा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.66"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "बिभेद च पुनः सालान्सप्तैकेन महेषुणा",
+      "net": "बिभेद च पुनः सालान् सप्तैकेन महेषुणा",
+      "in": "बिभेद च पुनस्तालान् सप्तैकेन महेषुणा",
+      "gp": "बिभेद च पुनस्तालान्‌ सप्तैकेन महेषुणा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9508196721311475,
+        "sim_gp_net": 0.9508196721311475
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सालान्सप्तैकेन",
+            "b": "सालान् सप्तैकेन"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "पुनः सालान्",
+            "b": "पुनस्तालान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पुनः सालान्",
+            "b": "पुनस्तालान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "गिरिं रसातलं चैव जनयन्प्रत्ययं तदा",
+      "net": "गिरिं रसातलं चैव जनयन् प्रत्ययं तदा",
+      "in": "गिरिं रसातलं चैव जनयन् प्रत्ययं तदा",
+      "gp": "गिरिं रसातलं चैव जनयन्‌ प्रत्ययं तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "जनयन्प्रत्ययं",
+            "b": "जनयन् प्रत्ययं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "जनयन्",
+            "b": "जनयन्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-66",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then again Rama ripped through seven massive Sala trees with only one great arrow, which not only went through the trees but also rent through a mountain, and to the nethermost subterranean of earth, in order to create faith in the mind of Sugreeva... [1-1-66]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-66",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "Then"
+          },
+          {
+            "roman_itrans": "punaH",
+            "devanagari_machine_converted": "पुनः",
+            "english": "again"
+          },
+          {
+            "roman_itrans": "ekena maheShuNaa",
+            "devanagari_machine_converted": "एकेन महेषुणा",
+            "english": "with one great arrow"
+          },
+          {
+            "roman_itrans": "bibheda",
+            "devanagari_machine_converted": "बिभेद",
+            "english": "[Rama] ripped [through]"
+          },
+          {
+            "roman_itrans": "saptasaalaan",
+            "devanagari_machine_converted": "सप्तसालान्",
+            "english": "seven sala trees"
+          },
+          {
+            "roman_itrans": "girim ca",
+            "devanagari_machine_converted": "गिरिम् च",
+            "english": "and a mountain"
+          },
+          {
+            "roman_itrans": "rasaatalam ca eva",
+            "devanagari_machine_converted": "रसातलम् च एव",
+            "english": "and subterranean earth"
+          },
+          {
+            "roman_itrans": "pratyayam janayan",
+            "devanagari_machine_converted": "प्रत्ययम् जनयन्",
+            "english": "to create faith [in the mind of Sugreeva]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-66",
+        "spans_beyond_this_verse": false,
+        "text": "The rasaatala is deepest subterranean plane, and it forms the base of other planes of earth called, atala, vitala, sutala, talaatala, mahaatala, rasaatala underneath the surface of earth up to its core."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.66",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'फिर एक ही महान् बाणसे उन्होंने अपना विश्वास दिलाते हुए सात तालवृक्षोंको और पर्वत तथा रसातलको बींध डाला"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.66",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "बिभेद",
+            "hindi": "बींध डाला (भिद् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "तालान्",
+            "hindi": "ताल वृक्षों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सप्त",
+            "hindi": "सात (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एकेन",
+            "hindi": "एक द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महेषुणा",
+            "hindi": "महान बाण के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गिरिम्",
+            "hindi": "पर्वत को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रसातलम्",
+            "hindi": "रसातल को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "जनयन्",
+            "hindi": "उत्पन्न करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रत्ययम्",
+            "hindi": "विश्वास को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.66",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“फिर एक ही महान्‌ बाणसे उन्होंने अपना विश्वास दिलाते हुए सात तालवृक्षोंको और पर्वत तथा रसातलको बींध डाला॥ ६६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

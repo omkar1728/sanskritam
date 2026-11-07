@@ -1,0 +1,260 @@
+{
+  "id": "baala-001-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 3
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-3"
+    ],
+    "vulgate_in_locators": [
+      "1.1.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.3"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001003a",
+        "1001003c"
+      ],
+      "lines": [
+        "चारित्रेण च को युक्तः सर्वभूतेषु को हितः",
+        "विद्वान्कः कः समर्थश्च कश्चैकप्रियदर्शनः"
+      ],
+      "punctuated_derived": "चारित्रेण च को युक्तः सर्वभूतेषु को हितः ।\nविद्वान्कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "चारित्रेण च को युक्तः सर्वभूतेषु को हितः",
+        "विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः"
+      ],
+      "locators": [
+        "1-1-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "चारित्रेण च को युक्तः सर्वभूतेषु को हितः",
+        "विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः"
+      ],
+      "locators": [
+        "1.1.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विद्वान्‌ कः कः समर्थश्च कश्चैकप्रियदर्शनः"
+      ],
+      "ocr_flags": [
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.1.3"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "चारित्रेण च को युक्तः सर्वभूतेषु को हितः",
+      "net": "चारित्रेण च को युक्तः सर्वभूतेषु को हितः",
+      "in": "चारित्रेण च को युक्तः सर्वभूतेषु को हितः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "विद्वान्कः कः समर्थश्च कश्चैकप्रियदर्शनः",
+      "net": "विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः",
+      "in": "विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः",
+      "gp": "विद्वान्‌ कः कः समर्थश्च कश्चैकप्रियदर्शनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विद्वान्कः",
+            "b": "विद्वान् कः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विद्वान्",
+            "b": "विद्वान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-3",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Who is appropriate in disposition... who is interested in welfare of all beings... who is adept and also an able one... also uniquely pleasant to look at... [1-1-3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-3",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kaH chaaritreNa ca yuktaH",
+            "devanagari_machine_converted": "कः चारित्रेण च युक्तः",
+            "english": "appropriate in disposition"
+          },
+          {
+            "roman_itrans": "kaH sarvabhuuteSu hitaH",
+            "devanagari_machine_converted": "कः सर्वभूतेषु हितः",
+            "english": "who is interested in welfare of all beings"
+          },
+          {
+            "roman_itrans": "kaH vidvaan",
+            "devanagari_machine_converted": "कः विद्वान्",
+            "english": "who is an adept one"
+          },
+          {
+            "roman_itrans": "samarthaH ca",
+            "devanagari_machine_converted": "समर्थः च",
+            "english": "an able one also"
+          },
+          {
+            "roman_itrans": "kaH ca ekapriyadarshanaH",
+            "devanagari_machine_converted": "कः च एकप्रियदर्शनः",
+            "english": "who is also uniquely pleasant to look at."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-3",
+        "spans_beyond_this_verse": false,
+        "text": "The adeptness of that person is in his knowing all the knowable aspects in this world, and he must be able to retain that knowledge to translate into his deeds, not just to sit back with his bookish knowledge, but with utmost practicality. His conduct-wise character shall be acceptable i.e., by his lineage he shall be noble, by his education he must be well-read, by his actions they must be conducive to norms laid down in Veda-s, and thus given any area, he should conduct himself properly. And he must be benign not only to higher-ups but to lowly subjects, like Guha, Shabari et al., and he should deal with wrongdoers and right-doers conscientiously. Further, he in his mien he shall be pleasant, but not an unsightly one. The word eka also means 'unique' and thus his complexion, facial, physical structures etc., shall be unique and shall differ from ordinary beings. kShaNe kShaNe yat navataam upaiti tadeva ruupam ramaNiiyataayaaH 'which / what / who gets newness moment by moment, that alone is pleasant...'"
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'सदाचारसे युक्त, समस्त प्राणियोंका हितसाधक, विद्वान्, सामर्थ्यशाली और एकमात्र प्रियदर्शन (सुन्दर) पुरुष कौन है ?"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चारित्रेण",
+            "hindi": "सदाचरण से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "युक्तः",
+            "hindi": "युक्त है (प्रथमा विभक्ति, विशेषण)"
+          },
+          {
+            "sanskrit": "सर्वभूतेषु",
+            "hindi": "सभी प्राणियों के प्रति (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हितः",
+            "hindi": "हित करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विद्वान्",
+            "hindi": "ज्ञानी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समर्थः",
+            "hindi": "सक्षम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एकप्रियदर्शनः",
+            "hindi": "एकमात्र दर्शन से प्रिय लगने वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.3",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "'सदाचारसे युक्त, समस्त प्राणियांका हितसाधक, विद्वान्‌, सामर्थ्यशाली और एकमात्र प्रियदर्शन (सुन्दर) पुरुष कौन है?॥ ३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

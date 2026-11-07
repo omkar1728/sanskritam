@@ -1,0 +1,297 @@
+{
+  "id": "baala-002-029",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 29,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 27
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-28"
+    ],
+    "vulgate_in_locators": [
+      "1.2.27"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.28"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002027a",
+        "1002027c"
+      ],
+      "lines": [
+        "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+        "यस्तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्"
+      ],
+      "punctuated_derived": "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना ।\nयस्तादृशं चारुरवं क्रौञ्चं हन्यादकारणात् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+        "यस्तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्"
+      ],
+      "locators": [
+        "1-2-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+        "यत् तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्"
+      ],
+      "locators": [
+        "1.2.27"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_27-283"
+      ],
+      "refs": [
+        "1.2.28"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+      "net": "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+      "in": "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+      "gp": "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "यस्तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्",
+      "net": "यस्तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्",
+      "in": "यत् तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "यस्तादृशं",
+            "b": "यत् तादृशं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-28",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He that tribal hunter, who killed a cutely calling krouncha bird for no good reason than intending to capture the kill, is an evil souled one that caused hardship...\" [1-2-28b-29a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-28",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "yaH",
+            "devanagari_machine_converted": "यः",
+            "english": "he who, tribal hunter; taadR^isham = that sort of"
+          },
+          {
+            "roman_itrans": "chaaruravam krauncham",
+            "devanagari_machine_converted": "चारुरवम् क्रौन्चम्",
+            "english": "cutely, calling, krouncha bird"
+          },
+          {
+            "roman_itrans": "akaaraNaat hanyaat",
+            "devanagari_machine_converted": "अकारणात् हन्यात्",
+            "english": "without, reason, kills [killed]"
+          },
+          {
+            "roman_itrans": "vairagrahaNabuddhinaa",
+            "devanagari_machine_converted": "वैरग्रहणबुद्धिना",
+            "english": "intending to capture enemy [kill]"
+          },
+          {
+            "roman_itrans": "paapaatmanaa",
+            "devanagari_machine_converted": "पापात्मना",
+            "english": "by evil souled one; kaSTam kR^itam = hardship, is caused."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ब्रह्माजीकी आज्ञा पाकर वे भी आसनपर बैठे। उस समय साक्षात् लोकपितामह ब्रह्मा सामने बैठे हुए थे तो भी वाल्मीकिका मन उस क्रौञ्च पक्षीवाली घटनाकी ओर ही लगा रहा। वे उसीके विषयमें सोचने लगे—’ओह ! जिसकी बुद्धि वैरभावको ग्रहण करनेमें ही लगी रहती है, उस पापात्मा व्याधने बिना किसी अपराधके ही वैसे मनोहर कलरव करनेवाले क्रौञ्च पक्षीके प्राण ले लिये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.27",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ब्रह्मणा",
+            "hindi": "ब्रह्मा के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समनुज्ञातः",
+            "hindi": "आज्ञा पाया हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "उपाविशत्",
+            "hindi": "बैठ गए (उप + विश्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "आसने",
+            "hindi": "आसन पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "उपविष्टे",
+            "hindi": "बैठे हुए पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उन (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "साक्षात्",
+            "hindi": "साक्षात् (अव्यय)"
+          },
+          {
+            "sanskrit": "लोकपितामहे",
+            "hindi": "लोकपितामह ब्रह्मा के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तद्गतेन",
+            "hindi": "उसी में लगे हुए (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "मनसा",
+            "hindi": "मन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वाल्मीकिः",
+            "hindi": "वाल्मीकि (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ध्यानम्",
+            "hindi": "ध्यान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आस्थितः",
+            "hindi": "लगाये हुए (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पापात्मना",
+            "hindi": "पापी के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कृतम्",
+            "hindi": "किया गया (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कष्टम्",
+            "hindi": "कष्ट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वैरग्रहणबुद्धिना",
+            "hindi": "वैर ग्रहण करने की बुद्धि वाले के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जिसने (अव्यय)"
+          },
+          {
+            "sanskrit": "तादृशम्",
+            "hindi": "ऐसे (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चारुरवम्",
+            "hindi": "मधुर स्वर वाले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "क्रौञ्चम्",
+            "hindi": "क्रौञ्च पक्षी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हन्यात्",
+            "hindi": "मार डाले (हन् धातु, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अकारणात्",
+            "hindi": "बिना कारण (पञ्चमी विभक्ति का अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.28",
+        "ocr_flags": [
+          "hindi_marker_range_27-283"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "यत्‌ तादृशं चारुरवं क्रौञ्चं हन्यादकारणात्‌। ब्रह्माजीकी आज्ञा पाकर वे भी आसनपर बैठे। उस समय साक्षात्‌ लोकपितामह ब्रह्मा सामने बैठे हुए थे तो भी वाल्मीकिका मन उस क्रौञ्च पक्षीवाली घटनाकी ओर ही लगा रहा। वे उसीके विषयमें सोचने 'लगे-*ओह! जिसकी बुद्धि वैरभावको ग्रहण करनेमें ही लगी रहती है, उस पापात्मा व्याधने बिना किसी अपराधके ही वैसे मनोहर कलरव करनेवाले क्रौञ्च पक्षीके प्राण ले लिये'॥ २७-२८३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

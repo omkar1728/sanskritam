@@ -1,0 +1,239 @@
+{
+  "id": "baala-010-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 11
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-11"
+    ],
+    "vulgate_in_locators": [
+      "1.10.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009011a",
+        "1009011c"
+      ],
+      "lines": [
+        "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरैः",
+        "ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन्"
+      ],
+      "punctuated_derived": "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरैः ।\nऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ताश्चित्रवेषाः प्रमदा गायंत्यो मधुरस्वरम्",
+        "ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन्"
+      ],
+      "locators": [
+        "1-10-11"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरम्",
+        "ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन्"
+      ],
+      "locators": [
+        "1.10.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरम्‌",
+        "ऋषिपुत्रमुपागम्य सर्वां वचनमब्रुवन्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरैः",
+      "net": "ताश्चित्रवेषाः प्रमदा गायंत्यो मधुरस्वरम्",
+      "in": "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरम्",
+      "gp": "ताश्चित्रवेषाः प्रमदा गायन्त्यो मधुरस्वरम्‌",
+      "similarity": {
+        "sim_smith_net": 0.96,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "गायन्त्यो मधुरस्वरैः",
+            "b": "गायंत्यो मधुरस्वरम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "गायंत्यो",
+            "b": "गायन्त्यो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गायंत्यो मधुरस्वरम्",
+            "b": "गायन्त्यो मधुरस्वरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन्",
+      "net": "ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन्",
+      "in": "ऋषिपुत्रमुपागम्य सर्वा वचनमब्रुवन्",
+      "gp": "ऋषिपुत्रमुपागम्य सर्वां वचनमब्रुवन्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9841269841269841
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सर्वा वचनमब्रुवन्",
+            "b": "सर्वां वचनमब्रुवन्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-11",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"They the lustful women are amazingly attired and singing melodious tunes, all of them neared the sage's son and spoke these words... [1-10-11]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-11",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "chitraveSaaH taaH pramadaaH",
+            "devanagari_machine_converted": "चित्रवेषाः ताः प्रमदाः",
+            "english": "they, amazingly attired, lustful women"
+          },
+          {
+            "roman_itrans": "madhurasvaram gaayantyaH",
+            "devanagari_machine_converted": "मधुरस्वरम् गायन्त्यः",
+            "english": "singing with melodious tone"
+          },
+          {
+            "roman_itrans": "sarvaaH R^iSiputram upaagamya",
+            "devanagari_machine_converted": "सर्वाः ऋषिपुत्रम् उपागम्य",
+            "english": "all of them, nearing at Sage's son,"
+          },
+          {
+            "roman_itrans": "vachanam abraviit",
+            "devanagari_machine_converted": "वचनम् अब्रवीत्",
+            "english": "words, spoke."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“उन प्रमदाओंका वेष बड़ा ही सुन्दर और अद्भुत था। वे मीठे स्वरमें गा रही थीं। ऋषिकुमारको आया देख सभी उनके पास चली आयीं और इस प्रकार पूछने लगीं-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ताः",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "चित्रवेषाः",
+            "hindi": "विचित्र / सुन्दर वेष वाली (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रमदाः",
+            "hindi": "प्रमदाएँ / सुन्दर स्त्रियाँ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "गायन्त्यः",
+            "hindi": "गाती हुई (प्रथमा विभक्ति, बहुवचन, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "मधुरस्वरम्",
+            "hindi": "मधुर स्वर में (क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "ऋषिपुत्रम्",
+            "hindi": "ऋषि के पुत्र के पास (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपागम्य",
+            "hindi": "आकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वाः",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वचनम्",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अब्रुवन्",
+            "hindi": "बोलीं (ब्रू धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“उन प्रमदाओंका वेष बड़ा ही सुन्दर और अद्भुत था। वे मीठे स्वरमें गा रही थीं। ऋषिकुमारको आया देख सभी उनके पास चली आयीं और इस प्रकार पूछने लगीं--॥ ११॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

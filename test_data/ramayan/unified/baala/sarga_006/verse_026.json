@@ -1,0 +1,283 @@
+{
+  "id": "baala-006-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 20
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-22"
+    ],
+    "vulgate_in_locators": [
+      "1.6.22"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.22"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006020a",
+        "1006020c"
+      ],
+      "lines": [
+        "काम्बोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः",
+        "वनायुजैर्नदीजैश्च पूर्णाहरिहयोपमैः"
+      ],
+      "punctuated_derived": "काम्बोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः ।\nवनायुजैर्नदीजैश्च पूर्णाहरिहयोपमैः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कांभोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः",
+        "वनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमैः"
+      ],
+      "locators": [
+        "1-6-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "काम्बोजविषये जातैर्बाह्नीकैश्च हयोत्तमैः",
+        "वनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमैः॥२२"
+      ],
+      "locators": [
+        "1.6.22"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "काम्बोजविषये जातैर्बाह्णीकेशच हयोत्तमैः",
+        "वनायुजैर्नदीजैशच पूर्णा हरिहयोत्तमैः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.22"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "काम्बोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः",
+      "net": "कांभोजविषये जातैर्बाह्लीकैश्च हयोत्तमैः",
+      "in": "काम्बोजविषये जातैर्बाह्नीकैश्च हयोत्तमैः",
+      "gp": "काम्बोजविषये जातैर्बाह्णीकेशच हयोत्तमैः",
+      "similarity": {
+        "sim_smith_net": 0.972972972972973,
+        "sim_in_net": 0.9459459459459459,
+        "sim_gp_net": 0.9041095890410958
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "काम्बोजविषये",
+            "b": "कांभोजविषये"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कांभोजविषये जातैर्बाह्लीकैश्च",
+            "b": "काम्बोजविषये जातैर्बाह्नीकैश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कांभोजविषये जातैर्बाह्लीकैश्च",
+            "b": "काम्बोजविषये जातैर्बाह्णीकेशच"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "वनायुजैर्नदीजैश्च पूर्णाहरिहयोपमैः",
+      "net": "वनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमैः",
+      "in": "वनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमैः॥२२",
+      "gp": "वनायुजैर्नदीजैशच पूर्णा हरिहयोत्तमैः",
+      "similarity": {
+        "sim_smith_net": 0.9411764705882353,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9855072463768116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "पूर्णाहरिहयोपमैः",
+            "b": "पूर्णा हरिहयोत्तमैः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "हरिहयोत्तमैः",
+            "b": "हरिहयोत्तमैः॥२२"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वनायुजैर्नदीजैश्च",
+            "b": "वनायुजैर्नदीजैशच"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-22",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city is full with best horses born in countries like Kaambhoja, Baahlika, Vanaayu, and also in river-bed counties, which are like the horse of Indra namely ucChaishrava. [1-6-22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-22",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kaambhojaviSaye",
+            "devanagari_machine_converted": "काम्भोजविषये",
+            "english": "in the country Kaambhoja"
+          },
+          {
+            "roman_itrans": "jaataiH",
+            "devanagari_machine_converted": "जातैः",
+            "english": "born in"
+          },
+          {
+            "roman_itrans": "baahliikaiH",
+            "devanagari_machine_converted": "बाह्लीकैः",
+            "english": "in Baahlika country"
+          },
+          {
+            "roman_itrans": "hayottamaiH",
+            "devanagari_machine_converted": "हयोत्तमैः",
+            "english": "the best horses"
+          },
+          {
+            "roman_itrans": "vanaayujaiH",
+            "devanagari_machine_converted": "वनायुजैः",
+            "english": "born in Vanaayu"
+          },
+          {
+            "roman_itrans": "nadiijaiH",
+            "devanagari_machine_converted": "नदीजैः",
+            "english": "born in rivers"
+          },
+          {
+            "roman_itrans": "cha",
+            "devanagari_machine_converted": "च",
+            "english": "also"
+          },
+          {
+            "roman_itrans": "puurNaa",
+            "devanagari_machine_converted": "पूर्णा",
+            "english": "full with"
+          },
+          {
+            "roman_itrans": "harihayottamaiH",
+            "devanagari_machine_converted": "हरिहयोत्तमैः",
+            "english": "like Indra's best horse."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-22",
+        "spans_beyond_this_verse": false,
+        "text": "It is said that the horses born in the rivers nadii+ja are brought to the city Ayodhya. They are not water horses but horses born at the place where the historically prominent Seven Rivers of Indus Valley Rivers flow."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "काम्बोज और बालीक देशमें उत्पन्न हुए उत्तम घोड़ोंसे, वनायु देशके अश्वोंसे तथा सिन्धुनदके निकट पैदा होनेवाले दरियाई घोड़ोंसे, जो इन्द्रके अश्व उच्चैःश्रवाके समान श्रेष्ठ थे, अयोध्यापुरी भरी रहती थी॥ २२॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "काम्बोजविषये",
+            "hindi": "काम्बोज देश में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "जातैः",
+            "hindi": "उत्पन्न हुए से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "बाह्नीकैः",
+            "hindi": "बालीक देश के से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "हयोत्तमैः",
+            "hindi": "उत्तम घोड़ों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वनायुजैः",
+            "hindi": "वनायु देश के घोड़ों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नदीजैः",
+            "hindi": "नदी में उत्पन्न घोड़ों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "पूर्णा",
+            "hindi": "पूर्ण / भरी हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हरिहयोत्तमैः",
+            "hindi": "इन्द्र के उत्तम घोड़ों के समान से (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.22",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "काम्बोज और बाह्णीक देशमें उत्पन्न हुए उत्तम घोड़ोंसे, वनायु देशके अध्यासे तथा सिन्धुनदके निकट पैदा होनेवाले दरियाई घोड़ोंसे; जो इन्रके अश्व उच्चैः श्रवाके समान श्रेष्ठ थे, अयोध्यापुरी भरी रहती थी॥ २२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

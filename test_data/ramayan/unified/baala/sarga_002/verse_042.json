@@ -1,0 +1,250 @@
+{
+  "id": "baala-002-042",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 42,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 40
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-41"
+    ],
+    "vulgate_in_locators": [
+      "1.2.41"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.41"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002040a",
+        "1002040c"
+      ],
+      "lines": [
+        "तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः",
+        "कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्"
+      ],
+      "punctuated_derived": "तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः ।\nकृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः",
+        "कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्"
+      ],
+      "locators": [
+        "1-2-41"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः",
+        "कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्"
+      ],
+      "locators": [
+        "1.2.41"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः",
+        "कृत्स्नं रामायणं काव्यमीदूशैः करवाण्यहम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.41"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मनः",
+      "net": "तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः",
+      "in": "तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः",
+      "gp": "तस्य बुद्धिरियं जाता महर्षेर्भावितात्मनः",
+      "similarity": {
+        "sim_smith_net": 0.868421052631579,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वाल्मीकेर्भावितात्मनः",
+            "b": "महर्षेर्भावितात्मनः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्",
+      "net": "कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्",
+      "in": "कृत्स्नं रामायणं काव्यमीदृशैः करवाण्यहम्",
+      "gp": "कृत्स्नं रामायणं काव्यमीदूशैः करवाण्यहम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "काव्यमीदृशैः करवाण्यहम्",
+            "b": "काव्यमीदूशैः करवाण्यहम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-41",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Born is an intuition in that great sage and contemplated soul asserting that \"I will compose entire Ramayana, the epic, in suchlike verses...' [1-2-41]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-41",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "aham",
+            "devanagari_machine_converted": "अहम्",
+            "english": "me"
+          },
+          {
+            "roman_itrans": "kR^itsnam raamaayaNam kaavyam",
+            "devanagari_machine_converted": "कृत्स्नम् रामायणम् काव्यम्",
+            "english": "entire, Ramayana, epic"
+          },
+          {
+            "roman_itrans": "iidR^ishaiH",
+            "devanagari_machine_converted": "ईदृशैः",
+            "english": "this sort of [in suchlike verses]"
+          },
+          {
+            "roman_itrans": "karavaaNi",
+            "devanagari_machine_converted": "करवाणि",
+            "english": "I will compose"
+          },
+          {
+            "roman_itrans": "iyam buddhiH",
+            "devanagari_machine_converted": "इयम् बुद्धिः",
+            "english": "this kind of, intuition"
+          },
+          {
+            "roman_itrans": "bhaavitaatmanaH",
+            "devanagari_machine_converted": "भावितात्मनः",
+            "english": "for that contemplated soul"
+          },
+          {
+            "roman_itrans": "tasya maharSeH jaataa",
+            "devanagari_machine_converted": "तस्य महर्षेः जाता",
+            "english": "born to that great sage."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.41",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इधर शुद्ध अन्तःकरणवाले महर्षि वाल्मीकिके मनमें यह विचार हुआ कि मैं ऐसे ही श्लोकोंमें सम्पूर्ण रामायणकाव्यकी रचना करूँ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.41",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "बुद्धिः",
+            "hindi": "बुद्धि में (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इयम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जाता",
+            "hindi": "हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महर्षेः",
+            "hindi": "महर्षि की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भावितात्मनः",
+            "hindi": "शुद्ध अन्तःकरण वाले की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कृत्स्नम्",
+            "hindi": "सम्पूर्ण (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामायणम्",
+            "hindi": "रामायण (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "काव्यम्",
+            "hindi": "काव्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ईदृशैः",
+            "hindi": "ऐसे ही (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "करवाणि",
+            "hindi": "करूँ (कृ धातु, लोट् लकार, उत्तम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अहम्",
+            "hindi": "मैं (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.41",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "इधर शुद्ध अन्तःकरणवाले महर्षि वाल्मीकिके मनमें यह विचार हुआ कि मैं ऐसे ही श्लोकोंमें सम्पूर्ण रामायणकाव्यकी रचना करूं॥ ४१॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

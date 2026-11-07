@@ -1,0 +1,263 @@
+{
+  "id": "baala-007-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 15
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-20"
+    ],
+    "vulgate_in_locators": [
+      "1.7.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007015a",
+        "1007015c"
+      ],
+      "lines": [
+        "ईदृशैस्तैरमात्यैस्तु राजा दशरथोऽनघः",
+        "उपपन्नो गुणोपेतैरन्वशासद्वसुंधराम्"
+      ],
+      "punctuated_derived": "ईदृशैस्तैरमात्यैस्तु राजा दशरथोऽनघः ।\nउपपन्नो गुणोपेतैरन्वशासद्वसुंधराम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ईदृशैस्तैरमात्यैश्च राजा दशरथोऽनघः",
+        "उपपन्नो गुणोपेतैरन्वशासद्वसुंधराम्"
+      ],
+      "locators": [
+        "1-7-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ईदृशैस्तैरमात्यैश्च राजा दशरथोऽनघः",
+        "उपपन्नो गुणोपेतैरन्वशासद् वसुन्धराम्॥२०"
+      ],
+      "locators": [
+        "1.7.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ईदृशैस्तैरमात्येश्व राजा दशरथोऽनघः",
+        "उपपऱ्नो गुणोपेतैरन्वशासद्‌ वसुन्धराम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ईदृशैस्तैरमात्यैस्तु राजा दशरथोऽनघः",
+      "net": "ईदृशैस्तैरमात्यैश्च राजा दशरथोऽनघः",
+      "in": "ईदृशैस्तैरमात्यैश्च राजा दशरथोऽनघः",
+      "gp": "ईदृशैस्तैरमात्येश्व राजा दशरथोऽनघः",
+      "similarity": {
+        "sim_smith_net": 0.9206349206349206,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9354838709677419
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ईदृशैस्तैरमात्यैस्तु",
+            "b": "ईदृशैस्तैरमात्यैश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ईदृशैस्तैरमात्यैश्च",
+            "b": "ईदृशैस्तैरमात्येश्व"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "उपपन्नो गुणोपेतैरन्वशासद्वसुंधराम्",
+      "net": "उपपन्नो गुणोपेतैरन्वशासद्वसुंधराम्",
+      "in": "उपपन्नो गुणोपेतैरन्वशासद् वसुन्धराम्॥२०",
+      "gp": "उपपऱ्नो गुणोपेतैरन्वशासद्‌ वसुन्धराम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9508196721311475
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गुणोपेतैरन्वशासद्वसुंधराम्",
+            "b": "गुणोपेतैरन्वशासद् वसुन्धराम्॥२०"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "उपपन्नो गुणोपेतैरन्वशासद्वसुंधराम्",
+            "b": "उपपऱ्नो गुणोपेतैरन्वशासद्‌ वसुन्धराम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Accompanied with such of those effectual and good-natured ministers the exalted king Dasharatha ruled the earth. [1-7-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anaghaH",
+            "devanagari_machine_converted": "अनघः",
+            "english": "exalted - [here, not sinless, but exalted king]"
+          },
+          {
+            "roman_itrans": "dasharathaH",
+            "devanagari_machine_converted": "दशरथः",
+            "english": "Dasharatha"
+          },
+          {
+            "roman_itrans": "guNopetaiH",
+            "devanagari_machine_converted": "गुणोपेतैः",
+            "english": "good-natured"
+          },
+          {
+            "roman_itrans": "iidR^ishaiH",
+            "devanagari_machine_converted": "ईदृशैः",
+            "english": "suchlike [that efficacious]"
+          },
+          {
+            "roman_itrans": "taiH amaatyaiH cha",
+            "devanagari_machine_converted": "तैः अमात्यैः च",
+            "english": "with those, ministers, also"
+          },
+          {
+            "roman_itrans": "upapannaH",
+            "devanagari_machine_converted": "उपपन्नः",
+            "english": "accompanied with"
+          },
+          {
+            "roman_itrans": "vasundharaam",
+            "devanagari_machine_converted": "वसुन्धराम्",
+            "english": "the earth"
+          },
+          {
+            "roman_itrans": "anvashaasat",
+            "devanagari_machine_converted": "अन्वशासत्",
+            "english": "ruled."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ऐसे गुणवान् मन्त्रियोंके साथ रहकर निष्पाप राजा दशरथ उस भूमण्डलका शासन करते थे॥ २० ॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ईदृशैः",
+            "hindi": "ऐसे (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तैः",
+            "hindi": "उन (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अमात्यैः",
+            "hindi": "मंत्रियों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनघः",
+            "hindi": "निष्पाप ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "उपपन्नः",
+            "hindi": "युक्त हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "गुणोपेतैः",
+            "hindi": "गुणों से युक्त के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अन्वशासत्",
+            "hindi": "शासन करते थे (अनु + शास्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वसुन्धराम्",
+            "hindi": "पृथ्वी का (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.20",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "ऐसे गुणवान्‌ मन्त्रियोंक साथ रहकर निष्पाप राजा दशरथ उस भूमण्डलका शासन करते थे॥ २०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

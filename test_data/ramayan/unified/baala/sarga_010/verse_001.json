@@ -1,0 +1,320 @@
+{
+  "id": "baala-010-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 1
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-1"
+    ],
+    "vulgate_in_locators": [
+      "1.10.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.1"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009001a",
+        "1009001c"
+      ],
+      "lines": [
+        "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+        "यथर्ष्यशृङ्गस्त्वानीतः शृणु मे मन्त्रिभिः सह"
+      ],
+      "punctuated_derived": "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा ।\nयथर्ष्यशृङ्गस्त्वानीतः शृणु मे मन्त्रिभिः सह ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सुमंत्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+        "यथर्ऋष्यशृङ्गस्त्वानीतो येनोपायेन मंत्रिभिः"
+      ],
+      "locators": [
+        "1-10-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+        "यथर्ण्यश्रृंगस्त्वानीतो येनोपायेन मन्त्रिभिः"
+      ],
+      "locators": [
+        "1.10.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+        "यथर्ष्यशृंगस्त्वानीतो येनोपायेन मन्त्रिभिः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+      "net": "सुमंत्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+      "in": "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+      "gp": "सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सुमन्त्रश्चोदितो",
+            "b": "सुमंत्रश्चोदितो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सुमंत्रश्चोदितो",
+            "b": "सुमन्त्रश्चोदितो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सुमंत्रश्चोदितो",
+            "b": "सुमन्त्रश्चोदितो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "यथर्ष्यशृङ्गस्त्वानीतः शृणु मे मन्त्रिभिः सह",
+      "net": "यथर्ऋष्यशृङ्गस्त्वानीतो येनोपायेन मंत्रिभिः",
+      "in": "यथर्ण्यश्रृंगस्त्वानीतो येनोपायेन मन्त्रिभिः",
+      "gp": "यथर्ष्यशृंगस्त्वानीतो येनोपायेन मन्त्रिभिः",
+      "similarity": {
+        "sim_smith_net": 0.7692307692307693,
+        "sim_in_net": 0.925,
+        "sim_gp_net": 0.9873417721518988
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यथर्ष्यशृङ्गस्त्वानीतः शृणु मे मन्त्रिभिः सह",
+            "b": "यथर्ऋष्यशृङ्गस्त्वानीतो येनोपायेन मंत्रिभिः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यथर्ऋष्यशृङ्गस्त्वानीतो",
+            "b": "यथर्ण्यश्रृंगस्त्वानीतो"
+          },
+          {
+            "a": "मंत्रिभिः",
+            "b": "मन्त्रिभिः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यथर्ऋष्यशृङ्गस्त्वानीतो",
+            "b": "यथर्ष्यशृंगस्त्वानीतो"
+          },
+          {
+            "a": "मंत्रिभिः",
+            "b": "मन्त्रिभिः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-1",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Sumantra thus motivated by King Dasharatha, said these words to king \"Oh! King, how and with which idea Sage Rishyasringa is brought by the ministers of Romapada, all that will be spoken... that may please be listened from me along with ministers... [1-10-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-1",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "sumantraH choditaH raaj~naa",
+            "devanagari_machine_converted": "सुमन्त्रः चोदितः राज्ञा",
+            "english": "Sumantra, motivated, by king"
+          },
+          {
+            "roman_itrans": "tadaa idam vachaH provaacha",
+            "devanagari_machine_converted": "तदा इदम् वचः प्रोवाच",
+            "english": "then, this, word, said"
+          },
+          {
+            "roman_itrans": "yathaa R^iShyasR^i~ngaH tu aaniitaH",
+            "devanagari_machine_converted": "यथा ऋष्यसृञ्गः तु आनीतः",
+            "english": "as to how, Rishyasringa, is brought"
+          },
+          {
+            "roman_itrans": "yena upaayena mantribhiH",
+            "devanagari_machine_converted": "येन उपायेन मन्त्रिभिः",
+            "english": "by which, idea, by ministers"
+          },
+          {
+            "roman_itrans": "shR^iNu me mantribhiH saha",
+            "devanagari_machine_converted": "शृणु मे मन्त्रिभिः सह",
+            "english": "all, listen, from me, with ministers"
+          },
+          {
+            "roman_itrans": "tat me nigaditam sarvam",
+            "devanagari_machine_converted": "तत् मे निगदितम् सर्वम्",
+            "english": "that all spoken by me."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.1",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "राजाकी आज्ञा पाकर उस समय सुमन्त्रने इस प्रकार कहना आरम्भ किया-“राजन् ! रोमपादके मन्त्रियोंने ऋष्यशृंगको वहाँ जिस प्रकार और जिस उपायसे बुलाया था, वह सब मैं बता रहा हूँ। आप मन्त्रियोंसहित मेरी बात सुनिये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.1",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सुमन्त्रः",
+            "hindi": "सुमन्त्र ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "चोदितः",
+            "hindi": "प्रेरित / आज्ञा पाकर (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "राज्ञा",
+            "hindi": "राजा द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रोवाच",
+            "hindi": "कहा (प्र + वच्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वचः",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जिस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "ऋष्यश्रृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "आनीतः",
+            "hindi": "बुलाया गया था (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "येन",
+            "hindi": "जिस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपायेन",
+            "hindi": "उपाय से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रिभिः",
+            "hindi": "मन्त्रियों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मे",
+            "hindi": "मेरे द्वारा (षष्ठी विभक्ति, कर्तृवाच्य में)"
+          },
+          {
+            "sanskrit": "निगदितम्",
+            "hindi": "कहा जा रहा है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सम्पूर्ण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शृणु",
+            "hindi": "सुनो (श्रु धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "मे",
+            "hindi": "मेरी (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रिभिः",
+            "hindi": "मन्त्रियों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सह",
+            "hindi": "सहित (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.1",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "राजाकी आज्ञा पाकर उस समय सुमन्त्रने इस प्रकार कहना आरम्भ किया--'राजन्‌! रोमपादके मन्त्रियोंने ऋष्यशृंगको वहाँ जिस प्रकार और जिस उपायसे बुलाया था, वह सब मैं बता रहा हूँ। आप मन्त्रियोंसहित मेरी बात सुनिये॥ १॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

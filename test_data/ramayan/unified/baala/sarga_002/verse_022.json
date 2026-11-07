@@ -1,0 +1,242 @@
+{
+  "id": "baala-002-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 21
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-22"
+    ],
+    "vulgate_in_locators": [
+      "1.2.22"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.22"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002021a",
+        "1002021c"
+      ],
+      "lines": [
+        "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्",
+        "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः"
+      ],
+      "punctuated_derived": "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित् ।\nउपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्",
+        "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः"
+      ],
+      "locators": [
+        "1-2-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्",
+        "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः"
+      ],
+      "locators": [
+        "1.2.22"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्‌",
+        "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.22"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्",
+      "net": "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्",
+      "in": "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्",
+      "gp": "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "धर्मवित्",
+            "b": "धर्मवित्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः",
+      "net": "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः",
+      "in": "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः",
+      "gp": "उपविष्टः कथाश्चान्याश्चकार ध्यानमास्थितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-22",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He that knower of dharma, Valmiki, having entered the threshold of hermitage along with disciples, and having seated spoke about the day-to-day teachings and also other things, but he himself is preoccupied in cogitation on the verse. [1-2-22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-22",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dharmavit saH",
+            "devanagari_machine_converted": "धर्मवित् सः",
+            "english": "he [Valmiki] knower of dharma"
+          },
+          {
+            "roman_itrans": "shiShyeNa saha",
+            "devanagari_machine_converted": "शिष्येण सह",
+            "english": "along with disciples"
+          },
+          {
+            "roman_itrans": "pravishya aashramapadam",
+            "devanagari_machine_converted": "प्रविश्य आश्रमपदम्",
+            "english": "on entering, hermitage's threshold"
+          },
+          {
+            "roman_itrans": "upaviSTaH",
+            "devanagari_machine_converted": "उपविष्टः",
+            "english": "having seated"
+          },
+          {
+            "roman_itrans": "anyaaH kathaaH ca chakaara",
+            "devanagari_machine_converted": "अन्याः कथाः च चकार",
+            "english": "made-spoke about other topics also"
+          },
+          {
+            "roman_itrans": "dhyaanamaasthitaH",
+            "devanagari_machine_converted": "ध्यानमास्थितः",
+            "english": "preoccupied in cogitation [but in]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "शिष्यके साथ आश्रममें पहुँचकर धर्मज्ञ ऋषि वाल्मीकिजी आसनपर बैठे और दूसरी-दूसरी बातें करने लगे; परंतु उनका ध्यान उस श्लोककी ओर ही लगा था।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रविश्य",
+            "hindi": "प्रवेश करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रमपदम्",
+            "hindi": "आश्रम में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शिष्येण",
+            "hindi": "शिष्य के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सह",
+            "hindi": "सहित (अव्यय)"
+          },
+          {
+            "sanskrit": "धर्मवित्",
+            "hindi": "धर्मज्ञ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "उपविष्टः",
+            "hindi": "बैठे हुए (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कथाः",
+            "hindi": "बातों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्याः",
+            "hindi": "अन्य (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "करने लगे (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ध्यानम्",
+            "hindi": "ध्यान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आस्थितः",
+            "hindi": "लगाये हुए (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.22",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "शिष्यके साथ आश्रममें पहुँचकर धर्मज्ञ ऋषि वाल्मीकिजी आसनपर बैठे और दूसरी-दूसरी बातें करने लगे; परंतु उनका ध्यान उस श्लोककी ओर ही लगा था॥ २२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

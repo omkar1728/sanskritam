@@ -1,0 +1,269 @@
+{
+  "id": "baala-001-004",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 4,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 4
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-4"
+    ],
+    "vulgate_in_locators": [
+      "1.1.4"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001004a",
+        "1001004c"
+      ],
+      "lines": [
+        "आत्मवान्को जितक्रोधो द्युतिमान्कोऽनसूयकः",
+        "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे"
+      ],
+      "punctuated_derived": "आत्मवान्को जितक्रोधो द्युतिमान्कोऽनसूयकः ।\nकस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः",
+        "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे"
+      ],
+      "locators": [
+        "1-1-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः",
+        "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे"
+      ],
+      "locators": [
+        "1.1.4"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे"
+      ],
+      "ocr_flags": [
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.1.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आत्मवान्को जितक्रोधो द्युतिमान्कोऽनसूयकः",
+      "net": "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः",
+      "in": "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "आत्मवान्को",
+            "b": "आत्मवान् को"
+          },
+          {
+            "a": "द्युतिमान्कोऽनसूयकः",
+            "b": "द्युतिमान् कोऽनसूयकः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे",
+      "net": "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे",
+      "in": "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे",
+      "gp": "कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-4",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Who is that self-composed one, who controlled his ire, who is brilliant, non-jealous and whom do even the gods fear, when provoked to war... [1-1-4]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-4",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "aatmavaan",
+            "devanagari_machine_converted": "आत्मवान्",
+            "english": "self-composed"
+          },
+          {
+            "roman_itrans": "kaH",
+            "devanagari_machine_converted": "कः",
+            "english": "who is"
+          },
+          {
+            "roman_itrans": "jitakrodhaH",
+            "devanagari_machine_converted": "जितक्रोधः",
+            "english": "one with controlled ire"
+          },
+          {
+            "roman_itrans": "dyutimaan",
+            "devanagari_machine_converted": "द्युतिमान्",
+            "english": "brilliant one"
+          },
+          {
+            "roman_itrans": "anasuuyakaH",
+            "devanagari_machine_converted": "अनसूयकः",
+            "english": "not jealous"
+          },
+          {
+            "roman_itrans": "kaH",
+            "devanagari_machine_converted": "कः",
+            "english": "who is"
+          },
+          {
+            "roman_itrans": "jaataroSasya",
+            "devanagari_machine_converted": "जातरोषस्य",
+            "english": "with anger born"
+          },
+          {
+            "roman_itrans": "kasya",
+            "devanagari_machine_converted": "कस्य",
+            "english": "of whom"
+          },
+          {
+            "roman_itrans": "saMyuge",
+            "devanagari_machine_converted": "संयुगे",
+            "english": "in war"
+          },
+          {
+            "roman_itrans": "devaaH ca",
+            "devanagari_machine_converted": "देवाः च",
+            "english": "gods even"
+          },
+          {
+            "roman_itrans": "bibhyati",
+            "devanagari_machine_converted": "बिभ्यति",
+            "english": "are afraid."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'मनपर अधिकार रखनेवाला, क्रोधको जीतनेवाला, कान्तिमान् और किसीकी भी निन्दा नहीं करनेवाला कौन है? तथा संग्राममें कुपित होनेपर किससे देवता भी डरते हैं?"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आत्मवान्",
+            "hindi": "आत्मसंयमी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जितक्रोधः",
+            "hindi": "जिसने क्रोध को जीत लिया है (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्युतिमान्",
+            "hindi": "तेजस्वी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनसूयकः",
+            "hindi": "दोष न देखने वाला / निन्दा न करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कस्य",
+            "hindi": "किससे (षष्ठी विभक्ति, 'डरना' क्रिया के साथ अपादान कारक)"
+          },
+          {
+            "sanskrit": "बिभ्यति",
+            "hindi": "डरते हैं (भी धातु, लट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "देवाः",
+            "hindi": "देवता लोग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "जातरोषस्य",
+            "hindi": "उत्पन्न क्रोध वाले के लिए (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "संयुगे",
+            "hindi": "युद्ध में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.4",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "'मनपर अधिकार रखनेवाला, क्रोधको जीतनेवाला, कान्तिमान्‌ और किसीकी भी निन्दा नहीँ करनेवाला कौन है? तथा संग्राममें कुपित होनेपर किससे देवता भी डरते हैं?॥ ४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

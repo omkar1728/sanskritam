@@ -1,0 +1,298 @@
+{
+  "id": "baala-007-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 12
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-15"
+    ],
+    "vulgate_in_locators": [
+      "1.7.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007012a",
+        "1007012c"
+      ],
+      "lines": [
+        "कश्चिन्न दुष्टस्तत्रासीत्परदाररतिर्नरः",
+        "प्रशान्तं सर्वमेवासीद्राष्ट्रं पुरवरं च तत्"
+      ],
+      "punctuated_derived": "कश्चिन्न दुष्टस्तत्रासीत्परदाररतिर्नरः ।\nप्रशान्तं सर्वमेवासीद्राष्ट्रं पुरवरं च तत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कश्चिन्न दुष्टस्तत्रासीत्परदाररतो नरः",
+        "प्रशांतं सर्वमेवासीद्राष्ट्रं पुरवरं च तत्"
+      ],
+      "locators": [
+        "1-7-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "क्वचिन्न दुष्टस्तत्रासीत् परदाररतिर्नरः",
+        "प्रशान्तं सर्वमेवासीद् राष्ट्रं पुरवरं च तत्॥१५"
+      ],
+      "locators": [
+        "1.7.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "क्वचिन्न दुष्टस्तत्रासीत्‌ परदाररतिर्नरः",
+        "प्रशान्तं सर्वमेवासीद्‌ राष्ट्रं पुरवरं च तत्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_14-15"
+      ],
+      "refs": [
+        "1.7.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कश्चिन्न दुष्टस्तत्रासीत्परदाररतिर्नरः",
+      "net": "कश्चिन्न दुष्टस्तत्रासीत्परदाररतो नरः",
+      "in": "क्वचिन्न दुष्टस्तत्रासीत् परदाररतिर्नरः",
+      "gp": "क्वचिन्न दुष्टस्तत्रासीत्‌ परदाररतिर्नरः",
+      "similarity": {
+        "sim_smith_net": 0.9428571428571428,
+        "sim_in_net": 0.9142857142857143,
+        "sim_gp_net": 0.9142857142857143
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "दुष्टस्तत्रासीत्परदाररतिर्नरः",
+            "b": "दुष्टस्तत्रासीत्परदाररतो नरः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कश्चिन्न दुष्टस्तत्रासीत्परदाररतो नरः",
+            "b": "क्वचिन्न दुष्टस्तत्रासीत् परदाररतिर्नरः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कश्चिन्न दुष्टस्तत्रासीत्परदाररतो नरः",
+            "b": "क्वचिन्न दुष्टस्तत्रासीत्‌ परदाररतिर्नरः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रशान्तं सर्वमेवासीद्राष्ट्रं पुरवरं च तत्",
+      "net": "प्रशांतं सर्वमेवासीद्राष्ट्रं पुरवरं च तत्",
+      "in": "प्रशान्तं सर्वमेवासीद् राष्ट्रं पुरवरं च तत्॥१५",
+      "gp": "प्रशान्तं सर्वमेवासीद्‌ राष्ट्रं पुरवरं च तत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "प्रशान्तं",
+            "b": "प्रशांतं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "प्रशांतं सर्वमेवासीद्राष्ट्रं",
+            "b": "प्रशान्तं सर्वमेवासीद् राष्ट्रं"
+          },
+          {
+            "a": "तत्",
+            "b": "तत्॥१५"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "प्रशांतं सर्वमेवासीद्राष्ट्रं",
+            "b": "प्रशान्तं सर्वमेवासीद्‌ राष्ट्रं"
+          },
+          {
+            "a": "तत्",
+            "b": "तत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "None with an evil-mind or with an interest in other man's wife is there, and thus on whole in the kingdom and also like that in the capital, there is an undisturbed society. [1-7-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "there"
+          },
+          {
+            "roman_itrans": "duSTaH",
+            "devanagari_machine_converted": "दुष्टः",
+            "english": "evil-minded"
+          },
+          {
+            "roman_itrans": "paradaararataH naraH",
+            "devanagari_machine_converted": "परदाररतः नरः",
+            "english": "man who is interested in other's wife"
+          },
+          {
+            "roman_itrans": "kashchit na aasiit",
+            "devanagari_machine_converted": "कश्चित् न आसीत्",
+            "english": "anyone, none, is there"
+          },
+          {
+            "roman_itrans": "sarvam raaSTram",
+            "devanagari_machine_converted": "सर्वम् राष्ट्रम्",
+            "english": "all, kingdom"
+          },
+          {
+            "roman_itrans": "tat puravaram cha",
+            "devanagari_machine_converted": "तत् पुरवरम् च",
+            "english": "that, capital, also"
+          },
+          {
+            "roman_itrans": "prashaantam eva aasiit",
+            "devanagari_machine_converted": "प्रशान्तम् एव आसीत्",
+            "english": "undisturbed, only, it is there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "दुष्ट और परस्त्रीलम्पट हो। सम्पूर्ण राष्ट्र और नगरमें पूर्ण शान्ति छायी रहती थी॥१५॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "क्वचित्",
+            "hindi": "कहीं भी (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "दुष्टः",
+            "hindi": "दुष्ट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "था (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "परदाररतिः",
+            "hindi": "परस्त्री में रत (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नरः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रशान्तम्",
+            "hindi": "पूर्ण शान्त (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सम्पूर्ण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "था (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राष्ट्रम्",
+            "hindi": "राष्ट्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरवरम्",
+            "hindi": "श्रेष्ठ नगर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.15",
+        "ocr_flags": [
+          "hindi_marker_range_14-15"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उन सबके भाव शुद्ध और विचार एक थे। उनकी जानकारीमें अयोध्यापुरी अथवा कोसलराज्यके भीतर कहीं एक भी मनुष्य ऐसा नहीं था, जो मिथ्यावादी, दुष्ट और परस्त्रीलम्पट हो। सम्पूर्ण राष्ट्र और नगरमें पूर्ण शान्ति छायी रहती थी॥ १४-१५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

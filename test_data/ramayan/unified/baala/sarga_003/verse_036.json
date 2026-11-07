@@ -1,0 +1,218 @@
+{
+  "id": "baala-003-036",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 36,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 25
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-35"
+    ],
+    "vulgate_in_locators": [
+      "1.3.35"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.35"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003025a",
+        "1003025c"
+      ],
+      "lines": [
+        "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्",
+        "विभीषणेन संसर्गं वधोपायनिवेदनम्"
+      ],
+      "punctuated_derived": "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम् ।\nविभीषणेन संसर्गं वधोपायनिवेदनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्",
+        "विभीषणेन संसर्गं वधोपायनिवेदनम्"
+      ],
+      "locators": [
+        "1-3-35"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्",
+        "विभीषणेन संसर्गं वधोपायनिवेदनम्"
+      ],
+      "locators": [
+        "1.3.35"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्‌",
+        "विभीषणेन संसग वधोपायनिवेदनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.35"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्",
+      "net": "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्",
+      "in": "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्",
+      "gp": "प्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "लङ्कावरोधनम्",
+            "b": "लङ्कावरोधनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विभीषणेन संसर्गं वधोपायनिवेदनम्",
+      "net": "विभीषणेन संसर्गं वधोपायनिवेदनम्",
+      "in": "विभीषणेन संसर्गं वधोपायनिवेदनम्",
+      "gp": "विभीषणेन संसग वधोपायनिवेदनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9433962264150944
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "संसर्गं वधोपायनिवेदनम्",
+            "b": "संसग वधोपायनिवेदनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-35",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lanka in night, and Vibheeshana, the younger brother of Ravana, whom Ravana banished, comes to meet Rama, and his telling the scheme to kill Ravana to Rama... [1-3-35]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-35",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "prataaram ca samudrasya",
+            "devanagari_machine_converted": "प्रतारम् च समुद्रस्य",
+            "english": "also crossing over ocean"
+          },
+          {
+            "roman_itrans": "raatrau la~nkaavarodhanam",
+            "devanagari_machine_converted": "रात्रौ लञ्कावरोधनम्",
+            "english": "seizure of Lanka in night"
+          },
+          {
+            "roman_itrans": "samsargam vibhiiSaNena vadhopaayanivedanam",
+            "devanagari_machine_converted": "सम्सर्गम् विभीषणेन वधोपायनिवेदनम्",
+            "english": "meeting with Vibheeshana, telling killing scheme."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.35",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उसी सेतुके द्वारा वानरसेनाका समुद्रके पार जाना, रातको वानरोंका लङ्कापर चारों ओरसे घेरा डालना, विभीषणके साथ श्रीरामका मैत्रीसम्बन्ध होना, विभीषणका श्रीरामको रावणके वधका उपाय बताना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.35",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रतारम्",
+            "hindi": "पार जाना / उतार (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "समुद्रस्य",
+            "hindi": "समुद्र का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "रात्रौ",
+            "hindi": "रात्रि में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "लङ्कावरोधनम्",
+            "hindi": "लंका का अवरोधन / घेरना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विभीषणेन",
+            "hindi": "विभीषण के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "संसर्गम्",
+            "hindi": "संसर्ग / मेल / सम्बन्ध (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वधोपायनिवेदनम्",
+            "hindi": "वध के उपाय का निवेदन / बताना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.35",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

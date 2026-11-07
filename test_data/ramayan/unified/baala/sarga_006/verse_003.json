@@ -1,0 +1,334 @@
+{
+  "id": "baala-006-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 3
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-1, 1-6-2, 1-6-3, 1-6-4"
+    ],
+    "vulgate_in_locators": [
+      "1.6.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.3"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006003a",
+        "1006003c"
+      ],
+      "lines": [
+        "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः",
+        "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः"
+      ],
+      "punctuated_derived": "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः ।\nधनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः",
+        "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः"
+      ],
+      "locators": [
+        "1-6-1, 1-6-2, 1-6-3, 1-6-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "बलवान् निहतामित्रो मित्रवान् विजितेन्द्रियः",
+        "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः॥३"
+      ],
+      "locators": [
+        "1.6.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "बलवान्‌ निहतामित्रो मित्रवान्‌ विजितेन्द्रियः",
+        "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.6.3"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः",
+      "net": "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः",
+      "in": "बलवान् निहतामित्रो मित्रवान् विजितेन्द्रियः",
+      "gp": "बलवान्‌ निहतामित्रो मित्रवान्‌ विजितेन्द्रियः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः",
+            "b": "बलवान् निहतामित्रो मित्रवान् विजितेन्द्रियः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "बलवान्निहतामित्रो मित्रवान्विजितेन्द्रियः",
+            "b": "बलवान्‌ निहतामित्रो मित्रवान्‌ विजितेन्द्रियः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः",
+      "net": "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः",
+      "in": "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः॥३",
+      "gp": "धनैश्च संचयैश्चान्यैः शक्रवैश्रवणोपमः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शक्रवैश्रवणोपमः",
+            "b": "शक्रवैश्रवणोपमः॥३"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-1, 1-6-2, 1-6-3, 1-6-4",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and forces as well, a foreseer and a great resplendent one, also one who is esteemed by urbanites and countrymen alike, one who is a top-speeded chariot-warrior among the emperors of Ikshwaku kings, one who has performed many Vedic rituals, a virtuous one, a great controller, a saint-like kingly sage, one who he is renowned in all the three worlds, a mighty one with all his enemies eradicated, nevertheless who has friends, one who conquered all his senses, one who is similar to Indra, or Kubera on earth with his wealth, accumulations and other possessions, he that king Dasharatha while dwelling in the city of Ayodhya protected the world, like Manu, the foremost protector of mankind. [1-6-3,4,5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-1, 1-6-2, 1-6-3, 1-6-4",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "1-4. vedavit",
+            "devanagari_machine_converted": "१-४। वेदवित्",
+            "english": "knower of Veda-s[well-versed in Veda-s]"
+          },
+          {
+            "roman_itrans": "sarvasangrahaH",
+            "devanagari_machine_converted": "सर्वसन्ग्रहः",
+            "english": "all gatherer [of all riches, forces, learned men etc]"
+          },
+          {
+            "roman_itrans": "diirghadarshii",
+            "devanagari_machine_converted": "दीर्घदर्शी",
+            "english": "foreseer"
+          },
+          {
+            "roman_itrans": "mahaatejaa",
+            "devanagari_machine_converted": "महातेजा",
+            "english": "very resplendent one"
+          },
+          {
+            "roman_itrans": "paurajaanapadapriyaH",
+            "devanagari_machine_converted": "पौरजानपदप्रियः",
+            "english": "esteemed by urbanites and countrymen"
+          },
+          {
+            "roman_itrans": "ikShwaakuuNaam atirathaH",
+            "devanagari_machine_converted": "इक्ष्वाकूणाम् अतिरथः",
+            "english": "top-speeded chariot-warrior among Ikshwaku kings"
+          },
+          {
+            "roman_itrans": "yajvaa",
+            "devanagari_machine_converted": "यज्वा",
+            "english": "one who performed Vedic rituals"
+          },
+          {
+            "roman_itrans": "dharmaparaH",
+            "devanagari_machine_converted": "धर्मपरः",
+            "english": "dedicated one to probity"
+          },
+          {
+            "roman_itrans": "vashii",
+            "devanagari_machine_converted": "वशी",
+            "english": "controller"
+          },
+          {
+            "roman_itrans": "maharSikalpaH raajarSiH",
+            "devanagari_machine_converted": "महर्षिकल्पः राजर्षिः",
+            "english": "saint like, kingly sage"
+          },
+          {
+            "roman_itrans": "triSu lokeShu vishrutaH",
+            "devanagari_machine_converted": "त्रिषु लोकेषु विश्रुतः",
+            "english": "among three, worlds, renowned one"
+          },
+          {
+            "roman_itrans": "balavaan",
+            "devanagari_machine_converted": "बलवान्",
+            "english": "mighty one"
+          },
+          {
+            "roman_itrans": "nihataamitraH",
+            "devanagari_machine_converted": "निहतामित्रः",
+            "english": "one who eradicated unfriendly ones [enemies]"
+          },
+          {
+            "roman_itrans": "mitravaan",
+            "devanagari_machine_converted": "मित्रवान्",
+            "english": "one who has many friends"
+          },
+          {
+            "roman_itrans": "vijitendriyaH",
+            "devanagari_machine_converted": "विजितेन्द्रियः",
+            "english": "one who conquered his senses"
+          },
+          {
+            "roman_itrans": "dhanaiH cha anyaiH sanchayaiH cha",
+            "devanagari_machine_converted": "धनैः च अन्यैः सन्चयैः च",
+            "english": "with wealth, also, with other accumulations, too"
+          },
+          {
+            "roman_itrans": "shakravaishravaNopamaH",
+            "devanagari_machine_converted": "शक्रवैश्रवणोपमः",
+            "english": "similar to Indra and Kubera"
+          },
+          {
+            "roman_itrans": "yathaa manuH mahaatejaa",
+            "devanagari_machine_converted": "यथा मनुः महातेजा",
+            "english": "as, Manu, great magnificent one"
+          },
+          {
+            "roman_itrans": "lokasya parirakShitaa",
+            "devanagari_machine_converted": "लोकस्य परिरक्षिता",
+            "english": "protected the world"
+          },
+          {
+            "roman_itrans": "tathaa raajaa (dasharathaH)",
+            "devanagari_machine_converted": "तथा राजा (दशरथः)",
+            "english": "likewise, king, (Dasharatha)"
+          },
+          {
+            "roman_itrans": "[tasyaam puryaam ayodhyaayaam",
+            "devanagari_machine_converted": "[तस्याम् पुर्याम् अयोध्यायाम्",
+            "english": "in that, city, Ayodhya"
+          },
+          {
+            "roman_itrans": "vasan",
+            "devanagari_machine_converted": "वसन्",
+            "english": "while dwelling]"
+          },
+          {
+            "roman_itrans": "lokasya parirakShitaa",
+            "devanagari_machine_converted": "लोकस्य परिरक्षिता",
+            "english": "protected the world."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे बलवान्, शत्रुहीन, मित्रोंसे युक्त एवं इन्द्रियविजयी थे। धन और अन्य वस्तुओंके संचयकी दृष्टि से इन्द्र और कुबेरके समान जान पड़ते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "बलवान्",
+            "hindi": "बलवान् (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निहतामित्रः",
+            "hindi": "जिसके शत्रु मारे गए हों / शत्रुहीन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मित्रवान्",
+            "hindi": "मित्रों से युक्त (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "विजितेन्द्रियः",
+            "hindi": "इन्द्रियों को जीतने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धनैः",
+            "hindi": "धन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सञ्चयैः",
+            "hindi": "संचय से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्यैः",
+            "hindi": "अन्य वस्तुओं से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शक्रवैश्रवणोपमः",
+            "hindi": "इन्द्र और कुबेर के समान (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.3",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

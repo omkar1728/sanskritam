@@ -1,0 +1,272 @@
+{
+  "id": "baala-002-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-11, 1-2-12"
+    ],
+    "vulgate_in_locators": [
+      "1.2.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.12"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वियुक्ता पतिना तेन द्विजेन सहचारिणा",
+        "ताम्रशीर्षेण मत्तेन पत्रिणा सहितेन वै"
+      ],
+      "locators": [
+        "1-2-11, 1-2-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वियुक्ता पतिना तेन द्विजेन सहचारिणा",
+        "ताम्रशीर्षेण मत्तेन पत्रिणा सहितेन वै"
+      ],
+      "locators": [
+        "1.2.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वियुक्ता पतिना तेन द्विजेन सहचारिणा",
+        "ताम्रशीर्षेण मत्तेन पत्त्रिणा सहितेन वै"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "वियुक्ता पतिना तेन द्विजेन सहचारिणा",
+      "in": "वियुक्ता पतिना तेन द्विजेन सहचारिणा",
+      "gp": "वियुक्ता पतिना तेन द्विजेन सहचारिणा",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "ताम्रशीर्षेण मत्तेन पत्रिणा सहितेन वै",
+      "in": "ताम्रशीर्षेण मत्तेन पत्रिणा सहितेन वै",
+      "gp": "ताम्रशीर्षेण मत्तेन पत्त्रिणा सहितेन वै",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "पत्रिणा",
+            "b": "पत्त्रिणा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-11, 1-2-12",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The wife was moving together with husband with a red crest and with joy, with good wings, always being united with that male bird. On seeing that bird slain on ground reeling with blood covered wings really made wailing sounds with piteous utterances on being separated from her husband. [1-2-11, 12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-11, 1-2-12",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhaaryaa",
+            "devanagari_machine_converted": "भार्या",
+            "english": "wife"
+          },
+          {
+            "roman_itrans": "sahachaariNaa",
+            "devanagari_machine_converted": "सहचारिणा",
+            "english": "[was] moving together"
+          },
+          {
+            "roman_itrans": "patinaa",
+            "devanagari_machine_converted": "पतिना",
+            "english": "with husband"
+          },
+          {
+            "roman_itrans": "taamrashiirSheNa",
+            "devanagari_machine_converted": "ताम्रशीर्षेण",
+            "english": "with a red crest"
+          },
+          {
+            "roman_itrans": "mattena",
+            "devanagari_machine_converted": "मत्तेन",
+            "english": "with joy"
+          },
+          {
+            "roman_itrans": "patriNaa",
+            "devanagari_machine_converted": "पत्रिणा",
+            "english": "with good wings"
+          },
+          {
+            "roman_itrans": "sahitena",
+            "devanagari_machine_converted": "सहितेन",
+            "english": "[always] united"
+          },
+          {
+            "roman_itrans": "tena dvijena",
+            "devanagari_machine_converted": "तेन द्विजेन",
+            "english": "with that bird [male bird]"
+          },
+          {
+            "roman_itrans": "tam dR^iSTvaa",
+            "devanagari_machine_converted": "तम् दृष्ट्वा",
+            "english": "on seeing that male bird"
+          },
+          {
+            "roman_itrans": "nihatam",
+            "devanagari_machine_converted": "निहतम्",
+            "english": "slain"
+          },
+          {
+            "roman_itrans": "mahiitale",
+            "devanagari_machine_converted": "महीतले",
+            "english": "on ground"
+          },
+          {
+            "roman_itrans": "veShTamaanam",
+            "devanagari_machine_converted": "वेष्टमानम्",
+            "english": "reeling"
+          },
+          {
+            "roman_itrans": "shoNitapariitaangam",
+            "devanagari_machine_converted": "शोणितपरीतान्गम्",
+            "english": "with blood covered wings [or body]"
+          },
+          {
+            "roman_itrans": "vai",
+            "devanagari_machine_converted": "वै",
+            "english": "really"
+          },
+          {
+            "roman_itrans": "ruraava",
+            "devanagari_machine_converted": "रुराव",
+            "english": "made wailing sounds"
+          },
+          {
+            "roman_itrans": "karuNaam giram",
+            "devanagari_machine_converted": "करुणाम् गिरम्",
+            "english": "with piteous utterances"
+          },
+          {
+            "roman_itrans": "viyuktaa",
+            "devanagari_machine_converted": "वियुक्ता",
+            "english": "on being separated [from her husband]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उत्तम पंखोंसे युक्त वह पक्षी सदा अपनी भार्याके साथसाथ विचरता था। उसके मस्तकका रंग ताँबेके समान लाल था और वह कामसे मतवाला हो गया था। ऐसे पतिसे वियुक्त होकर क्रौञ्ची बड़े दुःखसे रो रही थी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वियुक्ता",
+            "hindi": "वियुक्त हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पतिना",
+            "hindi": "पति से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजेन",
+            "hindi": "पक्षी से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सहचारिणा",
+            "hindi": "साथ विचरने वाले से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ताम्रशीर्षेण",
+            "hindi": "ताँबे के समान सिर वाले से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मत्तेन",
+            "hindi": "मतवाले से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पत्रिणा",
+            "hindi": "पंखों वाले से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सहितेन",
+            "hindi": "सहित से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वै",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.12",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उत्तम पंखोंसे युक्त वह पक्षी सदा अपनी भार्याके साथ-साथ विचरता था। उसके मस्तकका रंग ताँबेके समान लाल था और वह कामसे मतवाला हो गया था। ऐसे पतिसे वियुक्त होकर क्रौञ्ची बड़े दुःखसे रो रही थी॥ १२॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

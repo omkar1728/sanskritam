@@ -1,0 +1,341 @@
+{
+  "id": "baala-004-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 13
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-14"
+    ],
+    "vulgate_in_locators": [
+      "1.4.14",
+      "1.4.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.14",
+      "1.4.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004013a",
+        "1004013c"
+      ],
+      "lines": [
+        "तौ कदाचित्समेतानामृषीणां भावितात्मनाम्",
+        "आसीनानां समीपस्थाविदं काव्यमगायताम्"
+      ],
+      "punctuated_derived": "तौ कदाचित्समेतानामृषीणां भावितात्मनाम् ।\nआसीनानां समीपस्थाविदं काव्यमगायताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तौ कदाचित्समेतानामृषीणां भावितात्मनाम्",
+        "मध्येसभं समीपस्थाविदं काव्यमगायताम्"
+      ],
+      "locators": [
+        "1-4-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तौ कदाचित् समेतानामृषीणां भावितात्मनाम्",
+        "मध्ये सभं समीपस्थाविदं काव्यमगायताम्"
+      ],
+      "locators": [
+        "1.4.14",
+        "1.4.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तौ कदाचित्‌ समेतानामृषीणां भावितात्मनाम्‌",
+        "मध्ये सभं समीपस्थाविदं काव्यमगायताम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.14",
+        "1.4.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तौ कदाचित्समेतानामृषीणां भावितात्मनाम्",
+      "net": "तौ कदाचित्समेतानामृषीणां भावितात्मनाम्",
+      "in": "तौ कदाचित् समेतानामृषीणां भावितात्मनाम्",
+      "gp": "तौ कदाचित्‌ समेतानामृषीणां भावितात्मनाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कदाचित्समेतानामृषीणां",
+            "b": "कदाचित् समेतानामृषीणां"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कदाचित्समेतानामृषीणां भावितात्मनाम्",
+            "b": "कदाचित्‌ समेतानामृषीणां भावितात्मनाम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "आसीनानां समीपस्थाविदं काव्यमगायताम्",
+      "net": "मध्येसभं समीपस्थाविदं काव्यमगायताम्",
+      "in": "मध्ये सभं समीपस्थाविदं काव्यमगायताम्",
+      "gp": "मध्ये सभं समीपस्थाविदं काव्यमगायताम्‌",
+      "similarity": {
+        "sim_smith_net": 0.8125,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "आसीनानां",
+            "b": "मध्येसभं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मध्येसभं",
+            "b": "मध्ये सभं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मध्येसभं",
+            "b": "मध्ये सभं"
+          },
+          {
+            "a": "काव्यमगायताम्",
+            "b": "काव्यमगायताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-14",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Once those two great-souls who endowed with musical talent and with all remarkable features, sung this epic, standing nearby the midst of a gathering of sages and pious souls. [1-4-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-14",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahaatmaanau",
+            "devanagari_machine_converted": "महात्मानौ",
+            "english": "those two great-souls"
+          },
+          {
+            "roman_itrans": "mahaabhaagau",
+            "devanagari_machine_converted": "महाभागौ",
+            "english": "highly endowed [with musical talent]"
+          },
+          {
+            "roman_itrans": "sarvalakShaNalakShitau",
+            "devanagari_machine_converted": "सर्वलक्षणलक्षितौ",
+            "english": "possessing all features"
+          },
+          {
+            "roman_itrans": "tau kadachit",
+            "devanagari_machine_converted": "तौ कदचित्",
+            "english": "those two, once"
+          },
+          {
+            "roman_itrans": "sametaanaam R^iSiiNaam",
+            "devanagari_machine_converted": "समेतानाम् ऋषीणाम्",
+            "english": "at a gathering, of sages"
+          },
+          {
+            "roman_itrans": "bhaavitaatmanaam",
+            "devanagari_machine_converted": "भावितात्मनाम्",
+            "english": "of pious souls"
+          },
+          {
+            "roman_itrans": "madhyesabham samiipasthau",
+            "devanagari_machine_converted": "मध्येसभम् समीपस्थौ",
+            "english": "standing nearby midst of assemblage"
+          },
+          {
+            "roman_itrans": "idam kaavyam agaayataam",
+            "devanagari_machine_converted": "इदम् काव्यम् अगायताम्",
+            "english": "sung this epic."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.14",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "एक दिनकी बात है, बहुत-से शुद्ध अन्तःकरणवाले महर्षियोंकी मण्डली एकत्र हुई थी। उसमें महान् सौभाग्यशाली तथा समस्त शुभ लक्षणोंसे सुशोभित महामनस्वी कुश और लव भी उपस्थित थे।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन्होंने बीच सभामें उन महात्माओंके समीप बैठकर उस रामायणकाव्यका गान किया। उसे सुनकर सभी मनियोंके नेत्रोंमें आँसू भर आये और-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.14",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "महात्मानौ",
+            "hindi": "महात्मा"
+          },
+          {
+            "sanskrit": "महाभागौ",
+            "hindi": "महान् सौभाग्यशाली"
+          },
+          {
+            "sanskrit": "सर्वलक्षणलक्षितौ",
+            "hindi": "सभी लक्षणों से युक्त"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "कदाचित्",
+            "hindi": "एक बार"
+          },
+          {
+            "sanskrit": "समेतानाम्",
+            "hindi": "एकत्र हुए लोगों के"
+          },
+          {
+            "sanskrit": "ऋषीणाम्",
+            "hindi": "ऋषियों के"
+          },
+          {
+            "sanskrit": "भावितात्मनाम्",
+            "hindi": "शुद्ध अन्तःकरण वाले"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "मध्ये",
+            "hindi": "बीच में"
+          },
+          {
+            "sanskrit": "सभम्",
+            "hindi": "सभा के"
+          },
+          {
+            "sanskrit": "समीपस्थौ",
+            "hindi": "समीप स्थित / बैठे हुए"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "इस"
+          },
+          {
+            "sanskrit": "काव्यम्",
+            "hindi": "काव्य को"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गाने लगे"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उसे"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर"
+          },
+          {
+            "sanskrit": "मुनयः",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी"
+          },
+          {
+            "sanskrit": "बाष्पपर्याकुलेक्षणाः",
+            "hindi": "आँसुओं से भरी हुई आँखों वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.14",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.15",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

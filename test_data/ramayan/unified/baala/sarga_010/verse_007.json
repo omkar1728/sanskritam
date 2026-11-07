@@ -1,0 +1,272 @@
+{
+  "id": "baala-010-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 6
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-6"
+    ],
+    "vulgate_in_locators": [
+      "1.10.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009006a",
+        "1009006c"
+      ],
+      "lines": [
+        "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्",
+        "पुरोहितो मन्त्रिणश्च तथा चक्रुश्च ते तदा"
+      ],
+      "punctuated_derived": "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम् ।\nपुरोहितो मन्त्रिणश्च तथा चक्रुश्च ते तदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्",
+        "पुरोहितो मंत्रिणश्च तथा चक्रुश्च ते तदा"
+      ],
+      "locators": [
+        "1-10-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्",
+        "पुरोहितो मन्त्रिणश्च तदा चक्रुश्च ते तथा"
+      ],
+      "locators": [
+        "1.10.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्‌",
+        "पुरोहितो मन्त्रिणश्च तदा चक्रुश्च ते तथा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्",
+      "net": "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्",
+      "in": "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्",
+      "gp": "श्रुत्वा तथेति राजा च प्रत्युवाच पुरोहितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "पुरोहितम्",
+            "b": "पुरोहितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पुरोहितो मन्त्रिणश्च तथा चक्रुश्च ते तदा",
+      "net": "पुरोहितो मंत्रिणश्च तथा चक्रुश्च ते तदा",
+      "in": "पुरोहितो मन्त्रिणश्च तदा चक्रुश्च ते तथा",
+      "gp": "पुरोहितो मन्त्रिणश्च तदा चक्रुश्च ते तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9411764705882353,
+        "sim_gp_net": 0.9411764705882353
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मन्त्रिणश्च",
+            "b": "मंत्रिणश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मंत्रिणश्च तथा",
+            "b": "मन्त्रिणश्च तदा"
+          },
+          {
+            "a": "तदा",
+            "b": "तथा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मंत्रिणश्च तथा",
+            "b": "मन्त्रिणश्च तदा"
+          },
+          {
+            "a": "तदा",
+            "b": "तथा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Hearing that the King replied the priest, \"Let it be so...\" and then the priests and ministers have carried out the plan that way... [1-10-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shrutvaa tathaa iti",
+            "devanagari_machine_converted": "श्रुत्वा तथा इति",
+            "english": "hearing, let it be, so"
+          },
+          {
+            "roman_itrans": "raajaa ca pratyuvaacha purohitam",
+            "devanagari_machine_converted": "राजा च प्रत्युवाच पुरोहितम्",
+            "english": "king, also, replied, to priest"
+          },
+          {
+            "roman_itrans": "purohitaH",
+            "devanagari_machine_converted": "पुरोहितः",
+            "english": "priests"
+          },
+          {
+            "roman_itrans": "te mantriNaH cha",
+            "devanagari_machine_converted": "ते मन्त्रिणः च",
+            "english": "those, ministers, also"
+          },
+          {
+            "roman_itrans": "tadaa chakruH tathaa",
+            "devanagari_machine_converted": "तदा चक्रुः तथा",
+            "english": "then, carried out, that way."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“यह सुनकर राजाने पुरोहितको उत्तर दिया, बहुत अच्छा, आपलोग ऐसा ही करें।’ आज्ञा पाकर पुरोहित और मन्त्रियोंने उस समय वैसी ही व्यवस्था की।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "वैसे ही (अव्यय)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रत्युवाच",
+            "hindi": "उत्तर दिया (प्रति + वच्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "पुरोहितम्",
+            "hindi": "पुरोहित को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरोहितः",
+            "hindi": "पुरोहित ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रिणः",
+            "hindi": "मंत्रियों ने (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "चक्रुः",
+            "hindi": "किया (कृ धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "उन्होंने (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "वैसे ही (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.6",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“४ यह सुनकर राजाने पुरोहितको उत्तर दिया, “बहुत अच्छा, आपलोग ऐसा ही करें।' आज्ञा पाकर पुरोहित और मन्त्रियोने उस समय वैसी ही व्यवस्था को॥ ६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

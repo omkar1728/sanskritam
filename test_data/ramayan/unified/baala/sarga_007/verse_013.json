@@ -1,0 +1,268 @@
+{
+  "id": "baala-007-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 10
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-13"
+    ],
+    "vulgate_in_locators": [
+      "1.7.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007010a",
+        "1007010c"
+      ],
+      "lines": [
+        "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन्",
+        "सुतीक्ष्णदण्डाः संप्रेक्ष्य पुरुषस्य बलाबलम्"
+      ],
+      "punctuated_derived": "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन् ।\nसुतीक्ष्णदण्डाः संप्रेक्ष्य पुरुषस्य बलाबलम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ब्रह्म क्षत्रमहिंसन्तस्ते कोशं समपूरयन्",
+        "सुतीक्ष्णदण्डाः संप्रेक्ष्य पुरुषस्य बलाबलम्"
+      ],
+      "locators": [
+        "1-7-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन्",
+        "सुतीक्ष्णदण्डाः सम्प्रेक्ष्य पुरुषस्य बलाबलम्॥१३"
+      ],
+      "locators": [
+        "1.7.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन्‌",
+        "सुतीक्ष्णदण्डाः सम्प्रेक्ष्य पुरुषस्य बलाबलम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन्",
+      "net": "ब्रह्म क्षत्रमहिंसन्तस्ते कोशं समपूरयन्",
+      "in": "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन्",
+      "gp": "ब्रह्मक्षत्रमहिंसन्तस्ते कोशं समपूरयन्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ब्रह्मक्षत्रमहिंसन्तस्ते",
+            "b": "ब्रह्म क्षत्रमहिंसन्तस्ते"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ब्रह्म क्षत्रमहिंसन्तस्ते",
+            "b": "ब्रह्मक्षत्रमहिंसन्तस्ते"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ब्रह्म क्षत्रमहिंसन्तस्ते",
+            "b": "ब्रह्मक्षत्रमहिंसन्तस्ते"
+          },
+          {
+            "a": "समपूरयन्",
+            "b": "समपूरयन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सुतीक्ष्णदण्डाः संप्रेक्ष्य पुरुषस्य बलाबलम्",
+      "net": "सुतीक्ष्णदण्डाः संप्रेक्ष्य पुरुषस्य बलाबलम्",
+      "in": "सुतीक्ष्णदण्डाः सम्प्रेक्ष्य पुरुषस्य बलाबलम्॥१३",
+      "gp": "सुतीक्ष्णदण्डाः सम्प्रेक्ष्य पुरुषस्य बलाबलम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "संप्रेक्ष्य",
+            "b": "सम्प्रेक्ष्य"
+          },
+          {
+            "a": "बलाबलम्",
+            "b": "बलाबलम्॥१३"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "संप्रेक्ष्य",
+            "b": "सम्प्रेक्ष्य"
+          },
+          {
+            "a": "बलाबलम्",
+            "b": "बलाबलम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They do not persecute Brahman-s and Kshatriya-s to fill-up the treasury, and high degree punishments will be given on assessing that person's, or the offender's strength and weakness. [1-7-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "brahma kShatram",
+            "devanagari_machine_converted": "ब्रह्म क्षत्रम्",
+            "english": "Brahmans, Kshatriya-s"
+          },
+          {
+            "roman_itrans": "te ahimsantaH",
+            "devanagari_machine_converted": "ते अहिम्सन्तः",
+            "english": "they, do not persecute"
+          },
+          {
+            "roman_itrans": "kosham samapuurayan",
+            "devanagari_machine_converted": "कोशम् समपूरयन्",
+            "english": "fill up treasury"
+          },
+          {
+            "roman_itrans": "puruSasya",
+            "devanagari_machine_converted": "पुरुषस्य",
+            "english": "person's"
+          },
+          {
+            "roman_itrans": "balaabalam",
+            "devanagari_machine_converted": "बलाबलम्",
+            "english": "strength, weakness"
+          },
+          {
+            "roman_itrans": "samprekShya",
+            "devanagari_machine_converted": "सम्प्रेक्ष्य",
+            "english": "after assessing"
+          },
+          {
+            "roman_itrans": "sutiikShNadanDaaH",
+            "devanagari_machine_converted": "सुतीक्ष्णदन्डाः",
+            "english": "high degree punishment givers."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ब्राह्मणों और क्षत्रियोंको कष्ट न पहुँचाकर न्यायोचित धनसे राजाका खजाना भरते थे। वे अपराधी पुरुषके बलाबलको देखकर उसके प्रति तीक्ष्ण अथवा मृदु दण्डका प्रयोग करते थे॥१३॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ब्रह्मक्षत्रम्",
+            "hindi": "ब्राह्मण और क्षत्रियों को (द्वितीया विभक्ति, समाहार द्वन्द्व)"
+          },
+          {
+            "sanskrit": "अहिंसन्तः",
+            "hindi": "कष्ट न पहुँचाते हुए (प्रथमा विभक्ति, बहुवचन, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "कोशम्",
+            "hindi": "कोष को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समपूरयन्",
+            "hindi": "पूर्ण करते थे (सम् + पूर्, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सुतीक्ष्णदण्डाः",
+            "hindi": "तीक्ष्ण दण्ड देने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सम्प्रेक्ष्य",
+            "hindi": "देखकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुरुषस्य",
+            "hindi": "पुरुष का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "बलाबलम्",
+            "hindi": "बल और अबल को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.13",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "ब्राह्मणों और क्षत्रियांको कष्ट न पहुँचाकर न्यायोचित धनसे राजाका खजाना भरते थे। वे अपराधी पुरुषके बलाबलको देखकर उसके प्रति तीक्ष्ण अथवा मृदु दण्डका प्रयोग करते थे॥ १३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

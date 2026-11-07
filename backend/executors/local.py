@@ -34,7 +34,9 @@ class LocalExecutor(Executor):
 
 from .drive import DriveExecutor
 from .manual import ManualExecutor
-REGISTRY = {"local": LocalExecutor, "colab_drive": DriveExecutor, "colab_manual": ManualExecutor}
+from .staged import BatchExecutor, StagedExecutor
+REGISTRY = {"local": LocalExecutor, "colab_drive": DriveExecutor, "colab_manual": ManualExecutor,
+            "colab_batch": BatchExecutor, "colab_staged": StagedExecutor}
 
 def get_executor(name: str):
     if name not in REGISTRY:

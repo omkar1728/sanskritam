@@ -1,0 +1,258 @@
+{
+  "id": "baala-010-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 22
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-22"
+    ],
+    "vulgate_in_locators": [
+      "1.10.22"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.22"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009022a",
+        "1009022c"
+      ],
+      "lines": [
+        "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+        "गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः"
+      ],
+      "punctuated_derived": "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च ।\nगच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+        "गच्छन्ति स्मापदेशात्ताः भीतास्तस्य पितुः स्त्रियः"
+      ],
+      "locators": [
+        "1-10-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+        "गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः"
+      ],
+      "locators": [
+        "1.10.22"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+        "राच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.22"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+      "net": "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+      "in": "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+      "gp": "आपृच्छ्य च तदा विप्रं व्रतचर्यां निवेद्य च",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः",
+      "net": "गच्छन्ति स्मापदेशात्ताः भीतास्तस्य पितुः स्त्रियः",
+      "in": "गच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः",
+      "gp": "राच्छन्ति स्मापदेशात्ता भीतास्तस्य पितुः स्त्रियः",
+      "similarity": {
+        "sim_smith_net": 0.9885057471264368,
+        "sim_in_net": 0.9885057471264368,
+        "sim_gp_net": 0.9545454545454546
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "स्मापदेशात्ता",
+            "b": "स्मापदेशात्ताः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "स्मापदेशात्ताः",
+            "b": "स्मापदेशात्ता"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गच्छन्ति स्मापदेशात्ताः",
+            "b": "राच्छन्ति स्मापदेशात्ता"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-22",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Taking leave of the Sage Rishyasringa on pretence that they also have to perform devotional duties, they the courtesans departed from there on the pretext of their daily worship, while they actually feared for the arrival of Rishyasringa's father who may hurl curses on his arrival... [1-10-22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-22",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tadaa taaH striyaH",
+            "devanagari_machine_converted": "तदा ताः स्त्रियः",
+            "english": "then, those, women"
+          },
+          {
+            "roman_itrans": "vipram aapR^icChya",
+            "devanagari_machine_converted": "विप्रम् आपृच्छ्य",
+            "english": "with Brahman, on asking [for leave]"
+          },
+          {
+            "roman_itrans": "vratacharyaam nivedya cha",
+            "devanagari_machine_converted": "व्रतचर्याम् निवेद्य च",
+            "english": "on informing devotional duties"
+          },
+          {
+            "roman_itrans": "bhiitaaH tasya pituH",
+            "devanagari_machine_converted": "भीताः तस्य पितुः",
+            "english": "fearing, his, father"
+          },
+          {
+            "roman_itrans": "apadeshaat",
+            "devanagari_machine_converted": "अपदेशात्",
+            "english": "on pretence of [their daily worships]"
+          },
+          {
+            "roman_itrans": "gacChanti sma",
+            "devanagari_machine_converted": "गच्छन्ति स्म",
+            "english": "they went away."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“तत्पश्चात् उनके पिता विभाण्डक मुनि के डरसे डरी हुई वे स्त्रियाँ व्रत और अनुष्ठान की बात बता उन ब्राह्मणकुमार से पूछकर उसी बहाने वहाँ से चली गयी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आपृच्छ्य",
+            "hindi": "पूछकर / आज्ञा लेकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "विप्रम्",
+            "hindi": "ब्राह्मण (ऋष्यशृंग) से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्रतचर्याम्",
+            "hindi": "व्रत और अनुष्ठान की बात को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "निवेद्य",
+            "hindi": "बता / निवेदन करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "गच्छन्ति",
+            "hindi": "गईं (गम् धातु, लट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "स्म",
+            "hindi": "ही (अतीतकाल सूचक अव्यय)"
+          },
+          {
+            "sanskrit": "अपदेशात्",
+            "hindi": "बहाने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "ताः",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "भीताः",
+            "hindi": "डरी हुई (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "स्त्रियः",
+            "hindi": "स्त्रियाँ (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.22",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“तत्पश्चात्‌ उनके पिता विभाण्डक मुनिके डरसे डरी हुई वे स्त्रियाँ ब्रत और अनुष्ठानकी बात बता उन ब्राह्मणकुमारसे पूछकर उसी बहाने वहाँसे चली गयी॥ २२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

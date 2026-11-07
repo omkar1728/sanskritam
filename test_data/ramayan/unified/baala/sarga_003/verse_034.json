@@ -1,0 +1,224 @@
+{
+  "id": "baala-003-034",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 34,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 23
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-33"
+    ],
+    "vulgate_in_locators": [
+      "1.3.33"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.33"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003023a",
+        "1003023c"
+      ],
+      "lines": [
+        "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्",
+        "प्रतिप्लवनमेवाथ मधूनां हरणं तथा"
+      ],
+      "punctuated_derived": "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम् ।\nप्रतिप्लवनमेवाथ मधूनां हरणं तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्",
+        "प्रतिप्लवनमेवाथ मधूनां हरणं तथा"
+      ],
+      "locators": [
+        "1-3-33"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्",
+        "प्रतिप्लवनमेवाथ मधूनां हरणं तथा"
+      ],
+      "locators": [
+        "1.3.33"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ग्रहणं वायुसूनोश्च लङ्कादाह्ाभिगर्जनम्‌",
+        "प्रतिप्लवनमेवाथ मधूनां हरणं तथा"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.33"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्",
+      "net": "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्",
+      "in": "ग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम्",
+      "gp": "ग्रहणं वायुसूनोश्च लङ्कादाह्ाभिगर्जनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9850746268656716
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "लङ्कादाहाभिगर्जनम्",
+            "b": "लङ्कादाह्ाभिगर्जनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रतिप्लवनमेवाथ मधूनां हरणं तथा",
+      "net": "प्रतिप्लवनमेवाथ मधूनां हरणं तथा",
+      "in": "प्रतिप्लवनमेवाथ मधूनां हरणं तथा",
+      "gp": "प्रतिप्लवनमेवाथ मधूनां हरणं तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-33",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The capture of Hanuma, the son of Air-god, by the magical missile of Indrajit, son of Ravana, and also Hanuma's burning down Lanka, and his blaring at the demons, also his return flight from Lanka... and on his way back Hanuma's seeing a honey garden, and the appropriation of honey... [1-3-33]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-33",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "grahaNam vaayusuunoH ca",
+            "devanagari_machine_converted": "ग्रहणम् वायुसूनोः च",
+            "english": "capture of son of Vayu [Air god] also"
+          },
+          {
+            "roman_itrans": "lankaadaahaabhigarjanam",
+            "devanagari_machine_converted": "लन्कादाहाभिगर्जनम्",
+            "english": "burning of Lankaa and his blaring at demons"
+          },
+          {
+            "roman_itrans": "pratiplavanam eva",
+            "devanagari_machine_converted": "प्रतिप्लवनम् एव",
+            "english": "return flying, also"
+          },
+          {
+            "roman_itrans": "atha madhuunaam haraNam tathaa",
+            "devanagari_machine_converted": "अथ मधूनाम् हरणम् तथा",
+            "english": "then, honey, appropriation of, thus."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.33",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वायुनन्दन हनुमान् का बन्दी होकर रावणकी सभामें जाना, उनके द्वारा गर्जन और लङ्काका दाह, फिर लौटती बार समुद्रको लाँघना, वानरोंका मधुवनमें आकर मधुपान करना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.33",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ग्रहणम्",
+            "hindi": "ग्रहण / बन्दी होना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वायुसूनोः",
+            "hindi": "वायुपुत्र (हनुमान) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "लङ्कादाहाभिगर्जनम्",
+            "hindi": "लंका दाह के लिए गर्जना करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतिप्लवनम्",
+            "hindi": "वापस तैरना / लौटकर समुद्र लाँघना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अथ",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "मधूनाम्",
+            "hindi": "मधु (शहद) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "हरणम्",
+            "hindi": "हरण / पीना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.33",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

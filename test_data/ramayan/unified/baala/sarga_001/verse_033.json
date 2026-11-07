@@ -1,0 +1,326 @@
+{
+  "id": "baala-001-033",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 33,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-28, 1-1-29"
+    ],
+    "vulgate_in_locators": [
+      "1.1.29",
+      "1.1.30"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.29",
+      "1.1.30"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम्",
+        "गुहेन सहितो रामो लक्ष्मणेन च सीतया"
+      ],
+      "locators": [
+        "1-1-28, 1-1-29"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम्",
+        "गुहेन सहितो रामो लक्ष्मणेन च सीतया"
+      ],
+      "locators": [
+        "1.1.29",
+        "1.1.30"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम्‌",
+        "गुहेन सहितो रामो लक्ष्मणेन च सीतया"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.29",
+        "1.1.30"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम्",
+      "in": "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम्",
+      "gp": "गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रियम्",
+            "b": "प्रियम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "गुहेन सहितो रामो लक्ष्मणेन च सीतया",
+      "in": "गुहेन सहितो रामो लक्ष्मणेन च सीतया",
+      "gp": "गुहेन सहितो रामो लक्ष्मणेन च सीतया",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-28, 1-1-29",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The citizens of Ayodhya and his father Dasaratha followed virtuous Rama for a distance when he started on his exile. Later Rama reached the tribal chief named Guha, who liked Rama, on the bank of River Ganga in a town called Sringaberapura. Together with Guha, Lakshmana and Seetha, he left off the charioteer. [1-1-28b, 29, 30a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-28, 1-1-29",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anugataH",
+            "devanagari_machine_converted": "अनुगतः",
+            "english": "followed"
+          },
+          {
+            "roman_itrans": "pauraiH",
+            "devanagari_machine_converted": "पौरैः",
+            "english": "by citizens"
+          },
+          {
+            "roman_itrans": "pitraa dasharathena ca",
+            "devanagari_machine_converted": "पित्रा दशरथेन च",
+            "english": "and by father Dasaratha"
+          },
+          {
+            "roman_itrans": "duuram",
+            "devanagari_machine_converted": "दूरम्",
+            "english": "for a long distance"
+          },
+          {
+            "roman_itrans": "dharmaatmaa raamaH",
+            "devanagari_machine_converted": "धर्मात्मा रामः",
+            "english": "virtuous Rama"
+          },
+          {
+            "roman_itrans": "aasaadya",
+            "devanagari_machine_converted": "आसाद्य",
+            "english": "reached"
+          },
+          {
+            "roman_itrans": "niShaadaadhipatim",
+            "devanagari_machine_converted": "निषादाधिपतिम्",
+            "english": "tribal chief"
+          },
+          {
+            "roman_itrans": "guham",
+            "devanagari_machine_converted": "गुहम्",
+            "english": "Guha"
+          },
+          {
+            "roman_itrans": "priyam",
+            "devanagari_machine_converted": "प्रियम्",
+            "english": "who liked him"
+          },
+          {
+            "roman_itrans": "gangaakuule",
+            "devanagari_machine_converted": "गन्गाकूले",
+            "english": "on River Ganga's bank"
+          },
+          {
+            "roman_itrans": "sR^iN^giberapure",
+            "devanagari_machine_converted": "सृङ्गिबेरपुरे",
+            "english": "in [a town called] Sringaberapura"
+          },
+          {
+            "roman_itrans": "guhena lakShmaNena siitayaa ca sahitaH",
+            "devanagari_machine_converted": "गुहेन लक्ष्मणेन सीतया च सहितः",
+            "english": "together with Guha, Lakshmana and Seetha; vyasarjayat = (he) left off; suutam = the charioteer."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.29",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'फिर शृंगवेरपुरमें गंगा-तटपर अपने प्रिय निषादराज गुहके पास पहुँचकर धर्मात्मा श्रीरामचन्द्रजीने सारथिको [अयोध्याके लिये] विदा कर दिया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'निषादराज गुह, लक्ष्मण और सीताके साथ राम। ये चारों एक वनसे दूसरे वनमें गये। मार्गमें बहुत जलोंवाली अनेकों नदियोंको पार करके"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.29",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रृङ्गवेरपुरे",
+            "hindi": "श्रृंगवेरपुर में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सूतम्",
+            "hindi": "सारथि को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गङ्गाकूले",
+            "hindi": "गंगा के तट पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "व्यसर्जयत्",
+            "hindi": "भेज दिया / विदा किया (वि + सृज्, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "गुहम्",
+            "hindi": "गुह को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आसाद्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "धर्मात्मा",
+            "hindi": "धर्मात्मा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निषादाधिपतिम्",
+            "hindi": "निषादों के स्वामी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रियम्",
+            "hindi": "प्रिय को (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गुहेन",
+            "hindi": "गुह के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सहितः",
+            "hindi": "युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लक्ष्मणेन",
+            "hindi": "लक्ष्मण के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सीतया",
+            "hindi": "सीता के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वनेन",
+            "hindi": "वन से (तृतीया विभक्ति/पथ के अर्थ में)"
+          },
+          {
+            "sanskrit": "वनम्",
+            "hindi": "वन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "नदीः",
+            "hindi": "नदियों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तीर्त्वा",
+            "hindi": "पार करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "बहूदकाः",
+            "hindi": "बहुत जल वाली को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.29",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“फिर श्रृंगवेरपुरमें गंगा-तटपर अपने प्रिय निषादराज गुहके पास पहुँचकर धर्मात्मा श्रीरामचन्द्रजीने सारथिको [अयोध्याके लिये] विदा कर दिया॥ २९॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.30",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "देवगन्धर्वसंकाशास्तत्र ते न्यवसन्‌ सुखम्‌। “निषादराज गुह, लक्ष्मण और सीताके साथ राम-ये चारों एक वनसे दूसरे वनमें गये। मार्गमें बहुत जलोंवाली अनेकों नदियांको पार करके [भरद्वाजके आश्रमपर पहुँचे और गुहको वहीं छोड़] भरद्वाज मुनिकी आज्ञासे चित्रकूटपर्वतपर गये। वहाँ वे तीनों देवता और गन्धर्वोके समान वनमें नाना प्रकारकी लीलाएँ करते हुए एक रमणीय पर्णकुटी बनाकर उसमें सानन्द रहने 'लगे॥ ३०-३१३॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

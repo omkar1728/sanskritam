@@ -1,0 +1,243 @@
+{
+  "id": "baala-001-048",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 48,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 36
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-46"
+    ],
+    "vulgate_in_locators": [
+      "1.1.46"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.46"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001036a",
+        "1001036c"
+      ],
+      "lines": [
+        "तेन तत्रैव वसता जनस्थाननिवासिनी",
+        "विरूपिता शूर्पणखा राक्षसी कामरूपिणी"
+      ],
+      "punctuated_derived": "तेन तत्रैव वसता जनस्थाननिवासिनी ।\nविरूपिता शूर्पणखा राक्षसी कामरूपिणी ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेन तत्रैव वसता जनस्थाननिवासिनी",
+        "विरूपिता शूर्पणखा राक्षसी कामरूपिणी"
+      ],
+      "locators": [
+        "1-1-46"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तेन तत्रैव वसता जनस्थाननिवासिनी",
+        "विरूपिता शूर्पणखा राक्षसी कामरूपिणी"
+      ],
+      "locators": [
+        "1.1.46"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तेन॒ तत्रैव वसता जनस्थाननिवासिनी",
+        "विरूपिता शूर्पणखा राक्षसी कामरूपिणी"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.46"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तेन तत्रैव वसता जनस्थाननिवासिनी",
+      "net": "तेन तत्रैव वसता जनस्थाननिवासिनी",
+      "in": "तेन तत्रैव वसता जनस्थाननिवासिनी",
+      "gp": "तेन॒ तत्रैव वसता जनस्थाननिवासिनी",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9824561403508771
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तेन",
+            "b": "तेन॒"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विरूपिता शूर्पणखा राक्षसी कामरूपिणी",
+      "net": "विरूपिता शूर्पणखा राक्षसी कामरूपिणी",
+      "in": "विरूपिता शूर्पणखा राक्षसी कामरूपिणी",
+      "gp": "विरूपिता शूर्पणखा राक्षसी कामरूपिणी",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-46",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"While Rama was living there in the Dandaka forest, a guise-changing demoness named Shuurpa-nakha, who was a resident of Janasthana, a portion of Dandaka forest, was disfigured by him... [1-1-46]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-46",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vasataa",
+            "devanagari_machine_converted": "वसता",
+            "english": "while living by Rama"
+          },
+          {
+            "roman_itrans": "tatra eva",
+            "devanagari_machine_converted": "तत्र एव",
+            "english": "there [in that Dandaka forest] only"
+          },
+          {
+            "roman_itrans": "shuurpaNakhaa iti",
+            "devanagari_machine_converted": "शूर्पणखा इति",
+            "english": "Shuurpa-nakha"
+          },
+          {
+            "roman_itrans": "raakShasii",
+            "devanagari_machine_converted": "राक्षसी",
+            "english": "a demoness"
+          },
+          {
+            "roman_itrans": "kaamaruupiNii",
+            "devanagari_machine_converted": "कामरूपिणी",
+            "english": "[who can] assume desired form"
+          },
+          {
+            "roman_itrans": "janasthaananivaasinii",
+            "devanagari_machine_converted": "जनस्थाननिवासिनी",
+            "english": "a resident of Janasthana [a portion of Dandaka forest]"
+          },
+          {
+            "roman_itrans": "viruupitaa",
+            "devanagari_machine_converted": "विरूपिता",
+            "english": "was disfigured"
+          },
+          {
+            "roman_itrans": "tena",
+            "devanagari_machine_converted": "तेन",
+            "english": "by him [Rama]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-46",
+        "spans_beyond_this_verse": false,
+        "text": "Readers are referred to the verse 3-18-20 where Rama asks Lakshmana to deface Shuurpa-nakha who carries out the act of cutting the nose and ears of this demoness, which is the turning point of the story. From this verse it is clear that Rama is instrumental in the disfiguring of Shuurpa-nakha."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.46",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वहाँ ही रहते हुए श्रीरामने इच्छानुसार रूप बनानेवाली जनस्थाननिवासिनी शूर्पणखा नामकी राक्षसीको [लक्ष्मणके द्वारा उसकी नाक कटाकर] कुरूप कर दिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.46",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (राम) के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "वसता",
+            "hindi": "रहते हुए के द्वारा (शतृ प्रत्ययान्त, तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जनस्थाननिवासिनी",
+            "hindi": "जनस्थान में रहने वाली (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विरूपिता",
+            "hindi": "कुरूप की गई (प्रथमा विभक्ति, भूतकालिक कृदन्त)"
+          },
+          {
+            "sanskrit": "शूर्पणखा",
+            "hindi": "शूर्पणखा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राक्षसी",
+            "hindi": "राक्षसी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कामरूपिणी",
+            "hindi": "इच्छानुसार रूप धरने वाली (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.46",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“वहाँ ही रहते हुए श्रीरामने इच्छानुसार रूप बनानेवाली जनस्थाननिवासिनी शूर्पणखा नामकी राक्षसीको [लक्ष्मणके द्वारा उसकी नाक कटाकर] कुरूप कर दिया॥ ४६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

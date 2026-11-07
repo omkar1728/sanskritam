@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 2,
+  "critical_sarga": 2,
+  "vulgate_sarga": 2,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "रामायण काव्य का उपक्रम- तमसा के तटपर क्रौञ्चवध से संतप्त हुए महर्षि वाल्मीकि के शोक का श्लोक-रूप में प्रकट होना तथा ब्रह्माजी का उन्हें रामचरित्रमय काव्य के निर्माण का आदेश देना",
+  "title_en_from_in": "The genesis of the Ramayana: Sage Valmiki's sorrow upon seeing the killing of a Krauncha bird takes the form of a Shloka, and Lord Brahma commands him to compose the epic of Rama's story",
+  "intro_en_from_net": "Sage Valmiki goes to river Tamasa for a bath and sees a couple of birds, of which a hunter kills one. Valmiki unintentionally utters a poem, which is rich in grammar and new in metre, of which he is very much confused as to why such a poem has come from his tongue. Brahma, the presiding deity of letters appears and ordains Valmiki to author Ramayana, excellent epic of Rama, for which purpose alone he gave such divine meter and grammar to him.",
+  "counts": {
+    "smith_lines": 82,
+    "net_lines": 91,
+    "in_lines": 87,
+    "smith_verses": 41,
+    "net_blocks": 41,
+    "in_verses": 40,
+    "gp_lines": 80,
+    "gp_units": 43,
+    "in_declared": 43,
+    "docs": 45
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "id": "baala-009-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 14
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-10"
+    ],
+    "vulgate_in_locators": [
+      "1.9.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008014a",
+        "1008014c"
+      ],
+      "lines": [
+        "भवन्तः श्रुतधर्माणो लोकचारित्रवेदिनः",
+        "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्"
+      ],
+      "punctuated_derived": "भवन्तः श्रुतधर्माणो लोकचारित्रवेदिनः ।\nसमादिशन्तु नियमं प्रायश्चित्तं यथा भवेत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "भवन्तः श्रुतधर्माणो लोकचारित्रवेदिनः",
+        "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्"
+      ],
+      "locators": [
+        "1-9-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "भवन्तः श्रुतकर्माणो लोकचारित्रवेदिनः",
+        "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्"
+      ],
+      "locators": [
+        "1.9.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "भवन्तः श्रुतकर्माणो लोकचारित्रवेदिनः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_9-103"
+      ],
+      "refs": [
+        "1.9.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "भवन्तः श्रुतधर्माणो लोकचारित्रवेदिनः",
+      "net": "भवन्तः श्रुतधर्माणो लोकचारित्रवेदिनः",
+      "in": "भवन्तः श्रुतकर्माणो लोकचारित्रवेदिनः",
+      "gp": "भवन्तः श्रुतकर्माणो लोकचारित्रवेदिनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9696969696969697,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "श्रुतधर्माणो",
+            "b": "श्रुतकर्माणो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "श्रुतधर्माणो",
+            "b": "श्रुतकर्माणो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्",
+      "net": "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्",
+      "in": "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"All of you are well versed in rituals and knowers of the world history... order me how to how the purification from sin will be... [1-9-10b, 11a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhavantaH",
+            "devanagari_machine_converted": "भवन्तः",
+            "english": "all of you"
+          },
+          {
+            "roman_itrans": "shrutadharmaaNaH",
+            "devanagari_machine_converted": "श्रुतधर्माणः",
+            "english": "well versed in rituals"
+          },
+          {
+            "roman_itrans": "lokachaaritravedinaH",
+            "devanagari_machine_converted": "लोकचारित्रवेदिनः",
+            "english": "knowers of world history"
+          },
+          {
+            "roman_itrans": "samaadishantu",
+            "devanagari_machine_converted": "समादिशन्तु",
+            "english": "order me"
+          },
+          {
+            "roman_itrans": "yathaa",
+            "devanagari_machine_converted": "यथा",
+            "english": "as to how"
+          },
+          {
+            "roman_itrans": "niyamam",
+            "devanagari_machine_converted": "नियमम्",
+            "english": "the procedure is"
+          },
+          {
+            "roman_itrans": "praayashchittam",
+            "devanagari_machine_converted": "प्रायश्चित्तम्",
+            "english": "for purification"
+          },
+          {
+            "roman_itrans": "bhavet",
+            "devanagari_machine_converted": "भवेत्",
+            "english": "will be."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.9",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“वर्षा बंद हो जानेसे राजा रोमपादको भी बहुत दुःख होगा। वे शास्त्रज्ञानमें बढ़े-चढ़े ब्राह्मणों को बुलाकर कहेंगे—’विप्रवरो! आप लोग वेद-शास्त्रके अनुसार कर्म करने वाले तथा लोगों के आचार-विचार को जानने वाले हैं; अतः कृपा करके मुझे ऐसा कोई नियम बताइये, जिससे मेरे पापका प्रायश्चित्त हो जाय’।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.9",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अनावृष्टयाम्",
+            "hindi": "अनावृष्टि होने पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "वृत्तायाम्",
+            "hindi": "घटित होने पर (सप्तमी विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दुःखसमन्वितः",
+            "hindi": "दुःख से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्राह्मणान्",
+            "hindi": "ब्राह्मणों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतसंवृद्धान्",
+            "hindi": "शास्त्रज्ञान से सम्पन्न / विद्वान् को (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "समानीय",
+            "hindi": "बुलाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "प्रवक्ष्यति",
+            "hindi": "कहेंगे (प्र + वच्, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भवन्तः",
+            "hindi": "आप लोग (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "श्रुतकर्माणः",
+            "hindi": "शास्त्रानुसार कर्म करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "लोकचारित्रवेदिनः",
+            "hindi": "लोकाचार / संसार के व्यवहार को जानने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "समादिशन्तु",
+            "hindi": "बताइये / आदेश दीजिये (सम् + आ + दिश्, लोट् लकार, मध्यम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "नियमम्",
+            "hindi": "नियम / उपाय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रायश्चित्तम्",
+            "hindi": "प्रायश्चित्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जिससे (अव्यय)"
+          },
+          {
+            "sanskrit": "भवेत्",
+            "hindi": "हो जाए (भू धातु, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.10",
+        "ocr_flags": [
+          "hindi_marker_range_9-103"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "समादिशन्तु नियमं प्रायश्चित्तं यथा भवेत्‌। “वर्षा बंद हो जानेसे राजा रोमपादको भी बहु दुःख होगा। वे शास्त्रज्ञानमें बढ़े-चढ़े ब्राह्मणोंको बुलाकर कहेंगे-*विप्रवरो! आपलोग वेद-शास्त्रके अनुसार करनेवाले तथा लोगोंके आचार-विचारको जाननेवाले हैं; अतः कृपा करके मुझे ऐसा कोई नियम बताइये, जिससे मेरे पापका प्रायश्चित्त हो जाय'॥ ९-१०३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

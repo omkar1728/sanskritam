@@ -1,0 +1,382 @@
+{
+  "id": "baala-001-070",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 70,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-63, 1-1-64",
+      "1-1-65"
+    ],
+    "vulgate_in_locators": [
+      "1.1.64",
+      "1.1.65"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.64",
+      "1.1.65"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दर्शयामास सुग्रीवो महापर्वतसन्निभम्",
+        "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः"
+      ],
+      "locators": [
+        "1-1-63, 1-1-64",
+        "1-1-65"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दर्शयामास सुग्रीवो महापर्वतसंनिभम्",
+        "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः"
+      ],
+      "locators": [
+        "1.1.64",
+        "1.1.65"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दर्शयामास सुग्रीवो महापर्वतसंनिभम्‌",
+        "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.64",
+        "1.1.65"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "दर्शयामास सुग्रीवो महापर्वतसन्निभम्",
+      "in": "दर्शयामास सुग्रीवो महापर्वतसंनिभम्",
+      "gp": "दर्शयामास सुग्रीवो महापर्वतसंनिभम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "महापर्वतसन्निभम्",
+            "b": "महापर्वतसंनिभम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "महापर्वतसन्निभम्",
+            "b": "महापर्वतसंनिभम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः",
+      "in": "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः",
+      "gp": "उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"But Sugreeva remained ever doubtful with respect to Raghava, about Raghava's prowess. Sugreeva showed Dundubhi's big and great mountain-like dead body to gain confidence in Raghava... [1-1-63b, 64]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-65",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Great armed and very powerful Rama after seeing the bones of Dundubhi smiled and by the big toe of his foot threw it wholly for ten yojana-s length. [1-1-65]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "63b, 64. tu",
+            "devanagari_machine_converted": "६३ब्, ६४। तु",
+            "english": "But"
+          },
+          {
+            "roman_itrans": "sugriivaH",
+            "devanagari_machine_converted": "सुग्रीवः",
+            "english": "Sugreeva"
+          },
+          {
+            "roman_itrans": "nityam shankitaH aasiit",
+            "devanagari_machine_converted": "नित्यम् शन्कितः आसीत्",
+            "english": "remained ever doubtful"
+          },
+          {
+            "roman_itrans": "raaghave",
+            "devanagari_machine_converted": "राघवे",
+            "english": "with respect to Raghava"
+          },
+          {
+            "roman_itrans": "viiryeNa",
+            "devanagari_machine_converted": "वीर्येण",
+            "english": "about [Rama's] prowess"
+          },
+          {
+            "roman_itrans": "sugriivaH",
+            "devanagari_machine_converted": "सुग्रीवः",
+            "english": "Sugreeva"
+          },
+          {
+            "roman_itrans": "darshayaamaasa",
+            "devanagari_machine_converted": "दर्शयामास",
+            "english": "showed"
+          },
+          {
+            "roman_itrans": "dundubheH",
+            "devanagari_machine_converted": "दुन्दुभेः",
+            "english": "Dundubhi's"
+          },
+          {
+            "roman_itrans": "uttamam",
+            "devanagari_machine_converted": "उत्तमम्",
+            "english": "big"
+          },
+          {
+            "roman_itrans": "mahaaparvatasannibham",
+            "devanagari_machine_converted": "महापर्वतसन्निभम्",
+            "english": "great mountain like"
+          },
+          {
+            "roman_itrans": "kaayam",
+            "devanagari_machine_converted": "कायम्",
+            "english": "body"
+          },
+          {
+            "roman_itrans": "raaghavapratyayaartham",
+            "devanagari_machine_converted": "राघवप्रत्ययार्थम्",
+            "english": "to gain confidence in Raghava."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-65",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahaabaahuH",
+            "devanagari_machine_converted": "महाबाहुः",
+            "english": "Great armed"
+          },
+          {
+            "roman_itrans": "mahaabalaH",
+            "devanagari_machine_converted": "महाबलः",
+            "english": "[and] very powerful [Rama]"
+          },
+          {
+            "roman_itrans": "prekShya",
+            "devanagari_machine_converted": "प्रेक्ष्य",
+            "english": "after seeing"
+          },
+          {
+            "roman_itrans": "asthi",
+            "devanagari_machine_converted": "अस्थि",
+            "english": "the bone"
+          },
+          {
+            "roman_itrans": "utsmayitvaa",
+            "devanagari_machine_converted": "उत्स्मयित्वा",
+            "english": "smiling"
+          },
+          {
+            "roman_itrans": "ca paadaanguSThena [anguSTa-agreNa]",
+            "devanagari_machine_converted": "च पादान्गुष्ठेन [अन्गुष्ट-अग्रेण]",
+            "english": "and by the big toe of his foot"
+          },
+          {
+            "roman_itrans": "chikShepa",
+            "devanagari_machine_converted": "चिक्षेप",
+            "english": "threw [it]"
+          },
+          {
+            "roman_itrans": "sampuurNam dashayojanam",
+            "devanagari_machine_converted": "सम्पूर्णम् दशयोजनम्",
+            "english": "wholly for ten yojana-s length."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "text": "Vali had at one time killed Dundubhi and kicked his body over a long distance."
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-65",
+        "spans_beyond_this_verse": true,
+        "text": "Vali was able to throw that body, with whole of his foot, only up to two hundred bow-lengths, where the length of bow is said as six to seven feet. But Rama could kick that heap to ten yojana lengths, roughly ninety miles, only with a flip of his foot-toe's tip. But Sugreeva continued his grumbling, 'in those days this skeleton was with flesh and blood, now it became weight-less, thus show me more of your show of strength...' One Yojana is an ancient measure for distance, where that distance is covered in one yoking. Chambers dictionary puts it as five miles, and it is not agreeable for it was British-Indian revenue measure. Traditionally it is four krosha-s and thus each yojana is nine to ten miles."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.64",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'रामकी प्रतीतिके लिये उन्होंने दुन्दुभि दैत्यका महान् पर्वतके समान विशाल शरीर दिखलाया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.65",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'महाबली महाबाहु श्रीरामने तनिक मुसकराकर उस अस्थिसमूहको देखा और पैरके अँगूठेसे उसे दस योजन दूर फेंक दिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.64",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राघवप्रत्ययार्थम्",
+            "hindi": "राम के विश्वास के लिए (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "दुन्दुभेः",
+            "hindi": "दुन्दुभि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कायम्",
+            "hindi": "शरीर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उत्तमम्",
+            "hindi": "विशाल / उत्तम (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्शयामास",
+            "hindi": "दिखलाया (दृश् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सुग्रीवः",
+            "hindi": "सुग्रीव ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महापर्वतसन्निभम्",
+            "hindi": "बड़े पर्वत के सदृश (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.65",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "उत्स्मयित्वा",
+            "hindi": "मुस्कुराकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "महाबाहुः",
+            "hindi": "महाबाहु ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रेक्ष्य",
+            "hindi": "देखकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अस्थि",
+            "hindi": "हड्डी के समूह को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महाबलः",
+            "hindi": "महाबली ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पादाङ्गुष्ठेन",
+            "hindi": "पैर के अंगूठे से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चिक्षेप",
+            "hindi": "फेंका (क्षिप् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सम्पूर्णम्",
+            "hindi": "पूरा (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दशयोजनम्",
+            "hindi": "दस योजन दूर (अव्यय/क्रियाविशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.64",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "'रामकी प्रतीतिके लिये उन्होंने दुन्दुभि दैत्यका महान्‌ पर्वतके समान विशाल शरीर दिखलाया॥ ६४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.65",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“महाबली महाबाहु श्रीरामने तनिक मुसकराकर उस अस्थिसमूहको देखा और पैरके अँगूठेसे उसे दस योजन दूर फेंक दिया॥ ६५॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

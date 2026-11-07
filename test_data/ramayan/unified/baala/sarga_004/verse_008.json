@@ -1,0 +1,248 @@
+{
+  "id": "baala-004-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 7
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-8"
+    ],
+    "vulgate_in_locators": [
+      "1.4.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004007a",
+        "1004007c"
+      ],
+      "lines": [
+        "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्",
+        "जातिभिः सप्तभिर्बद्धं तन्त्रीलयसमन्वितम्"
+      ],
+      "punctuated_derived": "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम् ।\nजातिभिः सप्तभिर्बद्धं तन्त्रीलयसमन्वितम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्",
+        "जातिभिः सप्तभिर्बद्धं तन्त्रीलयसमन्वितम्"
+      ],
+      "locators": [
+        "1-4-8"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्",
+        "जातिभिः सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्"
+      ],
+      "locators": [
+        "1.4.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्‌",
+        "जातिभिः सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.4.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्",
+      "net": "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्",
+      "in": "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्",
+      "gp": "पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रमाणैस्त्रिभिरन्वितम्",
+            "b": "प्रमाणैस्त्रिभिरन्वितम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "जातिभिः सप्तभिर्बद्धं तन्त्रीलयसमन्वितम्",
+      "net": "जातिभिः सप्तभिर्बद्धं तन्त्रीलयसमन्वितम्",
+      "in": "जातिभिः सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्",
+      "gp": "जातिभिः सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9014084507042254,
+        "sim_gp_net": 0.9014084507042254
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सप्तभिर्बद्धं",
+            "b": "सप्तभिर्युक्तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सप्तभिर्बद्धं तन्त्रीलयसमन्वितम्",
+            "b": "सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-8",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "To read or to sing it is melodious, adaptable to music with three scales and sevenfold tune, and orchestral to the tunes of string-instrument and rhythm included... [1-4-8]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-8",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "paaThye geye madhuram",
+            "devanagari_machine_converted": "पाठ्ये गेये मधुरम्",
+            "english": "melodious to read and to sing"
+          },
+          {
+            "roman_itrans": "pramaaNaiH tribhiH anvitam",
+            "devanagari_machine_converted": "प्रमाणैः त्रिभिः अन्वितम्",
+            "english": "adaptable in three kinds scales"
+          },
+          {
+            "roman_itrans": "jaatibhiH saptabhiH baddham",
+            "devanagari_machine_converted": "जातिभिः सप्तभिः बद्धम्",
+            "english": "orchestral sevenfold classification"
+          },
+          {
+            "roman_itrans": "tantriilayasamanvitam",
+            "devanagari_machine_converted": "तन्त्रीलयसमन्वितम्",
+            "english": "string-instrument, rhythm, included."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-8",
+        "spans_beyond_this_verse": false,
+        "text": "The three Indian scale pauses are dR^ita, madhyama, vilambita . These though not equal but identical to Breve, Minim and Quaver of Western classical music. The seven fold classifications of swara-s are 1] shadja [2] madhyama [3] gaandhaara [4] niSaada [5] R^iSabha [6] dhaivata [7] pa~nchama . These are roughly identical to Accelerando, Calando, Decresando, Smorzando, Sostentuo, and others of Western classical music."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वह महाकाव्य पढ़ने और गानेमें भी मधुर, द्रुत, मध्य और विलम्बित–इन तीनों गतियोंसे अन्वित, षड्ज आदि सातों स्वरोंसे युक्त, वीणा बजाकर स्वर और तालके साथ गाने योग्य तथा-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पाठ्ये",
+            "hindi": "पढ़ने में"
+          },
+          {
+            "sanskrit": "गेये",
+            "hindi": "गाने में"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "मधुरम्",
+            "hindi": "मधुर"
+          },
+          {
+            "sanskrit": "प्रमाणैः",
+            "hindi": "गति (लय) से"
+          },
+          {
+            "sanskrit": "त्रिभिः",
+            "hindi": "तीन (द्रुत, मध्य, विलम्बित)"
+          },
+          {
+            "sanskrit": "अन्वितम्",
+            "hindi": "युक्त"
+          },
+          {
+            "sanskrit": "जातिभिः",
+            "hindi": "स्वरों से"
+          },
+          {
+            "sanskrit": "सप्तभिः",
+            "hindi": "सात (षड्ज, ऋषभ, गान्धार, मध्यम, पञ्चम, धैवत, निषाद)"
+          },
+          {
+            "sanskrit": "युक्तम्",
+            "hindi": "युक्त"
+          },
+          {
+            "sanskrit": "तन्त्रीलयसमन्वितम्",
+            "hindi": "वीणा के लय से समन्वित"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.8",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "वह महाकाव्य पढ्ने और गानेमें भी मधुर, द्रुत, श्रीमद्वाल्मीकीयरामायणे मध्य और विलम्बित--इन तीनों गतियाँसे अन्वित, षड्ज आदि सातों स्वरोंसे युक्त, वीणा बजाकर स्वर और तालके साथ गाने योग्य तथा शृंगार, करुण, हास्य, रौद्र, भयानक तथा वीर आदि सभी रसोंसे अनुप्राणित है। दोनों भाई कुश और लव उस महाकाव्यको पढ़कर उसका गान करने लगे॥ ८-९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,243 @@
+{
+  "id": "baala-003-035",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 35,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 24
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-34"
+    ],
+    "vulgate_in_locators": [
+      "1.3.34"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.34"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003024a",
+        "1003024c"
+      ],
+      "lines": [
+        "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+        "संगमं च समुद्रस्य नलसेतोश्च बन्धनम्"
+      ],
+      "punctuated_derived": "राघवाश्वासनं चैव मणिनिर्यातनं तथा ।\nसंगमं च समुद्रस्य नलसेतोश्च बन्धनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+        "सङ्गमं च समुद्रेण नलसेतोश्च बन्धनम्"
+      ],
+      "locators": [
+        "1-3-34"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+        "संगमं च समुद्रेण नलसेतोश्च बन्धनम्"
+      ],
+      "locators": [
+        "1.3.34"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+        "संगमं च समुद्रेण नलसेतोश्च बन्धनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.34"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+      "net": "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+      "in": "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+      "gp": "राघवाश्वासनं चैव मणिनिर्यातनं तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "संगमं च समुद्रस्य नलसेतोश्च बन्धनम्",
+      "net": "सङ्गमं च समुद्रेण नलसेतोश्च बन्धनम्",
+      "in": "संगमं च समुद्रेण नलसेतोश्च बन्धनम्",
+      "gp": "संगमं च समुद्रेण नलसेतोश्च बन्धनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9122807017543859,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संगमं",
+            "b": "सङ्गमं"
+          },
+          {
+            "a": "समुद्रस्य",
+            "b": "समुद्रेण"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सङ्गमं",
+            "b": "संगमं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सङ्गमं",
+            "b": "संगमं"
+          },
+          {
+            "a": "बन्धनम्",
+            "b": "बन्धनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-34",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Hanuma's action in presenting the jewel sent by Seetha solaces Raghava, and thus the meeting of Rama with the Ocean, and Nala's building the bridge on ocean... [1-3-34]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-34",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raaghavaashvaasanam ca eva",
+            "devanagari_machine_converted": "राघवाश्वासनम् च एव",
+            "english": "solaced Rama, also, thus"
+          },
+          {
+            "roman_itrans": "maNiniryaatanam tathaa",
+            "devanagari_machine_converted": "मणिनिर्यातनम् तथा",
+            "english": "jewel presenting, thus"
+          },
+          {
+            "roman_itrans": "sangamam samudreNa ca",
+            "devanagari_machine_converted": "सन्गमम् समुद्रेण च",
+            "english": "meeting, with Ocean, also; nalasethoH ca bandhanam = also building bridge by Nala."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.34",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "हनुमान् जी का श्रीरामचन्द्रजीको आश्वासन देना और सीताजीकी दी हुई चूड़ामणि समर्पित करना, सेनासहित सुग्रीवके साथ श्रीरामकी लङ्कायात्राके समय समुद्रसे भेंट, नलका समुद्रपर सेतु बाँधना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.34",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राघवाश्वासनम्",
+            "hindi": "राघव (राम) को आश्वासन देना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "मणिनिर्यातनम्",
+            "hindi": "मणि (चूड़ामणि) को वापस देना / समर्पित करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "सङ्गमम्",
+            "hindi": "संगम / मिलन / भेंट (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "समुद्रेण",
+            "hindi": "समुद्र से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नलसेतोः",
+            "hindi": "नल द्वारा बनाए गए सेतु का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "बन्धनम्",
+            "hindi": "बन्धन / निर्माण (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.34",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

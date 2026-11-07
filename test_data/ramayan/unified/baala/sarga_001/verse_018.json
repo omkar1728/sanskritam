@@ -1,0 +1,249 @@
+{
+  "id": "baala-001-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 15
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-16"
+    ],
+    "vulgate_in_locators": [
+      "1.1.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001015a",
+        "1001015c"
+      ],
+      "lines": [
+        "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+        "आर्यः सर्वसमश्चैव सदैकप्रियदर्शनः"
+      ],
+      "punctuated_derived": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः ।\nआर्यः सर्वसमश्चैव सदैकप्रियदर्शनः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+        "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः"
+      ],
+      "locators": [
+        "1-1-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+        "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः"
+      ],
+      "locators": [
+        "1.1.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+        "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+      "net": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+      "in": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+      "gp": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "आर्यः सर्वसमश्चैव सदैकप्रियदर्शनः",
+      "net": "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः",
+      "in": "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः",
+      "gp": "आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः",
+      "similarity": {
+        "sim_smith_net": 0.967741935483871,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सदैकप्रियदर्शनः",
+            "b": "सदैव प्रियदर्शनः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Like an ocean that is reached by rivers, that reverential one too is always accessible and reachable by clean-minded ones, and he treats all equally, and ever a feast to eye... [1-1-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "samudraH sindhubhiH iva",
+            "devanagari_machine_converted": "समुद्रः सिन्धुभिः इव",
+            "english": "like an ocean by rivers"
+          },
+          {
+            "roman_itrans": "sarvadaa abhigataH",
+            "devanagari_machine_converted": "सर्वदा अभिगतः",
+            "english": "always accessible"
+          },
+          {
+            "roman_itrans": "sadbhiH",
+            "devanagari_machine_converted": "सद्भिः",
+            "english": "by clean-minded ones"
+          },
+          {
+            "roman_itrans": "aaryaH",
+            "devanagari_machine_converted": "आर्यः",
+            "english": "noble one"
+          },
+          {
+            "roman_itrans": "sarvasamaH ca eva",
+            "devanagari_machine_converted": "सर्वसमः च एव",
+            "english": "and also treats all equally"
+          },
+          {
+            "roman_itrans": "sadaa eva priyadarshanaH",
+            "devanagari_machine_converted": "सदा एव प्रियदर्शनः",
+            "english": "indeed ever a feast to the eye."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-16",
+        "spans_beyond_this_verse": false,
+        "text": "Here it is said 'he is reachable by all clean-minded ones...' satpravartana, sadbudhhi... and those that approach him with a sacrilegious intent, will meet their end at his hand. sarvasamaH means, that he does not discriminate people by their caste, creed, or by that individual's philosophy etc., like tribal boatman Guha, low-birthed Shabari, and nihilist Sage Jaabaali et al. jaati-guNa- vR^itti-aadi bhedaabhaavaat And the word eva in sa eva priyadarshanaH indicates 'always...' 'unvarying in his demeanour with anyone...' Govindaraja. And by the simile of ocean to Rama, for rivers there is no other course except an ocean; thus, the living beings, may it be humans or birds like Jataayu, have no other recourse than Rama."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'जैसे नदियाँ समुद्रमें मिलती हैं, उसी प्रकार सदा रामसे साधु पुरुष मिलते रहते हैं। वे आर्य एवं सबमें समान भाव रखनेवाले हैं, उनका दर्शन सदा ही प्रिय मालूम होता है"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सर्वदा",
+            "hindi": "हमेशा (अव्यय)"
+          },
+          {
+            "sanskrit": "अभिगतः",
+            "hindi": "प्राप्त हुआ / आश्रय लेने वालों से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सद्भिः",
+            "hindi": "सज्जनों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रः",
+            "hindi": "समुद्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान (अव्यय)"
+          },
+          {
+            "sanskrit": "सिन्धुभिः",
+            "hindi": "नदियों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आर्यः",
+            "hindi": "श्रेष्ठ आचरण वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वसमः",
+            "hindi": "सबके प्रति समभाव रखने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "सदा",
+            "hindi": "हमेशा (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "प्रियदर्शनः",
+            "hindi": "देखने में प्रिय लगने वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“जैसे नदियाँ समुद्रमें मिलती हैं, उसी प्रकार सदा रामसे साधु पुरुष मिलते रहते हैं। वे आर्य एवं सबमें समान भाव रखनेवाले हैं, उनका दर्शन सदा ही प्रिय मालूम होता है॥ १६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

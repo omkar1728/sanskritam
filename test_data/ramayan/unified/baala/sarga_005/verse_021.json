@@ -1,0 +1,258 @@
+{
+  "id": "baala-005-021",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 21,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 20
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-20"
+    ],
+    "vulgate_in_locators": [
+      "1.5.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005020a",
+        "1005020c"
+      ],
+      "lines": [
+        "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्",
+        "शब्दवेध्यं च विततं लघुहस्ता विशारदाः"
+      ],
+      "punctuated_derived": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम् ।\nशब्दवेध्यं च विततं लघुहस्ता विशारदाः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्",
+        "शब्दवेध्यं च विततं लयुहस्ता विशारदाः"
+      ],
+      "locators": [
+        "1-5-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्",
+        "शब्दवेध्यं च विततं लघुहस्ता विशारदाः"
+      ],
+      "locators": [
+        "1.5.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्‌",
+        "शब्दवेध्यं च विततं लघुहस्ता विशारदाः"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.5.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्",
+      "net": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्",
+      "in": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्",
+      "gp": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "विविक्तमपरापरम्",
+            "b": "विविक्तमपरापरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शब्दवेध्यं च विततं लघुहस्ता विशारदाः",
+      "net": "शब्दवेध्यं च विततं लयुहस्ता विशारदाः",
+      "in": "शब्दवेध्यं च विततं लघुहस्ता विशारदाः",
+      "gp": "शब्दवेध्यं च विततं लघुहस्ता विशारदाः",
+      "similarity": {
+        "sim_smith_net": 0.96875,
+        "sim_in_net": 0.96875,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "लघुहस्ता",
+            "b": "लयुहस्ता"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "लयुहस्ता",
+            "b": "लघुहस्ता"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "लयुहस्ता",
+            "b": "लघुहस्ता"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They the skilful archers of that Ayodhya will not kill a lone one with their arrows, one that does not have either a predecessor or a successor in his family, a fleeing one, or by listening to the sound of the target, as is done in sonic-archery, and their skills, acumen and handiness are thus benevolent. [1-5-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "ye cha baaNaiH na vidhyanti",
+            "devanagari_machine_converted": "ये च बाणैः न विध्यन्ति",
+            "english": "those not killed with arrows also"
+          },
+          {
+            "roman_itrans": "viviktam aparaaparam",
+            "devanagari_machine_converted": "विविक्तम् अपरापरम्",
+            "english": "lone one, at his hind [without a successor,] at his fore [without a predecessor]"
+          },
+          {
+            "roman_itrans": "shabdavedhyam cha vitatam",
+            "devanagari_machine_converted": "शब्दवेध्यम् च विततम्",
+            "english": "killing by sound also fleeing away"
+          },
+          {
+            "roman_itrans": "laghuhastaaH vishaaradaaH",
+            "devanagari_machine_converted": "लघुहस्ताः विशारदाः",
+            "english": "acumen handiness, skilful ones."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-20",
+        "spans_beyond_this_verse": false,
+        "text": "Dasharatha in his youth, when he was on a hunting spree, killed the son of a hermit who was drawing water from a river. That son of the sage dipped his pot in the waters and the filling water gave sounds like that of a grumbling tiger. Dasharatha mistook that sound to be a tiger's grumble and swung his arrow that way, killing the boy. Thereby the father of the boy being a sage of eminence, cursed Dasharatha to die lamenting for his son, which happens after the exile of Rama. Perhaps the sonic-archery may thus have been banned in Ayodhya, lest such sad incidents would have recurred."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जो अपने समूहसे बिछुड़कर असहाय हो गया हो, जिसके आगे-पीछे कोई न हो (अर्थात् जो पिता और पुत्र दोनोंसे हीन हो) तथा जो शब्दवेधी बाणद्वारा बेधने योग्य हों (अथवा युद्धसे हारकर भागे जा रहे हों) ऐसे पुरुषोंपर जो लोग बाणोंका प्रहार नहीं करते, जिनके सधे-सधाये हाथ शीघ्रतापूर्वक लक्ष्यवेध करनेमें समर्थ हैं, अस्त्र-शस्त्रोंके प्रयोगमें कुशलता प्राप्त कर चुके हैं तथा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ये",
+            "hindi": "जो (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "बाणैः",
+            "hindi": "बाणों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "विध्यन्ति",
+            "hindi": "बेधते / वार करते हैं (व्यध् धातु, लट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "विविक्तम्",
+            "hindi": "एकाकी / अकेले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपरापरम्",
+            "hindi": "जिसके आगे-पीछे कोई न हो उसको (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शब्दवेध्यम्",
+            "hindi": "शब्द से बेधने योग्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "विततम्",
+            "hindi": "विस्तार से फैले हुए को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "लघुहस्ताः",
+            "hindi": "सधे हुए हाथ / शीघ्र हाथ वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विशारदाः",
+            "hindi": "कुशल / निपुण (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.20",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "जो अपने समूहसे बिछुड्कर असहाय हो गया हो, जिसके आगे-पीछे कोई न हो (अर्थात्‌ जो पिता और पुत्र दोनोंसे हीन हो) तथा जो शब्दवेधी बाणद्वारा बेधने योग्य हों अथवा युद्धसे हारकर भागे जा रहे हों, ऐसे पुरुषापर जो लोग बाणोंका प्रहार नहीं करते, जिनके सधे-सधाये हाथ शीप्रतापूर्वक लक्ष्यवेध करनेमें समर्थ हैं, अस्त्र-शस्त्रोंके प्रयोगमें कुशलता प्राप्त कर चुके हैं ्रीमद्वाल्मीकीयरामायणे तथा जो वनमें गर्जते हुए मतवाले सिंहों, व्याघ्रो और सूअरोंको तीखे शस्त्रोंसे एवं भुजाओंके बलसे भी बलपूर्वक मार डालनेमें समर्थ हैं, ऐसे सहस्रो महारथी वीरोंसे अयोध्यापुरी भरी-पूरी थी। उसे महाराज दशरथने बसाया और पाला था॥ २०-२२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

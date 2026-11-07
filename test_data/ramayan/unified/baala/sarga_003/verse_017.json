@@ -1,0 +1,244 @@
+{
+  "id": "baala-003-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 12
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-20"
+    ],
+    "vulgate_in_locators": [
+      "1.3.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003012a",
+        "1003012c"
+      ],
+      "lines": [
+        "वधं खरत्रिशिरसोरुत्थानं रावणस्य च",
+        "मारीचस्य वधं चैव वैदेह्या हरणं तथा"
+      ],
+      "punctuated_derived": "वधं खरत्रिशिरसोरुत्थानं रावणस्य च ।\nमारीचस्य वधं चैव वैदेह्या हरणं तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वधं खरत्रिशिरसोरुत्थानं रावणास्य च",
+        "मारीचस्य वधं चैव वैदेह्या हरणं तथा"
+      ],
+      "locators": [
+        "1-3-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वधं खरत्रिशिरसोरुत्थानं रावणस्य च",
+        "मारीचस्य वधं चैव वैदेह्या हरणं तथा"
+      ],
+      "locators": [
+        "1.3.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वधं खरत्रिशिरसोरुत्थानं रावणस्य च",
+        "मारीचस्य वधं चैव वैदेह्या हरणं तथा"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वधं खरत्रिशिरसोरुत्थानं रावणस्य च",
+      "net": "वधं खरत्रिशिरसोरुत्थानं रावणास्य च",
+      "in": "वधं खरत्रिशिरसोरुत्थानं रावणस्य च",
+      "gp": "वधं खरत्रिशिरसोरुत्थानं रावणस्य च",
+      "similarity": {
+        "sim_smith_net": 0.9836065573770492,
+        "sim_in_net": 0.9836065573770492,
+        "sim_gp_net": 0.9836065573770492
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "रावणस्य",
+            "b": "रावणास्य"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "रावणास्य",
+            "b": "रावणस्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "रावणास्य",
+            "b": "रावणस्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "मारीचस्य वधं चैव वैदेह्या हरणं तथा",
+      "net": "मारीचस्य वधं चैव वैदेह्या हरणं तथा",
+      "in": "मारीचस्य वधं चैव वैदेह्या हरणं तथा",
+      "gp": "मारीचस्य वधं चैव वैदेह्या हरणं तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The elimination of demons like Khara, Trishirasa and the upsurge of Ravana thereby; elimination of demon Mareecha, and Ravana's abduction of Vaidehi, likewise... [1-3-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vadham kharatrishirasoH",
+            "devanagari_machine_converted": "वधम् खरत्रिशिरसोः",
+            "english": "killing of, Khara and Trisirasa [the demons]"
+          },
+          {
+            "roman_itrans": "utthaanam raavaNasya ca",
+            "devanagari_machine_converted": "उत्थानम् रावणस्य च",
+            "english": "upsurge, of Ravana, also"
+          },
+          {
+            "roman_itrans": "maariichasya vadham ca eva",
+            "devanagari_machine_converted": "मारीचस्य वधम् च एव",
+            "english": "killing of Maariicha, also, thus"
+          },
+          {
+            "roman_itrans": "vaidehyaaH haraNam tathaa",
+            "devanagari_machine_converted": "वैदेह्याः हरणम् तथा",
+            "english": "Vaidehi's, abduction, like that."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीरामद्वारा खरदूषण और त्रिशिराका वध, शूर्पणखाके उत्तेजित करनेसे रावणका श्रीरामसे बदला लेनेके लिये उठना, श्रीरामद्वारा मारीचका वध, रावणद्वारा विदेहनन्दिनी सीताका हरण,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वधम्",
+            "hindi": "वध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "खरत्रिशिरसोः",
+            "hindi": "खर और त्रिशिरा का (षष्ठी विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "उत्थानम्",
+            "hindi": "उत्थान / तैयार होना / उठना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणस्य",
+            "hindi": "रावण का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "मारीचस्य",
+            "hindi": "मारीच का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वधम्",
+            "hindi": "वध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "वैदेह्याः",
+            "hindi": "वैदेही (सीता) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "हरणम्",
+            "hindi": "हरण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.20",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

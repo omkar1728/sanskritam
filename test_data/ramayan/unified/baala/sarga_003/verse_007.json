@@ -1,0 +1,254 @@
+{
+  "id": "baala-003-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 6
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-13"
+    ],
+    "vulgate_in_locators": [
+      "1.3.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003006a",
+        "1003006c"
+      ],
+      "lines": [
+        "व्याघातं चाभिषेकस्य रामस्य च विवासनम्",
+        "राज्ञः शोकविलापं च परलोकस्य चाश्रयम्"
+      ],
+      "punctuated_derived": "व्याघातं चाभिषेकस्य रामस्य च विवासनम् ।\nराज्ञः शोकविलापं च परलोकस्य चाश्रयम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "विघातं चाभिषेकस्य रामस्य च विवासनम्",
+        "राज्ञः शोकविलापं च परलोकस्य चाश्रयम्"
+      ],
+      "locators": [
+        "1-3-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विघातं चाभिषेकस्य रामस्य च विवासनम्",
+        "राज्ञः शोकं विलापं च परलोकस्य चाश्रयम्"
+      ],
+      "locators": [
+        "1.3.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विघातं चाभिषेकस्य रामस्य च विवासनम्‌!",
+        "राज्ञः शोकं विलापं च परलोकस्य चाश्रयम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "व्याघातं चाभिषेकस्य रामस्य च विवासनम्",
+      "net": "विघातं चाभिषेकस्य रामस्य च विवासनम्",
+      "in": "विघातं चाभिषेकस्य रामस्य च विवासनम्",
+      "gp": "विघातं चाभिषेकस्य रामस्य च विवासनम्‌!",
+      "similarity": {
+        "sim_smith_net": 0.9354838709677419,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9354838709677419
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "व्याघातं",
+            "b": "विघातं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विवासनम्",
+            "b": "विवासनम्‌!"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "राज्ञः शोकविलापं च परलोकस्य चाश्रयम्",
+      "net": "राज्ञः शोकविलापं च परलोकस्य चाश्रयम्",
+      "in": "राज्ञः शोकं विलापं च परलोकस्य चाश्रयम्",
+      "gp": "राज्ञः शोकं विलापं च परलोकस्य चाश्रयम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9841269841269841,
+        "sim_gp_net": 0.9841269841269841
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शोकविलापं",
+            "b": "शोकं विलापं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शोकविलापं",
+            "b": "शोकं विलापं"
+          },
+          {
+            "a": "चाश्रयम्",
+            "b": "चाश्रयम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Disruption in royal unction of Raghava; his exile to forests; King Dasharatha's grief and bewailing, and thus his departing to other worlds... [1-3-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vighaatam ca abhiShekasya",
+            "devanagari_machine_converted": "विघातम् च अभिषेकस्य",
+            "english": "also disruption of royal unction"
+          },
+          {
+            "roman_itrans": "raaghavasya vivaasanam",
+            "devanagari_machine_converted": "राघवस्य विवासनम्",
+            "english": "Rama's, exile; raaj~naH shokavilaapam ca = King Dasharatha's grief and bewailing, and"
+          },
+          {
+            "roman_itrans": "paralokasya cha aashrayam",
+            "devanagari_machine_converted": "परलोकस्य च आश्रयम्",
+            "english": "into taking shelter [demise] also into other world."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीरामके राज्याभिषेकमें विघ्न, उनके वनवास, राजा दशरथके शोक-विलाप और परलोक-गमन,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विघातम्",
+            "hindi": "विघ्न / बाधा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अभिषेकस्य",
+            "hindi": "अभिषेक में (षष्ठी विभक्ति, सम्बन्ध)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "विवासनम्",
+            "hindi": "वनवास को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राज्ञः",
+            "hindi": "राजा का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "शोकम्",
+            "hindi": "शोक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विलापम्",
+            "hindi": "विलाप को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "परलोकस्य",
+            "hindi": "परलोक का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आश्रयम्",
+            "hindi": "आश्रय / गमन को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.13",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

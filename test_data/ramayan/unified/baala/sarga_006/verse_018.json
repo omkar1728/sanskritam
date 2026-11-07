@@ -1,0 +1,478 @@
+{
+  "id": "baala-006-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 15
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-15",
+      "1-6-16"
+    ],
+    "vulgate_in_locators": [
+      "1.6.15",
+      "1.6.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.15",
+      "1.6.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006015a",
+        "1006015c",
+        "1006015e"
+      ],
+      "lines": [
+        "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन",
+        "कश्चिन्नरो वा नारी वा नाश्रीमान्नाप्यरूपवान्",
+        "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन",
+        "कश्चिन्नरो वा नारी वा नाश्रीमान्नाप्यरूपवान्",
+        "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्"
+      ],
+      "locators": [
+        "1-6-15",
+        "1-6-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन॥१५",
+        "कश्चिन्नरो वा नारी वा नाश्रीमान् नाप्यरूपवान्",
+        "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्॥१६"
+      ],
+      "locators": [
+        "1.6.15",
+        "1.6.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन",
+        "कश्चिन्नरो वा नारी वा नाश्रीमान्‌ नाप्यरूपवान्‌",
+        "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.15",
+        "1.6.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन",
+      "net": "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन",
+      "in": "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन॥१५",
+      "gp": "न दीनः क्षिप्तचित्तो वा व्यथितो वापि कश्चन",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कश्चन",
+            "b": "कश्चन॥१५"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कश्चिन्नरो वा नारी वा नाश्रीमान्नाप्यरूपवान्",
+      "net": "कश्चिन्नरो वा नारी वा नाश्रीमान्नाप्यरूपवान्",
+      "in": "कश्चिन्नरो वा नारी वा नाश्रीमान् नाप्यरूपवान्",
+      "gp": "कश्चिन्नरो वा नारी वा नाश्रीमान्‌ नाप्यरूपवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नाश्रीमान्नाप्यरूपवान्",
+            "b": "नाश्रीमान् नाप्यरूपवान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाश्रीमान्नाप्यरूपवान्",
+            "b": "नाश्रीमान्‌ नाप्यरूपवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्",
+      "net": "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्",
+      "in": "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्॥१६",
+      "gp": "द्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "राजन्यभक्तिमान्",
+            "b": "राजन्यभक्तिमान्॥१६"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "राजन्यभक्तिमान्",
+            "b": "राजन्यभक्तिमान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-15",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "None can be found anywhere in Ayodhya without the knowledge of the six ancillaries of Veda-s like astrology, prosody, grammar etc., none a non-performer of the prescribed rituals, and none a non-donor in thousands, thus none with a saddened heart, turmoil in mind or agonised in will is there. [1-6-15]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Whoever it may be, either a gentleman or a lady, none is without wealth, even none without elegance or devoid of devotion to their king, and it is impossible to see suchlike person in Ayodhya. [1-6-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-15",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "none"
+          },
+          {
+            "roman_itrans": "aSaDa~Ngavit na asti",
+            "devanagari_machine_converted": "अषडङ्गवित् न अस्ति",
+            "english": "unknowing scholar of Veda's ancillaries, is not there"
+          },
+          {
+            "roman_itrans": "na avrataH",
+            "devanagari_machine_converted": "न अव्रतः",
+            "english": "none, non-performer of rituals"
+          },
+          {
+            "roman_itrans": "na asahasradaH",
+            "devanagari_machine_converted": "न असहस्रदः",
+            "english": "donor in thousands"
+          },
+          {
+            "roman_itrans": "na diinaH",
+            "devanagari_machine_converted": "न दीनः",
+            "english": "none, saddened person"
+          },
+          {
+            "roman_itrans": "kShiptachittaH",
+            "devanagari_machine_converted": "क्षिप्तचित्तः",
+            "english": "with mental turmoil"
+          },
+          {
+            "roman_itrans": "vaa",
+            "devanagari_machine_converted": "वा",
+            "english": "or"
+          },
+          {
+            "roman_itrans": "vyathitaH",
+            "devanagari_machine_converted": "व्यथितः",
+            "english": "agonised one"
+          },
+          {
+            "roman_itrans": "vaa api",
+            "devanagari_machine_converted": "वा अपि",
+            "english": "or, even"
+          },
+          {
+            "roman_itrans": "kashchana",
+            "devanagari_machine_converted": "कश्चन",
+            "english": "anyone."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kashchit",
+            "devanagari_machine_converted": "कश्चित्",
+            "english": "whoever"
+          },
+          {
+            "roman_itrans": "naraH vaa naarii vaa",
+            "devanagari_machine_converted": "नरः वा नारी वा",
+            "english": "gentleman, either, lady, or"
+          },
+          {
+            "roman_itrans": "na ashriimaan",
+            "devanagari_machine_converted": "न अश्रीमान्",
+            "english": "none, without wealth"
+          },
+          {
+            "roman_itrans": "na api",
+            "devanagari_machine_converted": "न अपि",
+            "english": "not, even"
+          },
+          {
+            "roman_itrans": "aruupavaan",
+            "devanagari_machine_converted": "अरूपवान्",
+            "english": "without elegance"
+          },
+          {
+            "roman_itrans": "draSTum",
+            "devanagari_machine_converted": "द्रष्टुम्",
+            "english": "to see"
+          },
+          {
+            "roman_itrans": "ashakyam",
+            "devanagari_machine_converted": "अशक्यम्",
+            "english": "not possible"
+          },
+          {
+            "roman_itrans": "ayodhyaayaam",
+            "devanagari_machine_converted": "अयोध्यायाम्",
+            "english": "in Ayodhya"
+          },
+          {
+            "roman_itrans": "na api",
+            "devanagari_machine_converted": "न अपि",
+            "english": "not, even"
+          },
+          {
+            "roman_itrans": "raajanyabhaktimaan",
+            "devanagari_machine_converted": "राजन्यभक्तिमान्",
+            "english": "to king, not devout one."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस पुरीमें वेदके छहों अंगोंको न जाननेवाला, व्रतहीन, सहस्रोंसे कम दान देनेवाला, दीन, विक्षिप्तचित्त अथवा दुःखी भी कोई नहीं था॥१५॥"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "अयोध्यामें कोई भी स्त्री या पुरुष ऐसा नहीं देखा जा सकता था, जो श्रीहीन, रूपरहित तथा राजभक्तिसे शून्य हो॥ १६॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अषडङ्गवित्",
+            "hindi": "छह अंगों को न जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अत्र",
+            "hindi": "यहाँ / इस पुरी में (अव्यय)"
+          },
+          {
+            "sanskrit": "अस्ति",
+            "hindi": "है (अस् धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अव्रतः",
+            "hindi": "व्रतहीन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "असहस्रदः",
+            "hindi": "हजारों से कम दान देने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "दीनः",
+            "hindi": "दीन / दरिद्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षिप्तचित्तः",
+            "hindi": "विक्षिप्तचित्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "व्यथितः",
+            "hindi": "दुःखी / व्यथित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "कश्चन",
+            "hindi": "कोई भी (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नरः",
+            "hindi": "पुरुष (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "नारी",
+            "hindi": "स्त्री (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अश्रीमान्",
+            "hindi": "श्रीहीन / सम्पत्तिहीन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अरूपवान्",
+            "hindi": "रूपहीन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्रष्टुम्",
+            "hindi": "देखने को (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "शक्यम्",
+            "hindi": "शक्य है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अयोध्यायाम्",
+            "hindi": "अयोध्या में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "राजन्यभक्तिमान्",
+            "hindi": "राजभक्ति रहित (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.15",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "उस पुरीमें वेदके छहों अंगोंको न जाननेवाला, ब्रतहीन, सहस्नोंसे कम दान देनेवाला, दीन, विक्षिप्त- चित्त अथवा दुःखी भी कोई नहीं था॥ १५॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "अयोध्यामें कोई भी स्त्री या पुरुष ऐसा नहीं देखा जा सकता था, जो श्रीहीन, रूपरहित तथा राजभक्तिसे शून्य हो॥ १६॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

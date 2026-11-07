@@ -1,0 +1,211 @@
+{
+  "id": "baala-003-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 7
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-14"
+    ],
+    "vulgate_in_locators": [
+      "1.3.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003007a",
+        "1003007c"
+      ],
+      "lines": [
+        "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्",
+        "निषादाधिपसंवादं सूतोपावर्तनं तथा"
+      ],
+      "punctuated_derived": "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम् ।\nनिषादाधिपसंवादं सूतोपावर्तनं तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्",
+        "निषादाधिपसंवादं सूतोपावर्तनं तथा"
+      ],
+      "locators": [
+        "1-3-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्",
+        "निषादाधिपसंवादं सूतोपावर्तनं तथा"
+      ],
+      "locators": [
+        "1.3.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्‌",
+        "निषादाधिपसंवादं सूतोपावर्तनं तथा"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.3.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्",
+      "net": "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्",
+      "in": "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्",
+      "gp": "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "विसर्जनम्",
+            "b": "विसर्जनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "निषादाधिपसंवादं सूतोपावर्तनं तथा",
+      "net": "निषादाधिपसंवादं सूतोपावर्तनं तथा",
+      "in": "निषादाधिपसंवादं सूतोपावर्तनं तथा",
+      "gp": "निषादाधिपसंवादं सूतोपावर्तनं तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-14",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The grief of the subjects; Rama leaving them off; his conversing with tribal chief Guha; returning the charioteer Sumantra to kingdom from forests, leaving the trio at the banks of river Ganga... all these elements are well- described. [1-3-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-14",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "prakR^itiinaam viSaadam ca",
+            "devanagari_machine_converted": "प्रकृतीनाम् विषादम् च",
+            "english": "grieving of subjects, also"
+          },
+          {
+            "roman_itrans": "prakR^itiinaam visarjanam",
+            "devanagari_machine_converted": "प्रकृतीनाम् विसर्जनम्",
+            "english": "people, leaving off"
+          },
+          {
+            "roman_itrans": "niSaadaadhipasamvaadam",
+            "devanagari_machine_converted": "निषादाधिपसम्वादम्",
+            "english": "conversing with tribal chief; suutopaavartanam tathaa = thus returning of charioteer."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "प्रजाओंके विषाद, साथ जानेवाली प्रजाओंको मार्ग में छोड़ने, निषादराज गुहके साथ बात करने तथा सूत सुमन्त को अयोध्या लौटाने आदि का भी इसमें उल्लेख किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रकृतीनाम्",
+            "hindi": "प्रजाओं / अनुयायियों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "विषादम्",
+            "hindi": "विषाद / दुःख को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रकृतीनाम्",
+            "hindi": "प्रजाओं / अनुयायियों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "विसर्जनम्",
+            "hindi": "विसर्जन / छोड़ना को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "निषादाधिपसंवादम्",
+            "hindi": "निषादराज (गुह) के साथ संवाद को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सूतोपावर्तनम्",
+            "hindi": "सूत (सुमन्त) का वापस लौटना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.14",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "श्रीराम-परशुराम-संवाद, दशस्थनन्दन श्रीरामके गुण, उनके अभिषेक, कैकेयीकी दुष्टता, श्रीरामके राज्याभिषेकमें विघ्न, उनके वनवास, राजा दशरथके शोक-विलाप और 'परलोक-गमन, प्रजाओंके विषाद, साथ जानेवाली प्रजाओंको मार्गमें छोड़ने, निषादराज गुहके साथ बात करने तथा सूत सुमन्तको अयोध्या लौटाने आदिका भी इसमें उल्लेख किया॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

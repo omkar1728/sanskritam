@@ -1,0 +1,317 @@
+{
+  "id": "baala-006-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 10
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-10"
+    ],
+    "vulgate_in_locators": [
+      "1.6.10"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006010a",
+        "1006010c"
+      ],
+      "lines": [
+        "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान्",
+        "नामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते"
+      ],
+      "punctuated_derived": "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान् ।\nनामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान्",
+        "नामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते"
+      ],
+      "locators": [
+        "1-6-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान्",
+        "नामृष्टो न नलिप्तांगो नासुगन्धश्च विद्यते॥१०"
+      ],
+      "locators": [
+        "1.6.10"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नाकुण्डली नामुकुटी नास्त्रगवी नाल्पभोगवान्‌",
+        "नामृष्टो न नलिप्तांगो नासुगन्धश्च विद्यते"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान्",
+      "net": "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान्",
+      "in": "नाकुण्डली नामुकुटी नास्रग्वी नाल्पभोगवान्",
+      "gp": "नाकुण्डली नामुकुटी नास्त्रगवी नाल्पभोगवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नास्रग्वी नाल्पभोगवान्",
+            "b": "नास्त्रगवी नाल्पभोगवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते",
+      "net": "नामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते",
+      "in": "नामृष्टो न नलिप्तांगो नासुगन्धश्च विद्यते॥१०",
+      "gp": "नामृष्टो न नलिप्तांगो नासुगन्धश्च विद्यते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.972972972972973,
+        "sim_gp_net": 0.972972972972973
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नानुलिप्ताङ्गो",
+            "b": "न नलिप्तांगो"
+          },
+          {
+            "a": "विद्यते",
+            "b": "विद्यते॥१०"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नानुलिप्ताङ्गो",
+            "b": "न नलिप्तांगो"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In that city none is there without his earrings, headgear, or garlands, none is an enjoyer of lowly things, or misses his regular oil-baths, or with an un-creamed body with sandalwood paste or with other body cream, or with an un-perfumed physique. [1-6-10]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "akunDalii",
+            "devanagari_machine_converted": "अकुन्डली",
+            "english": "without earrings"
+          },
+          {
+            "roman_itrans": "na vidyate",
+            "devanagari_machine_converted": "न विद्यते",
+            "english": "not, known - not there"
+          },
+          {
+            "roman_itrans": "amukuTii",
+            "devanagari_machine_converted": "अमुकुटी",
+            "english": "without headgear"
+          },
+          {
+            "roman_itrans": "asragvii",
+            "devanagari_machine_converted": "अस्रग्वी",
+            "english": "without garlands"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "not there"
+          },
+          {
+            "roman_itrans": "alpabhogavaan",
+            "devanagari_machine_converted": "अल्पभोगवान्",
+            "english": "lowly enjoyer"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "not there"
+          },
+          {
+            "roman_itrans": "amR^iSTaH",
+            "devanagari_machine_converted": "अमृष्टः",
+            "english": "without oil-baths"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "not there"
+          },
+          {
+            "roman_itrans": "aliptaangaH",
+            "devanagari_machine_converted": "अलिप्तान्गः",
+            "english": "without cream-coated body"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "not there"
+          },
+          {
+            "roman_itrans": "asungandhaH cha",
+            "devanagari_machine_converted": "असुन्गन्धः च",
+            "english": "un-perfumed, also"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "not there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-10",
+        "spans_beyond_this_verse": false,
+        "text": "Earrings are the indicators of scholarship, and there are grades in their make and design, on par with the education one receives. The headgears present their social status, while other decorations are to exhibit their lavishness."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वहाँ कोई भी कुण्डल, मुकुट और पुष्पहारसे शून्य नहीं था। किसीके पास भोग-सामग्रीकी कमी नहीं थी। कोई भी ऐसा नहीं था, जो नहा-धोकर साफ-सुथरा न हो, जिसके अंगोंमें चन्दनका लेप न हुआ हो तथा जो सुगन्धसे वञ्चित हो॥ १०॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अकुण्डली",
+            "hindi": "बिना कुण्डल वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अमुकुटी",
+            "hindi": "बिना मुकुट वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अस्रग्वी",
+            "hindi": "बिना पुष्पहार वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अल्पभोगवान्",
+            "hindi": "अल्प भोग वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अमृष्टः",
+            "hindi": "बिना स्नान / साफ किये (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अलिप्ताङ्गः",
+            "hindi": "बिना लेप वाले अंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "असुगन्धः",
+            "hindi": "बिना सुगन्ध वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "विद्यते",
+            "hindi": "है / पाया जाता है (विद् धातु, कर्मवाच्य, लट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.10",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वहाँ कोई भी कुण्डल, मुकुट और पुष्पहारसे शून्य नहीं था। किसीके पास भोग-सामग्रीकी कमी नहीं थी। कोई भी ऐसा नहीं था, जो नहा-धोकर साफ-सुथरा न हो, जिसके अंगोंमें चन्दनका लेप न हुआ हो तथा जो सुगन्धसे वञ्चित हो॥ १०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

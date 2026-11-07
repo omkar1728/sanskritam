@@ -1,0 +1,372 @@
+{
+  "id": "baala-002-034",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 34,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 32
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-33, 1-2-34"
+    ],
+    "vulgate_in_locators": [
+      "1.2.33"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.33",
+      "1.2.34"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002032a",
+        "1002032c"
+      ],
+      "lines": [
+        "रहस्यं च प्रकाशं च यद्वृत्तं तस्य धीमतः",
+        "रामस्य सह सौमित्रे राक्षसानां च सर्वशः"
+      ],
+      "punctuated_derived": "रहस्यं च प्रकाशं च यद्वृत्तं तस्य धीमतः ।\nरामस्य सह सौमित्रे राक्षसानां च सर्वशः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रहस्यं च प्रकाशं च यद् वृत्तं तस्य धीमतः",
+        "रामस्य सहसौमित्रे राक्षसानां च सर्वशः"
+      ],
+      "locators": [
+        "1-2-33, 1-2-34"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रहस्यं च प्रकाशं च यद् वृत्तं तस्य धीमतः",
+        "रामस्य सहसौमित्रे राक्षसानां च सर्वशः"
+      ],
+      "locators": [
+        "1.2.33"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रहस्यं च प्रकाशं च यद्‌ वृत्तं तस्य धीमतः",
+        "रामस्य सहसौमित्रे राक्षसानां च सर्वशः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_33-343",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.2.33",
+        "1.2.34"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "रहस्यं च प्रकाशं च यद्वृत्तं तस्य धीमतः",
+      "net": "रहस्यं च प्रकाशं च यद् वृत्तं तस्य धीमतः",
+      "in": "रहस्यं च प्रकाशं च यद् वृत्तं तस्य धीमतः",
+      "gp": "रहस्यं च प्रकाशं च यद्‌ वृत्तं तस्य धीमतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यद्वृत्तं",
+            "b": "यद् वृत्तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यद्",
+            "b": "यद्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "रामस्य सह सौमित्रे राक्षसानां च सर्वशः",
+      "net": "रामस्य सहसौमित्रे राक्षसानां च सर्वशः",
+      "in": "रामस्य सहसौमित्रे राक्षसानां च सर्वशः",
+      "gp": "रामस्य सहसौमित्रे राक्षसानां च सर्वशः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सह सौमित्रे",
+            "b": "सहसौमित्रे"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-33, 1-2-34",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The adventures of valorous Rama along with Lakshmana, and the misadventures of demons, known or unknown in every detail, and even the plight of Vaidehi which is either revealed or un-revealed so far, and whatever legend that has happened, all that will also be known to you, even if it were to be unknown, as yet... [1-2-33-34]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-33, 1-2-34",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "33b-35a. dhiimataH",
+            "devanagari_machine_converted": "३३ब्-३५अ। धीमतः",
+            "english": "of valorous one; sahaSoumitreH = with Sumitra's son, [Lakshmana]"
+          },
+          {
+            "roman_itrans": "tasya ramasya",
+            "devanagari_machine_converted": "तस्य रमस्य",
+            "english": "of his, Rama's"
+          },
+          {
+            "roman_itrans": "[vR^ittam",
+            "devanagari_machine_converted": "[वृत्तम्",
+            "english": "adventures]; raakShasaanam ca = of the demons, also"
+          },
+          {
+            "roman_itrans": "[vR^ittam",
+            "devanagari_machine_converted": "[वृत्तम्",
+            "english": "misadventures]"
+          },
+          {
+            "roman_itrans": "rahasyam ca prakaasham ca",
+            "devanagari_machine_converted": "रहस्यम् च प्रकाशम् च",
+            "english": "unknown, or, known, or"
+          },
+          {
+            "roman_itrans": "sarvashaH",
+            "devanagari_machine_converted": "सर्वशः",
+            "english": "in every detail"
+          },
+          {
+            "roman_itrans": "yat vR^ittam vaidehyaaH ca eva",
+            "devanagari_machine_converted": "यत् वृत्तम् वैदेह्याः च एव",
+            "english": "which is, the plight, of Vaidehi, also, even"
+          },
+          {
+            "roman_itrans": "prakaasham yadi vaa",
+            "devanagari_machine_converted": "प्रकाशम् यदि वा",
+            "english": "revealed, either, or"
+          },
+          {
+            "roman_itrans": "rahaH vaa",
+            "devanagari_machine_converted": "रहः वा",
+            "english": "unrevealed, or"
+          },
+          {
+            "roman_itrans": "yat vR^ittam",
+            "devanagari_machine_converted": "यत् वृत्तम्",
+            "english": "whatever, legend happened"
+          },
+          {
+            "roman_itrans": "tat ca",
+            "devanagari_machine_converted": "तत् च",
+            "english": "that, also"
+          },
+          {
+            "roman_itrans": "aviditamapi",
+            "devanagari_machine_converted": "अविदितमपि",
+            "english": "even unkonwn; sarvam te viditam bhaviSyati = all it will be known to you."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.33",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘बुद्धिमान् श्रीरामका जो गुप्त या प्रकट वृत्तान्त है तथा लक्ष्मण, सीता और राक्षसोंके जो सम्पूर्ण गुप्त या प्रकट चरित्र हैं, वे सब अज्ञात होनेपर भी तुम्हें ज्ञात हो जायेंगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.33",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रहस्यम्",
+            "hindi": "गुप्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रकाशम्",
+            "hindi": "प्रकट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वृत्तम्",
+            "hindi": "वृत्तान्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धीमतः",
+            "hindi": "बुद्धिमान् (राम) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सह",
+            "hindi": "सहित (अव्यय)"
+          },
+          {
+            "sanskrit": "सौमित्रे",
+            "hindi": "लक्ष्मण के साथ (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राक्षसानाम्",
+            "hindi": "राक्षसों के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वशः",
+            "hindi": "सम्पूर्ण (अव्यय)"
+          },
+          {
+            "sanskrit": "वैदेह्याः",
+            "hindi": "सीता के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वृत्तम्",
+            "hindi": "वृत्तान्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रकाशम्",
+            "hindi": "प्रकट (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यदि वा",
+            "hindi": "अथवा (अव्यय)"
+          },
+          {
+            "sanskrit": "रहः",
+            "hindi": "गुप्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अविदितम्",
+            "hindi": "अज्ञात (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विदितम्",
+            "hindi": "ज्ञात (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "तुम्हें (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "हो जायेगा (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.33",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "तच्चाप्यविदितं सर्व॑ विदितं ते भविष्यति। “बुद्धिमान्‌ श्रीरामका जो गुप्त या प्रकट वृत्तान्त है तथा लक्ष्मण, सीता और राक्षसोंके जो सम्पूर्ण गुप्त या प्रकट चरित्र हैं, वे सब अज्ञात होनेपर भी तुम्हें ज्ञात हो जायँगे॥ ३३-३४३ ॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.34",
+        "ocr_flags": [
+          "hindi_marker_range_33-343"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "तच्चाप्यविदितं सर्व॑ विदितं ते भविष्यति। “बुद्धिमान्‌ श्रीरामका जो गुप्त या प्रकट वृत्तान्त है तथा लक्ष्मण, सीता और राक्षसोंके जो सम्पूर्ण गुप्त या प्रकट चरित्र हैं, वे सब अज्ञात होनेपर भी तुम्हें ज्ञात हो जायँगे॥ ३३-३४३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

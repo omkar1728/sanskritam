@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 7,
+  "critical_sarga": 7,
+  "vulgate_sarga": 7,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "राजमन्त्रियों के गुण और नीति का वर्णन",
+  "title_en_from_in": "Description of the qualities and policies of the royal ministers",
+  "intro_en_from_net": "The truthful and upright characters of the ministers of Dasharatha are portrayed, who make the rulership meaningful with their virtuous, skilful and efficient administration. Along with the political ministers, the religious ministry is also portrayed.",
+  "counts": {
+    "smith_lines": 34,
+    "net_lines": 51,
+    "in_lines": 49,
+    "smith_verses": 17,
+    "net_blocks": 21,
+    "in_verses": 24,
+    "gp_lines": 51,
+    "gp_units": 24,
+    "in_declared": 24,
+    "docs": 26
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "id": "baala-001-104",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 104,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 75
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-96"
+    ],
+    "vulgate_in_locators": [
+      "1.1.96"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.96"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001075a",
+        "1001075c"
+      ],
+      "lines": [
+        "राजवंशाञ्शतगुणान्स्थापयिष्यति राघवः",
+        "चातुर्वर्ण्यं च लोकेऽस्मिन्स्वे स्वे धर्मे नियोक्ष्यति"
+      ],
+      "punctuated_derived": "राजवंशाञ्शतगुणान्स्थापयिष्यति राघवः ।\nचातुर्वर्ण्यं च लोकेऽस्मिन्स्वे स्वे धर्मे नियोक्ष्यति ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "राजवंशान् शतगुणान् स्थापयिष्यति राघवः",
+        "चातुर्वर्ण्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति"
+      ],
+      "locators": [
+        "1-1-96"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "राजवंशान् शतगुणान् स्थापयिष्यति राघवः",
+        "चातुर्वण्र्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति"
+      ],
+      "locators": [
+        "1.1.96"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "राजवंशान्‌ शतगुणान्‌ स्थापयिष्यति राघवः",
+        "चातुर्वर्ण्यं च लोकेऽस्मिन्‌ स्वे स्वे धमे नियोक्ष्यति"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.96"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "राजवंशाञ्शतगुणान्स्थापयिष्यति राघवः",
+      "net": "राजवंशान् शतगुणान् स्थापयिष्यति राघवः",
+      "in": "राजवंशान् शतगुणान् स्थापयिष्यति राघवः",
+      "gp": "राजवंशान्‌ शतगुणान्‌ स्थापयिष्यति राघवः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "राजवंशाञ्शतगुणान्स्थापयिष्यति",
+            "b": "राजवंशान् शतगुणान् स्थापयिष्यति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "राजवंशान् शतगुणान्",
+            "b": "राजवंशान्‌ शतगुणान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "चातुर्वर्ण्यं च लोकेऽस्मिन्स्वे स्वे धर्मे नियोक्ष्यति",
+      "net": "चातुर्वर्ण्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति",
+      "in": "चातुर्वण्र्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति",
+      "gp": "चातुर्वर्ण्यं च लोकेऽस्मिन्‌ स्वे स्वे धमे नियोक्ष्यति",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9782608695652174,
+        "sim_gp_net": 0.9777777777777777
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "लोकेऽस्मिन्स्वे",
+            "b": "लोकेऽस्मिन् स्वे"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "चातुर्वर्ण्यं",
+            "b": "चातुर्वण्र्यं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "लोकेऽस्मिन्",
+            "b": "लोकेऽस्मिन्‌"
+          },
+          {
+            "a": "धर्मे",
+            "b": "धमे"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-96",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"In this world Raghava will establish kingly dynasties in hundredfold and he will be maintaining the four-caste system positing each in his own duty, may it be caste-bound or provincial-kingdom-bound duty, in order to achieve a perfect social harmony... [1-1-96]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-96",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raaghavaH",
+            "devanagari_machine_converted": "राघवः",
+            "english": "Raghava"
+          },
+          {
+            "roman_itrans": "chaaturvarNyam niyokShyati",
+            "devanagari_machine_converted": "चातुर्वर्ण्यम् नियोक्ष्यति",
+            "english": "will direct the four caste-system"
+          },
+          {
+            "roman_itrans": "sve sve dharme",
+            "devanagari_machine_converted": "स्वे स्वे धर्मे",
+            "english": "to their respective duties"
+          },
+          {
+            "roman_itrans": "sthaapayiShyati ca",
+            "devanagari_machine_converted": "स्थापयिष्यति च",
+            "english": "and will establish"
+          },
+          {
+            "roman_itrans": "raajavamshaan",
+            "devanagari_machine_converted": "राजवम्शान्",
+            "english": "royal dynasties"
+          },
+          {
+            "roman_itrans": "asmin loke",
+            "devanagari_machine_converted": "अस्मिन् लोके",
+            "english": "in this world"
+          },
+          {
+            "roman_itrans": "shataguNaan",
+            "devanagari_machine_converted": "शतगुणान्",
+            "english": "in hundred folds."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.96",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तथा सौगुने राजवंशोंकी स्थापना करेंगे। संसारमें चारों वर्गोंको वे अपने-अपने धर्ममें नियुक्त रखेंगे"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.96",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राजवंशान्",
+            "hindi": "राजवंशों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शतगुणान्",
+            "hindi": "सौ गुने (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "स्थापयिष्यति",
+            "hindi": "स्थापित करेंगे (स्था धातु, प्रयोज्यार्थ, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राघवः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "चातुर्वर्ण्यम्",
+            "hindi": "चारों वर्णों के समूह को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "लोके",
+            "hindi": "संसार में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्मिन्",
+            "hindi": "इस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वे स्वे",
+            "hindi": "अपने-अपने (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मे",
+            "hindi": "धर्म में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "नियोक्ष्यति",
+            "hindi": "नियुक्त करेंगे (नि + युज्, लृट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.96",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "\"महायशस्वी राम बहुत-से सुवर्णोकी दक्षिणावाले सौ अश्वमेध यज्ञ करेंगे, उनमें विधिपूर्वक विद्वानोंको दस हजार करोड़ (एक खरब) गौ और ब्राह्मणोंको अपरिमित धन देंगे तथा सौगुने राजवंशोंकी स्थापना करेंगे। संसारं चारों वर्णोको वे अपने-अपने धर्में नियुक्त रखेंगे॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

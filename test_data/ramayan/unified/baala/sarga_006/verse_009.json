@@ -1,0 +1,279 @@
+{
+  "id": "baala-006-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 7
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-7"
+    ],
+    "vulgate_in_locators": [
+      "1.6.7"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.7"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006007a",
+        "1006007c"
+      ],
+      "lines": [
+        "नाल्पसंनिचयः कश्चिदासीत्तस्मिन्पुरोत्तमे",
+        "कुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्"
+      ],
+      "punctuated_derived": "नाल्पसंनिचयः कश्चिदासीत्तस्मिन्पुरोत्तमे ।\nकुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नाल्पसंनिचयः कश्चिदासीत्तस्मिन्पुरोत्तमे",
+        "कुटुंबी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्"
+      ],
+      "locators": [
+        "1-6-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नाल्पसंनिचयः कश्चिदासीत् तस्मिन् पुरोत्तमे",
+        "कुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्॥७"
+      ],
+      "locators": [
+        "1.6.7"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "जाल्पसंनिचयः कश्चिदासीत्‌ तस्मिन्‌ पुरोत्तमे",
+        "कुटुम्बी यो ह्यासिद्धार्थोऽगवाश्वधनधान्यवान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.7"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नाल्पसंनिचयः कश्चिदासीत्तस्मिन्पुरोत्तमे",
+      "net": "नाल्पसंनिचयः कश्चिदासीत्तस्मिन्पुरोत्तमे",
+      "in": "नाल्पसंनिचयः कश्चिदासीत् तस्मिन् पुरोत्तमे",
+      "gp": "जाल्पसंनिचयः कश्चिदासीत्‌ तस्मिन्‌ पुरोत्तमे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9736842105263158
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कश्चिदासीत्तस्मिन्पुरोत्तमे",
+            "b": "कश्चिदासीत् तस्मिन् पुरोत्तमे"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाल्पसंनिचयः कश्चिदासीत्तस्मिन्पुरोत्तमे",
+            "b": "जाल्पसंनिचयः कश्चिदासीत्‌ तस्मिन्‌ पुरोत्तमे"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्",
+      "net": "कुटुंबी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्",
+      "in": "कुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्॥७",
+      "gp": "कुटुम्बी यो ह्यासिद्धार्थोऽगवाश्वधनधान्यवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.987012987012987
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "कुटुम्बी",
+            "b": "कुटुंबी"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कुटुंबी",
+            "b": "कुटुम्बी"
+          },
+          {
+            "a": "ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्",
+            "b": "ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्॥७"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कुटुंबी",
+            "b": "कुटुम्बी"
+          },
+          {
+            "a": "ह्यसिद्धार्थोऽगवाश्वधनधान्यवान्",
+            "b": "ह्यासिद्धार्थोऽगवाश्वधनधान्यवान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-7",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "None with meagre accumulations is there in that great city and no householder is there without unearned means, and without cows, horses, monies or cereals and who could not sustain his family. [1-6-7]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-7",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "na alpasannichayaH",
+            "devanagari_machine_converted": "न अल्पसन्निचयः",
+            "english": "none, meagre in accumulations"
+          },
+          {
+            "roman_itrans": "kashchit aasiit tasmin",
+            "devanagari_machine_converted": "कश्चित् आसीत् तस्मिन्",
+            "english": "anyone, is there, in that"
+          },
+          {
+            "roman_itrans": "pure uttame",
+            "devanagari_machine_converted": "पुरे उत्तमे",
+            "english": "the great city"
+          },
+          {
+            "roman_itrans": "kuTumbii",
+            "devanagari_machine_converted": "कुटुम्बी",
+            "english": "a householder"
+          },
+          {
+            "roman_itrans": "yaH hi",
+            "devanagari_machine_converted": "यः हि",
+            "english": "who, really"
+          },
+          {
+            "roman_itrans": "asiddhaarthaH",
+            "devanagari_machine_converted": "असिद्धार्थः",
+            "english": "unearned means"
+          },
+          {
+            "roman_itrans": "agavaashvadhanadhaanyavaan",
+            "devanagari_machine_converted": "अगवाश्वधनधान्यवान्",
+            "english": "one without cows, horses, monies, and cereals."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-7",
+        "spans_beyond_this_verse": false,
+        "text": "An ordinary family kuTumba is an assemblage of the householder, his wife, two of his parents, two sons, two daughters-in-law, one daughter, and one guest, totalling to ten members."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस श्रेष्ठ पुरीमें कोई भी ऐसा कुटुम्बी नहीं था, जिसके पास उत्कृष्ट वस्तुओंका संग्रह अधिक मात्रामें न हो, जिसके धर्म, अर्थ और काममय पुरुषार्थ सिद्ध न हो गये हों तथा जिसके पास गाय-बैल, घोड़े, धनधान्य आदिका अभाव हो॥७॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अल्पसन्निचयः",
+            "hindi": "अल्प संग्रह वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "था (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरोत्तमे",
+            "hindi": "श्रेष्ठ पुरी में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "कुटुम्बी",
+            "hindi": "कुटुम्बी / गृहस्थ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यः",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हि",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "असिद्धार्थः",
+            "hindi": "जिसके पुरुषार्थ सिद्ध न हुए हों (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अगवाश्वधनधान्यवान्",
+            "hindi": "गाय, घोड़े, धन और धान्य से रहित (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.7",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "* जो दस हजार महारथियोंके साथ अकेला ही युद्ध करनेमें समर्थ हो, वह 'अतिरथी' कहलाता है। उस श्रेष्ठ पुरीमें कोई भी ऐसा कुटुम्बी नहीं था, जिसके पास उत्कृष्ट वस्तुओंका संग्रह अधिक मात्रामें न हो, जिसके धर्म, अर्थ और काममय पुरुषार्थ सिद्ध न हो गये हों तथा जिसके पास गाय-बैल, घोड़े, धन- धान्य आदिका अभाव हो॥ ७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

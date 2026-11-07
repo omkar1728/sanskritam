@@ -1,0 +1,233 @@
+{
+  "id": "baala-001-075",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 75,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-69"
+    ],
+    "vulgate_in_locators": [
+      "1.1.69"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.69"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अनुमान्य तदा तारां सुग्रीवेण समागतः",
+        "निजघान च तत्रैनं शरेणैकेन राघवः"
+      ],
+      "locators": [
+        "1-1-69"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अनुमान्य तदा तारां सुग्रीवेण समागतः",
+        "निजघान च तत्रैनं शरेणैकेन राघवः"
+      ],
+      "locators": [
+        "1.1.69"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अनुमान्य तदा तारां सुग्रीवण समागतः",
+        "निजघान च तत्रैनं शरेणैकेन राघवः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_68-69"
+      ],
+      "refs": [
+        "1.1.69"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "अनुमान्य तदा तारां सुग्रीवेण समागतः",
+      "in": "अनुमान्य तदा तारां सुग्रीवेण समागतः",
+      "gp": "अनुमान्य तदा तारां सुग्रीवण समागतः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9830508474576272
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सुग्रीवेण",
+            "b": "सुग्रीवण"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "निजघान च तत्रैनं शरेणैकेन राघवः",
+      "in": "निजघान च तत्रैनं शरेणैकेन राघवः",
+      "gp": "निजघान च तत्रैनं शरेणैकेन राघवः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-69",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then after Tara [wife of Vali] permitting, Vali met with Sugreeva in a combat. And Rama killed this Vali with a single arrow there... [1-1-69]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-69",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "taaraam anumaanya",
+            "devanagari_machine_converted": "ताराम् अनुमान्य",
+            "english": "after Tara permitting"
+          },
+          {
+            "roman_itrans": "sugriiveNa samaagataH",
+            "devanagari_machine_converted": "सुग्रीवेण समागतः",
+            "english": "[Vali] met with Sugreeva [in a combat]"
+          },
+          {
+            "roman_itrans": "raaghavaH ca",
+            "devanagari_machine_converted": "राघवः च",
+            "english": "and Rama"
+          },
+          {
+            "roman_itrans": "ekena shareNa nijaghaana",
+            "devanagari_machine_converted": "एकेन शरेण निजघान",
+            "english": "with one arrow only killed"
+          },
+          {
+            "roman_itrans": "enam",
+            "devanagari_machine_converted": "एनम्",
+            "english": "this Vali"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.69",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "अपनी पत्नी ताराको आश्वासन देकर तत्काल सुग्रीवसे भिड़ गया। वहाँ रामने वालीको एक ही बाणसे मार गिराया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.69",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अनुमान्य",
+            "hindi": "आश्वासन देकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "ताराम्",
+            "hindi": "तारा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवेण",
+            "hindi": "सुग्रीव के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समागतः",
+            "hindi": "भिड़ गया (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निजघान",
+            "hindi": "मार गिराया (नि + हन्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "एनम्",
+            "hindi": "इस (वाली) को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शरेण",
+            "hindi": "बाण से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एकेन",
+            "hindi": "एक ही द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राघवः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.69",
+        "ocr_flags": [
+          "hindi_marker_range_68-69"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“बहाँपर सुवर्णके समान पिंगलवर्णवाले वीरवर सुग्रीवने गर्जना की, उस महानादको सुनकर वानरराज वाली अपनी पत्नी ताराको आश्वासन देकर तत्काल खरसे बाहर निकला और सुग्रीवसे भिड़ गया। वहाँ रामने वालीको एक ही बाणसे मार गिराया॥ ६८-६९॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,369 @@
+{
+  "id": "baala-007-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 5
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-6, 1-7-7",
+      "1-7-8, 1-7-9"
+    ],
+    "vulgate_in_locators": [
+      "1.7.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007005a",
+        "1007005c"
+      ],
+      "lines": [
+        "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+        "क्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वचः"
+      ],
+      "punctuated_derived": "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः ।\nक्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वचः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+        "क्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वचः"
+      ],
+      "locators": [
+        "1-7-6, 1-7-7",
+        "1-7-8, 1-7-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+        "क्रोधात् कामार्थहेतोर्वा न ब्रूयुरनृतं वचः॥८"
+      ],
+      "locators": [
+        "1.7.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+        "क्रोधात्‌ कामार्थहेतोर्वा न ब्रूयुरनृतं वचः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_6-8"
+      ],
+      "refs": [
+        "1.7.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+      "net": "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+      "in": "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+      "gp": "तेजःक्षमायशःप्राप्ताः स्मितपूर्वाभिभाषिणः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "क्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वचः",
+      "net": "क्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वचः",
+      "in": "क्रोधात् कामार्थहेतोर्वा न ब्रूयुरनृतं वचः॥८",
+      "gp": "क्रोधात्‌ कामार्थहेतोर्वा न ब्रूयुरनृतं वचः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "क्रोधात्कामार्थहेतोर्वा",
+            "b": "क्रोधात् कामार्थहेतोर्वा"
+          },
+          {
+            "a": "वचः",
+            "b": "वचः॥८"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "क्रोधात्कामार्थहेतोर्वा",
+            "b": "क्रोधात्‌ कामार्थहेतोर्वा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-6, 1-7-7",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "All the ministers are well versed in scriptures, they shun bad deeds, skilful ones in their duties with their senses regulated. Those great souls are affluent, knowers of all sciences, firmly courageous, and they are distinguished and quiet-souls, and those ministers are true to their word. They are magnificent, patient and famed ones and they smile afore they converse. [1-7-6b, 8a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-8, 1-7-9",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They never speak untruthful words in anger or in greed or for monetary reasons either. There is nothing unknown to them, even a little, in their own country or in the others either, or about everything that is happening or has happened, or that is going to happen, for they know them through agents. [1-7-8b, 9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-6, 1-7-7",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "6b, 8a vidyaaviniitaaH",
+            "devanagari_machine_converted": "६ब्, ८अ विद्याविनीताः",
+            "english": "well-versed in scriptures"
+          },
+          {
+            "roman_itrans": "hriimantaH",
+            "devanagari_machine_converted": "ह्रीमन्तः",
+            "english": "shun bad deeds"
+          },
+          {
+            "roman_itrans": "kushalaaH",
+            "devanagari_machine_converted": "कुशलाः",
+            "english": "skilful"
+          },
+          {
+            "roman_itrans": "niyatendriyaaH",
+            "devanagari_machine_converted": "नियतेन्द्रियाः",
+            "english": "with regulated senses"
+          },
+          {
+            "roman_itrans": "shriimantaH cha",
+            "devanagari_machine_converted": "श्रीमन्तः च",
+            "english": "affluent ones"
+          },
+          {
+            "roman_itrans": "mahaaatmaanaH",
+            "devanagari_machine_converted": "महाअत्मानः",
+            "english": "great souls"
+          },
+          {
+            "roman_itrans": "shaastraj~naaH",
+            "devanagari_machine_converted": "शास्त्रज्ञाः",
+            "english": "knowers of sciences"
+          },
+          {
+            "roman_itrans": "dhR^iDhavikramaaH",
+            "devanagari_machine_converted": "धृढविक्रमाः",
+            "english": "firmly courageous"
+          },
+          {
+            "roman_itrans": "kiirtimantaH",
+            "devanagari_machine_converted": "कीर्तिमन्तः",
+            "english": "distinguished ones"
+          },
+          {
+            "roman_itrans": "praNihitaaH",
+            "devanagari_machine_converted": "प्रणिहिताः",
+            "english": "quiet souls"
+          },
+          {
+            "roman_itrans": "yathaavachanakaariNaH",
+            "devanagari_machine_converted": "यथावचनकारिणः",
+            "english": "doers as per their word, [true to their word]"
+          },
+          {
+            "roman_itrans": "tejaHkShamaayashaHpraaptaaH",
+            "devanagari_machine_converted": "तेजःक्षमायशःप्राप्ताः",
+            "english": "having magnificence, patience, fame"
+          },
+          {
+            "roman_itrans": "smitapuurvaabhibhaaShiNaH",
+            "devanagari_machine_converted": "स्मितपूर्वाभिभाषिणः",
+            "english": "smile afore while they converse."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-8, 1-7-9",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "8b, 9. krodhaat kaamaarthahetoH vaa",
+            "devanagari_machine_converted": "८ब्, ९। क्रोधात् कामार्थहेतोः वा",
+            "english": "in anger, in greed, for monetary reason, either"
+          },
+          {
+            "roman_itrans": "anR^itam",
+            "devanagari_machine_converted": "अनृतम्",
+            "english": "untruthful"
+          },
+          {
+            "roman_itrans": "vachaH",
+            "devanagari_machine_converted": "वचः",
+            "english": "words"
+          },
+          {
+            "roman_itrans": "na bruuyuH",
+            "devanagari_machine_converted": "न ब्रूयुः",
+            "english": "never, they speak"
+          },
+          {
+            "roman_itrans": "teShaam",
+            "devanagari_machine_converted": "तेषाम्",
+            "english": "to them"
+          },
+          {
+            "roman_itrans": "aviditam",
+            "devanagari_machine_converted": "अविदितम्",
+            "english": "unknown"
+          },
+          {
+            "roman_itrans": "kimchit",
+            "devanagari_machine_converted": "किम्चित्",
+            "english": "a little"
+          },
+          {
+            "roman_itrans": "sveSu",
+            "devanagari_machine_converted": "स्वेषु",
+            "english": "in their own [country]"
+          },
+          {
+            "roman_itrans": "naasti",
+            "devanagari_machine_converted": "नास्ति",
+            "english": "not there"
+          },
+          {
+            "roman_itrans": "pareSu vaa",
+            "devanagari_machine_converted": "परेषु वा",
+            "english": "in other [countries,] either"
+          },
+          {
+            "roman_itrans": "kriyamaaNam",
+            "devanagari_machine_converted": "क्रियमाणम्",
+            "english": "that is happening"
+          },
+          {
+            "roman_itrans": "kR^ritam",
+            "devanagari_machine_converted": "क्ऱ्^रितम्",
+            "english": "already happened"
+          },
+          {
+            "roman_itrans": "vaa api",
+            "devanagari_machine_converted": "वा अपि",
+            "english": "either, that too"
+          },
+          {
+            "roman_itrans": "chaareNa",
+            "devanagari_machine_converted": "चारेण",
+            "english": "through agents"
+          },
+          {
+            "roman_itrans": "chikiirSitam",
+            "devanagari_machine_converted": "चिकीर्षितम्",
+            "english": "that is going to be undertaken [by others, is not there]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तेजस्वी, क्षमाशील, कीर्तिमान् तथा मुसकराकर बात करनेवाले थे। वे कभी काम, क्रोध या स्वार्थके वशीभूत होकर झूठ नहीं बोलते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तेजःक्षमायशःप्राप्ताः",
+            "hindi": "तेज, क्षमा और यश को प्राप्त (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "स्मितपूर्वाभिभाषिणः",
+            "hindi": "मुस्कुराकर बात करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "क्रोधात्",
+            "hindi": "क्रोध से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "कामार्थहेतोः",
+            "hindi": "काम और अर्थ के कारण से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "ब्रूयुः",
+            "hindi": "बोलते थे (ब्रू धातु, विधिलिङ्/वर्तमान लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "अनृतम्",
+            "hindi": "असत्य (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वचः",
+            "hindi": "वचन को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.8",
+        "ocr_flags": [
+          "hindi_marker_range_6-8"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "इन ब्रह्मर्षियोंके साथ राजाके पूर्वपरम्परागत ऋत्विज्‌ भी सदा मन्त्रीका कार्य करते थे। वे सब- के-सब विद्वान्‌ होनेके कारण विनयशील, सलज्ज, कार्यकुशल, जितेन्द्रिय, श्रीसम्मन्न, महात्मा, शस्त्रविद्याके ज्ञाता, सुदृढ़ पराक्रमी, यशस्वी, समस्त राजकार्योमे सावधान, राजाकी आज्ञाके अनुसार कार्य करनेवाले, तेजस्वी, क्षमाशील, कीर्तिमान्‌ तथा मुसकराकर बात करनेवाले थे। वे कभी काम, क्रोध या स्वार्थके वशीभूत होकर झूठ नहीँ बोलते थे॥ ६-८॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

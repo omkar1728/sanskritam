@@ -1,0 +1,308 @@
+{
+  "id": "baala-010-034",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 34,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 29
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-30, 1-10-31"
+    ],
+    "vulgate_in_locators": [
+      "1.10.30"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.30"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009029a",
+        "1009029c"
+      ],
+      "lines": [
+        "वर्षेणैवागतं विप्रं विषयं स्वं नराधिपः",
+        "प्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः"
+      ],
+      "punctuated_derived": "वर्षेणैवागतं विप्रं विषयं स्वं नराधिपः ।\nप्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वर्षेणैवागतं विप्रं विषयं स्वं नराधिपः",
+        "प्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः"
+      ],
+      "locators": [
+        "1-10-30, 1-10-31"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वर्षेणैवागतं विप्रं तापसं स नराधिपः",
+        "प्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः"
+      ],
+      "locators": [
+        "1.10.30"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वर्षेणैवागतं विप्रं तापसं स॒ नराधिपः",
+        "प्रत्युद्गम्य मुनिं प्रहर शिरसा च महीं गतः"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.10.30"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वर्षेणैवागतं विप्रं विषयं स्वं नराधिपः",
+      "net": "वर्षेणैवागतं विप्रं विषयं स्वं नराधिपः",
+      "in": "वर्षेणैवागतं विप्रं तापसं स नराधिपः",
+      "gp": "वर्षेणैवागतं विप्रं तापसं स॒ नराधिपः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8307692307692308,
+        "sim_gp_net": 0.8181818181818182
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "विषयं स्वं",
+            "b": "तापसं स"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "विषयं स्वं",
+            "b": "तापसं स॒"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः",
+      "net": "प्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः",
+      "in": "प्रत्युद्गम्य मुनिं प्रह्वः शिरसा च महीं गतः",
+      "gp": "प्रत्युद्गम्य मुनिं प्रहर शिरसा च महीं गतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9444444444444444
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रह्वः",
+            "b": "प्रहर"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-30, 1-10-31",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The king Romapada personally proceeded towards that Brahman Rishyasring who is now entering Anga kingdom along with rains, made prostratiion before him, offered water customarily with dedication, and then the king Romapada besought beneficence of the best sage Rishyasringa to save him and his kingdom from the fury of his father Sage Vibhandaka, if sage Vibhandaka were to know about this pursuit of bringing Rishyasringa to Anga country, at a later time ... [1-10-30, 31]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-30, 1-10-31",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "30, 31. naraadhipaH",
+            "devanagari_machine_converted": "३०, ३१। नराधिपः",
+            "english": "king[Romapaada]"
+          },
+          {
+            "roman_itrans": "varSeNa eva",
+            "devanagari_machine_converted": "वर्षेण एव",
+            "english": "with specialty [of rain showers]"
+          },
+          {
+            "roman_itrans": "svam viShayam aagatam",
+            "devanagari_machine_converted": "स्वम् विषयम् आगतम्",
+            "english": "arrived into his own country"
+          },
+          {
+            "roman_itrans": "vipram munim",
+            "devanagari_machine_converted": "विप्रम् मुनिम्",
+            "english": "to Brahman, saint"
+          },
+          {
+            "roman_itrans": "prati udgamya",
+            "devanagari_machine_converted": "प्रति उद्गम्य",
+            "english": "gone towards [welcomingly]"
+          },
+          {
+            "roman_itrans": "prahvaH",
+            "devanagari_machine_converted": "प्रह्वः",
+            "english": "bowed his head"
+          },
+          {
+            "roman_itrans": "shirasaa mahiim gataH",
+            "devanagari_machine_converted": "शिरसा महीम् गतः",
+            "english": "touched head to ground"
+          },
+          {
+            "roman_itrans": "susamaahitaH",
+            "devanagari_machine_converted": "सुसमाहितः",
+            "english": "self-composedly"
+          },
+          {
+            "roman_itrans": "tasmai",
+            "devanagari_machine_converted": "तस्मै",
+            "english": "to him"
+          },
+          {
+            "roman_itrans": "nyaayataH arghyam pradadau",
+            "devanagari_machine_converted": "न्यायतः अर्घ्यम् प्रददौ",
+            "english": "as a rule, offered water"
+          },
+          {
+            "roman_itrans": "viprendraat",
+            "devanagari_machine_converted": "विप्रेन्द्रात्",
+            "english": "from best sage [ Vibhandaka]"
+          },
+          {
+            "roman_itrans": "prasaadam vavre",
+            "devanagari_machine_converted": "प्रसादम् वव्रे",
+            "english": "boon [indemnity,] sought"
+          },
+          {
+            "roman_itrans": "vipram manyuH maa aavishet",
+            "devanagari_machine_converted": "विप्रम् मन्युः मा आविशेत्",
+            "english": "let that Brahman be possessed by anger."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-30, 1-10-31",
+        "spans_beyond_this_verse": true,
+        "text": "The salutation in prostration on the ground is usually performed before Gods or Deities, in reverence. It is called saaSTaanga-praNaamam = sa aSTa anga praNaamam , i.e., saluting with eight body parts touching the ground, indicating his absolute surrender to the worshipped."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.30",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“वर्षासे ही राजाको अनुमान हो गया कि वे तपस्वी ब्राह्मणकुमार आ गये। फिर बड़ी विनयके साथ राजाने उनकी अगवानी की और पृथ्वीपर मस्तक टेककर उन्हें साष्टांग प्रणाम किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.30",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वर्षेण",
+            "hindi": "वर्षा के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "आगतम्",
+            "hindi": "आ गया (द्वितीया विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "विप्रम्",
+            "hindi": "ब्राह्मण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तापसम्",
+            "hindi": "तपस्वी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नराधिपः",
+            "hindi": "राजा (रोमपाद) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रत्युद्गम्य",
+            "hindi": "आगे बढ़कर / अगवानी करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "मुनिम्",
+            "hindi": "मुनि को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रह्वः",
+            "hindi": "विनय से झुककर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शिरसा",
+            "hindi": "सिर से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "महीम्",
+            "hindi": "पृथ्वी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गतः",
+            "hindi": "प्राप्त हुआ / टेका (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.30",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“'वर्षसे ही राजाको अनुमान हो गया कि वे तपस्वी ब्रामणकुमार आ गये। फिर बड़ी विनयके साथ श्रीमद्वाल्मीकीयरामायणे राजाने उनकी अगवानी की और पृथ्वीपर मस्तक | अन्तःपुरं प्रवेश्यास्मै कन्यां दत्त्वा यथाविधि। टेककर उन्हें साष्यंग प्रणाम किया॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

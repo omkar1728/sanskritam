@@ -1,0 +1,304 @@
+{
+  "id": "baala-002-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 11
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-11, 1-2-12"
+    ],
+    "vulgate_in_locators": [
+      "1.2.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002011a",
+        "1002011c"
+      ],
+      "lines": [
+        "तं शोणितपरीताङ्गं वेष्टमानं महीतले",
+        "भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्"
+      ],
+      "punctuated_derived": "तं शोणितपरीताङ्गं वेष्टमानं महीतले ।\nभार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तं शोणितपरीताङ्गं वेष्टमानं महीतले",
+        "भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्"
+      ],
+      "locators": [
+        "1-2-11, 1-2-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तं शोणितपरीतांगं चेष्टमानं महीतले",
+        "भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्"
+      ],
+      "locators": [
+        "1.2.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तं शोणितपरीतांगं चेष्टमानं महीतले",
+        "भार्या तु निहतं दृष्ट्वा रुराव करूणां गिरम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तं शोणितपरीताङ्गं वेष्टमानं महीतले",
+      "net": "तं शोणितपरीताङ्गं वेष्टमानं महीतले",
+      "in": "तं शोणितपरीतांगं चेष्टमानं महीतले",
+      "gp": "तं शोणितपरीतांगं चेष्टमानं महीतले",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9666666666666667,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शोणितपरीताङ्गं वेष्टमानं",
+            "b": "शोणितपरीतांगं चेष्टमानं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शोणितपरीताङ्गं वेष्टमानं",
+            "b": "शोणितपरीतांगं चेष्टमानं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्",
+      "net": "भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्",
+      "in": "भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्",
+      "gp": "भार्या तु निहतं दृष्ट्वा रुराव करूणां गिरम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "करुणां गिरम्",
+            "b": "करूणां गिरम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-11, 1-2-12",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The wife was moving together with husband with a red crest and with joy, with good wings, always being united with that male bird. On seeing that bird slain on ground reeling with blood covered wings really made wailing sounds with piteous utterances on being separated from her husband. [1-2-11, 12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-11, 1-2-12",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhaaryaa",
+            "devanagari_machine_converted": "भार्या",
+            "english": "wife"
+          },
+          {
+            "roman_itrans": "sahachaariNaa",
+            "devanagari_machine_converted": "सहचारिणा",
+            "english": "[was] moving together"
+          },
+          {
+            "roman_itrans": "patinaa",
+            "devanagari_machine_converted": "पतिना",
+            "english": "with husband"
+          },
+          {
+            "roman_itrans": "taamrashiirSheNa",
+            "devanagari_machine_converted": "ताम्रशीर्षेण",
+            "english": "with a red crest"
+          },
+          {
+            "roman_itrans": "mattena",
+            "devanagari_machine_converted": "मत्तेन",
+            "english": "with joy"
+          },
+          {
+            "roman_itrans": "patriNaa",
+            "devanagari_machine_converted": "पत्रिणा",
+            "english": "with good wings"
+          },
+          {
+            "roman_itrans": "sahitena",
+            "devanagari_machine_converted": "सहितेन",
+            "english": "[always] united"
+          },
+          {
+            "roman_itrans": "tena dvijena",
+            "devanagari_machine_converted": "तेन द्विजेन",
+            "english": "with that bird [male bird]"
+          },
+          {
+            "roman_itrans": "tam dR^iSTvaa",
+            "devanagari_machine_converted": "तम् दृष्ट्वा",
+            "english": "on seeing that male bird"
+          },
+          {
+            "roman_itrans": "nihatam",
+            "devanagari_machine_converted": "निहतम्",
+            "english": "slain"
+          },
+          {
+            "roman_itrans": "mahiitale",
+            "devanagari_machine_converted": "महीतले",
+            "english": "on ground"
+          },
+          {
+            "roman_itrans": "veShTamaanam",
+            "devanagari_machine_converted": "वेष्टमानम्",
+            "english": "reeling"
+          },
+          {
+            "roman_itrans": "shoNitapariitaangam",
+            "devanagari_machine_converted": "शोणितपरीतान्गम्",
+            "english": "with blood covered wings [or body]"
+          },
+          {
+            "roman_itrans": "vai",
+            "devanagari_machine_converted": "वै",
+            "english": "really"
+          },
+          {
+            "roman_itrans": "ruraava",
+            "devanagari_machine_converted": "रुराव",
+            "english": "made wailing sounds"
+          },
+          {
+            "roman_itrans": "karuNaam giram",
+            "devanagari_machine_converted": "करुणाम् गिरम्",
+            "english": "with piteous utterances"
+          },
+          {
+            "roman_itrans": "viyuktaa",
+            "devanagari_machine_converted": "वियुक्ता",
+            "english": "on being separated [from her husband]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वह पक्षी खूनसे लथपथ होकर पृथ्वीपर गिर पड़ा और पंख फड़फड़ाता हुआ तड़पने लगा। अपने पतिकी हत्या हुई देख उसकी भार्या क्रौञ्ची करुणाजनक स्वरमें चीत्कार कर उठी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (पक्षी) को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शोणितपरीताङ्गम्",
+            "hindi": "रक्त से लथपथ शरीर वाले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चेष्टमानम्",
+            "hindi": "तड़पते हुए को (शानच् प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महीतले",
+            "hindi": "पृथ्वी पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "भार्या",
+            "hindi": "पत्नी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "निहतम्",
+            "hindi": "मारे गए को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रुराव",
+            "hindi": "रोने लगी / चीत्कार किया (रु धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "करुणाम्",
+            "hindi": "करुणा युक्त (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गिरम्",
+            "hindi": "वाणी को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वह पक्षी खूनसे लथपथ होकर पृथ्वीपर गिर पड़ा और पंख फड़फड़ाता हुआ तड़पने लगा। अपने पतिकी चीत्कार कर उठी॥ ११॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

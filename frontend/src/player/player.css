@@ -14,3 +14,9 @@
 .player .speed input[type=range] { width: 160px; padding: 0; }
 .player .notice { border-left: 3px solid var(--accent); padding: .4rem .8rem; background: var(--surface2); border-radius: 4px; margin-bottom: 1rem; }
 .player .kbd { font-size: .85rem; color: var(--muted); margin-top: .6rem; }
+@media (max-width: 600px) {
+  .player .seek { flex: 1 1 100%; min-width: 0; }
+  .player .time { min-width: 0; }
+  .player .speed input[type=range] { width: 100%; flex: 1 1 140px; }
+  .player .kbd { display: none; }
+}

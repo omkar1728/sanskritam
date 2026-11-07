@@ -1,0 +1,276 @@
+{
+  "id": "baala-007-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 13
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-16"
+    ],
+    "vulgate_in_locators": [
+      "1.7.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007013a",
+        "1007013c"
+      ],
+      "lines": [
+        "सुवाससः सुवेशाश्च ते च सर्वे सुशीलिनः",
+        "हितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा"
+      ],
+      "punctuated_derived": "सुवाससः सुवेशाश्च ते च सर्वे सुशीलिनः ।\nहितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः",
+        "हितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा"
+      ],
+      "locators": [
+        "1-7-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः",
+        "हितार्थाश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा॥१६"
+      ],
+      "locators": [
+        "1.7.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सुवाससः सुवेषाश्च ते च सर्वे शुचित्रताः",
+        "हितार्थाश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.7.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सुवाससः सुवेशाश्च ते च सर्वे सुशीलिनः",
+      "net": "सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः",
+      "in": "सुवाससः सुवेषाश्च ते च सर्वे शुचिव्रताः",
+      "gp": "सुवाससः सुवेषाश्च ते च सर्वे शुचित्रताः",
+      "similarity": {
+        "sim_smith_net": 0.7878787878787878,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सुवेशाश्च",
+            "b": "सुवेषाश्च"
+          },
+          {
+            "a": "सुशीलिनः",
+            "b": "शुचिव्रताः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शुचिव्रताः",
+            "b": "शुचित्रताः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "हितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा",
+      "net": "हितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा",
+      "in": "हितार्थाश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा॥१६",
+      "gp": "हितार्थाश्च नरेन्द्रस्य जाग्रतो नयचक्षुषा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9444444444444444,
+        "sim_gp_net": 0.9444444444444444
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "हितार्थं च",
+            "b": "हितार्थाश्च"
+          },
+          {
+            "a": "नयचक्षुषा",
+            "b": "नयचक्षुषा॥१६"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "हितार्थं च",
+            "b": "हितार्थाश्च"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Well-dressed and well-decorated and they the ministers of King Dasharatha, observe decency in the interest of the king and also of the kingdom, with diligence and with a truthful-eye. [1-7-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "te cha sarve",
+            "devanagari_machine_converted": "ते च सर्वे",
+            "english": "they, also, all"
+          },
+          {
+            "roman_itrans": "suvaasasaH",
+            "devanagari_machine_converted": "सुवाससः",
+            "english": "well dressed"
+          },
+          {
+            "roman_itrans": "suveShaaH cha",
+            "devanagari_machine_converted": "सुवेषाः च",
+            "english": "well decorated, also"
+          },
+          {
+            "roman_itrans": "shuchivrataaH",
+            "devanagari_machine_converted": "शुचिव्रताः",
+            "english": "observing decency"
+          },
+          {
+            "roman_itrans": "narendrasya hitaartham cha",
+            "devanagari_machine_converted": "नरेन्द्रस्य हितार्थम् च",
+            "english": "in the interest of king also"
+          },
+          {
+            "roman_itrans": "nayachakShuSaa",
+            "devanagari_machine_converted": "नयचक्षुषा",
+            "english": "truthful-eyed"
+          },
+          {
+            "roman_itrans": "jaagrataH",
+            "devanagari_machine_converted": "जाग्रतः",
+            "english": "are diligent."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन मन्त्रियोंके वस्त्र और वेष स्वच्छ एवं सुन्दर होते थे। वे उत्तम व्रतका पालन करनेवाले तथा राजाके हितैषी थे। नीतिरूपी नेत्रोंसे देखते हुए सदा सजग रहते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सुवाससः",
+            "hindi": "सुन्दर वस्त्र वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सुवेषाः",
+            "hindi": "सुन्दर वेश वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "शुचिव्रताः",
+            "hindi": "पवित्र व्रत वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "हितार्थाः",
+            "hindi": "हित चाहने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नरेन्द्रस्य",
+            "hindi": "राजा के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "जाग्रतः",
+            "hindi": "जागृत रहते हुए के (शतृ प्रत्ययान्त, षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "नयचक्षुषा",
+            "hindi": "नीति रूपी नेत्रों से (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.16",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उन मन्त्रियोंके वस्त्र और वेष स्वच्छ एवं सुन्दर होते थे। वे उत्तम व्रतका पालन करनेवाले तथा राजाके हितैषी थे । नीतिरूपी नेत्रोंसे देखते हुए सदा सजग रहते थे॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

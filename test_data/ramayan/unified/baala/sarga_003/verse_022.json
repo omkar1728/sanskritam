@@ -1,0 +1,219 @@
+{
+  "id": "baala-003-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 15
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-23"
+    ],
+    "vulgate_in_locators": [
+      "1.3.23"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.23"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003015a",
+        "1003015c"
+      ],
+      "lines": [
+        "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम्",
+        "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्"
+      ],
+      "punctuated_derived": "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम् ।\nप्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम्",
+        "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्"
+      ],
+      "locators": [
+        "1-3-23"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम्",
+        "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्"
+      ],
+      "locators": [
+        "1.3.23"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋष्यमूकस्य गमनं सुग्रीवीण समागमम्‌",
+        "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम्",
+      "net": "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम्",
+      "in": "ऋष्यमूकस्य गमनं सुग्रीवेण समागमम्",
+      "gp": "ऋष्यमूकस्य गमनं सुग्रीवीण समागमम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9655172413793104
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सुग्रीवेण समागमम्",
+            "b": "सुग्रीवीण समागमम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्",
+      "net": "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्",
+      "in": "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्",
+      "gp": "प्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "वालिसुग्रीवविग्रहम्",
+            "b": "वालिसुग्रीवविग्रहम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-23",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Also going to Mt. Rishyamuka, meeting Sugreeva and generating confidence in Sugreeva, befriending him and the duel of Vali and Sugreeva... [1-3-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-23",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "R^ishyamuukasya gamanam ca",
+            "devanagari_machine_converted": "ऋश्यमूकस्य गमनम् च",
+            "english": "also going to Rishyamuka"
+          },
+          {
+            "roman_itrans": "sugriiveNa samaagamam",
+            "devanagari_machine_converted": "सुग्रीवेण समागमम्",
+            "english": "meeting with Sugreeva"
+          },
+          {
+            "roman_itrans": "pratyayotpaadanam sakhyam",
+            "devanagari_machine_converted": "प्रत्ययोत्पादनम् सख्यम्",
+            "english": "confidence generating friendship [with Sugreeva]"
+          },
+          {
+            "roman_itrans": "vaalisugriivavigraham",
+            "devanagari_machine_converted": "वालिसुग्रीवविग्रहम्",
+            "english": "duel of Vali-Sugreeva."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीराम और लक्ष्मणका हनुमान् जी के साथ ऋष्यमूक पर्वतपर जाना, वहाँ सुग्रीवके साथ भेंट करना, उन्हें अपने बलका विश्वास दिलाना और उनसे मित्रता स्थापित करना, वाली और सुग्रीवका युद्ध,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋष्यमूकस्य",
+            "hindi": "ऋष्यमूक पर्वत का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "गमनम्",
+            "hindi": "गमन / जाना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवेण",
+            "hindi": "सुग्रीव के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समागमम्",
+            "hindi": "समागम / मिलन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रत्ययोत्पादनम्",
+            "hindi": "विश्वास उत्पन्न करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सख्यम्",
+            "hindi": "मित्रता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वालिसुग्रीवविग्रहम्",
+            "hindi": "वाली और सुग्रीव के युद्ध / विग्रह को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.23",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

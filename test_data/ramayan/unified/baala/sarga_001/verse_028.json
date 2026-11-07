@@ -1,0 +1,247 @@
+{
+  "id": "baala-001-028",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 28,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 22
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-24"
+    ],
+    "vulgate_in_locators": [
+      "1.1.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.24"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001022a",
+        "1001022c"
+      ],
+      "lines": [
+        "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्",
+        "पितुर्वचननिर्देशात्कैकेय्याः प्रियकारणात्"
+      ],
+      "punctuated_derived": "स जगाम वनं वीरः प्रतिज्ञामनुपालयन् ।\nपितुर्वचननिर्देशात्कैकेय्याः प्रियकारणात् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्",
+        "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात्"
+      ],
+      "locators": [
+        "1-1-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्",
+        "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात्"
+      ],
+      "locators": [
+        "1.1.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्‌",
+        "पितुर्वचननिर्देशात्‌ कैकेय्याः प्रियकारणात्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्",
+      "net": "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्",
+      "in": "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्",
+      "gp": "स जगाम वनं वीरः प्रतिज्ञामनुपालयन्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रतिज्ञामनुपालयन्",
+            "b": "प्रतिज्ञामनुपालयन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पितुर्वचननिर्देशात्कैकेय्याः प्रियकारणात्",
+      "net": "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात्",
+      "in": "पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात्",
+      "gp": "पितुर्वचननिर्देशात्‌ कैकेय्याः प्रियकारणात्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "पितुर्वचननिर्देशात्कैकेय्याः",
+            "b": "पितुर्वचननिर्देशात् कैकेय्याः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पितुर्वचननिर्देशात्",
+            "b": "पितुर्वचननिर्देशात्‌"
+          },
+          {
+            "a": "प्रियकारणात्",
+            "b": "प्रियकारणात्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-24",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That warrior Rama went to forest for pleasing Kaikeyi, and as directed by his father, and to follow his father's word of honour. [1-1-24]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-24",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH viiraH",
+            "devanagari_machine_converted": "सः वीरः",
+            "english": "that warrior [Rama]"
+          },
+          {
+            "roman_itrans": "kaikeyyaaH priyakaaraNaat",
+            "devanagari_machine_converted": "कैकेय्याः प्रियकारणात्",
+            "english": "by reason of pleasing Kaikeyi"
+          },
+          {
+            "roman_itrans": "anupaalayan",
+            "devanagari_machine_converted": "अनुपालयन्",
+            "english": "(and) to follow"
+          },
+          {
+            "roman_itrans": "pratij~naam",
+            "devanagari_machine_converted": "प्रतिज्ञाम्",
+            "english": "promise - his own pledge to adhere to his father's word, or, promise of his father to Kaikeyi"
+          },
+          {
+            "roman_itrans": "pituH vacananirdeshaat",
+            "devanagari_machine_converted": "पितुः वचननिर्देशात्",
+            "english": "by father's directive"
+          },
+          {
+            "roman_itrans": "vanam jagaama",
+            "devanagari_machine_converted": "वनम् जगाम",
+            "english": "went to forest."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'कैकेयीका प्रिय करनेके लिये पिताकी आज्ञाके अनुसार उनकी प्रतिज्ञाका पालन करते हुए वीर रामचन्द्र वनको चले"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वनम्",
+            "hindi": "वन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वीरः",
+            "hindi": "वीर ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतिज्ञाम्",
+            "hindi": "प्रतिज्ञा का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुपालयन्",
+            "hindi": "पालन करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वचननिर्देशात्",
+            "hindi": "वचन के आदेश के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "कैकेय्याः",
+            "hindi": "कैकेयी के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रियकारणात्",
+            "hindi": "प्रिय करने के कारण से (पञ्चमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.24",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'कैकेयीका प्रिय करनेके लिये पिताकी आज्ञाके अनुसार उनको प्रतिज्ञाका पालन करते हुए वीर रामचन्द्र वनको चले॥ २४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

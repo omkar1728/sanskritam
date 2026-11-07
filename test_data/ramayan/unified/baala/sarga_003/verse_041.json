@@ -1,0 +1,266 @@
+{
+  "id": "baala-003-041",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 41,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 29
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-39"
+    ],
+    "vulgate_in_locators": [
+      "1.3.39"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.39"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003029a",
+        "1003029c"
+      ],
+      "lines": [
+        "अनागतं च यत्किंचिद्रामस्य वसुधातले",
+        "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः"
+      ],
+      "punctuated_derived": "अनागतं च यत्किंचिद्रामस्य वसुधातले ।\nतच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अनागतं च यत्किञ्चिद्रामास्य वसुधातले",
+        "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः"
+      ],
+      "locators": [
+        "1-3-39"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अनागतं च यत् किंचिद् रामस्य वसुधातले",
+        "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः"
+      ],
+      "locators": [
+        "1.3.39"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अनागतं च यत्‌ किंचिद्‌ रामस्य वसुधातले",
+        "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.3.39"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अनागतं च यत्किंचिद्रामस्य वसुधातले",
+      "net": "अनागतं च यत्किञ्चिद्रामास्य वसुधातले",
+      "in": "अनागतं च यत् किंचिद् रामस्य वसुधातले",
+      "gp": "अनागतं च यत्‌ किंचिद्‌ रामस्य वसुधातले",
+      "similarity": {
+        "sim_smith_net": 0.9841269841269841,
+        "sim_in_net": 0.9841269841269841,
+        "sim_gp_net": 0.9841269841269841
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यत्किंचिद्रामस्य",
+            "b": "यत्किञ्चिद्रामास्य"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यत्किञ्चिद्रामास्य",
+            "b": "यत् किंचिद् रामस्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यत्किञ्चिद्रामास्य",
+            "b": "यत्‌ किंचिद्‌ रामस्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः",
+      "net": "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः",
+      "in": "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः",
+      "gp": "तच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-39",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The godly sage Valmiki composed the futuristic legend of Rama while Rama is on the surface of earth, and whatever that is there, that is composed in all its minuteness, in the coming chapters of this epic. [1-3-39]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-39",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhagavaan vaalmikiH R^iSiH",
+            "devanagari_machine_converted": "भगवान् वाल्मिकिः ऋषिः",
+            "english": "godly sage Valmiki"
+          },
+          {
+            "roman_itrans": "raamasya yat kimchit",
+            "devanagari_machine_converted": "रामस्य यत् किम्चित्",
+            "english": "whatever minutely of Rama"
+          },
+          {
+            "roman_itrans": "vasudhaatale",
+            "devanagari_machine_converted": "वसुधातले",
+            "english": "on earth's surface"
+          },
+          {
+            "roman_itrans": "anaagatam ca",
+            "devanagari_machine_converted": "अनागतम् च",
+            "english": "futuristic, also"
+          },
+          {
+            "roman_itrans": "tat",
+            "devanagari_machine_converted": "तत्",
+            "english": "that; uttare = in later [parts of, coming chapters]"
+          },
+          {
+            "roman_itrans": "kaavye",
+            "devanagari_machine_converted": "काव्ये",
+            "english": "of epic"
+          },
+          {
+            "roman_itrans": "chakaara",
+            "devanagari_machine_converted": "चकार",
+            "english": "composed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-39",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: In this verse, some take the word uttare as Uttara Ramayana, the events occurring after his crowning, Seetha's departure to forest, birth of Lava and Kusha, the sons of Rama and a battle between father and sons etc., are ascribed to Valmiki. But to some commentators, as per the format of this chapter, which surveys what Valmiki has scheduled to write, it is unacceptable since the word uttare occurs for only one occasion, hence cannot mean next canto. Thus, they say, Uttara Ramayana cannot be ascribed to Valmiki. Hence the word uttare here is taken to mean henceforth, hereinafter of the epic."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.39",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इत्यादि वृत्तान्तोंको एवं इस पृथ्वीपर श्रीरामका जो कुछ भविष्य चरित्र था, उसको भी भगवान् वाल्मीकि मुनिने अपने उत्कृष्ट महाकाव्यमें अंकित किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.39",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अनागतम्",
+            "hindi": "भविष्य में होने वाला (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "किञ्चित्",
+            "hindi": "कुछ भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वसुधातले",
+            "hindi": "पृथ्वी पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उसे (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया / अंकित किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "उत्तरे",
+            "hindi": "उत्तर (भविष्य) में / उत्कृष्ट (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "काव्ये",
+            "hindi": "काव्य में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वाल्मीकिः",
+            "hindi": "वाल्मीकि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषिः",
+            "hindi": "ऋषि ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.39",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "श्रीराम आदिका गंगाके पार जाना, भरद्वाज मुनिका दर्शन करना, भरद्वाज मुनिकी आज्ञा लेकर चित्रकूट जाना और वहाँकी नैसर्गिक शोभाका अवलोकन करना, चित्रकूरमें कुटिया बनाना, उसमें निवास करना, वहाँ भरतका श्रीरामसे मिलनेके लिये आना, उन्हें अयोध्या लौट चलनेके लिये प्रसन्न करना (मनाना), श्रीरामद्वारा पिताको जलाञ्जलि दान, भरतद्वार अयोध्याके राजसिंहासनपर श्रीरामचन्द्रजीकी श्रेष्ठ पादुकाओंका अभिषेक एवं स्थापन, नन्दिग्राममें भरतका निवास, श्रीरामका दण्डकारण्यमें गमन, उनके द्वारा विराधका वध, शरभंगमुनिका दर्शन, सुतीक्ष्णके साथ समागम, अनसूयाके साथ सीतादेवीकी कुछ कालतक स्थिति, उनके द्वारा सीताको अंगराग-समर्पण, श्रीराम आदिके द्वारा अगस्त्यका दर्शन, उनके दिये हुए वैष्णव धनुषका ग्रहण, शूर्पणखाका संवाद, श्रीरामकी आज्चासे लक्ष्मणद्वारा उसका विरूपकरण (उसकी नाक और कानका छेदन), श्रीरामद्वारा खर-दूषण और त्रिशिराका वध, शूर्पणखाके उत्तेजित करनेसे रावणका श्रीरामसे बदला लेनेके लिये उठना, श्रीरामद्वारा मारीचका वध, रावणद्वारा विदेहनन्दिनी ्रीमद्वाल्मीकीयरामायणे सीताका हरण, सीताके लिये श्रीरघुनाथजीका विलाप रावणद्वारा गृध्रराज जटायुका वध, श्रीराम और लक्ष्मणकी कबन्धसे भेंट, उनके द्वारा पम्पासरोवरका अवलोकन श्रीरामका शबरीसे मिलना और उसके दिये हुए फल- मूलको ग्रहण करना, श्रीरामका सीताके लिये प्रलाप पम्पासरोवरके निकट हनुमानूजीसे भेंट, श्रीराम और लक्ष्मणका हनुमानूजीके साथ ऋष्यमूक पर्वतपर जाना वहां सुग्रीवके साथ भेंट करना, उन्हें अपने बलका विश्वास दिलाना और उनसे मित्रता स्थापित करना, वाली और सुग्रीवका युद्ध, श्रीरामद्वारा वालीका विनाश, सुग्रीवको राज्य-समर्पण, अपने पति वालीके लिये ताराका विलाप, शरत्कालमें सीताको खोज करानेके लिये सुग्रीवकी प्रतिज्ञा, श्रीरामका बरसातके दिनोंमें माल्यवान्‌ पर्वतके प्रत्रवण नामक शिखरपर निवास, रघुकुलसिंह श्रीरामका सुग्रीवके प्रति क्रोध-प्रदर्शन, सुग्रीवद्वारा सीताकी खोजके लिये वानरसेनाका संग्रह, सुग्रीवका सम्पूर्ण दिशाओं में वानरोंको भेजना और उन्हें पृथ्वीके द्वीप-समुद्र आदि विभागोंका परिचय देना, श्रीरामका सीताके विश्वासके लिये हनुमानजीको अपनी अँगूठी देना, वानरोंको ऋक्ष- 'बिल (स्वयंप्रभा-गुफा) का दर्शन, उनका प्रायोपवेशन (प्राणत्यागके लिये अनशन), सम्पातीसे उनकी भेंट और बातचीत, समुद्रलङ्घनके लिये हनुमानूजीका महेन्द्र पर्वतपर चढ़ना, समुद्रको लाँघना, समुद्रके कहनेसे ऊपर उठे हुए मैनाकका दर्शन करना, इनको राक्षसीका डाँटना, हनुमानुद्वारा छायाग्राहिंणी सिहिंकाका दर्शन एवं निधन, लङ्काके आधारभूत पर्वत (त्रिकूट) का दर्शन, रात्रिके समय लङ्कमें प्रवेश, अकेला होनेके कारण अपने कर्तव्यका विचार करना, रावणके मद्यपान-स्थानमें जाना, उसके अन्तःपुरकी स्त्रियोंको देखना, हनुमानूजीका रावणको देखना, पुष्पकविमानका निरीक्षण करना, अशोकवाटिकामें जाना और सीताजीके दर्शन करना, पहचानके लिये सीताजीको अंगूठी देना और उनसे बातचीत करना, राक्षसियोंद्वारा सीताको डाँट-फटकार, त्रिजटाको श्रीरामकें लिये शुभसूचक स्वप्नका दर्शन, सीताका हनुमान्‌जीको चूडामणि प्रदान करना, हनुमानूजीका अशोकवाटिकाके वृक्षको तोड़ना, राक्षसियोंका भागना, रावणके सेवकोंका हनुमानजीके द्वारा संहार, वायुनन्दन हनुमानूका बन्दी होकर रावणकी सभामें जाना, उनके द्वारा गर्जन और लङ्काका दाह, फिर लौटती बार समुद्रको लाँघना, वानरोंका मधुवनमें आकर मधुपान करना, हनुमानजीका श्रीरामचन्द्रजीको आश्वासन देना और सीताजीकी दी हुई चूडामणि समर्पित करना, सेनासहित सुग्रीवके साथ श्रीरामको लङ्कायात्राके समय समुद्रसे भेंट, नलका समुद्रपर सेतु बाँधना, उसी सेतुके द्वारा वानरसेनाका समुद्रके पार जाना, रातको वानरोंका लङ्कापर चारों ओरसे घेरा डालना, विभीषणके साथ श्रीरामका मैत्री-सम्बन्ध होना, विभीषणका श्रीरामको रावणके वधका उपाय बताना, कुम्भकर्णका निधन, मेघनादका वध, रावणका विनाश, सीताकी प्राप्ति, शत्रुनगरी लङ्कामें विभीषणका अभिषेक, श्रीरामद्वारा पुष्पकविमानका अवलोकन, उसके द्वारा दल-बलसहित उनका अयोध्याके लिये प्रस्थान, श्रीरामका भरद्वाजमुनिसे मिलना, वायुपुत्र हनुमानको दूत बनाकर भरतके पास भेजना तथा अयोध्यामें आकर भरतसे मिलना, श्रीरामके राज्याभिषेकका उत्सव, फिर श्रीरामका सारी वानरसेनाको विदा करना, अपने राष्ट्रको प्रजाको प्रसन्न रखना तथा उनकी प्रसन्नताके लिये ही विदेहनन्दिनी सीताको वनमें त्याग देना इत्यादि वृततान्तोको एवं इस पृथ्वीपर श्रीरामका जो कुछ भविष्य चरित्र था, उसको भी भगवान्‌ वाल्मीकि मुनिने अपने उत्कृष्ट महाकाव्यमें अंकित किया॥ १५--३९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

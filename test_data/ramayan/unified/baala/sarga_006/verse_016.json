@@ -1,0 +1,295 @@
+{
+  "id": "baala-006-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 14
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-14"
+    ],
+    "vulgate_in_locators": [
+      "1.6.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006014a",
+        "1006014c"
+      ],
+      "lines": [
+        "न नास्तिको नानृतको न कश्चिदबहुश्रुतः",
+        "नासूयको न चाशक्तो नाविद्वान्विद्यते तदा"
+      ],
+      "punctuated_derived": "न नास्तिको नानृतको न कश्चिदबहुश्रुतः ।\nनासूयको न चाशक्तो नाविद्वान्विद्यते तदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न नास्तिको नानृतको न कश्चिदबहुश्रुतः",
+        "नासूयको न चाशक्तो नाविद्वान्विद्यते तदा"
+      ],
+      "locators": [
+        "1-6-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नास्तिको नानृती वापि न कश्चिदबहुश्रुतः",
+        "नासूयको न चाशक्तो नाविद्वान् विद्यते क्वचित्॥१४"
+      ],
+      "locators": [
+        "1.6.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नासूयको न चाशक्तो नाविद्वान्‌ विद्यते क्वचित्‌"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits",
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.6.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न नास्तिको नानृतको न कश्चिदबहुश्रुतः",
+      "net": "न नास्तिको नानृतको न कश्चिदबहुश्रुतः",
+      "in": "नास्तिको नानृती वापि न कश्चिदबहुश्रुतः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8787878787878788
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "न",
+            "b": ""
+          },
+          {
+            "a": "नानृतको",
+            "b": "नानृती वापि"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नासूयको न चाशक्तो नाविद्वान्विद्यते तदा",
+      "net": "नासूयको न चाशक्तो नाविद्वान्विद्यते तदा",
+      "in": "नासूयको न चाशक्तो नाविद्वान् विद्यते क्वचित्॥१४",
+      "gp": "नासूयको न चाशक्तो नाविद्वान्‌ विद्यते क्वचित्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8888888888888888,
+        "sim_gp_net": 0.8888888888888888
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नाविद्वान्विद्यते तदा",
+            "b": "नाविद्वान् विद्यते क्वचित्॥१४"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाविद्वान्विद्यते तदा",
+            "b": "नाविद्वान्‌ विद्यते क्वचित्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-14",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "There is no atheist, no liar, and none is less learnt in Veda-s, and no one is found to be jealous, or disabled, or unscholarly person. [1-6-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-14",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "naastikaH na",
+            "devanagari_machine_converted": "नास्तिकः न",
+            "english": "atheist, none"
+          },
+          {
+            "roman_itrans": "anR^itakaH",
+            "devanagari_machine_converted": "अनृतकः",
+            "english": "liar"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "None"
+          },
+          {
+            "roman_itrans": "na kashchit",
+            "devanagari_machine_converted": "न कश्चित्",
+            "english": "none, anyone"
+          },
+          {
+            "roman_itrans": "abahushrutaH",
+            "devanagari_machine_converted": "अबहुश्रुतः",
+            "english": "not much heard [learned]"
+          },
+          {
+            "roman_itrans": "na asuuyakaH",
+            "devanagari_machine_converted": "न असूयकः",
+            "english": "none, jealous"
+          },
+          {
+            "roman_itrans": "na cha",
+            "devanagari_machine_converted": "न च",
+            "english": "not, also"
+          },
+          {
+            "roman_itrans": "ashaktaH",
+            "devanagari_machine_converted": "अशक्तः",
+            "english": "disabled"
+          },
+          {
+            "roman_itrans": "na avidvaan",
+            "devanagari_machine_converted": "न अविद्वान्",
+            "english": "none, unscholarly"
+          },
+          {
+            "roman_itrans": "vidyate tadaa",
+            "devanagari_machine_converted": "विद्यते तदा",
+            "english": "is found, thus."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वहाँ कहीं एक भी ऐसा द्विज नहीं था, जो नास्तिक, असत्यवादी, अनेक शास्त्रोंके ज्ञानसे रहित, दूसरोंके दोष ढूँढ़नेवाला, साधनमें असमर्थ और विद्याहीन हो॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नास्तिकः",
+            "hindi": "नास्तिक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अनृती",
+            "hindi": "असत्य बोलने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई भी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अबहुश्रुतः",
+            "hindi": "बहुश्रुत / अधिक ज्ञान से रहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नासूयकः",
+            "hindi": "दोष देखने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अशक्तः",
+            "hindi": "असमर्थ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अविद्वान्",
+            "hindi": "अज्ञानी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विद्यते",
+            "hindi": "है / पाया जाता है (विद् धातु, कर्मवाच्य, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "क्वचित्",
+            "hindi": "कहीं (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.14",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed",
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "वहाँ कहीं एक भी ऐसा द्विज नहीं था, जो नास्तिक, असत्यवादी, अनेक शास्त्रोके ज्ञानसे रहित, दूसरोंके दोष ढूँढ़नेवाला, साधनमें असमर्थ और विद्याहीन हो॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

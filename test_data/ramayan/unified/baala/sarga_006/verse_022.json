@@ -1,0 +1,239 @@
+{
+  "id": "baala-006-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-18"
+    ],
+    "vulgate_in_locators": [
+      "1.6.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.18"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे"
+      ],
+      "locators": [
+        "1-6-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे॥१८"
+      ],
+      "locators": [
+        "1.6.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे",
+      "in": "सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे॥१८",
+      "gp": "सहिताः पुत्रपौत्रैश्च नित्यं स्त्रीभिः पुरोत्तमे",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पुरोत्तमे",
+            "b": "पुरोत्तमे॥१८"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-18",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Longevity is there for all of the people, all are with virtuosity and truthfulness, and they lived in that best city along with their sons, grandsons and their ladies. [1-6-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-18",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "diirghaayuSaH",
+            "devanagari_machine_converted": "दीर्घायुषः",
+            "english": "long life [longevity]"
+          },
+          {
+            "roman_itrans": "naraaH sarve",
+            "devanagari_machine_converted": "नराः सर्वे",
+            "english": "people, all of them"
+          },
+          {
+            "roman_itrans": "dharmam",
+            "devanagari_machine_converted": "धर्मम्",
+            "english": "virtuousness"
+          },
+          {
+            "roman_itrans": "satyam",
+            "devanagari_machine_converted": "सत्यम्",
+            "english": "truthfulness"
+          },
+          {
+            "roman_itrans": "cha",
+            "devanagari_machine_converted": "च",
+            "english": "also"
+          },
+          {
+            "roman_itrans": "samshritaaH",
+            "devanagari_machine_converted": "सम्श्रिताः",
+            "english": "they have"
+          },
+          {
+            "roman_itrans": "sahitaaH",
+            "devanagari_machine_converted": "सहिताः",
+            "english": "along with"
+          },
+          {
+            "roman_itrans": "putrapautraiH",
+            "devanagari_machine_converted": "पुत्रपौत्रैः",
+            "english": "sons and grandsons"
+          },
+          {
+            "roman_itrans": "cha",
+            "devanagari_machine_converted": "च",
+            "english": "also"
+          },
+          {
+            "roman_itrans": "striibhiH",
+            "devanagari_machine_converted": "स्त्रीभिः",
+            "english": "ladies"
+          },
+          {
+            "roman_itrans": "purottame",
+            "devanagari_machine_converted": "पुरोत्तमे",
+            "english": "the best city."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस श्रेष्ठ नगरमें निवास करनेवाले सब मनुष्य दीर्घायु तथा धर्म और सत्यका आश्रय लेनेवाले थे। वे सदा स्त्री-पुत्र और पौत्र आदि परिवारके साथ सुखसे रहते थे।। १८॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दीर्घायुषः",
+            "hindi": "दीर्घायु (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नराः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "धर्मम्",
+            "hindi": "धर्म का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यम्",
+            "hindi": "सत्य का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "संश्रिताः",
+            "hindi": "आश्रय लेने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सहिताः",
+            "hindi": "सहित (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "पुत्रपौत्रैः",
+            "hindi": "पुत्रों और पौत्रों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "स्त्रीभिः",
+            "hindi": "स्त्रियों के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरोत्तमे",
+            "hindi": "श्रेष्ठ पुरी में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.18",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "उस श्रेष्ठ नगरमें निवास करनेवाले सब मनुष्य दीर्घायु तथा धर्म और सत्यका आश्रय लेनेवाले थे। वे सदा स्त्री-पुत्र और पौत्र आदि परिवारके साथ सुखसे रहते थे॥ १८॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

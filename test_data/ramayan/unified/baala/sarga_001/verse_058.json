@@ -1,0 +1,74 @@
+{
+  "id": "baala-001-058",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 58,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.1.54"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": null,
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "श्रीमद्वाल्मीकीयरामायणे"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed",
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.1.54"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": null,
+      "in": null,
+      "gp": "श्रीमद्वाल्मीकीयरामायणे",
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": null,
+    "english_word_by_word": null,
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.54",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

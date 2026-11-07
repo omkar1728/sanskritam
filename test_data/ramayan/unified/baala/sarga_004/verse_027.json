@@ -1,0 +1,290 @@
+{
+  "id": "baala-004-027",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 27,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 22
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-29"
+    ],
+    "vulgate_in_locators": [
+      "1.4.29"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.29",
+      "1.4.30"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004022a",
+        "1004022c"
+      ],
+      "lines": [
+        "स्ववेश्म चानीय ततो भ्रातरौ सकुशीलवौ",
+        "पूजयामास पूजार्हौ रामः शत्रुनिबर्हणः"
+      ],
+      "punctuated_derived": "स्ववेश्म चानीय ततो भ्रातरौ सकुशीलवौ ।\nपूजयामास पूजार्हौ रामः शत्रुनिबर्हणः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स्ववेश्म चानिय ततो भ्रातरौ स कुशीलवौ",
+        "पूजयामास पूजार्हौ रामः शत्रुनिबर्हणः"
+      ],
+      "locators": [
+        "1-4-29"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स्ववेश्म चानीय ततो भ्रातरौ स कुशीलवौ",
+        "पूजयामास पूजाौँ रामः शत्रुनिबर्हणः"
+      ],
+      "locators": [
+        "1.4.29"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स्ववेश्म चानीय ततो भ्रातरौ स कुशीलवौ",
+        "पूजयामास पूजाही रामः शत्रुनिबहणः"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.29",
+        "1.4.30"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स्ववेश्म चानीय ततो भ्रातरौ सकुशीलवौ",
+      "net": "स्ववेश्म चानिय ततो भ्रातरौ स कुशीलवौ",
+      "in": "स्ववेश्म चानीय ततो भ्रातरौ स कुशीलवौ",
+      "gp": "स्ववेश्म चानीय ततो भ्रातरौ स कुशीलवौ",
+      "similarity": {
+        "sim_smith_net": 0.967741935483871,
+        "sim_in_net": 0.967741935483871,
+        "sim_gp_net": 0.967741935483871
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "चानीय",
+            "b": "चानिय"
+          },
+          {
+            "a": "सकुशीलवौ",
+            "b": "स कुशीलवौ"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "चानिय",
+            "b": "चानीय"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चानिय",
+            "b": "चानीय"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पूजयामास पूजार्हौ रामः शत्रुनिबर्हणः",
+      "net": "पूजयामास पूजार्हौ रामः शत्रुनिबर्हणः",
+      "in": "पूजयामास पूजाौँ रामः शत्रुनिबर्हणः",
+      "gp": "पूजयामास पूजाही रामः शत्रुनिबहणः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9375,
+        "sim_gp_net": 0.9032258064516129
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पूजार्हौ",
+            "b": "पूजाौँ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पूजार्हौ",
+            "b": "पूजाही"
+          },
+          {
+            "a": "शत्रुनिबर्हणः",
+            "b": "शत्रुनिबहणः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-29",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then on seeing them Rama, the enemy-eliminator, fetched those honour-worthy bothers, Lava and Kusha, to his palace and honoured them. [1-4-29]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-29",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "shatrunibarhaNaH",
+            "devanagari_machine_converted": "शत्रुनिबर्हणः",
+            "english": "enemy eliminator"
+          },
+          {
+            "roman_itrans": "saH ramaH",
+            "devanagari_machine_converted": "सः रमः",
+            "english": "he, that Rama"
+          },
+          {
+            "roman_itrans": "puujaarhau",
+            "devanagari_machine_converted": "पूजार्हौ",
+            "english": "worthy to be honoured"
+          },
+          {
+            "roman_itrans": "braatarau kushiilavau",
+            "devanagari_machine_converted": "ब्रातरौ कुशीलवौ",
+            "english": "two brothers (Kusha and Lava)"
+          },
+          {
+            "roman_itrans": "svaveshma aaniiya",
+            "devanagari_machine_converted": "स्ववेश्म आनीय",
+            "english": "having fetched to his palace"
+          },
+          {
+            "roman_itrans": "puujayaamaasa",
+            "devanagari_machine_converted": "पूजयामास",
+            "english": "honoured them."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.29",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन्होंने उन समादरयोग्य बन्धुओंको अपने घर बुलाकर उनका यथोचित सम्मान किया। तदनन्तर शत्रुओंका संहार करनेवाले (श्रीराम)-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.29",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "स्ववेश्म",
+            "hindi": "अपने घर"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "आनीय",
+            "hindi": "बुलाकर"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब"
+          },
+          {
+            "sanskrit": "भ्रातरौ",
+            "hindi": "दोनों भाइयों को"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उन्होंने"
+          },
+          {
+            "sanskrit": "कुशीलवौ",
+            "hindi": "कुश और लव"
+          },
+          {
+            "sanskrit": "पूजयामास",
+            "hindi": "पूजन / सम्मान किया"
+          },
+          {
+            "sanskrit": "पूज्यौ",
+            "hindi": "सम्मान के योग्य"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने"
+          },
+          {
+            "sanskrit": "शत्रुनिबर्हणः",
+            "hindi": "शत्रुओं का संहार करने वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.29",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.30",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

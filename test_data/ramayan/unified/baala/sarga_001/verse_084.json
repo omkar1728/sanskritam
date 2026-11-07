@@ -1,0 +1,253 @@
+{
+  "id": "baala-001-084",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 84,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 63
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-78"
+    ],
+    "vulgate_in_locators": [
+      "1.1.78"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.78"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001063a",
+        "1001063c"
+      ],
+      "lines": [
+        "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्",
+        "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः"
+      ],
+      "punctuated_derived": "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् ।\nन्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्",
+        "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः"
+      ],
+      "locators": [
+        "1-1-78"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्",
+        "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः"
+      ],
+      "locators": [
+        "1.1.78"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्‌",
+        "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.78"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्",
+      "net": "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्",
+      "in": "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्",
+      "gp": "सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रदक्षिणम्",
+            "b": "प्रदक्षिणम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः",
+      "net": "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः",
+      "in": "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः",
+      "gp": "न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-78",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Approaching the great Rama and peforming circumambulation around Rama, Hanuma having an inestimable intelligence, submitted in essence thus: 'Seen Seetha...' [1-1-78]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-78",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "abhigamya",
+            "devanagari_machine_converted": "अभिगम्य",
+            "english": "Approaching"
+          },
+          {
+            "roman_itrans": "mahaatmaanam raamam",
+            "devanagari_machine_converted": "महात्मानम् रामम्",
+            "english": "the great Rama"
+          },
+          {
+            "roman_itrans": "pradakShiNam kR^itvaa",
+            "devanagari_machine_converted": "प्रदक्षिणम् कृत्वा",
+            "english": "performing circumambulation [around Rama]"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he [Hanuma]"
+          },
+          {
+            "roman_itrans": "ameyaatmaa",
+            "devanagari_machine_converted": "अमेयात्मा",
+            "english": "having an inestimable intelligence"
+          },
+          {
+            "roman_itrans": "nyavedayat",
+            "devanagari_machine_converted": "न्यवेदयत्",
+            "english": "submitted"
+          },
+          {
+            "roman_itrans": "tattvataH",
+            "devanagari_machine_converted": "तत्त्वतः",
+            "english": "in essence"
+          },
+          {
+            "roman_itrans": "iti",
+            "devanagari_machine_converted": "इति",
+            "english": "thus"
+          },
+          {
+            "roman_itrans": "siithaa dR^iShTaa",
+            "devanagari_machine_converted": "सीथा दृष्टा",
+            "english": "seen Seetha."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.78",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'अपरिमित बुद्धिशाली हनुमान जी ने वहाँ जा महात्मा रामकी प्रदक्षिणा करके यह सत्य निवेदन किया—'मैंने सीताजीका दर्शन किया है'"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.78",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "उन्होंने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिगम्य",
+            "hindi": "जाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "महात्मानम्",
+            "hindi": "महात्मा की (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कृत्वा",
+            "hindi": "करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम की (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रदक्षिणम्",
+            "hindi": "प्रदक्षिणा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "न्यवेदयत्",
+            "hindi": "निवेदन किया (नि + विद्, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अमेयात्मा",
+            "hindi": "अपरिमित बुद्धि वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दृष्टा",
+            "hindi": "देखी गई है (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "सीता",
+            "hindi": "सीता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "तत्त्वतः",
+            "hindi": "यथार्थ में (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.78",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "' अपरिमित बुद्धिशाली हनुमानूजीने वहाँ जा महात्मा रामकी प्रदक्षिणा करके यों सत्य निवेदन किया-- मैंने सीताजीका दर्शन किया है'॥ ७८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

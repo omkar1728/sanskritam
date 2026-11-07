@@ -1,0 +1,368 @@
+{
+  "id": "baala-004-014",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 14,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 12
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-13",
+      "1-4-14"
+    ],
+    "vulgate_in_locators": [
+      "1.4.13",
+      "1.4.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.13",
+      "1.4.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004012a",
+        "1004012c",
+        "1004012e"
+      ],
+      "lines": [
+        "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+        "यथोपदेशं तत्त्वज्ञौ जगतुस्तौ समाहितौ",
+        "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+        "यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ",
+        "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ"
+      ],
+      "locators": [
+        "1-4-13",
+        "1-4-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+        "यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ",
+        "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ"
+      ],
+      "locators": [
+        "1.4.13",
+        "1.4.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+        "यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ",
+        "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_12-13",
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.13",
+        "1.4.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+      "net": "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+      "in": "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+      "gp": "ऋषीणां च द्विजातीनां साधूनां च समागमे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "यथोपदेशं तत्त्वज्ञौ जगतुस्तौ समाहितौ",
+      "net": "यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ",
+      "in": "यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ",
+      "gp": "यथोपदेशं तत्त्वज्ञौ जगतुः सुसमाहितौ",
+      "similarity": {
+        "sim_smith_net": 0.9230769230769231,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "जगतुस्तौ समाहितौ",
+            "b": "जगतुः सुसमाहितौ"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ",
+      "net": "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ",
+      "in": "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ",
+      "gp": "महात्मानौ महाभागौ सर्वलक्षणलक्षितौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They sung the epic as schooled, well aware of its content and intent, among the assemblages of sages, scholars and also of eminent persons, with their best concentration [1-4-13]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-14",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Once those two great-souls who endowed with musical talent and with all remarkable features, sung this epic, standing nearby the midst of a gathering of sages and pious souls. [1-4-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "R^iSiiNaam cha dvijaatiinaam",
+            "devanagari_machine_converted": "ऋषीणाम् च द्विजातीनाम्",
+            "english": "of sages, also, of scholars"
+          },
+          {
+            "roman_itrans": "saadhuunaam cha samaagame",
+            "devanagari_machine_converted": "साधूनाम् च समागमे",
+            "english": "also assemblages of eminent persons"
+          },
+          {
+            "roman_itrans": "yathopadesham tattvaj~nau",
+            "devanagari_machine_converted": "यथोपदेशम् तत्त्वज्ञौ",
+            "english": "as schooled, those two that are well aware of"
+          },
+          {
+            "roman_itrans": "jagatuH",
+            "devanagari_machine_converted": "जगतुः",
+            "english": "sung"
+          },
+          {
+            "roman_itrans": "susamaahitau",
+            "devanagari_machine_converted": "सुसमाहितौ",
+            "english": "with best concentration."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-14",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahaatmaanau",
+            "devanagari_machine_converted": "महात्मानौ",
+            "english": "those two great-souls"
+          },
+          {
+            "roman_itrans": "mahaabhaagau",
+            "devanagari_machine_converted": "महाभागौ",
+            "english": "highly endowed [with musical talent]"
+          },
+          {
+            "roman_itrans": "sarvalakShaNalakShitau",
+            "devanagari_machine_converted": "सर्वलक्षणलक्षितौ",
+            "english": "possessing all features"
+          },
+          {
+            "roman_itrans": "tau kadachit",
+            "devanagari_machine_converted": "तौ कदचित्",
+            "english": "those two, once"
+          },
+          {
+            "roman_itrans": "sametaanaam R^iSiiNaam",
+            "devanagari_machine_converted": "समेतानाम् ऋषीणाम्",
+            "english": "at a gathering, of sages"
+          },
+          {
+            "roman_itrans": "bhaavitaatmanaam",
+            "devanagari_machine_converted": "भावितात्मनाम्",
+            "english": "of pious souls"
+          },
+          {
+            "roman_itrans": "madhyesabham samiipasthau",
+            "devanagari_machine_converted": "मध्येसभम् समीपस्थौ",
+            "english": "standing nearby midst of assemblage"
+          },
+          {
+            "roman_itrans": "idam kaavyam agaayataam",
+            "devanagari_machine_converted": "इदम् काव्यम् अगायताम्",
+            "english": "sung this epic."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जब कभी ऋषियों, ब्राह्मणों तथा साधुओंका समागम होता था, उस समय उनके बीचमें बैठकर वे दोनों तत्त्वज्ञ बालक एकाग्रचित्त हो रामायणका गान किया करते थे।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.14",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "एक दिनकी बात है, बहुत-से शुद्ध अन्तःकरणवाले महर्षियोंकी मण्डली एकत्र हुई थी। उसमें महान् सौभाग्यशाली तथा समस्त शुभ लक्षणोंसे सुशोभित महामनस्वी कुश और लव भी उपस्थित थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋषीणाम्",
+            "hindi": "ऋषियों के"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "द्विजातीनाम्",
+            "hindi": "ब्राह्मणों के"
+          },
+          {
+            "sanskrit": "साधूनाम्",
+            "hindi": "साधुओं के"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "समागमे",
+            "hindi": "समागम में"
+          },
+          {
+            "sanskrit": "यथोपदेशम्",
+            "hindi": "उपदेश के अनुसार"
+          },
+          {
+            "sanskrit": "तत्त्वज्ञौ",
+            "hindi": "तत्त्व के ज्ञाता"
+          },
+          {
+            "sanskrit": "जगतुः",
+            "hindi": "गाने लगे"
+          },
+          {
+            "sanskrit": "सुसमाहितौ",
+            "hindi": "एकाग्रचित्त होकर"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.14",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "महात्मानौ",
+            "hindi": "महात्मा"
+          },
+          {
+            "sanskrit": "महाभागौ",
+            "hindi": "महान् सौभाग्यशाली"
+          },
+          {
+            "sanskrit": "सर्वलक्षणलक्षितौ",
+            "hindi": "सभी लक्षणों से युक्त"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "कदाचित्",
+            "hindi": "एक बार"
+          },
+          {
+            "sanskrit": "समेतानाम्",
+            "hindi": "एकत्र हुए लोगों के"
+          },
+          {
+            "sanskrit": "ऋषीणाम्",
+            "hindi": "ऋषियों के"
+          },
+          {
+            "sanskrit": "भावितात्मनाम्",
+            "hindi": "शुद्ध अन्तःकरण वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.13",
+        "ocr_flags": [
+          "hindi_marker_range_12-13"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "वे दोनों राजपुत्र सब लोगोंकी प्रशंसाके पात्र थे, उन्होंने उस धर्मानुकूल उत्तम उपाख्यानमय सम्पूर्ण काव्यको जिह्वाग्र कर लिया था और जब कभी ऋषियों, ब्राह्मणों तथा साधुआंका समागम होता था, उस समय उनके बीचमें बैठकर वे दोनों तत्त्वज्ञ बालक एकाग्रचित्त हो रामायणका गान किया करते थे॥ १२-१३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.14",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

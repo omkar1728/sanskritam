@@ -1,0 +1,246 @@
+{
+  "id": "baala-001-080",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 80,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 59
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-74"
+    ],
+    "vulgate_in_locators": [
+      "1.1.74"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.74"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001059a",
+        "1001059c"
+      ],
+      "lines": [
+        "निवेदयित्वाभिज्ञानं प्रवृत्तिं च निवेद्य च",
+        "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्"
+      ],
+      "punctuated_derived": "निवेदयित्वाभिज्ञानं प्रवृत्तिं च निवेद्य च ।\nसमाश्वास्य च वैदेहीं मर्दयामास तोरणम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "निवेदयित्वाभिज्ञानं प्रवृत्तिं च निवेद्य च",
+        "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्"
+      ],
+      "locators": [
+        "1-1-74"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "निवेदयित्वाभिज्ञानं प्रवृत्तिं विनिवेद्य च",
+        "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्"
+      ],
+      "locators": [
+        "1.1.74"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "निवेदयित्वाभिज्ञानं प्रवृत्तिं विनिवेद्य च",
+        "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.74"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "निवेदयित्वाभिज्ञानं प्रवृत्तिं च निवेद्य च",
+      "net": "निवेदयित्वाभिज्ञानं प्रवृत्तिं च निवेद्य च",
+      "in": "निवेदयित्वाभिज्ञानं प्रवृत्तिं विनिवेद्य च",
+      "gp": "निवेदयित्वाभिज्ञानं प्रवृत्तिं विनिवेद्य च",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.961038961038961,
+        "sim_gp_net": 0.961038961038961
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "विनिवेद्य"
+          },
+          {
+            "a": "निवेद्य च",
+            "b": ""
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "",
+            "b": "विनिवेद्य"
+          },
+          {
+            "a": "निवेद्य च",
+            "b": ""
+          }
+        ]
+      }
+    },
+    {
+      "smith": "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्",
+      "net": "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्",
+      "in": "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्",
+      "gp": "समाश्वास्य च वैदेहीं मर्दयामास तोरणम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तोरणम्",
+            "b": "तोरणम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-74",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After delivering to Seetha the mark of identification in the form of a ring from Rama and also communicating Rama's disposition and consoling Vaidehi, Hanuma destroyed the welcome-arch of Ashoka gardens... [1-1-74]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-74",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "nivedayitvaa = After delivering [to Seetha]; abhij~naanam",
+            "devanagari_machine_converted": "निवेदयित्वा = आफ़्तेर् देलिवेरिन्ग् [तो षीथ]; अभिज्ञानम्",
+            "english": "mark of identification [ring of Rama]"
+          },
+          {
+            "roman_itrans": "pravR^ittim ca nivedya ca",
+            "devanagari_machine_converted": "प्रवृत्तिम् च निवेद्य च",
+            "english": "and also communicating [Rama's] disposition"
+          },
+          {
+            "roman_itrans": "vaidehiim samaashvaasya ca",
+            "devanagari_machine_converted": "वैदेहीम् समाश्वास्य च",
+            "english": "and consoling Vaidehi"
+          },
+          {
+            "roman_itrans": "mardayaamaasa",
+            "devanagari_machine_converted": "मर्दयामास",
+            "english": "[Hanuma] destroyed"
+          },
+          {
+            "roman_itrans": "thoraNam",
+            "devanagari_machine_converted": "थोरणम्",
+            "english": "the welcome-arch [of Ashoka gardens];."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.74",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तब उन विदेहनन्दिनीको अपनी पहचान देकर रामका संदेश सुनाया और उन्हें सान्त्वना देकर उन्होंने वाटिकाका द्वार तोड़ डाला"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.74",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "निवेदयित्वा",
+            "hindi": "निवेदन करके / पहचान देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "अभिज्ञानम्",
+            "hindi": "पहचान चिन्ह को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रवृत्तिम्",
+            "hindi": "सन्देश को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विनिवेद्य",
+            "hindi": "सुनाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "समाश्वास्य",
+            "hindi": "सान्त्वना देकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "वैदेहीम्",
+            "hindi": "विदेह राजकुमारी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मर्दयामास",
+            "hindi": "तोड़ डाला (मृद् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तोरणम्",
+            "hindi": "द्वार / तोरण को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.74",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“तब उन विदेहनन्दिनीको अपनी पहचान देकर रामका संदेश सुनाया और उन्हें सान्त्वना देकर उन्होंने वाटिकाका द्वार तोड़ डाला॥ ७४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

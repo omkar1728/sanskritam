@@ -1,0 +1,294 @@
+{
+  "id": "baala-001-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 19
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-19, 1-1-20"
+    ],
+    "vulgate_in_locators": [
+      "1.1.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001019a"
+      ],
+      "lines": [
+        "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथस्सुतम्"
+      ],
+      "locators": [
+        "1-1-19, 1-1-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ज्येष्ठं ज्येष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्"
+      ],
+      "locators": [
+        "1.1.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ज्येष्ठं ज्येष्ठगुणै्युक्तं प्रियं दशरथः सुतम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_19-203"
+      ],
+      "refs": [
+        "1.1.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्",
+      "net": "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथस्सुतम्",
+      "in": "ज्येष्ठं ज्येष्ठगुणैर्युक्तं प्रियं दशरथः सुतम्",
+      "gp": "ज्येष्ठं ज्येष्ठगुणै्युक्तं प्रियं दशरथः सुतम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9647058823529412,
+        "sim_in_net": 0.9176470588235294,
+        "sim_gp_net": 0.9047619047619048
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "दशरथः सुतम्",
+            "b": "दशरथस्सुतम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "श्रेष्ठगुणैर्युक्तं",
+            "b": "ज्येष्ठगुणैर्युक्तं"
+          },
+          {
+            "a": "दशरथस्सुतम्",
+            "b": "दशरथः सुतम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "श्रेष्ठगुणैर्युक्तं",
+            "b": "ज्येष्ठगुणै्युक्तं"
+          },
+          {
+            "a": "दशरथस्सुतम्",
+            "b": "दशरथः सुतम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-19, 1-1-20",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Lord of the land King Dasaratha with an intent for doing good to the people, affectionately desired to endow with regent-hood to that Rama, the eldest and a dear son to Dasaratha and who possessed such merits with true valour, together with best of qualities, and concerned for welfare of the people....[1-1-29b, 20, 21a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-19, 1-1-20",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "19b, 20, 21a. mahiipatiH dasharathaH",
+            "devanagari_machine_converted": "१९ब्, २०, २१अ। महीपतिः दशरथः",
+            "english": "Lord of the land King Dasaratha"
+          },
+          {
+            "roman_itrans": "prakR^itipriyakaamyayaa",
+            "devanagari_machine_converted": "प्रकृतिप्रियकाम्यया",
+            "english": "with an intent for doing good to the people; priityaa = affectionately"
+          },
+          {
+            "roman_itrans": "aicChat",
+            "devanagari_machine_converted": "ऐच्छत्",
+            "english": "desired"
+          },
+          {
+            "roman_itrans": "saMyoktum",
+            "devanagari_machine_converted": "संयोक्तुम्",
+            "english": "to endow with"
+          },
+          {
+            "roman_itrans": "yauvaraajyena",
+            "devanagari_machine_converted": "यौवराज्येन",
+            "english": "regent-hood"
+          },
+          {
+            "roman_itrans": "tam raamam",
+            "devanagari_machine_converted": "तम् रामम्",
+            "english": "to that Rama"
+          },
+          {
+            "roman_itrans": "jyeSTham sutam",
+            "devanagari_machine_converted": "ज्येष्ठम् सुतम्",
+            "english": "the eldest son; priyam = a dear one [to Dasaratha]"
+          },
+          {
+            "roman_itrans": "evaM guNasaMpannam",
+            "devanagari_machine_converted": "एवं गुणसंपन्नम्",
+            "english": "[who was] possessor of such like merits"
+          },
+          {
+            "roman_itrans": "satyaparaakramam",
+            "devanagari_machine_converted": "सत्यपराक्रमम्",
+            "english": "with true valour"
+          },
+          {
+            "roman_itrans": "shreSTa-guNaiH-yuktam",
+            "devanagari_machine_converted": "श्रेष्ट-गुणैः-युक्तम्",
+            "english": "together with best of qualities; prakR^itiinaam hitaiH yuktam = concerned for welfare of the people."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.19",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'इस प्रकार उत्तम गुणोंसे युक्त और सत्यपराक्रमवाले सद्गुणशाली अपने प्रियतम ज्येष्ठ पुत्रको, जो प्रजाके हितमें संलग्न रहनेवाले थे, प्रजावर्गका हित करनेकी इच्छासे राजा दशरथने प्रेमवश युवराजपदपर अभिषिक्त करना चाहा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.19",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एवंगुणसम्पन्नम्",
+            "hindi": "ऐसे गुणों से युक्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामम्",
+            "hindi": "राम को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यपराक्रमम्",
+            "hindi": "सत्य पराक्रम वाले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्येष्ठम्",
+            "hindi": "बड़े को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्येष्ठगुणैः",
+            "hindi": "श्रेष्ठ गुणों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "युक्तम्",
+            "hindi": "युक्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रियम्",
+            "hindi": "प्रिय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुतम्",
+            "hindi": "पुत्र को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रकृतीनाम्",
+            "hindi": "प्रजा के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "हितैः",
+            "hindi": "हित के कार्यों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "युक्तम्",
+            "hindi": "युक्त को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रकृतिप्रियकाम्यया",
+            "hindi": "प्रजा के प्रिय की कामना से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यौवराज्येन",
+            "hindi": "युवराज पद से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "संयोक्तुम्",
+            "hindi": "जोड़ने के लिए (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "ऐच्छत्",
+            "hindi": "चाहा (इष् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "प्रीत्या",
+            "hindi": "प्रेमपूर्वक (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महीपतिः",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.20",
+        "ocr_flags": [
+          "hindi_marker_range_19-203"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "यौवराज्येन संयोक्तुमैच्छत्‌ प्रीत्या महीपतिः। “इस प्रकार उत्तम गुणोंसे युक्त और सत्यपराक्रमवाले सद्गुणशाली अपने प्रियतम ज्येष्ठ पुत्रको, जो प्रजाके हितमें संलग्न रहनेवाले थे, प्रजावर्गका हित करनेकी ्रीमद्दाल्मीकीयरामायणे इच्छासे राजा दशरथने प्रेमवश युवराजपदपर अभिषिक्त करना चाहा॥ १९-२०३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

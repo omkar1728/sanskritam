@@ -1,0 +1,222 @@
+{
+  "id": "baala-002-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 25
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-26"
+    ],
+    "vulgate_in_locators": [
+      "1.2.26"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.26"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002025a",
+        "1002025c"
+      ],
+      "lines": [
+        "अथोपविश्य भगवानासने परमार्चिते",
+        "वाल्मीकये महर्षये संदिदेशासनं ततः"
+      ],
+      "punctuated_derived": "अथोपविश्य भगवानासने परमार्चिते ।\nवाल्मीकये महर्षये संदिदेशासनं ततः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अथोपविश्य भगवानासने परमार्चिते",
+        "वाल्मीकये च ऋषये सन्दिदेशासनं ततः"
+      ],
+      "locators": [
+        "1-2-26"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अथोपविश्य भगवानासने परमार्चिते",
+        "वाल्मीकये च ऋषये संदिदेशासनं ततः"
+      ],
+      "locators": [
+        "1.2.26"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अथोपविश्य भगवानासने परमा्चिते",
+        "वाल्मीकये च ऋषये संदिदेशासनं ततः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.26"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अथोपविश्य भगवानासने परमार्चिते",
+      "net": "अथोपविश्य भगवानासने परमार्चिते",
+      "in": "अथोपविश्य भगवानासने परमार्चिते",
+      "gp": "अथोपविश्य भगवानासने परमा्चिते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9818181818181818
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "परमार्चिते",
+            "b": "परमा्चिते"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "वाल्मीकये महर्षये संदिदेशासनं ततः",
+      "net": "वाल्मीकये च ऋषये सन्दिदेशासनं ततः",
+      "in": "वाल्मीकये च ऋषये संदिदेशासनं ततः",
+      "gp": "वाल्मीकये च ऋषये संदिदेशासनं ततः",
+      "similarity": {
+        "sim_smith_net": 0.896551724137931,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "महर्षये संदिदेशासनं",
+            "b": "च ऋषये सन्दिदेशासनं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सन्दिदेशासनं",
+            "b": "संदिदेशासनं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सन्दिदेशासनं",
+            "b": "संदिदेशासनं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-26",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then god Brahma, who is seated on a high seat, very highly worshipped by Valmiki, also beckoned at Valmiki to take a seat. [1-2-26]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-26",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": []
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.26",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "भगवान् ब्रह्माने एक परम उत्तम आसनपर विराजमान होकर वाल्मीकि मुनिको भी आसन-ग्रहण करनेकी आज्ञा दी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.26",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अथ",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "उपविश्य",
+            "hindi": "बैठकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् ब्रह्मा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "आसने",
+            "hindi": "आसन पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "परमार्चिते",
+            "hindi": "परम पूजित पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वाल्मीकये",
+            "hindi": "वाल्मीकि के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "ऋषये",
+            "hindi": "ऋषि के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "सन्दिदेश",
+            "hindi": "आदेश दिया (सम् + दिश्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "आसनम्",
+            "hindi": "आसन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.26",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "भगवान्‌ ब्रह्माने एक परम उत्तम आसनपर विराजमान होकर वाल्मीकि मुनिको भी आसन-ग्रहण करनेकी आज्ञा दी॥ २६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

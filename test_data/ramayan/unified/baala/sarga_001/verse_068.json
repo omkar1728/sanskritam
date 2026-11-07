@@ -1,0 +1,272 @@
+{
+  "id": "baala-001-068",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 68,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 50
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-63, 1-1-64"
+    ],
+    "vulgate_in_locators": [
+      "1.1.63"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.63"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001050a",
+        "1001050c"
+      ],
+      "lines": [
+        "प्रतिज्ञातं च रामेण तदा वालिवधं प्रति",
+        "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे"
+      ],
+      "punctuated_derived": "प्रतिज्ञातं च रामेण तदा वालिवधं प्रति ।\nसुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे"
+      ],
+      "locators": [
+        "1-1-63, 1-1-64"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे"
+      ],
+      "locators": [
+        "1.1.63"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_62-63"
+      ],
+      "refs": [
+        "1.1.63"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रतिज्ञातं च रामेण तदा वालिवधं प्रति",
+      "net": null,
+      "in": null,
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    },
+    {
+      "smith": "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे",
+      "net": "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे",
+      "in": "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे",
+      "gp": "सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"But Sugreeva remained ever doubtful with respect to Raghava, about Raghava's prowess. Sugreeva showed Dundubhi's big and great mountain-like dead body to gain confidence in Raghava... [1-1-63b, 64]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "63b, 64. tu",
+            "devanagari_machine_converted": "६३ब्, ६४। तु",
+            "english": "But"
+          },
+          {
+            "roman_itrans": "sugriivaH",
+            "devanagari_machine_converted": "सुग्रीवः",
+            "english": "Sugreeva"
+          },
+          {
+            "roman_itrans": "nityam shankitaH aasiit",
+            "devanagari_machine_converted": "नित्यम् शन्कितः आसीत्",
+            "english": "remained ever doubtful"
+          },
+          {
+            "roman_itrans": "raaghave",
+            "devanagari_machine_converted": "राघवे",
+            "english": "with respect to Raghava"
+          },
+          {
+            "roman_itrans": "viiryeNa",
+            "devanagari_machine_converted": "वीर्येण",
+            "english": "about [Rama's] prowess"
+          },
+          {
+            "roman_itrans": "sugriivaH",
+            "devanagari_machine_converted": "सुग्रीवः",
+            "english": "Sugreeva"
+          },
+          {
+            "roman_itrans": "darshayaamaasa",
+            "devanagari_machine_converted": "दर्शयामास",
+            "english": "showed"
+          },
+          {
+            "roman_itrans": "dundubheH",
+            "devanagari_machine_converted": "दुन्दुभेः",
+            "english": "Dundubhi's"
+          },
+          {
+            "roman_itrans": "uttamam",
+            "devanagari_machine_converted": "उत्तमम्",
+            "english": "big"
+          },
+          {
+            "roman_itrans": "mahaaparvatasannibham",
+            "devanagari_machine_converted": "महापर्वतसन्निभम्",
+            "english": "great mountain like"
+          },
+          {
+            "roman_itrans": "kaayam",
+            "devanagari_machine_converted": "कायम्",
+            "english": "body"
+          },
+          {
+            "roman_itrans": "raaghavapratyayaartham",
+            "devanagari_machine_converted": "राघवप्रत्ययार्थम्",
+            "english": "to gain confidence in Raghava."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-63, 1-1-64",
+        "spans_beyond_this_verse": true,
+        "text": "Vali had at one time killed Dundubhi and kicked his body over a long distance."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.63",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तब वानर सुग्रीवने वहाँ वालीके बलका वर्णन किया; क्योंकि सुग्रीवको रामके बलके विषयमें बराबर शंका बनी रहती थी"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.63",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वालिनः",
+            "hindi": "वाली का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "बलम्",
+            "hindi": "बल (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "कथयामास",
+            "hindi": "वर्णन किया (कथ् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वानरः",
+            "hindi": "वानर ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवः",
+            "hindi": "सुग्रीव (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शङ्कितः",
+            "hindi": "शंकित हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "था (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "निरन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "वीर्येण",
+            "hindi": "पराक्रम के विषय में (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राघवे",
+            "hindi": "राम में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.63",
+        "ocr_flags": [
+          "hindi_marker_range_62-63"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "“उस समय रामने वालीको मारनेकी प्रतिज्ञा की, तब वानर सुग्रीवने वहाँ वालीके बलका वर्णन किया; क्योंकि सुग्रीवको रामके बलके विषयमें बराबर शंका बनी रहती pt ६२-६३॥"
+      }
+    ]
+  },
+  "flags": [
+    "critical_line_without_vulgate_match",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

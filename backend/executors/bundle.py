@@ -18,16 +18,28 @@ def make_bundle(spec: dict, dest) -> Path:
     return dest
 
 
-def resolve_spec(bundle_dir, models_dir) -> dict:
-    bundle_dir, models_dir = Path(bundle_dir), Path(models_dir)
-    spec = json.loads((bundle_dir / "spec.json").read_text(encoding="utf-8"))
+def resolve_spec_dict(spec: dict, base_dir, models_dir) -> dict:
+    """Resolve relative paths in a spec: models/<f> under models_dir, everything else under base_dir.
+    Rejects absolute paths and '..'. out_wav is optional here (batch workers override it)."""
+    base_dir, models_dir = Path(base_dir), Path(models_dir)
+    spec = dict(spec)
     for k in ("ref_wav", "voice_ckpt", "vocoder_ckpt", "out_wav"):
+        if k not in spec:
+            if k == "out_wav": continue
+            raise KeyError(k)
         v = spec[k]
-        parts = PurePosixPath(v).parts
-        if PurePosixPath(v).is_absolute() or ".." in parts:
-            raise ValueError(f"unsafe path in spec.json: {k}={v!r}")
-        spec[k] = str(models_dir / PurePosixPath(*parts[1:]) if parts[0] == "models" else bundle_dir / v)
+        pp = PurePosixPath(str(v).replace("\\", "/"))
+        parts = pp.parts
+        if not parts or pp.is_absolute() or ".." in parts or (len(str(v)) > 1 and str(v)[1] == ":"):
+            raise ValueError(f"unsafe path in spec: {k}={v!r}")
+        spec[k] = str(models_dir / PurePosixPath(*parts[1:]) if parts[0] == "models" else base_dir / pp)
     return spec
+
+
+def resolve_spec(bundle_dir, models_dir) -> dict:
+    bundle_dir = Path(bundle_dir)
+    spec = json.loads((bundle_dir / "spec.json").read_text(encoding="utf-8"))
+    return resolve_spec_dict(spec, bundle_dir, models_dir)
 
 
 def zip_dir(src, zip_path, prefix: str = "") -> Path:

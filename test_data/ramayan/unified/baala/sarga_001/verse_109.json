@@ -1,0 +1,288 @@
+{
+  "id": "baala-001-109",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 109,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 79
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-100"
+    ],
+    "vulgate_in_locators": [
+      "1.1.100"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.100"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001079a"
+      ],
+      "lines": [
+        "पठन्द्विजो वागृषभत्वमीया;त्स्यात्क्षत्रियो भूमिपतित्वमीयात्"
+      ],
+      "punctuated_derived": null,
+      "pada_split": [
+        {
+          "line_index": 0,
+          "padas": [
+            "पठन्द्विजो वागृषभत्वमीया",
+            "त्स्यात्क्षत्रियो भूमिपतित्वमीयात्"
+          ]
+        }
+      ]
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स्यात् क्षत्रियो भूमिपतित्वमीयात्"
+      ],
+      "locators": [
+        "1-1-100"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पठन् द्विजो वागृषभत्वमीयात् स्यात् क्षत्रियो भूमिपतित्वमीयात्"
+      ],
+      "locators": [
+        "1.1.100"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स्यात्‌ क्षत्रियो भूमिपतित्वमीयात्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.100"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पठन्द्विजो वागृषभत्वमीया;त्स्यात्क्षत्रियो भूमिपतित्वमीयात्",
+      "net": "स्यात् क्षत्रियो भूमिपतित्वमीयात्",
+      "in": "पठन् द्विजो वागृषभत्वमीयात् स्यात् क्षत्रियो भूमिपतित्वमीयात्",
+      "gp": "स्यात्‌ क्षत्रियो भूमिपतित्वमीयात्‌",
+      "similarity": {
+        "sim_smith_net": 0.7209302325581395,
+        "sim_in_net": 0.7209302325581395,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "पठन्द्विजो वागृषभत्वमीयात्स्यात्क्षत्रियो",
+            "b": "स्यात् क्षत्रियो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "पठन् द्विजो वागृषभत्वमीयात्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "स्यात्",
+            "b": "स्यात्‌"
+          },
+          {
+            "a": "भूमिपतित्वमीयात्",
+            "b": "भूमिपतित्वमीयात्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-100",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"By reading this Ramayana, that person if a Brahmana obtains excellency in speech, if a Kshatriya obtains land-lordship, if Vaisya attains profit in trade and even if a Sudra attains excellence.\" Thus Sage Narada gave a gist of Ramayana to Sage-poet Valmiki. [1-1-100]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-100",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "paThan",
+            "devanagari_machine_converted": "पठन्",
+            "english": "By reading [this Ramayana]"
+          },
+          {
+            "roman_itrans": "janaH",
+            "devanagari_machine_converted": "जनः",
+            "english": "[that] person"
+          },
+          {
+            "roman_itrans": "dvijaH syaat",
+            "devanagari_machine_converted": "द्विजः स्यात्",
+            "english": "if a Brahmana"
+          },
+          {
+            "roman_itrans": "vaagR^iShabhatvam iiyaat",
+            "devanagari_machine_converted": "वागृषभत्वम् ईयात्",
+            "english": "obtains excellency in speech"
+          },
+          {
+            "roman_itrans": "kShatriyaH [syaat]",
+            "devanagari_machine_converted": "क्षत्रियः [स्यात्]",
+            "english": "if Kshatriya"
+          },
+          {
+            "roman_itrans": "bhuumipatitvam iiyaat",
+            "devanagari_machine_converted": "भूमिपतित्वम् ईयात्",
+            "english": "obtains land-lordship"
+          },
+          {
+            "roman_itrans": "vaNigjanaH",
+            "devanagari_machine_converted": "वणिग्जनः",
+            "english": "if Vysya"
+          },
+          {
+            "roman_itrans": "paNyaphalatvam iiyaat",
+            "devanagari_machine_converted": "पण्यफलत्वम् ईयात्",
+            "english": "attains profit in trade"
+          },
+          {
+            "roman_itrans": "shuudraH api ca",
+            "devanagari_machine_converted": "शूद्रः अपि च",
+            "english": "if even a Sudra"
+          },
+          {
+            "roman_itrans": "mahatvam iiyaat",
+            "devanagari_machine_converted": "महत्वम् ईयात्",
+            "english": "attains excellence."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.100",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'इसे ब्राह्मण पढ़े तो विद्वान् हो, क्षत्रिय पढ़ता हो तो पृथ्वीका राज्य प्राप्त करे, वैश्यको व्यापारमें लाभ हो और शूद्र भी प्रतिष्ठा प्राप्त करे'"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.100",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पठन्",
+            "hindi": "पढ़ता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजः",
+            "hindi": "ब्राह्मण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वागृषभत्वम्",
+            "hindi": "वाणी में श्रेष्ठता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ईयात्",
+            "hindi": "प्राप्त करे (इण् धातु, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "स्यात्",
+            "hindi": "हो (अस् धातु, विधिलिङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "क्षत्रियः",
+            "hindi": "क्षत्रिय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भूमिपतित्वम्",
+            "hindi": "पृथ्वी का स्वामित्व (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ईयात्",
+            "hindi": "प्राप्त करे"
+          },
+          {
+            "sanskrit": "वणिग्जनः",
+            "hindi": "वैश्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पण्यफलत्वम्",
+            "hindi": "व्यापार में लाभ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ईयात्",
+            "hindi": "प्राप्त करे"
+          },
+          {
+            "sanskrit": "जनः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "शूद्रः",
+            "hindi": "शूद्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "महत्त्वम्",
+            "hindi": "महानता / प्रतिष्ठा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ईयात्",
+            "hindi": "प्राप्त करे"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.100",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“इसे ब्राह्मण पढ़े तो विद्वान्‌ हो, क्षत्रिय पढ़ता हो तो पृथ्वीका राज्य प्राप्त करे, वैश्यको व्यापारमें लाभ हो और शूद्र भी प्रतिष्ठा प्राप्त करे'॥ १००॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

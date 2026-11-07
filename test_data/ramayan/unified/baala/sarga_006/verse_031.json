@@ -1,0 +1,193 @@
+{
+  "id": "baala-006-031",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 31,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 22
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-25"
+    ],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.6.25"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006022c"
+      ],
+      "lines": [
+        "भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी"
+      ],
+      "locators": [
+        "1-6-25"
+      ]
+    },
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "भद्रमन्रैरभद्रमृगैर्मृगमन््रैशच सा पुरी"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.6.25"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी",
+      "net": "भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी",
+      "in": null,
+      "gp": "भद्रमन्रैरभद्रमृगैर्मृगमन््रैशच सा पुरी",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_gp_net": 0.8947368421052632
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "भद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च",
+            "b": "भद्रमन्रैरभद्रमृगैर्मृगमन््रैशच"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-25",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city is always full with vigorous and mountain like elephants bred mainly from three classes viz., Bhadra, Mandra and Mriga. And inter-bred among these three main classes are Bhadra-Mandra, Mandra-Mriga, Bhadra-Mriga and the like. [1-6-25]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-25",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "25-26a. saa purii",
+            "devanagari_machine_converted": "२५-२६अ। सा पुरी",
+            "english": "that city"
+          },
+          {
+            "roman_itrans": "bhadraiH",
+            "devanagari_machine_converted": "भद्रैः",
+            "english": "class of Bhadra"
+          },
+          {
+            "roman_itrans": "mandraiH",
+            "devanagari_machine_converted": "मन्द्रैः",
+            "english": "class of Mandra"
+          },
+          {
+            "roman_itrans": "mR^igaiH",
+            "devanagari_machine_converted": "मृगैः",
+            "english": "class of mriga"
+          },
+          {
+            "roman_itrans": "cha eva",
+            "devanagari_machine_converted": "च एव",
+            "english": "like that"
+          },
+          {
+            "roman_itrans": "bhadramandramR^igaiH tathaa",
+            "devanagari_machine_converted": "भद्रमन्द्रमृगैः तथा",
+            "english": "a mixture of these three"
+          },
+          {
+            "roman_itrans": "bhadramandraiH",
+            "devanagari_machine_converted": "भद्रमन्द्रैः",
+            "english": "bhadra and mandra"
+          },
+          {
+            "roman_itrans": "bhadramR^igaiH",
+            "devanagari_machine_converted": "भद्रमृगैः",
+            "english": "bhadra and mriga"
+          },
+          {
+            "roman_itrans": "mR^igamandraiH cha",
+            "devanagari_machine_converted": "मृगमन्द्रैः च",
+            "english": "mriga and mandra, also"
+          },
+          {
+            "roman_itrans": "nityamattaiH",
+            "devanagari_machine_converted": "नित्यमत्तैः",
+            "english": "always vigorous"
+          },
+          {
+            "roman_itrans": "naagaiH",
+            "devanagari_machine_converted": "नागैः",
+            "english": "elephants"
+          },
+          {
+            "roman_itrans": "achalasannibhaiH",
+            "devanagari_machine_converted": "अचलसन्निभैः",
+            "english": "mountain like"
+          },
+          {
+            "roman_itrans": "sadaa puurNaa",
+            "devanagari_machine_converted": "सदा पूर्णा",
+            "english": "always, full with."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-25",
+        "spans_beyond_this_verse": true,
+        "text": "The bhadra is the elephant class for King's ride, called bhadragaja . It is a state elephant with high honors and for occasional or ceremonial use. mandra and mR^iga are classes of breed tamed and used in wars or for the ride of other nobility. These are the essential mammals used for other lifting and carrying works."
+      }
+    ],
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.25",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "हिमालय पर्वतपर उत्पन्न भद्रजातिके, विन्ध्यपर्वतपर उत्पन्न हुए मन्द्रजातिके तथा सह्यपर्वतपर पैदा हुए मृग श्रीमद्वाल्मीकीयरामायणे जातिके हाथी भी वहाँ मौजूद थे। भद्र, मन्द्र और मृग-_ इन तीनोंके मेलसे उत्पन्न हुए संकरजातिके, भद्र और मन्द्र-इन दो जातियोँके मेलसे पैदा हुए संकर जातिके भद्र और मृग जातिके संयोगसे उत्पन्न संकरजातिके तथा मृग और मन्द्र-इन दो जातियोंके सम्मिश्रणसे पैदा हुए पर्वताकार गजराज भी, जो सदा मदोन्मत्त रहते थे उस पुरीमें भरे हुए थे। (तीन योजनके विस्तारवाली अयोध्यामे) दो योजनको भूमि तो ऐसी थी, जहाँ पहुँचकर किसीके लिये भी युद्ध करना असम्भव था, इसलिये वह पुरी \"अयोध्या' इस सत्य एवं सार्थक नामसे प्रकाशित होती थी; जिसमें रहते हुए राजा दशरथ इस जगतका (अपने राज्यका) पालन करते थे॥ २५-२६॥"
+      }
+    ]
+  },
+  "flags": [
+    "net_in_line_mismatch",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

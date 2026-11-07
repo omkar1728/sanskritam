@@ -1,0 +1,286 @@
+{
+  "id": "baala-004-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 17
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-18"
+    ],
+    "vulgate_in_locators": [
+      "1.4.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004017a",
+        "1004017c"
+      ],
+      "lines": [
+        "प्रविश्य तावुभौ सुष्ठु तदा भावमगायताम्",
+        "सहितौ मधुरं रक्तं संपन्नं स्वरसंपदा"
+      ],
+      "punctuated_derived": "प्रविश्य तावुभौ सुष्ठु तदा भावमगायताम् ।\nसहितौ मधुरं रक्तं संपन्नं स्वरसंपदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रविश्य तावुभौ सुष्ठु तथा भावमगायताम्",
+        "सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा"
+      ],
+      "locators": [
+        "1-4-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रविश्य तावुभौ सुष्ठ तथाभावमगायताम्",
+        "सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा"
+      ],
+      "locators": [
+        "1.4.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रविश्य तावुभौ सुष्ठु तथाभावमगायताम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_183_differs_from_sanskrit_18"
+      ],
+      "refs": [
+        "1.4.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रविश्य तावुभौ सुष्ठु तदा भावमगायताम्",
+      "net": "प्रविश्य तावुभौ सुष्ठु तथा भावमगायताम्",
+      "in": "प्रविश्य तावुभौ सुष्ठ तथाभावमगायताम्",
+      "gp": "प्रविश्य तावुभौ सुष्ठु तथाभावमगायताम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9696969696969697,
+        "sim_in_net": 0.9846153846153847,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तदा",
+            "b": "तथा"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सुष्ठु तथा भावमगायताम्",
+            "b": "सुष्ठ तथाभावमगायताम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तथा भावमगायताम्",
+            "b": "तथाभावमगायताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सहितौ मधुरं रक्तं संपन्नं स्वरसंपदा",
+      "net": "सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा",
+      "in": "सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संपन्नं स्वरसंपदा",
+            "b": "सम्पन्नं स्वरसम्पदा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-18",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On getting into the mood of the epic, those two sang its import in one tune, that too melodiously and rapturously, marinating the pitch and tune...\" So said the saints. [1-4-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-18",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tau ubhau",
+            "devanagari_machine_converted": "तौ उभौ",
+            "english": "those two"
+          },
+          {
+            "roman_itrans": "sahitau",
+            "devanagari_machine_converted": "सहितौ",
+            "english": "in oneness [of musical notes]"
+          },
+          {
+            "roman_itrans": "suSThu pravishya",
+            "devanagari_machine_converted": "सुष्ठु प्रविश्य",
+            "english": "very well, on entering [into the mood of epic]"
+          },
+          {
+            "roman_itrans": "madhuram",
+            "devanagari_machine_converted": "मधुरम्",
+            "english": "melodiously"
+          },
+          {
+            "roman_itrans": "raktam",
+            "devanagari_machine_converted": "रक्तम्",
+            "english": "rapturously"
+          },
+          {
+            "roman_itrans": "svarasampadaa sampannam",
+            "devanagari_machine_converted": "स्वरसम्पदा सम्पन्नम्",
+            "english": "(shaDjaadi svarasampadaa) maintaining pitch and tune"
+          },
+          {
+            "roman_itrans": "bhaavam agaayataam",
+            "devanagari_machine_converted": "भावम् अगायताम्",
+            "english": "sang its import."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘यद्यपि इस काव्यमें वर्णित घटना बहुत दिनों पहले हो चुकी है तो भी इन दोनों बालकोंने इस सभामें प्रवेश करके एक साथ ऐसे सुन्दर भावसे स्वरसम्पन्न, रागयुक्त मधुरगान किया है कि वे पहलेकी घटनाएँ भी प्रत्यक्ष-सी दिखायी देने लगी हैं—मानो अभी-अभी आँखोंके सामने घटित हो रही हों’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चिरनिर्वृत्तम्",
+            "hindi": "बहुत दिनों पहले घटित"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "एतत्",
+            "hindi": "यह"
+          },
+          {
+            "sanskrit": "प्रत्यक्षम्",
+            "hindi": "प्रत्यक्ष"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान"
+          },
+          {
+            "sanskrit": "दर्शितम्",
+            "hindi": "दिखाया गया"
+          },
+          {
+            "sanskrit": "प्रविश्य",
+            "hindi": "प्रवेश करके"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "उभौ",
+            "hindi": "दोनों"
+          },
+          {
+            "sanskrit": "सुष्ठ",
+            "hindi": "सुन्दर"
+          },
+          {
+            "sanskrit": "तथाभावम्",
+            "hindi": "उस भाव को"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गाने लगे"
+          },
+          {
+            "sanskrit": "सहितौ",
+            "hindi": "साथ में"
+          },
+          {
+            "sanskrit": "मधुरम्",
+            "hindi": "मधुर"
+          },
+          {
+            "sanskrit": "रक्तम्",
+            "hindi": "रागयुक्त"
+          },
+          {
+            "sanskrit": "सम्पन्नम्",
+            "hindi": "सम्पन्न"
+          },
+          {
+            "sanskrit": "स्वरसम्पदा",
+            "hindi": "स्वर सम्पदा से"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.18",
+        "ocr_flags": [
+          "hindi_marker_183_differs_from_sanskrit_18"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "सहितौ मधुरं रक्तं सम्पन्नं स्वरसम्पदा। “यद्यपि इस काव्यमें वर्णित घटना बहुत दिनों पहले हो चुकी है तो भी इन दोनों बालकोंने इस सभामें प्रवेश करके एक साथ ऐसे सुन्दर भावसे स्वरसम्पन्न, रागयुक्त मधुरगान किया है कि वे पहलेकी घटनाएँ भी प्रत्यक्ष-सी दिखायी देने लगी हैं-मानो अभी-अभी आँखोंके सामने घटित हो रही हों'॥ १८३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

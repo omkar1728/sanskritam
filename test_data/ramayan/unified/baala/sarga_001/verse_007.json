@@ -1,0 +1,286 @@
+{
+  "id": "baala-001-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 7
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-7"
+    ],
+    "vulgate_in_locators": [
+      "1.1.7"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.7"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001007a",
+        "1001007c"
+      ],
+      "lines": [
+        "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+        "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः"
+      ],
+      "punctuated_derived": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः ।\nमुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+        "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः"
+      ],
+      "locators": [
+        "1-1-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+        "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः"
+      ],
+      "locators": [
+        "1.1.7"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+        "मुने वक्ष्याम्यहं बुदध्वा तैर्युक्तः श्रूयतां नरः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.7"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+      "net": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+      "in": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+      "gp": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः",
+      "net": "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः",
+      "in": "मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः",
+      "gp": "मुने वक्ष्याम्यहं बुदध्वा तैर्युक्तः श्रूयतां नरः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9885057471264368
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "बुद्ध्वा",
+            "b": "बुदध्वा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-7",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Oh! Sage Valmiki, the merits which you have extolled are many, and unattainable. I, after having known from Brahma of such a man with all these merits, will speak on...Let it be heard.\" Thus Narada started to say. [1-1-7]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-7",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mune",
+            "devanagari_machine_converted": "मुने",
+            "english": "oh sage Valmiki"
+          },
+          {
+            "roman_itrans": "bahavaH",
+            "devanagari_machine_converted": "बहवः",
+            "english": "many"
+          },
+          {
+            "roman_itrans": "ca durlabhaaH",
+            "devanagari_machine_converted": "च दुर्लभाः",
+            "english": "and unattainable"
+          },
+          {
+            "roman_itrans": "eva",
+            "devanagari_machine_converted": "एव",
+            "english": "indeed"
+          },
+          {
+            "roman_itrans": "ye guNaaH",
+            "devanagari_machine_converted": "ये गुणाः",
+            "english": "whichever merits"
+          },
+          {
+            "roman_itrans": "tvayaa kiirtitaaH",
+            "devanagari_machine_converted": "त्वया कीर्तिताः",
+            "english": "extolled by you"
+          },
+          {
+            "roman_itrans": "naraH",
+            "devanagari_machine_converted": "नरः",
+            "english": "man"
+          },
+          {
+            "roman_itrans": "taiH yuktaH",
+            "devanagari_machine_converted": "तैः युक्तः",
+            "english": "who has these merits"
+          },
+          {
+            "roman_itrans": "aham buddhvaa",
+            "devanagari_machine_converted": "अहम् बुद्ध्वा",
+            "english": "I, after knowing"
+          },
+          {
+            "roman_itrans": "vakShyaami",
+            "devanagari_machine_converted": "वक्ष्यामि",
+            "english": "I will speak"
+          },
+          {
+            "roman_itrans": "shruuyataam",
+            "devanagari_machine_converted": "श्रूयताम्",
+            "english": "Let it be heard."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-7",
+        "spans_beyond_this_verse": false,
+        "text": "Narada came hither to impart the legend of Rama, as Brahma already imparted the same to him, and wanted him to impart these very attributes to Valmiki to compose Ramayana. It is a coincidence of interests Valmiki and those of Narada and Brahma."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'मुने! आपने जिन बहुत-से दुर्लभ गुणोंका वर्णन किया है, उनसे युक्त पुरुषको मैं विचार करके कहता हूँ, आप सुनें"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "बहवः",
+            "hindi": "बहुत से (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दुर्लभाः",
+            "hindi": "दुर्लभ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "ये",
+            "hindi": "जो (प्रथमा विभक्ति, सम्बन्धसूचक सर्वनाम)"
+          },
+          {
+            "sanskrit": "त्वया",
+            "hindi": "आपके द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कीर्तिताः",
+            "hindi": "वर्णन किए गए हैं (कीर्तय धातु, कर्मवाच्य भूतकाल, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "गुणाः",
+            "hindi": "गुण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुने",
+            "hindi": "हे मुनि! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "वक्ष्यामि",
+            "hindi": "कहूँगा (वच् धातु, लृट् लकार, उत्तम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अहम्",
+            "hindi": "मैं (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "बुद्ध्वा",
+            "hindi": "जानकर / विचारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तैः",
+            "hindi": "उनसे (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "युक्तः",
+            "hindi": "युक्त हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रूयताम्",
+            "hindi": "सुना जाए (कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "नरः",
+            "hindi": "मनुष्य (प्रथमा विभक्ति, कर्ता)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.7",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'मुने! आपने जिन बहुत-से दुर्लभ गुणोंका वर्णन किया है, उनसे युक्त पुरुषको मैं विचार करके कहता हुँ, आप सुनें॥ ७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

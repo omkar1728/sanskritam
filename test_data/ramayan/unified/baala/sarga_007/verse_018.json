@@ -1,0 +1,398 @@
+{
+  "id": "baala-007-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-18",
+      "1-7-19"
+    ],
+    "vulgate_in_locators": [
+      "1.7.18",
+      "1.7.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.18",
+      "1.7.19"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अभितो गुणवन्तश्च न चासन् गुणवर्जिताः",
+        "सन्धिविग्रहतत्त्वज्ञाः प्रकृत्या संपदान्विताः",
+        "मंत्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु",
+        "नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः"
+      ],
+      "locators": [
+        "1-7-18",
+        "1-7-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अभितो गुणवन्तश्च न चासन् गुणवर्जिताः",
+        "संधिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः॥१८",
+        "मन्त्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु",
+        "नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः॥१९"
+      ],
+      "locators": [
+        "1.7.18",
+        "1.7.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अभितो गुणवन्तश्च न चासन्‌ गुणवर्जिताः",
+        "संधिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः",
+        "मन्त्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु",
+        "नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.18",
+        "1.7.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "अभितो गुणवन्तश्च न चासन् गुणवर्जिताः",
+      "in": "अभितो गुणवन्तश्च न चासन् गुणवर्जिताः",
+      "gp": "अभितो गुणवन्तश्च न चासन्‌ गुणवर्जिताः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "चासन्",
+            "b": "चासन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "सन्धिविग्रहतत्त्वज्ञाः प्रकृत्या संपदान्विताः",
+      "in": "संधिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः॥१८",
+      "gp": "संधिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सन्धिविग्रहतत्त्वज्ञाः",
+            "b": "संधिविग्रहतत्त्वज्ञाः"
+          },
+          {
+            "a": "संपदान्विताः",
+            "b": "सम्पदान्विताः॥१८"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सन्धिविग्रहतत्त्वज्ञाः",
+            "b": "संधिविग्रहतत्त्वज्ञाः"
+          },
+          {
+            "a": "संपदान्विताः",
+            "b": "सम्पदान्विताः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "मंत्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु",
+      "in": "मन्त्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु",
+      "gp": "मन्त्रसंवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "मंत्रसंवरणे",
+            "b": "मन्त्रसंवरणे"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मंत्रसंवरणे",
+            "b": "मन्त्रसंवरणे"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः",
+      "in": "नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः॥१९",
+      "gp": "नीतिशास्त्रविशेषज्ञाः सततं प्रियवादिनः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "प्रियवादिनः",
+            "b": "प्रियवादिनः॥१९"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-18",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Versatile and virtuous are they the ministers and there is none who discarded his virtuosity, and they are the determiners of truce or war, and by their nature they possess opulence. [1-7-18]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They are capable to keep up the confidentialities of strategies, and also capable to apply their mind even in micro-affairs, and they know moral science comprehensively, and above all, they are gentle articulators. [1-7-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-18",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "abhitaH",
+            "devanagari_machine_converted": "अभितः",
+            "english": "versatile"
+          },
+          {
+            "roman_itrans": "guNavantaH cha",
+            "devanagari_machine_converted": "गुणवन्तः च",
+            "english": "virtuous ones, also"
+          },
+          {
+            "roman_itrans": "na cha aasan",
+            "devanagari_machine_converted": "न च आसन्",
+            "english": "not, also, there is"
+          },
+          {
+            "roman_itrans": "guNavarjitaaH",
+            "devanagari_machine_converted": "गुणवर्जिताः",
+            "english": "virtue discarded ones"
+          },
+          {
+            "roman_itrans": "sandhivigrahatattvaj~naaH",
+            "devanagari_machine_converted": "सन्धिविग्रहतत्त्वज्ञाः",
+            "english": "determiners of truce or war"
+          },
+          {
+            "roman_itrans": "prakR^ityaa",
+            "devanagari_machine_converted": "प्रकृत्या",
+            "english": "by nature"
+          },
+          {
+            "roman_itrans": "sampadaanvitaaH",
+            "devanagari_machine_converted": "सम्पदान्विताः",
+            "english": "possessing opulence."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mantrasamvaraNe shaktaaH",
+            "devanagari_machine_converted": "मन्त्रसम्वरणे शक्ताः",
+            "english": "capable to keep confidentiality of strategies"
+          },
+          {
+            "roman_itrans": "shaktaaH",
+            "devanagari_machine_converted": "शक्ताः",
+            "english": "capable of"
+          },
+          {
+            "roman_itrans": "suukShmaasu",
+            "devanagari_machine_converted": "सूक्ष्मासु",
+            "english": "micro-affairs"
+          },
+          {
+            "roman_itrans": "buddhiSu",
+            "devanagari_machine_converted": "बुद्धिषु",
+            "english": "applying mind"
+          },
+          {
+            "roman_itrans": "niitishaastravisheShaj~naaH",
+            "devanagari_machine_converted": "नीतिशास्त्रविशेषज्ञाः",
+            "english": "comprehensively known moral science"
+          },
+          {
+            "roman_itrans": "satatam priyavaadinaH",
+            "devanagari_machine_converted": "सततम् प्रियवादिनः",
+            "english": "always, gentle articulators."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "समस्त देशों और कालोंमें वे गुणवान् ही सिद्ध होते थे, गुणहीन नहीं। संधि और विग्रहके उपयोग और अवसरका उन्हें अच्छी तरह ज्ञान था। वे स्वभावसे ही सम्पत्तिशाली (दैवी सम्पत्तिसे युक्त) थे॥ १८ ॥"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनमें राजकीय मन्त्रणाको गुप्त रखनेकी पूर्ण शक्ति थी। वे सूक्ष्मविषयका विचार करनेमें कुशल थे। नीतिशास्त्रमें उनकी विशेष जानकारी थी तथा वे सदा ही प्रिय लगनेवाली बात बोलते थे॥ १९॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अभितः",
+            "hindi": "सब ओर से (अव्यय)"
+          },
+          {
+            "sanskrit": "गुणवन्तः",
+            "hindi": "गुणवान् (प्रथमा विभक्ति, बहुवचन, वतुप् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आसन्",
+            "hindi": "थे (अस् धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "गुणवर्जिताः",
+            "hindi": "गुणरहित (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सन्धिविग्रहतत्त्वज्ञाः",
+            "hindi": "संधि और विग्रह के तत्व के ज्ञाता (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रकृत्या",
+            "hindi": "स्वभाव से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सम्पदान्विताः",
+            "hindi": "सम्पत्ति से युक्त (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "मन्त्रसंवरणे",
+            "hindi": "मंत्र को गुप्त रखने में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "शक्ताः",
+            "hindi": "शक्तिशाली (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "शक्ताः",
+            "hindi": "शक्तिशाली (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सूक्ष्मासु",
+            "hindi": "सूक्ष्म (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "बुद्धिषु",
+            "hindi": "बुद्धियों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नीतिशास्त्रविशेषज्ञाः",
+            "hindi": "नीतिशास्त्र के विशेषज्ञ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सततम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रियवादिनः",
+            "hindi": "प्रिय वचन बोलने वाले (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.18",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "समस्त देशों और कालोंमें वे गुणवान्‌ ही सिद्ध होते थे, गुणहीन नहीं। संधि और विग्रहके उपयोग और अवसरका उन्हें अच्छी तरह ज्ञान था। वे स्वभावसे ही सम्पत्तिशाली (दैवी सम्यत्तिसे युक्त) थे॥ १८॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.19",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उनमें राजकीय मन्त्रणाको गुप्त रखनेकी पूर्ण शक्ति थी। वे सूक्ष्मविषयका विचार करनेमें कुशल थे। नीतिशास्त्रमें उनकी विशेष जानकारी थी तथा वे सदा ही प्रिय लगनेवाली बात बोलते थे॥ १९॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

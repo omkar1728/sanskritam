@@ -1,0 +1,260 @@
+{
+  "id": "baala-007-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-1"
+    ],
+    "vulgate_in_locators": [
+      "1.7.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.1"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्यामात्या गुणैरासन्निक्ष्वाकोस्तु महात्मनः",
+        "मंत्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः"
+      ],
+      "locators": [
+        "1-7-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्यामात्या गुणैरासन्निक्ष्वाकोः सुमहात्मनः",
+        "मन्त्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः॥१"
+      ],
+      "locators": [
+        "1.7.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्यामात्या गुणैरासन्निक्ष्वाकोः सुमहात्मनः",
+        "मन्त्रज्ञाश्चेङ्गितज्ञाशच नित्यं प्रियहिते रताः"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.7.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "तस्यामात्या गुणैरासन्निक्ष्वाकोस्तु महात्मनः",
+      "in": "तस्यामात्या गुणैरासन्निक्ष्वाकोः सुमहात्मनः",
+      "gp": "तस्यामात्या गुणैरासन्निक्ष्वाकोः सुमहात्मनः",
+      "similarity": {
+        "sim_in_net": 0.9629629629629629,
+        "sim_gp_net": 0.9629629629629629
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गुणैरासन्निक्ष्वाकोस्तु महात्मनः",
+            "b": "गुणैरासन्निक्ष्वाकोः सुमहात्मनः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गुणैरासन्निक्ष्वाकोस्तु महात्मनः",
+            "b": "गुणैरासन्निक्ष्वाकोः सुमहात्मनः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "मंत्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः",
+      "in": "मन्त्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रताः॥१",
+      "gp": "मन्त्रज्ञाश्चेङ्गितज्ञाशच नित्यं प्रियहिते रताः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9882352941176471
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "मंत्रज्ञाश्चेङ्गितज्ञाश्च",
+            "b": "मन्त्रज्ञाश्चेङ्गितज्ञाश्च"
+          },
+          {
+            "a": "रताः",
+            "b": "रताः॥१"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मंत्रज्ञाश्चेङ्गितज्ञाश्च",
+            "b": "मन्त्रज्ञाश्चेङ्गितज्ञाशच"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-1",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The misters for the great soul from Ikshvaku kings of Emperor Dasharatha, are epitomised ones of their tactfulness, adroitness and are always obliged to undertake welfare activities of their king and the kingdom. [1-7-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-1",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahaaatmanaH tasya ikShwaakoH tu",
+            "devanagari_machine_converted": "महाअत्मनः तस्य इक्ष्वाकोः तु",
+            "english": "for the great soul from Ikshvaku kings, Dasharatha"
+          },
+          {
+            "roman_itrans": "guNaiH",
+            "devanagari_machine_converted": "गुणैः",
+            "english": "those with epitomised attribute"
+          },
+          {
+            "roman_itrans": "mantraj~naaH cha",
+            "devanagari_machine_converted": "मन्त्रज्ञाः च",
+            "english": "tactful, also"
+          },
+          {
+            "roman_itrans": "iN^gitaj~naaH cha",
+            "devanagari_machine_converted": "इङ्गितज्ञाः च",
+            "english": "adroit ones, also"
+          },
+          {
+            "roman_itrans": "nityam priyahite rataH",
+            "devanagari_machine_converted": "नित्यम् प्रियहिते रतः",
+            "english": "always, obliged to undertake welfare alone"
+          },
+          {
+            "roman_itrans": "amaatyaaH",
+            "devanagari_machine_converted": "अमात्याः",
+            "english": "ministers"
+          },
+          {
+            "roman_itrans": "aasan",
+            "devanagari_machine_converted": "आसन्",
+            "english": "are there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इक्ष्वाकुवंशी वीर महामना महाराज दशरथके मन्त्रिजनोचित गुणोंसे सम्पन्न आठ मन्त्री थे, जो मन्त्रके तत्त्वको जाननेवाले और बाहरी चेष्टा देखकर ही मनके भावको समझ लेनेवाले थे। वे सदा ही राजाके प्रिय एवं हितमें लगे रहते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (दशरथ) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आमात्याः",
+            "hindi": "मंत्री (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "गुणैः",
+            "hindi": "गुणों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आसन्",
+            "hindi": "थे (अस् धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "इक्ष्वाकोः",
+            "hindi": "इक्ष्वाकु वंशी का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सुमहात्मनः",
+            "hindi": "महामना का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रज्ञाः",
+            "hindi": "मंत्र के तत्व जानने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "इङ्गितज्ञाः",
+            "hindi": "चेष्टा से भाव जानने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रियहिते",
+            "hindi": "प्रिय और हित में (सप्तमी विभक्ति, द्विवचन/समाहार द्वन्द्व)"
+          },
+          {
+            "sanskrit": "रताः",
+            "hindi": "लगे रहने वाले (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.1",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "इक्ष्वाकुवंशी वीर महामना महाराज दशरथके 'मन्त्रिजनोचित गुणोंसे सम्पन्न आठ मन्त्री थे, जो मन्त्रके तत्त्वको जाननेवाले और बाहरी चेष्य देखकर ही मनके भावको समझ लेनेवाले थे। वे सदा ही राजाके प्रिय एवं हितमें लगे रहते थे। इसीलिये उनका यश बहुत फैला हुआ था। वे सभी शुद्ध आचार-विचारसे युक्त थे और राजकीय कायाँमें निरन्तर संलग्न रहते थे॥ १-२॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

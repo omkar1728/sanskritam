@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 10,
+  "critical_sarga": 9,
+  "vulgate_sarga": 10,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "अंगदेश में ऋष्यश्रृंग के आने तथा शान्ता के साथ विवाह होने के प्रसंग का विस्तार के साथ वर्णन",
+  "title_en_from_in": "A detailed description of Rishyashringa's arrival in Angadesha and his marriage to Shanta",
+  "intro_en_from_net": "Sumantra, the minister continues his narration to his king Dasharatha, about Rishyashringa's arrival at Anga kingdom of King Romapaada and his marriage with Princess Shantha, the daughter of Romapada.",
+  "counts": {
+    "smith_lines": 64,
+    "net_lines": 67,
+    "in_lines": 67,
+    "smith_verses": 32,
+    "net_blocks": 30,
+    "in_verses": 32,
+    "gp_lines": 64,
+    "gp_units": 33,
+    "in_declared": 33,
+    "docs": 37
+  }
+}

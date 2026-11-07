@@ -1,0 +1,264 @@
+{
+  "id": "baala-001-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 9
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-9"
+    ],
+    "vulgate_in_locators": [
+      "1.1.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.9"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001009a",
+        "1001009c"
+      ],
+      "lines": [
+        "बुद्धिमान्नीतिमान्वाग्मी श्रीमाञ्शत्रुनिबर्हणः",
+        "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः"
+      ],
+      "punctuated_derived": "बुद्धिमान्नीतिमान्वाग्मी श्रीमाञ्शत्रुनिबर्हणः ।\nविपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "बुद्धिमान्नीतिमान्वाग्ग्मी श्रीमान् शत्रुनिबर्हणः",
+        "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः"
+      ],
+      "locators": [
+        "1-1-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः",
+        "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः"
+      ],
+      "locators": [
+        "1.1.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "बुद्धिमान्‌ नीतिमान्‌ वाग्मी श्रीमान्‌ शत्रुनिबईणः",
+        "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "बुद्धिमान्नीतिमान्वाग्मी श्रीमाञ्शत्रुनिबर्हणः",
+      "net": "बुद्धिमान्नीतिमान्वाग्ग्मी श्रीमान् शत्रुनिबर्हणः",
+      "in": "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः",
+      "gp": "बुद्धिमान्‌ नीतिमान्‌ वाग्मी श्रीमान्‌ शत्रुनिबईणः",
+      "similarity": {
+        "sim_smith_net": 0.9767441860465116,
+        "sim_in_net": 0.9767441860465116,
+        "sim_gp_net": 0.9285714285714286
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "बुद्धिमान्नीतिमान्वाग्मी श्रीमाञ्शत्रुनिबर्हणः",
+            "b": "बुद्धिमान्नीतिमान्वाग्ग्मी श्रीमान् शत्रुनिबर्हणः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "बुद्धिमान्नीतिमान्वाग्ग्मी",
+            "b": "बुद्धिमान् नीतिमान् वाग्मी"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "बुद्धिमान्नीतिमान्वाग्ग्मी श्रीमान् शत्रुनिबर्हणः",
+            "b": "बुद्धिमान्‌ नीतिमान्‌ वाग्मी श्रीमान्‌ शत्रुनिबईणः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः",
+      "net": "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः",
+      "in": "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः",
+      "gp": "विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-9",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He is a wise one, moralist, eloquent, glorious, and a destroyer of enemies. His arms are lengthy, with three lines in the neck [indicative of good fortune], and cheekbones high... [1-1-9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-9",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "buddhimaan",
+            "devanagari_machine_converted": "बुद्धिमान्",
+            "english": "wise"
+          },
+          {
+            "roman_itrans": "niitimaan",
+            "devanagari_machine_converted": "नीतिमान्",
+            "english": "moralist"
+          },
+          {
+            "roman_itrans": "vaagmii",
+            "devanagari_machine_converted": "वाग्मी",
+            "english": "eloquent"
+          },
+          {
+            "roman_itrans": "shriimaan",
+            "devanagari_machine_converted": "श्रीमान्",
+            "english": "glorious one"
+          },
+          {
+            "roman_itrans": "shatrunibharhaNaH",
+            "devanagari_machine_converted": "शत्रुनिभर्हणः",
+            "english": "destroyer of enemies"
+          },
+          {
+            "roman_itrans": "vipulaamsaH",
+            "devanagari_machine_converted": "विपुलाम्सः",
+            "english": "broad shouldered"
+          },
+          {
+            "roman_itrans": "mahaabaahuH",
+            "devanagari_machine_converted": "महाबाहुः",
+            "english": "with lengthy arms"
+          },
+          {
+            "roman_itrans": "kambugriivaH",
+            "devanagari_machine_converted": "कम्बुग्रीवः",
+            "english": "with three lines in the neck [indicative of good fortune]"
+          },
+          {
+            "roman_itrans": "mahaahanuH",
+            "devanagari_machine_converted": "महाहनुः",
+            "english": "high cheek bones."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-9",
+        "spans_beyond_this_verse": false,
+        "text": "The Absolute is an adept one in creating the Creation yat sarvaj~naH sarvavit. He is niitimaan one who maintains the rhythm of universe as said at eSa setuH vidharaNa eSaam lokanaamasambhedaaya... He is propitious because shriiH kaantisaMpadoH lakshmyaam... gleaming, glistering richness of prosperity emanates from him. The following stanzas describe the physical qualities an Emperor should have by birth, as per saamudrikashaastra, the physiognomic treatise of astrology."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वे बुद्धिमान्, नीतिज्ञ, वक्ता, शोभायमान तथा शत्रुसंहारक हैं। उनके कंधे मोटे और भुजाएँ बड़ीबड़ी हैं। ग्रीवा शङ्खके समान और ठोढ़ी मांसल (पुष्ट) है"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "बुद्धिमान्",
+            "hindi": "बुद्धि वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नीतिमान्",
+            "hindi": "नीति जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वाग्मी",
+            "hindi": "प्रभावशाली वक्ता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रीमान्",
+            "hindi": "शोभा/लक्ष्मी युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शत्रुनिबर्हणः",
+            "hindi": "शत्रुओं का विनाश करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विपुलांसः",
+            "hindi": "विशाल कन्धों वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाबाहुः",
+            "hindi": "महान भुजाओं वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कम्बुग्रीवः",
+            "hindi": "शंख जैसी ग्रीवा वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाहनुः",
+            "hindi": "बड़ी/पुष्ट ठोढ़ी वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.9",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“वे बुद्धिमान्‌, नीतिज्ञ, वक्ता, शोभायमान तथा शत्रुसंहारक हैं। उनके कंधे मोटे और भुजाएँ बड़ी-बड़ी हैं। ग्रीवा शङ्खके समान और ठोढ़ी मांसल (पुष्ट) है॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

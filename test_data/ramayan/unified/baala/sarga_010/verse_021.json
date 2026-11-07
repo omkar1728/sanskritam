@@ -1,0 +1,281 @@
+{
+  "id": "baala-010-021",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 21,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 20
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-20"
+    ],
+    "vulgate_in_locators": [
+      "1.10.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009020a",
+        "1009020c"
+      ],
+      "lines": [
+        "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः",
+        "मोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्शुभान्"
+      ],
+      "punctuated_derived": "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः ।\nमोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्शुभान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततस्तास्तं समालिंग्य सर्वा हर्षसमन्विताः",
+        "मोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधान् शुभान्"
+      ],
+      "locators": [
+        "1-10-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः",
+        "मोदकान् प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्छुभान्"
+      ],
+      "locators": [
+        "1.10.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः",
+        "मोदकान्‌ प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्छुभान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः",
+      "net": "ततस्तास्तं समालिंग्य सर्वा हर्षसमन्विताः",
+      "in": "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः",
+      "gp": "ततस्तास्तं समालिङ्ग्य सर्वा हर्षसमन्विताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "समालिङ्ग्य",
+            "b": "समालिंग्य"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "समालिंग्य",
+            "b": "समालिङ्ग्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "समालिंग्य",
+            "b": "समालिङ्ग्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "मोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्शुभान्",
+      "net": "मोदकान्प्रददुस्तस्मै भक्ष्यांश्च विविधान् शुभान्",
+      "in": "मोदकान् प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्छुभान्",
+      "gp": "मोदकान्‌ प्रददुस्तस्मै भक्ष्यांश्च विविधाञ्छुभान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9767441860465116,
+        "sim_gp_net": 0.9767441860465116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विविधाञ्शुभान्",
+            "b": "विविधान् शुभान्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मोदकान्प्रददुस्तस्मै",
+            "b": "मोदकान् प्रददुस्तस्मै"
+          },
+          {
+            "a": "विविधान् शुभान्",
+            "b": "विविधाञ्छुभान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मोदकान्प्रददुस्तस्मै",
+            "b": "मोदकान्‌ प्रददुस्तस्मै"
+          },
+          {
+            "a": "विविधान् शुभान्",
+            "b": "विविधाञ्छुभान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then all of the courtesans have embraced him and all of them with a kind of mirthfulness in the offing, presented sweet-balls and other varieties of best sweetmeats to him. [1-10-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH taaH sarvaaH tam samaaliN^gya",
+            "devanagari_machine_converted": "ततः ताः सर्वाः तम् समालिङ्ग्य",
+            "english": "then, they, all, on embracing him"
+          },
+          {
+            "roman_itrans": "harSasamanvitaaH",
+            "devanagari_machine_converted": "हर्षसमन्विताः",
+            "english": "having with mirthfulness"
+          },
+          {
+            "roman_itrans": "modakaan",
+            "devanagari_machine_converted": "मोदकान्",
+            "english": "sweet-balls [laddu-s]"
+          },
+          {
+            "roman_itrans": "bhakSyaan cha",
+            "devanagari_machine_converted": "भक्ष्यान् च",
+            "english": "other sweetmeats, also"
+          },
+          {
+            "roman_itrans": "vividhaan shubhaan",
+            "devanagari_machine_converted": "विविधान् शुभान्",
+            "english": "in variety, of best ones"
+          },
+          {
+            "roman_itrans": "pradaduH tasmai",
+            "devanagari_machine_converted": "प्रददुः तस्मै",
+            "english": "well presented, to him."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ऐसा कहकर उन सबने हर्षमें भरकर ऋषिका आलिंगन किया और उन्हें खानेयोग्य भाँति-भाँतिके उत्तम पदार्थ तथा बहुत-सी मिठाइयाँ दीं।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "ताः",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (ऋषि) को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समालिङ्ग्य",
+            "hindi": "आलिंगन करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वाः",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "हर्षसमन्विताः",
+            "hindi": "हर्ष से युक्त (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "मोदकान्",
+            "hindi": "मोदक / मिठाइयाँ (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रददुः",
+            "hindi": "दीं (प्र + दा, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "तस्मै",
+            "hindi": "उसे (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "भक्ष्यान्",
+            "hindi": "भोज्य पदार्थों को (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "विविधान्",
+            "hindi": "विविध प्रकार के (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "शुभान्",
+            "hindi": "उत्तम / शुभ (द्वितीया विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.20",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“ऐसा कहकर उन सबने हर्षमें भरकर ऋषिका आलिंगन किया और उन्हें खानेयोग्य भाँति-भाँतिके उत्तम पदार्थ तथा बहुत-सी मिठाइयाँ दीं॥ २०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

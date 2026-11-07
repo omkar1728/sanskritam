@@ -1,0 +1,286 @@
+{
+  "id": "baala-010-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 9
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-8, 1-10-9"
+    ],
+    "vulgate_in_locators": [
+      "1.10.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.9"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009009a",
+        "1009009c"
+      ],
+      "lines": [
+        "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+        "स्त्री वा पुमान्वा यच्चान्यत्सत्त्वं नगरराष्ट्रजम्"
+      ],
+      "punctuated_derived": "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना ।\nस्त्री वा पुमान्वा यच्चान्यत्सत्त्वं नगरराष्ट्रजम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+        "स्त्री वा पुमान्वा यच्चान्यत्सत्त्वं नगरराष्ट्रजम्"
+      ],
+      "locators": [
+        "1-10-8, 1-10-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+        "स्त्री वा पुमान् वा यच्चान्यत् सत्त्वं नगरराष्ट्रजम्"
+      ],
+      "locators": [
+        "1.10.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+        "स्त्री वा पुमान्‌ वा यच्चान्यत्‌ सत्त्वं नगरराष्ट्रजम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+      "net": "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+      "in": "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+      "gp": "न तेन जन्मप्रभृति दृष्टपूर्वं तपस्विना",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "स्त्री वा पुमान्वा यच्चान्यत्सत्त्वं नगरराष्ट्रजम्",
+      "net": "स्त्री वा पुमान्वा यच्चान्यत्सत्त्वं नगरराष्ट्रजम्",
+      "in": "स्त्री वा पुमान् वा यच्चान्यत् सत्त्वं नगरराष्ट्रजम्",
+      "gp": "स्त्री वा पुमान्‌ वा यच्चान्यत्‌ सत्त्वं नगरराष्ट्रजम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पुमान्वा यच्चान्यत्सत्त्वं",
+            "b": "पुमान् वा यच्चान्यत् सत्त्वं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पुमान्वा यच्चान्यत्सत्त्वं नगरराष्ट्रजम्",
+            "b": "पुमान्‌ वा यच्चान्यत्‌ सत्त्वं नगरराष्ट्रजम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-8, 1-10-9",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Always satisfied is sage Rishyasringa to be in hermitage, thus he never stirred out of that hermitage, and thus he has not seen any female, or a male, or even any other objects of pleasure, either of city or of countryside from the time of birth onwards... [1-10-8b, 9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-8, 1-10-9",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "8b, 9. nityasantuShTaH",
+            "devanagari_machine_converted": "८ब्, ९। नित्यसन्तुष्टः",
+            "english": "always satisfied"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he Rishyasringa"
+          },
+          {
+            "roman_itrans": "pituH aashramaat",
+            "devanagari_machine_converted": "पितुः आश्रमात्",
+            "english": "his father's, hermitage"
+          },
+          {
+            "roman_itrans": "na ati chakraama",
+            "devanagari_machine_converted": "न अति चक्राम",
+            "english": "not, out of way, stirred out"
+          },
+          {
+            "roman_itrans": "tapasvinaa",
+            "devanagari_machine_converted": "तपस्विना",
+            "english": "by hermit"
+          },
+          {
+            "roman_itrans": "tena janmaprabhR^iti",
+            "devanagari_machine_converted": "तेन जन्मप्रभृति",
+            "english": "by him, birth onwards"
+          },
+          {
+            "roman_itrans": "strii vaa pumaan",
+            "devanagari_machine_converted": "स्त्री वा पुमान्",
+            "english": "female, or, male"
+          },
+          {
+            "roman_itrans": "nagararaaSTrajam",
+            "devanagari_machine_converted": "नगरराष्ट्रजम्",
+            "english": "of city or of countryside"
+          },
+          {
+            "roman_itrans": "yat anyat",
+            "devanagari_machine_converted": "यत् अन्यत्",
+            "english": "that which, any other"
+          },
+          {
+            "roman_itrans": "sattvam",
+            "devanagari_machine_converted": "सत्त्वम्",
+            "english": "being"
+          },
+          {
+            "roman_itrans": "na dR^iShTapuurvam",
+            "devanagari_machine_converted": "न दृष्टपूर्वम्",
+            "english": "not seen earlier."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-8, 1-10-9",
+        "spans_beyond_this_verse": true,
+        "text": "Rishyasringa is thus not aware of gender differentiation or exposed to any other object of pleasure, and thus his father conditioned him to achieve some supreme ritual ideal."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“उन तपस्वी ऋषिकुमारने जन्मसे लेकर उस समयतक पहले कभी न तो कोई स्त्री देखी थी और न पिताके सिवा दूसरे किसी पुरुषका ही दर्शन किया था। नगर या राष्ट्रके गाँवोंमें उत्पन्न हुए दूसरे-दूसरे प्राणियोंको भी वे नहीं देख पाये थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उसके द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जन्मप्रभृति",
+            "hindi": "जन्म से लेकर (अव्यय)"
+          },
+          {
+            "sanskrit": "दृष्टपूर्वम्",
+            "hindi": "पहले कभी देखा हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तपस्विना",
+            "hindi": "तपस्वी द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "स्त्री",
+            "hindi": "स्त्री (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "पुमान्",
+            "hindi": "पुरुष (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्यत्",
+            "hindi": "अन्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्त्वम्",
+            "hindi": "प्राणी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नगरराष्ट्रजम्",
+            "hindi": "नगर या राष्ट्र में उत्पन्न (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.9",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "““उन तपस्वी ऋषिकुमारने जन्मसे लेकर उस श्रीमद्वाल्मीकीयरामायणे समयतक पहले कभी न तो कोई स्त्री देखी थी और न पिताके सिवा दूसरे किसी पुरुषका ही दर्शन किया था। नगर या राष्ट्रके गाँवोंमें उत्पन्न हुए दूसरे-दूसरे प्राणियोंको भी वे नहीं देख पाये थे॥९॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

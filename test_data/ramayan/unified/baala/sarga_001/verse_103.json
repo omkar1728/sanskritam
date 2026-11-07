@@ -1,0 +1,224 @@
+{
+  "id": "baala-001-103",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 103,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-94, 1-1-95"
+    ],
+    "vulgate_in_locators": [
+      "1.1.95"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.95"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः"
+      ],
+      "locators": [
+        "1-1-94, 1-1-95"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः"
+      ],
+      "locators": [
+        "1.1.95"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.1.95"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः",
+      "in": "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः",
+      "gp": "असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-94, 1-1-95",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Like-wise the highly illustrious Rama having performed hundreds of horse rituals and having donated plentiful gold and crores of cows and wealth that cannot be counted to Brahmanas and to scholars according to custom... [1-1-94b, 95a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-94, 1-1-95",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "94b, 95a. tathaa",
+            "devanagari_machine_converted": "९४ब्, ९५अ। तथा",
+            "english": "like-wise; mahaayashaaH = highly illustrious one [Rama]"
+          },
+          {
+            "roman_itrans": "iSTvaa",
+            "devanagari_machine_converted": "इष्ट्वा",
+            "english": "having performed"
+          },
+          {
+            "roman_itrans": "ashvamedhashataiH",
+            "devanagari_machine_converted": "अश्वमेधशतैः",
+            "english": "hundreds of Horse Rituals"
+          },
+          {
+            "roman_itrans": "dattvaa",
+            "devanagari_machine_converted": "दत्त्वा",
+            "english": "[and] having donated"
+          },
+          {
+            "roman_itrans": "bahusuvarNakaiH",
+            "devanagari_machine_converted": "बहुसुवर्णकैः",
+            "english": "plentiful gold"
+          },
+          {
+            "roman_itrans": "gavaam koTyayutam",
+            "devanagari_machine_converted": "गवाम् कोट्ययुतम्",
+            "english": "[and] crores of cows"
+          },
+          {
+            "roman_itrans": "dhanam",
+            "devanagari_machine_converted": "धनम्",
+            "english": "[and] wealth"
+          },
+          {
+            "roman_itrans": "asankhyeyam",
+            "devanagari_machine_converted": "असन्ख्येयम्",
+            "english": "[that] cannot be counted"
+          },
+          {
+            "roman_itrans": "braahmaNebhyaH",
+            "devanagari_machine_converted": "ब्राह्मणेभ्यः",
+            "english": "to Brahmanas"
+          },
+          {
+            "roman_itrans": "vidvadbhyaH",
+            "devanagari_machine_converted": "विद्वद्भ्यः",
+            "english": "[and] to scholars"
+          },
+          {
+            "roman_itrans": "vidhipuurvakam",
+            "devanagari_machine_converted": "विधिपूर्वकम्",
+            "english": "according to custom."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.95",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनमें विधिपूर्वक विद्वानोंको दस हजार करोड़ (एक खरब) गौ और ब्राह्मणोंको अपरिमित धन देंगे"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.95",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गवाम्",
+            "hindi": "गौओं का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कोट्ययुतम्",
+            "hindi": "दस हज़ार करोड़ (एक खरब) (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "दान देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "विद्वद्भ्यः",
+            "hindi": "विद्वानों को (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "विधिपूर्वकम्",
+            "hindi": "विधि के अनुसार (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "असङ्ख्येयम्",
+            "hindi": "गिनने में न आने वाला (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "धनम्",
+            "hindi": "धन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "ब्राह्मणेभ्यः",
+            "hindi": "ब्राह्मणों को (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "महायशाः",
+            "hindi": "महान् कीर्ति वाले ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.95",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

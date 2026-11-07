@@ -1,0 +1,378 @@
+{
+  "id": "baala-001-101",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 101,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-92",
+      "1-1-93"
+    ],
+    "vulgate_in_locators": [
+      "1.1.93",
+      "1.1.94"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.93"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न चापि क्षुद्भयं तत्र न तस्करभयं तथा",
+        "नगराणि च राष्ट्राणि धनधान्ययुतानि च",
+        "नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा"
+      ],
+      "locators": [
+        "1-1-92",
+        "1-1-93"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न चापि क्षुद्भयं तत्र न तस्करभयं तथा",
+        "नगराणि च राष्ट्राणि धनधान्ययुतानि च",
+        "नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा"
+      ],
+      "locators": [
+        "1.1.93",
+        "1.1.94"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न चापि क्षुद्भयं तत्र न तस्करभयं तथा",
+        "नगराणि च राष्ट्राणि धनधान्ययुतानि च"
+      ],
+      "ocr_flags": [
+        "hindi_marker_936_differs_from_sanskrit_93"
+      ],
+      "refs": [
+        "1.1.93"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "न चापि क्षुद्भयं तत्र न तस्करभयं तथा",
+      "in": "न चापि क्षुद्भयं तत्र न तस्करभयं तथा",
+      "gp": "न चापि क्षुद्भयं तत्र न तस्करभयं तथा",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "नगराणि च राष्ट्राणि धनधान्ययुतानि च",
+      "in": "नगराणि च राष्ट्राणि धनधान्ययुतानि च",
+      "gp": "नगराणि च राष्ट्राणि धनधान्ययुतानि च",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा",
+      "in": "नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-92",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"In the kingdom of Rama, there will be no fear for his subjects from wildfires, gale-storms or from diseases, and there will be no fear from hunger or thieves, nor the cattle will be drowned in floodwaters as well... [1-1-92, 93a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-93",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Cities and states as well will be replete with wealth and grains likewise. All his subjects will be highly glad always, like in Krita yuga... [1-1-93b, 94a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-92",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "92, 93a. tatra",
+            "devanagari_machine_converted": "९२, ९३अ। तत्र",
+            "english": "there - in his kingdom"
+          },
+          {
+            "roman_itrans": "agnijam bhayam",
+            "devanagari_machine_converted": "अग्निजम् भयम्",
+            "english": "fear caused by fire"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "will not be there"
+          },
+          {
+            "roman_itrans": "kimchit",
+            "devanagari_machine_converted": "किम्चित्",
+            "english": "in the least"
+          },
+          {
+            "roman_itrans": "jantavaH apsu na majjanti",
+            "devanagari_machine_converted": "जन्तवः अप्सु न मज्जन्ति",
+            "english": "cattle will not drown in water"
+          },
+          {
+            "roman_itrans": "na vaatajam bhayam",
+            "devanagari_machine_converted": "न वातजम् भयम्",
+            "english": "no fear caused by wind"
+          },
+          {
+            "roman_itrans": "kiMchit",
+            "devanagari_machine_converted": "किंचित्",
+            "english": "in the least"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "likewise"
+          },
+          {
+            "roman_itrans": "jvarakR^itam api",
+            "devanagari_machine_converted": "ज्वरकृतम् अपि",
+            "english": "even [fear] caused by fever"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "will not be there"
+          },
+          {
+            "roman_itrans": "na kShudbhayam api",
+            "devanagari_machine_converted": "न क्षुद्भयम् अपि",
+            "english": "not even fear caused by hunger"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "likewise"
+          },
+          {
+            "roman_itrans": "taskarabhayam",
+            "devanagari_machine_converted": "तस्करभयम्",
+            "english": "fear from thieves"
+          },
+          {
+            "roman_itrans": "na",
+            "devanagari_machine_converted": "न",
+            "english": "will not be there."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-93",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "93b, 94a. nagaraaNi raaSTraaNi ca",
+            "devanagari_machine_converted": "९३ब्, ९४अ। नगराणि राष्ट्राणि च",
+            "english": "cities and states as well"
+          },
+          {
+            "roman_itrans": "dhanadhaanyayutaani",
+            "devanagari_machine_converted": "धनधान्ययुतानि",
+            "english": "[will be replete with] wealth and grains"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "likewise"
+          },
+          {
+            "roman_itrans": "nityaM pramuditaaH",
+            "devanagari_machine_converted": "नित्यं प्रमुदिताः",
+            "english": "[all his subjects will be] highly glad always"
+          },
+          {
+            "roman_itrans": "sarve kR^itayuge yathaa",
+            "devanagari_machine_converted": "सर्वे कृतयुगे यथा",
+            "english": "like in Krita yuga ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.93",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'क्षुधा तथा चोरीका डर भी नहीं रहेगा, सभी नगर और राष्ट्र धन-धान्य सम्पन्न होंगे"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.94",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सत्ययुगकी भाँति सभी लोग सदा प्रसन्न रहेंगे। महायशस्वी राम बहुत-से सुवर्णोंकी दक्षिणावाले सौ अश्वमेध यज्ञ करेंगे"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.93",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "क्षुद्भयम्",
+            "hindi": "भूख का भय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "तस्करभयम्",
+            "hindi": "चोर का भय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "नगराणि",
+            "hindi": "नगर (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "राष्ट्राणि",
+            "hindi": "राष्ट्र (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "धनधान्ययुतानि",
+            "hindi": "धन और धान्य से युक्त (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.94",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रमुदिताः",
+            "hindi": "प्रसन्न (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          },
+          {
+            "sanskrit": "कृतयुगे",
+            "hindi": "सतयुग में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "वैसे ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अश्वमेधशतैः",
+            "hindi": "सैकड़ों अश्वमेध यज्ञों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इष्ट्वा",
+            "hindi": "यज्ञ करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "बहुसुवर्णकैः",
+            "hindi": "बहुत सुवर्ण वाले (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.93",
+        "ocr_flags": [
+          "hindi_marker_936_differs_from_sanskrit_93"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा। \"क्षुधा तथा चोरीका डर भी जाता रहेगा, सभी नगर और राष्ट्र धन-धान्यसम्पन्न होंगे। सत्ययुगकी भाँति सभी लोग सदा प्रसन्न रहेंगे॥ ९३६ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

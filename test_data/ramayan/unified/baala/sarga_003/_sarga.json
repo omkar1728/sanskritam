@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 3,
+  "critical_sarga": 3,
+  "vulgate_sarga": 3,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "वाल्मीकि मुनि द्वारा रामायण काव्य में निबद्ध विषयों का संक्षेप से उल्लेख",
+  "title_en_from_in": "Sage Valmiki's brief mention of the topics incorporated into the Ramayana epic",
+  "intro_en_from_net": "The scheming of the composition of epic Ramayana is described here. Whole of the epic is rendered in its quintessence, as to how Sage Valmiki scheduled the narration of important milestones of the epic.",
+  "counts": {
+    "smith_lines": 58,
+    "net_lines": 79,
+    "in_lines": 79,
+    "smith_verses": 29,
+    "net_blocks": 37,
+    "in_verses": 39,
+    "gp_lines": 77,
+    "gp_units": 38,
+    "in_declared": 39,
+    "docs": 41
+  }
+}

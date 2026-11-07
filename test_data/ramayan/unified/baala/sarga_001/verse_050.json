@@ -1,0 +1,197 @@
+{
+  "id": "baala-001-050",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 50,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 38
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-47"
+    ],
+    "vulgate_in_locators": [
+      "1.1.48"
+    ],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001038a"
+      ],
+      "lines": [
+        "निजघान रणे रामस्तेषां चैव पदानुगान्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "निजघान रणे रामस्तेषां चैव पदानुगान्"
+      ],
+      "locators": [
+        "1-1-47"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "निजघान रणे रामस्तेषां चैव पदानुगान्"
+      ],
+      "locators": [
+        "1.1.48"
+      ]
+    },
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": "निजघान रणे रामस्तेषां चैव पदानुगान्",
+      "net": "निजघान रणे रामस्तेषां चैव पदानुगान्",
+      "in": "निजघान रणे रामस्तेषां चैव पदानुगान्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-47",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then in a battle, Rama killed all demons who became zealously active incited by Suurphanakha's words, including the demons Khara, Trishira, Duushana together with all of their foot-followers... [1-1-47, 48a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-47",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "47, 48a. tataH raamaH raNe nijaghaana",
+            "devanagari_machine_converted": "४७, ४८अ। ततः रामः रणे निजघान",
+            "english": "Then Rama in a battle killed; udyuktaan sarvaraakShasaan = all zealously active demons"
+          },
+          {
+            "roman_itrans": "shuurpaNakhaavaakyaat",
+            "devanagari_machine_converted": "शूर्पणखावाक्यात्",
+            "english": "[incited] by Shuurpanakha's words"
+          },
+          {
+            "roman_itrans": "kharam",
+            "devanagari_machine_converted": "खरम्",
+            "english": "[including] Khara"
+          },
+          {
+            "roman_itrans": "trishirasam ca eva",
+            "devanagari_machine_converted": "त्रिशिरसम् च एव",
+            "english": "and Trishira"
+          },
+          {
+            "roman_itrans": "duuSaNam raakShasam ca eva",
+            "devanagari_machine_converted": "दूषणम् राक्षसम् च एव",
+            "english": "and the demon Duushana"
+          },
+          {
+            "roman_itrans": "teSaam padaanugaan ca eva",
+            "devanagari_machine_converted": "तेषाम् पदानुगान् च एव",
+            "english": "and their foot followers."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-47",
+        "spans_beyond_this_verse": true,
+        "text": "We are ignoring in translation the एव part of चैव and translating the word चैव as \"and\"."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.48",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तथा उनके पृष्ठपोषक असुरोंको रामने युद्ध में मार डाला। उस वनमें निवास करते हुए उन्होंने जनस्थानवासी"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.48",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "निजघान",
+            "hindi": "मार डाला (नि + हन्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "रणे",
+            "hindi": "युद्ध में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेषाम्",
+            "hindi": "उनके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "पदानुगान्",
+            "hindi": "पद-पद पर चलने वाले / अनुचरों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "निवसता",
+            "hindi": "रहते हुए के द्वारा (शतृ प्रत्ययान्त, तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जनस्थाननिवासिनाम्",
+            "hindi": "जनस्थान में रहने वालों का (षष्ठी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

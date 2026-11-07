@@ -20,3 +20,11 @@ POC/spikes/*.json
 *.mel*.npy
 frontend/dist/
 backups/
+
+
+sources/*
+
+Android/staticdata/*
+# model POC outputs (large wavs)
+POC/model_poc/outputs/
+POC/model_poc/outputs_*.log

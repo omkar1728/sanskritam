@@ -1,0 +1,273 @@
+{
+  "id": "baala-004-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 6
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-7"
+    ],
+    "vulgate_in_locators": [
+      "1.4.7"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.7"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004006a",
+        "1004006c"
+      ],
+      "lines": [
+        "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत्",
+        "पौलस्त्य वधमित्येव चकार चरितव्रतः"
+      ],
+      "punctuated_derived": "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत् ।\nपौलस्त्य वधमित्येव चकार चरितव्रतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "काव्यं रामायणं कृत्स्न्नं सीतायाश्चरितं महत्",
+        "पौलस्त्यवधमित्येवं चकार चरितव्रतः"
+      ],
+      "locators": [
+        "1-4-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत्",
+        "पौलस्त्यवधमित्येवं चकार चरितव्रतः"
+      ],
+      "locators": [
+        "1.4.7"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत्‌",
+        "पौलस्त्यवधमित्येवं चकार चरितव्रतः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_5-7"
+      ],
+      "refs": [
+        "1.4.7"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत्",
+      "net": "काव्यं रामायणं कृत्स्न्नं सीतायाश्चरितं महत्",
+      "in": "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत्",
+      "gp": "काव्यं रामायणं कृत्स्नं सीतायाश्चरितं महत्‌",
+      "similarity": {
+        "sim_smith_net": 0.987012987012987,
+        "sim_in_net": 0.987012987012987,
+        "sim_gp_net": 0.987012987012987
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "कृत्स्नं",
+            "b": "कृत्स्न्नं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कृत्स्न्नं",
+            "b": "कृत्स्नं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कृत्स्न्नं",
+            "b": "कृत्स्नं"
+          },
+          {
+            "a": "महत्",
+            "b": "महत्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पौलस्त्य वधमित्येव चकार चरितव्रतः",
+      "net": "पौलस्त्यवधमित्येवं चकार चरितव्रतः",
+      "in": "पौलस्त्यवधमित्येवं चकार चरितव्रतः",
+      "gp": "पौलस्त्यवधमित्येवं चकार चरितव्रतः",
+      "similarity": {
+        "sim_smith_net": 0.9836065573770492,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "पौलस्त्य वधमित्येव",
+            "b": "पौलस्त्यवधमित्येवं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-7",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That sage with observed sacred vows has rendered the entire epic in the name of 'Ramayana', 'Sublime Legend of Seetha' and 'elimination of Ravana'. [1-4-7]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-7",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "charitavrataH",
+            "devanagari_machine_converted": "चरितव्रतः",
+            "english": "sage who observed all sacred vows"
+          },
+          {
+            "roman_itrans": "kR^itsnam kaavyam",
+            "devanagari_machine_converted": "कृत्स्नम् काव्यम्",
+            "english": "entire epic"
+          },
+          {
+            "roman_itrans": "raamaayaNam",
+            "devanagari_machine_converted": "रामायणम्",
+            "english": "Ramayana"
+          },
+          {
+            "roman_itrans": "siithaayaH charitam mahat",
+            "devanagari_machine_converted": "सीथायः चरितम् महत्",
+            "english": "Seetha's, sublime legend"
+          },
+          {
+            "roman_itrans": "poulastyavadham",
+            "devanagari_machine_converted": "पोउलस्त्यवधम्",
+            "english": "Ravana's, elimination"
+          },
+          {
+            "roman_itrans": "iti",
+            "devanagari_machine_converted": "इति",
+            "english": "thus [naming]"
+          },
+          {
+            "roman_itrans": "evam cakaara",
+            "devanagari_machine_converted": "एवम् चकार",
+            "english": "that way, rendered."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-7",
+        "spans_beyond_this_verse": false,
+        "text": "Seetha's conduct is the primary aspect and Ravana's elimination is secondary in the epic of Ramayana. poulasthyavadha . Giving one to many names to poem/epics is usual as in maaghakaavya' which is known as shishupaalavadha whereas it is actually kR^iShNacarita ."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन्हें सीताके चरित्रसे युक्त सम्पूर्ण रामायण नामक महाकाव्यका, जिसका दूसरा नाम पौलस्त्यवध अथवा दशाननवध था, अध्ययन कराया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "काव्यम्",
+            "hindi": "काव्य"
+          },
+          {
+            "sanskrit": "रामायणम्",
+            "hindi": "रामायण"
+          },
+          {
+            "sanskrit": "कृत्स्नम्",
+            "hindi": "सम्पूर्ण"
+          },
+          {
+            "sanskrit": "सीतायाः",
+            "hindi": "सीता का"
+          },
+          {
+            "sanskrit": "चरितम्",
+            "hindi": "चरित्र"
+          },
+          {
+            "sanskrit": "महत्",
+            "hindi": "महान्"
+          },
+          {
+            "sanskrit": "पौलस्त्यवधम्",
+            "hindi": "पौलस्त्य (रावण) का वध"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार"
+          },
+          {
+            "sanskrit": "एवम्",
+            "hindi": "यह"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया"
+          },
+          {
+            "sanskrit": "चरितव्रतः",
+            "hindi": "उत्तम व्रत का पालन करने वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.7",
+        "ocr_flags": [
+          "hindi_marker_range_5-7"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "राजकुमार कुश और लव दोनों भाई धर्मके ज्ञाता और यशस्वी थे। उनका स्वर बड़ा ही मधुर था और वे मुनिके आश्रमपर ही रहते थे। उनकी धारणाशक्ति अद्भुत थी और वे दोनों ही वेदाँमें पारंगत हो चुके थे। भगवान्‌ वाल्मीकिने उनकी ओर देखा और उन्हें सुयोग्य समझकर उत्तम व्रतका पालन करनेवाले उन महषिने वेदार्थका विस्तारके साथ ज्ञान करानेके लिये उन्हें सीताके चरित्रसे युक्त सम्पूर्ण रामायण नामक महाकाव्यका, जिसका दूसरा नाम पौलस्त्ययध अथवा दशाननवध था, अध्ययन कराया॥ ५-७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

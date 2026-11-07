@@ -1,0 +1,280 @@
+{
+  "id": "baala-004-029",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 29,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 24
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-31"
+    ],
+    "vulgate_in_locators": [
+      "1.4.31"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.31",
+      "1.4.32"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004024a",
+        "1004024c"
+      ],
+      "lines": [
+        "दृष्ट्वा तु रूपसंपन्नौ तावुभौ वीणिनौ ततः",
+        "उवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा"
+      ],
+      "punctuated_derived": "दृष्ट्वा तु रूपसंपन्नौ तावुभौ वीणिनौ ततः ।\nउवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दृष्ट्वा तु रूपसम्पन्नौ विनीतौ भ्रातरावुभौ",
+        "उवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा"
+      ],
+      "locators": [
+        "1-4-31"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दृष्ट्वा तु रूपसम्पन्नौ विनीतौ भ्रातरावुभौ",
+        "उवाच लक्ष्मणं रामः शत्रुजं भरतं तथा"
+      ],
+      "locators": [
+        "1.4.31"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दुष्ट्वा तु रूपसम्पन्नौ विनीतौ भ्ातरावुभौ",
+        "उवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits",
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.31",
+        "1.4.32"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "दृष्ट्वा तु रूपसंपन्नौ तावुभौ वीणिनौ ततः",
+      "net": "दृष्ट्वा तु रूपसम्पन्नौ विनीतौ भ्रातरावुभौ",
+      "in": "दृष्ट्वा तु रूपसम्पन्नौ विनीतौ भ्रातरावुभौ",
+      "gp": "दुष्ट्वा तु रूपसम्पन्नौ विनीतौ भ्ातरावुभौ",
+      "similarity": {
+        "sim_smith_net": 0.7142857142857143,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9577464788732394
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "रूपसंपन्नौ तावुभौ वीणिनौ ततः",
+            "b": "रूपसम्पन्नौ विनीतौ भ्रातरावुभौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "दृष्ट्वा",
+            "b": "दुष्ट्वा"
+          },
+          {
+            "a": "भ्रातरावुभौ",
+            "b": "भ्ातरावुभौ"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "उवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा",
+      "net": "उवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा",
+      "in": "उवाच लक्ष्मणं रामः शत्रुजं भरतं तथा",
+      "gp": "उवाच लक्ष्मणं रामः शत्रुघ्नं भरतं तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9354838709677419,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शत्रुघ्नं",
+            "b": "शत्रुजं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-31",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Having seen the mannerly brothers endowed with beautiful features, Rama spoke to Lakshmana, and Shatrughna, and Bharata likewise. [1-4-31]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-31",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "dR^iSTvaa",
+            "devanagari_machine_converted": "दृष्ट्वा",
+            "english": "on seeing"
+          },
+          {
+            "roman_itrans": "ruupasampannou",
+            "devanagari_machine_converted": "रूपसम्पन्नोउ",
+            "english": "rich in features"
+          },
+          {
+            "roman_itrans": "viniitau",
+            "devanagari_machine_converted": "विनीतौ",
+            "english": "mannerly ones"
+          },
+          {
+            "roman_itrans": "bhraatarau ubhau",
+            "devanagari_machine_converted": "भ्रातरौ उभौ",
+            "english": "at brothers, both"
+          },
+          {
+            "roman_itrans": "lakShmaNam shatrughnam bharatam tathaa",
+            "devanagari_machine_converted": "लक्ष्मणम् शत्रुघ्नम् भरतम् तथा",
+            "english": "to Lakshmana, to Shatrughna, Bharata, likewise"
+          },
+          {
+            "roman_itrans": "uvaaca",
+            "devanagari_machine_converted": "उवाच",
+            "english": "spoke to."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.31",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन सबके साथ सन्दर रूपवाले उन दोनों विनयशील भाइयोंकी ओर देखकर श्रीरामचन्द्रजीने भरत, लक्ष्मण और शत्रुघ्नसे कहा —"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.31",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "रूपसम्पन्नौ",
+            "hindi": "सुन्दर रूप वाले"
+          },
+          {
+            "sanskrit": "विनीतौ",
+            "hindi": "विनयशील"
+          },
+          {
+            "sanskrit": "भ्रातरौ",
+            "hindi": "दोनों भाइयों को"
+          },
+          {
+            "sanskrit": "उभौ",
+            "hindi": "दोनों"
+          },
+          {
+            "sanskrit": "उवाच",
+            "hindi": "बोले"
+          },
+          {
+            "sanskrit": "लक्ष्मणम्",
+            "hindi": "लक्ष्मण से"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने"
+          },
+          {
+            "sanskrit": "शत्रुजम्",
+            "hindi": "शत्रुघ्न से"
+          },
+          {
+            "sanskrit": "भरतम्",
+            "hindi": "भरत से"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.31",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.32",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "विचित्रार्थपदं सम्यग्गायकौ समचोदयत्‌। एक समय सर्वत्र प्रशंसित होनेवाले राजकुमार कुश और लव अयोध्याकी गलियों और सड़कोंपर रामायणके श्लोकोंका गान करते हुए विचर रहे थे। इसी समय उनके ऊपर भरतके बड़े भाई श्रीरामकी दृष्टि पड़ी। उन्होंने उन समादरयोग्य बन्धुओंको अपने घर बुलाकर उनका यथोचित सम्मान किया। तदनन्तर शज्रुओंका संहार करनेवाले श्रीराम सुवर्णमय दिव्य सिंहासनपर विराजमान हुए। उनके मन्त्री और भाई भी उनके पास ही बैठे थे। उन सबके साथ सुन्दर रूपवाले उन दोनों विनयशील भाइयोंकी ओर देखकर श्रीरामचन्द्रजीने भरत, लक्ष्मण और शत्रुष्नसे कहा--'ये देवताके समान तेजस्वी दोनों कुमार विचित्र अर्थ और पदोंसे युक्त मधुर काव्य बड़े सुन्दर ढंगसे गाकर सुनाते हैं। तुम सब लोग इसे सुनो ।' यों कहकर उन्होंने उन दोनों भाइयोंको गानेकी आज्ञा दी॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

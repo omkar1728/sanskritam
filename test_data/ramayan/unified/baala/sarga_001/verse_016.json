@@ -1,0 +1,212 @@
+{
+  "id": "baala-001-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 13
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-14"
+    ],
+    "vulgate_in_locators": [
+      "1.1.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001013c"
+      ],
+      "lines": [
+        "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः"
+      ],
+      "locators": [
+        "1-1-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वेदवेदांगतत्त्वज्ञो धनुर्वेदे च निष्ठितः"
+      ],
+      "locators": [
+        "1.1.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वेदवेदांगतत्त्वज्ञो धनुर्वेदे च निष्ठितः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः",
+      "net": "वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः",
+      "in": "वेदवेदांगतत्त्वज्ञो धनुर्वेदे च निष्ठितः",
+      "gp": "वेदवेदांगतत्त्वज्ञो धनुर्वेदे च निष्ठितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "वेदवेदाङ्गतत्त्वज्ञो",
+            "b": "वेदवेदांगतत्त्वज्ञो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वेदवेदाङ्गतत्त्वज्ञो",
+            "b": "वेदवेदांगतत्त्वज्ञो"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-14",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He is the preserver of his own righteousness and also a champion for adherent's welfare in the same righteousness, and he is a scholar in the essence of Veda-s and their ancillaries, too. He is an expert in dhanurVeda, the Art of Archery... [1-1-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-14",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "svasya dharmasya rakShitaa",
+            "devanagari_machine_converted": "स्वस्य धर्मस्य रक्षिता",
+            "english": "preserver of his own righteousness; svajanasya ca rakShitaa = champion of his own people also; vedavedaaN^gatattvaj~naH = scholar in essence (of) Veda-s and ancillaries"
+          },
+          {
+            "roman_itrans": "niSTitaH",
+            "devanagari_machine_converted": "निष्टितः",
+            "english": "an expert"
+          },
+          {
+            "roman_itrans": "dhanurvede ca",
+            "devanagari_machine_converted": "धनुर्वेदे च",
+            "english": "in the science of archery."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-14",
+        "spans_beyond_this_verse": true,
+        "text": "These are the ancillary subjects of Vedas called anga part and upa-anga sub-part. The main parts of Veda-s are shikShaa ritual rigor vyaakaraNa grammar chandas prosody jyotishya astrology nirukta recital rules kalpa procedure rules. This apart, the dhanurveda science of archery, itself is treated as 'an exclusive Veda taught to warriors...' The dhanurveda is not to be construed as simple bow and arrow and 'shooting the target' education. It is a 'scripture on missiles' that existed in those ages."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.14",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'स्वधर्म और स्वजनोंके पालक, वेद-वेदांगोंके तत्त्ववेत्ता तथा धनुर्वेदमें प्रवीण हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.14",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रक्षिता",
+            "hindi": "रक्षक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वस्य",
+            "hindi": "अपने (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मस्य",
+            "hindi": "धर्म का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वजनस्य",
+            "hindi": "अपने लोगों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "रक्षिता",
+            "hindi": "रक्षक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वेदवेदाङ्गतत्त्वज्ञः",
+            "hindi": "वेद और वेदांगों के तत्त्व को जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धनुर्वेदे",
+            "hindi": "धनुर्वेद में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "निष्ठितः",
+            "hindi": "निष्ठावान् / पारंगत (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.14",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“स्वधर्म और स्वजनाके पालक, वेद-वेदांगोंके तत्त्ववेत्ता तथा धनुर्वेदमें प्रवीण हैं॥ १४॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

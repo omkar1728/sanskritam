@@ -1,0 +1,241 @@
+{
+  "id": "baala-001-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 10
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-10"
+    ],
+    "vulgate_in_locators": [
+      "1.1.10"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001010a",
+        "1001010c"
+      ],
+      "lines": [
+        "महोरस्को महेष्वासो गूढजत्रुररिंदमः",
+        "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः"
+      ],
+      "punctuated_derived": "महोरस्को महेष्वासो गूढजत्रुररिंदमः ।\nआजानुबाहुः सुशिराः सुललाटः सुविक्रमः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "महोरस्को महेष्वासो गूढजत्रुररिन्दमः",
+        "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः"
+      ],
+      "locators": [
+        "1-1-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "महोरस्को महेष्वासो गूढजत्रुररिन्दमः",
+        "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः"
+      ],
+      "locators": [
+        "1.1.10"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः"
+      ],
+      "ocr_flags": [
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.1.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "महोरस्को महेष्वासो गूढजत्रुररिंदमः",
+      "net": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः",
+      "in": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "गूढजत्रुररिंदमः",
+            "b": "गूढजत्रुररिन्दमः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः",
+      "net": "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः",
+      "in": "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः",
+      "gp": "आजानुबाहुः सुशिराः सुललाटः सुविक्रमः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He is lion-chested, with concealed collarbones, knee-length are his arms, and his is a long bow, an enemy-subjugator, and his emperor's countenance is with a crowning-head and an ample forehead, and his gait is majestic like that of a lion... [1-1-10]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahoraskaH",
+            "devanagari_machine_converted": "महोरस्कः",
+            "english": "broad chested"
+          },
+          {
+            "roman_itrans": "maheShvaasaH",
+            "devanagari_machine_converted": "महेष्वासः",
+            "english": "[one who handles] long bow"
+          },
+          {
+            "roman_itrans": "guuDhajatruH",
+            "devanagari_machine_converted": "गूढजत्रुः",
+            "english": "with concealed collarbones [thick shouldered]"
+          },
+          {
+            "roman_itrans": "arindamaH",
+            "devanagari_machine_converted": "अरिन्दमः",
+            "english": "enemy subjugator"
+          },
+          {
+            "roman_itrans": "aajaanubaahuH",
+            "devanagari_machine_converted": "आजानुबाहुः",
+            "english": "with long arms"
+          },
+          {
+            "roman_itrans": "sushiraaH",
+            "devanagari_machine_converted": "सुशिराः",
+            "english": "with a high [crowning] head"
+          },
+          {
+            "roman_itrans": "sulalaaTaH",
+            "devanagari_machine_converted": "सुललाटः",
+            "english": "with ample forehead"
+          },
+          {
+            "roman_itrans": "suvikramaH",
+            "devanagari_machine_converted": "सुविक्रमः",
+            "english": "with a good gait."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-10",
+        "spans_beyond_this_verse": false,
+        "text": "When his physique is extolled, suddenly a weapon is said, in saying that 'his is longbow...' this is called prakramabhangadoSa 'jump-cut in narration...' It is not so, his lengthy arms are said firstly and those arms can wield a great bow that can eliminate enemies, both physical and psychological ones like ariSaDvarga like desire, ire, avarice, conceit etc., as detailed in verse 4 above."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'उनकी छाती चौड़ी तथा धनुष बड़ा है, गलेके नीचेकी हड्डी (हँसली) मांससे छिपी हुई है। वे शत्रुओंका दमन करनेवाले हैं। भुजाएँ घुटनेतक लम्बी हैं, मस्तक सुन्दर है, ललाट भव्य और चाल मनोहर है"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "महोरस्कः",
+            "hindi": "विशाल वक्ष वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महेष्वासः",
+            "hindi": "बड़ा धनुष धारण करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "गूढजत्रुः",
+            "hindi": "छिपी हुई हँसली वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अरिन्दमः",
+            "hindi": "शत्रुओं का दमन करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "आजानुबाहुः",
+            "hindi": "घुटनों तक भुजा वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुशिराः",
+            "hindi": "सुन्दर मस्तक वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुललाटः",
+            "hindi": "सुन्दर ललाट वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुविक्रमः",
+            "hindi": "उत्तम पराक्रम वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.10",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“उनकी छाती चौड़ी तथा धनुष बड़ा है, गलेके नीचेकी हड्डी (हंसली) मांससे छिपी हुई है। वे शत्रुओंका दमन करनेवाले हैं। भुजाएँ घुटनेतक लम्बी हैं, मस्तक सुन्दर है, ललाट भव्य और चाल मनोहर है॥ १०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

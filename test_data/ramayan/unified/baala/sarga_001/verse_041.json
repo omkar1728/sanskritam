@@ -1,0 +1,244 @@
+{
+  "id": "baala-001-041",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 41,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-39, 1-1-40"
+    ],
+    "vulgate_in_locators": [
+      "1.1.39"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.39"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रियः"
+      ],
+      "locators": [
+        "1-1-39, 1-1-40"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गते तु भरते श्रीमान् सत्यसंधो जितेन्द्रियः"
+      ],
+      "locators": [
+        "1.1.39"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गते तु भरते श्रीमान्‌ सत्यसंधो जितेन्द्रियः"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.39"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रियः",
+      "in": "गते तु भरते श्रीमान् सत्यसंधो जितेन्द्रियः",
+      "gp": "गते तु भरते श्रीमान्‌ सत्यसंधो जितेन्द्रियः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सत्यसन्धो",
+            "b": "सत्यसंधो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "श्रीमान् सत्यसन्धो",
+            "b": "श्रीमान्‌ सत्यसंधो"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-39, 1-1-40",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On the departure of Bharata, that splendid Rama, truth-bound, and self-controlled, anticipated the repeated visits of citizens and other people. To be undisturbed, Rama then entered Dandaka forests... [1-1-39b, 40]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-39, 1-1-40",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "39b, 40. bharate gate tu",
+            "devanagari_machine_converted": "३९ब्, ४०। भरते गते तु",
+            "english": "However, after Bharata left"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "shriimaan",
+            "devanagari_machine_converted": "श्रीमान्",
+            "english": "the splendid one"
+          },
+          {
+            "roman_itrans": "satyasandhaH",
+            "devanagari_machine_converted": "सत्यसन्धः",
+            "english": "truth-bound one"
+          },
+          {
+            "roman_itrans": "jitendriyaH",
+            "devanagari_machine_converted": "जितेन्द्रियः",
+            "english": "one with conquered senses"
+          },
+          {
+            "roman_itrans": "aalakShya",
+            "devanagari_machine_converted": "आलक्ष्य",
+            "english": "on anticipating"
+          },
+          {
+            "roman_itrans": "punaH tatra aagamanam",
+            "devanagari_machine_converted": "पुनः तत्र आगमनम्",
+            "english": "re-arrival there [Chitrakoota]"
+          },
+          {
+            "roman_itrans": "naagarasya janasya ca",
+            "devanagari_machine_converted": "नागरस्य जनस्य च",
+            "english": "of citizens and (other) people"
+          },
+          {
+            "roman_itrans": "ekaagraH",
+            "devanagari_machine_converted": "एकाग्रः",
+            "english": "(to be) undisturbed"
+          },
+          {
+            "roman_itrans": "pravivesha ha",
+            "devanagari_machine_converted": "प्रविवेश ह",
+            "english": "[he] then entered"
+          },
+          {
+            "roman_itrans": "daNDakaan",
+            "devanagari_machine_converted": "दण्डकान्",
+            "english": "Dandaka forests."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-39, 1-1-40",
+        "spans_beyond_this_verse": true,
+        "text": "The translation of ekaagraH as \"undisturbed\" is done according to the context of Rama's anticipation that there might be repeated visits from various people to Chitrakuta and entreaties from them for Rama to return to Ayodhya. Normally ekaagraH is translated as \"single-pointed attention\". Govindaraja explains ekaagraH with respect to following father's injunction or being alert to increased presence of RakShasaas."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.39",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और रामके आगमनकी प्रतीक्षा करते हुए वे नन्दिग्राममें राज्य करने लगे। भरतके लौट जानेपर सत्यप्रतिज्ञ जितेन्द्रिय श्रीमान् रामने"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.39",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नन्दिग्रामे",
+            "hindi": "नन्दिग्राम में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अकरोत्",
+            "hindi": "किया (कृ धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामागमनकाङ्क्षया",
+            "hindi": "राम के आगमन की इच्छा से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गते",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "भरते",
+            "hindi": "भरत के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रीमान्",
+            "hindi": "श्रीमान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यसन्धः",
+            "hindi": "सत्य प्रतिज्ञा वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जितेन्द्रियः",
+            "hindi": "इन्द्रियों को जीतने वाले ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.39",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "' भरतके लौट जानेपर सत्यप्रतिज्ञ जितेन्द्रिय श्रीमान्‌ रामने वहाँपर पुनः नागरिक जनोंका आना-जाना देखकर [उनसे बचनेके लिये] एकाग्रभावसे दण्डकारण्यमें प्रवेश किया॥ ३९-४०॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "baala-005-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 6
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-6"
+    ],
+    "vulgate_in_locators": [
+      "1.5.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005006a",
+        "1005006c"
+      ],
+      "lines": [
+        "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+        "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्"
+      ],
+      "punctuated_derived": "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता ।\nमनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+        "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्"
+      ],
+      "locators": [
+        "1-5-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+        "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्"
+      ],
+      "locators": [
+        "1.5.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+        "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+      "net": "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+      "in": "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+      "gp": "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्",
+      "net": "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्",
+      "in": "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्",
+      "gp": "मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "स्वयम्",
+            "b": "स्वयम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "A world-renowned city is there in that kingdom, which is personally built by Manu, the foremost ruler of mankind. [1-4-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tatra yaa purii",
+            "devanagari_machine_converted": "तत्र या पुरी",
+            "english": "there in that kingdom, which, city"
+          },
+          {
+            "roman_itrans": "maanavendreNa manunaa",
+            "devanagari_machine_converted": "मानवेन्द्रेण मनुना",
+            "english": "by Manu the ruler of mankind"
+          },
+          {
+            "roman_itrans": "svayam nirmitaa",
+            "devanagari_machine_converted": "स्वयम् निर्मिता",
+            "english": "personally, is built"
+          },
+          {
+            "roman_itrans": "[such city] ayodhyaa naama nagarii",
+            "devanagari_machine_converted": "[सुच् चित्य्] अयोध्या नाम नगरी",
+            "english": "Ayodhya, named, city"
+          },
+          {
+            "roman_itrans": "lokavishrutaa",
+            "devanagari_machine_converted": "लोकविश्रुता",
+            "english": "renowned in worlds"
+          },
+          {
+            "roman_itrans": "aasiit",
+            "devanagari_machine_converted": "आसीत्",
+            "english": "there is."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उसी जनपदमें अयोध्या नामकी एक नगरी है, जो समस्त लोकोंमें विख्यात है। उस पुरीको स्वयं महाराज मनुने बनवाया और बसाया था॥६॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अयोध्या",
+            "hindi": "अयोध्या (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम से (अव्यय)"
+          },
+          {
+            "sanskrit": "नगरी",
+            "hindi": "नगरी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "थी (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "लोकविश्रुता",
+            "hindi": "लोकों में विख्यात (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मनुना",
+            "hindi": "मनु के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मानवेन्द्रेण",
+            "hindi": "महाराज मनु के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "या",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरी",
+            "hindi": "पुरी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निर्मिता",
+            "hindi": "निर्मित की गई (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "स्वयम्",
+            "hindi": "स्वयं ने (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.6",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उसी जनपदमें अयोध्या नामकी एक नगरी है, जो समस्त लोकोंमें विख्यात है। उस पुरीको स्वयं महाराज मनुने बनवाया और बसाया था॥६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

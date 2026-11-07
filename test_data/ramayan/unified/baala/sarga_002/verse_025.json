@@ -1,0 +1,243 @@
+{
+  "id": "baala-002-025",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 25,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 24
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-25"
+    ],
+    "vulgate_in_locators": [
+      "1.2.25"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.25"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002024a",
+        "1002024c"
+      ],
+      "lines": [
+        "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः",
+        "प्रणम्य विधिवच्चैनं पृष्ट्वानामयमव्ययम्"
+      ],
+      "punctuated_derived": "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः ।\nप्रणम्य विधिवच्चैनं पृष्ट्वानामयमव्ययम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः",
+        "प्रणम्य विधिवच्चैनं पृष्ट्वानामयमव्ययम्"
+      ],
+      "locators": [
+        "1-2-25"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पूजयामास तं देवं पाद्यासनवन्दनैः",
+        "प्रणम्य विधिवच्चैनं पृष्ट्वा चैव निरामयम्"
+      ],
+      "locators": [
+        "1.2.25"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः",
+        "प्रणम्य विधिवच्चैनं पृष्ट्वा चैव निरामयम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.25"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः",
+      "net": "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः",
+      "in": "पूजयामास तं देवं पाद्यासनवन्दनैः",
+      "gp": "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9032258064516129,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पाद्यार्घ्यासनवन्दनैः",
+            "b": "पाद्यासनवन्दनैः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रणम्य विधिवच्चैनं पृष्ट्वानामयमव्ययम्",
+      "net": "प्रणम्य विधिवच्चैनं पृष्ट्वानामयमव्ययम्",
+      "in": "प्रणम्य विधिवच्चैनं पृष्ट्वा चैव निरामयम्",
+      "gp": "प्रणम्य विधिवच्चैनं पृष्ट्वा चैव निरामयम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8571428571428571,
+        "sim_gp_net": 0.8571428571428571
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पृष्ट्वानामयमव्ययम्",
+            "b": "पृष्ट्वा चैव निरामयम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पृष्ट्वानामयमव्ययम्",
+            "b": "पृष्ट्वा चैव निरामयम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-25",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Valmiki uninterruptedly venerated Brahma, on inquiring into his well-being, washed his feet, drenched his thirst, seated him to rest, and adored at best with customarily obeisance. [1-2-25]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-25",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tam enam devam = him, such a one, at that god; praNamya vidhivat",
+            "devanagari_machine_converted": "तम् एनम् देवम् = हिम्, सुच् अ ओने, अत् थत् गोद्; प्रणम्य विधिवत्",
+            "english": "on making obeisance, customarily"
+          },
+          {
+            "roman_itrans": "pR^iShTvaa ca anaamayam",
+            "devanagari_machine_converted": "पृष्ट्वा च अनामयम्",
+            "english": "also on inquiring well-being"
+          },
+          {
+            "roman_itrans": "paadyaarghyaaasanavandanaiH = water for washing the feet, water for drenching the thirst, seating on a high seat and with adorations; puujayaamaasa avyayam",
+            "devanagari_machine_converted": "पाद्यार्घ्याअसनवन्दनैः = वतेर् फ़ोर् वशिन्ग् थे फ़ीत्, वतेर् फ़ोर् द्रेन्चिन्ग् थे थिर्स्त्, सेअतिन्ग् ओन् अ हिघ् सेअत् अन्द् विथ् अदोरतिओन्स्; पूजयामास अव्ययम्",
+            "english": "started to venerate uninterupted."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-25",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: Brahma is one in the Trinity of Brahma, Vishnu, and Shiva. Brahma is pictured to have four faces, each representing one Veda, where Vedas are four in number. He is the creator of worlds, while Vishnu maintains them, and Shiva dissolute them. The concert of Brahma is Saraswati, the presiding deity of speech, who was earlier requested by Brahma to be on the tongue of Valmiki to utter the poem, [as at 1-2-15] as an intuition to Valmiki. Thus Brahma now arrives to ordain Valmiki to author Ramayana."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तत्पश्चात् उन्होंने पाद्य, अर्घ्य, आसन और स्तुति आदिके द्वारा भगवान् ब्रह्माजीका पूजन किया और उनके चरणोंमें विधिवत् प्रणाम करके उनसे कुशल-समाचार पूछा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पूजयामास",
+            "hindi": "पूजन किया (पूज् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "देवम्",
+            "hindi": "देव (ब्रह्मा) का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पाद्यासनवन्दनैः",
+            "hindi": "पाद्य, आसन और वन्दना के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रणम्य",
+            "hindi": "प्रणाम करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "विधिवत्",
+            "hindi": "विधि के अनुसार (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एनम्",
+            "hindi": "उनसे (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पृष्ट्वा",
+            "hindi": "पूछकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "निरामयम्",
+            "hindi": "कुशल-क्षेम को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.25",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "तत्पश्चात्‌ उन्होंने पाद्य, अर्घ्य, आसन और स्तुति आदिके द्वारा भगवान्‌ ब्रह्माजीका पूजन किया और उनके चरणोंमें विधिवत्‌ प्रणाम करके उनसे कुशल- समाचार पूछा॥ २५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

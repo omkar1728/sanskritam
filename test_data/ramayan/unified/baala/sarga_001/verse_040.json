@@ -1,0 +1,293 @@
+{
+  "id": "baala-001-040",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 40,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 31
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-38"
+    ],
+    "vulgate_in_locators": [
+      "1.1.38",
+      "1.1.39"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.38"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001031a",
+        "1001031c"
+      ],
+      "lines": [
+        "स काममनवाप्यैव रामपादावुपस्पृशन्",
+        "नन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया"
+      ],
+      "punctuated_derived": "स काममनवाप्यैव रामपादावुपस्पृशन् ।\nनन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स काममनवाप्यैव रामपादावुपस्पृशन्",
+        "नन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया"
+      ],
+      "locators": [
+        "1-1-38"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स काममनवाप्यैव रामपादावुपस्पृशन्",
+        "नन्दिग्रामेऽकरोद् राज्यं रामागमनकांक्षया"
+      ],
+      "locators": [
+        "1.1.38",
+        "1.1.39"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स काममनवाप्यैव रामपादावुपस्पृशन्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_383_differs_from_sanskrit_38"
+      ],
+      "refs": [
+        "1.1.38"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स काममनवाप्यैव रामपादावुपस्पृशन्",
+      "net": "स काममनवाप्यैव रामपादावुपस्पृशन्",
+      "in": "स काममनवाप्यैव रामपादावुपस्पृशन्",
+      "gp": "स काममनवाप्यैव रामपादावुपस्पृशन्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "रामपादावुपस्पृशन्",
+            "b": "रामपादावुपस्पृशन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया",
+      "net": "नन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया",
+      "in": "नन्दिग्रामेऽकरोद् राज्यं रामागमनकांक्षया",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया",
+            "b": "नन्दिग्रामेऽकरोद् राज्यं रामागमनकांक्षया"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-38",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That Bharata, thus with a desire unfulfilled, ruled the kingdom from Nandigrama, touching Rama's sandals representing feet of Rama, with an expectation of Rama's arrival... [1-1-38b, 39a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-38",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "38b, 39a. saH",
+            "devanagari_machine_converted": "३८ब्, ३९अ। सः",
+            "english": "That Bharata"
+          },
+          {
+            "roman_itrans": "kaamam anavaapya eva",
+            "devanagari_machine_converted": "कामम् अनवाप्य एव",
+            "english": "(with a) desire not fulfilled thus"
+          },
+          {
+            "roman_itrans": "raamapaadau upaspR^ishan",
+            "devanagari_machine_converted": "रामपादौ उपस्पृशन्",
+            "english": "touching Rama's sandals (representing Rama's feet)"
+          },
+          {
+            "roman_itrans": "raamaagamanakaankShayaa",
+            "devanagari_machine_converted": "रामागमनकान्क्षया",
+            "english": "with an expectation of Rama's arrival"
+          },
+          {
+            "roman_itrans": "nandigraame akarot raajyam",
+            "devanagari_machine_converted": "नन्दिग्रामे अकरोत् राज्यम्",
+            "english": "ruled the kingdom in Nandigraama."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.38",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "लौटा दिया। अपनी अपूर्ण इच्छाको लेकर ही भरतने रामके चरणोंका स्पर्श किया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.39",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और रामके आगमनकी प्रतीक्षा करते हुए वे नन्दिग्राममें राज्य करने लगे। भरतके लौट जानेपर सत्यप्रतिज्ञ जितेन्द्रिय श्रीमान् रामने"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.38",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "निवर्तयामास",
+            "hindi": "लौटाया (नि + वृत्, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "भरतम्",
+            "hindi": "भरत को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "भरताग्रजः",
+            "hindi": "भरत के अग्रज (राम) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उस (भरत) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कामम्",
+            "hindi": "इच्छा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनवाप्य",
+            "hindi": "प्राप्त किये बिना ही (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "रामपादौ",
+            "hindi": "राम के चरणों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपस्पृशन्",
+            "hindi": "स्पर्श करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.39",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नन्दिग्रामे",
+            "hindi": "नन्दिग्राम में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अकरोत्",
+            "hindi": "किया (कृ धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राज्यम्",
+            "hindi": "राज्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामागमनकाङ्क्षया",
+            "hindi": "राम के आगमन की इच्छा से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गते",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "भरते",
+            "hindi": "भरत के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रीमान्",
+            "hindi": "श्रीमान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यसन्धः",
+            "hindi": "सत्य प्रतिज्ञा वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जितेन्द्रियः",
+            "hindi": "इन्द्रियों को जीतने वाले ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.38",
+        "ocr_flags": [
+          "hindi_marker_383_differs_from_sanskrit_38"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "नन्दिग्रामेऽकरोद्‌ राज्यं रामारामनकांक्षया। “अपनी अपूर्ण इच्छाको लेकर ही भरतने रामके चरणाँका स्पर्श किया और रामके आगमनकी प्रतीक्षा करते हुए वे नन्िग्राममें राज्य करने लगे॥ ३८३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

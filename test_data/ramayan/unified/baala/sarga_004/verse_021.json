@@ -1,0 +1,77 @@
+{
+  "id": "baala-004-021",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 21,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.4.20"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": null,
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "यदूर्ध्वं हृद्यग्रन्थेः कपोलफलकादधः । प्राणसंचारणस्थानं स्थानमित्यभिधीयते"
+      ],
+      "ocr_flags": [
+        "bare_marker_no_digits",
+        "hindi_bare_marker_no_digits",
+        "leading_text_before_sanskrit_moved_to_unparsed",
+        "marker_unreadable_inferred"
+      ],
+      "refs": [
+        "1.4.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": null,
+      "in": null,
+      "gp": "यदूर्ध्वं हृद्यग्रन्थेः कपोलफलकादधः । प्राणसंचारणस्थानं स्थानमित्यभिधीयते",
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": null,
+    "english_word_by_word": null,
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.20",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed",
+          "bare_marker_no_digits",
+          "marker_unreadable_inferred",
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उरः कण्ठः शिरश्चेति तत्पुनस्त्रविध्ं भवेत्‌। मन्द्रं मध्यं च तारं च ... ...॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

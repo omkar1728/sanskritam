@@ -1,0 +1,332 @@
+{
+  "id": "baala-001-090",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 90,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 67
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-83, 1-1-84"
+    ],
+    "vulgate_in_locators": [
+      "1.1.83",
+      "1.1.84"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.83"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001067a",
+        "1001067c"
+      ],
+      "lines": [
+        "कर्मणा तेन महता त्रैलोक्यं सचराचरम्",
+        "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः"
+      ],
+      "punctuated_derived": "कर्मणा तेन महता त्रैलोक्यं सचराचरम् ।\nसदेवर्षिगणं तुष्टं राघवस्य महात्मनः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कर्मणा तेन महता त्रैलोक्यं सचराचरम्",
+        "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः"
+      ],
+      "locators": [
+        "1-1-83, 1-1-84"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कर्मणा तेन महता त्रैलोक्यं सचराचरम्",
+        "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः"
+      ],
+      "locators": [
+        "1.1.83",
+        "1.1.84"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कर्मणा तेन महता त्रैलोक्यं सचराचरम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_833_differs_from_sanskrit_83"
+      ],
+      "refs": [
+        "1.1.83"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कर्मणा तेन महता त्रैलोक्यं सचराचरम्",
+      "net": "कर्मणा तेन महता त्रैलोक्यं सचराचरम्",
+      "in": "कर्मणा तेन महता त्रैलोक्यं सचराचरम्",
+      "gp": "कर्मणा तेन महता त्रैलोक्यं सचराचरम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सचराचरम्",
+            "b": "सचराचरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः",
+      "net": "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः",
+      "in": "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-83, 1-1-84",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then, upon the word of Fire-god, having known Seetha to be sinless, Rama became extremely glad. Worshipped by all gods he became resplendent. By that accomplishment of the great Raghava the three worlds together with mobile and immobile beings, and with groups of gods and sages became exultant... [1-1-83, 84]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-83, 1-1-84",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH agnivachanaat",
+            "devanagari_machine_converted": "ततः अग्निवचनात्",
+            "english": "Then upon the word of the Fire-god"
+          },
+          {
+            "roman_itrans": "j~naatvaa",
+            "devanagari_machine_converted": "ज्ञात्वा",
+            "english": "having known"
+          },
+          {
+            "roman_itrans": "siitaam",
+            "devanagari_machine_converted": "सीताम्",
+            "english": "Seetha"
+          },
+          {
+            "roman_itrans": "vigatakalmaSaam",
+            "devanagari_machine_converted": "विगतकल्मषाम्",
+            "english": "to be sinless"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "samprahR^iSTaH",
+            "devanagari_machine_converted": "सम्प्रहृष्टः",
+            "english": "became extremely glad"
+          },
+          {
+            "roman_itrans": "puujitaH",
+            "devanagari_machine_converted": "पूजितः",
+            "english": "worshipped"
+          },
+          {
+            "roman_itrans": "sarvadaivataiH",
+            "devanagari_machine_converted": "सर्वदैवतैः",
+            "english": "by all gods"
+          },
+          {
+            "roman_itrans": "babhau",
+            "devanagari_machine_converted": "बभौ",
+            "english": "became resplendent"
+          },
+          {
+            "roman_itrans": "mahataa tena karmaNaa",
+            "devanagari_machine_converted": "महता तेन कर्मणा",
+            "english": "by that great accomplishment - of eliminating Ravana"
+          },
+          {
+            "roman_itrans": "mahaatmanaH raaghavasya",
+            "devanagari_machine_converted": "महात्मनः राघवस्य",
+            "english": "of the great Raghava"
+          },
+          {
+            "roman_itrans": "trailokyam",
+            "devanagari_machine_converted": "त्रैलोक्यम्",
+            "english": "the three worlds"
+          },
+          {
+            "roman_itrans": "sacharaacharam",
+            "devanagari_machine_converted": "सचराचरम्",
+            "english": "together with all beings"
+          },
+          {
+            "roman_itrans": "sadevarShigaNam",
+            "devanagari_machine_converted": "सदेवर्षिगणम्",
+            "english": "with groups of gods and sages"
+          },
+          {
+            "roman_itrans": "tuSTham",
+            "devanagari_machine_converted": "तुष्ठम्",
+            "english": "[became] exultant."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.83",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'इसके बाद अग्निके कहनेसे उन्होंने सीताको निष्कलङ्क माना। महात्मा रामचन्द्रजीके इस महान् कर्मसे चराचर त्रिभुवन"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.84",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "देवता और ऋषियोंसहित संतुष्ट हो गया। फिर सभी देवताओंसे पूजित होकर राम बहुत ही प्रसन्न हुए"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.83",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "इसके बाद (अव्यय)"
+          },
+          {
+            "sanskrit": "अग्निवचनात्",
+            "hindi": "अग्नि के वचन से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्ञात्वा",
+            "hindi": "जानकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "विगतकल्मषाम्",
+            "hindi": "दूर हुए पाप वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कर्मणा",
+            "hindi": "कर्म से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महता",
+            "hindi": "महान् से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रैलोक्यम्",
+            "hindi": "तीनों लोक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सचराचरम्",
+            "hindi": "चर और अचर सहित (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.84",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सदेवर्षिगणम्",
+            "hindi": "देवता और ऋषियों के समूह सहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तुष्टम्",
+            "hindi": "संतुष्ट हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राघवस्य",
+            "hindi": "राम के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "महात्मनः",
+            "hindi": "महात्मा के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "बभौ",
+            "hindi": "सुशोभित हुआ (भा धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सम्प्रहृष्टः",
+            "hindi": "अत्यन्त प्रसन्न हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पूजितः",
+            "hindi": "पूजित होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वदैवतैः",
+            "hindi": "सभी देवताओं के द्वारा (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.83",
+        "ocr_flags": [
+          "hindi_marker_833_differs_from_sanskrit_83"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "सदेवर्षिगणं तुष्टं राघवस्य महात्मनः। “इसके बाद अग्निके कहनेसे उन्होंने सीताको निष्कलङ्क माना। महात्मा रामचन्द्रजीके इस महान्‌ कर्मसे देवता और ऋषियोंसहित चराचर त्रिभुवन संतुष्ट हो गया॥ ८३३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

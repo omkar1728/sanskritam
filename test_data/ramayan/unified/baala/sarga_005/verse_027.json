@@ -1,0 +1,156 @@
+{
+  "id": "baala-005-027",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 27,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-23"
+    ],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.5.23"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "महर्षिकल्पैः ऋषिभिश्च केवलैः"
+      ],
+      "locators": [
+        "1-5-23"
+      ]
+    },
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "मंहर्षिकल्पैर्ऋृषिभिश्च केवलैः"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits",
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.5.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "महर्षिकल्पैः ऋषिभिश्च केवलैः",
+      "in": null,
+      "gp": "मंहर्षिकल्पैर्ऋृषिभिश्च केवलैः",
+      "similarity": {
+        "sim_gp_net": 0.9090909090909091
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "महर्षिकल्पैः ऋषिभिश्च",
+            "b": "मंहर्षिकल्पैर्ऋृषिभिश्च"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-23",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "She that Ayodhya is encompassed with Vedic scholars who always worship the ritual fire by enkindling the three kinds of ritual-fires continuously, virtuous Brahman scholars in Veda-s and their six ancillary subjects, and other great souls that are in similitude with great saints, and who are just like sages that are charitable donors, and that abide by the truth. [1-5-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-23",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "agnimadbhiH",
+            "devanagari_machine_converted": "अग्निमद्भिः",
+            "english": "by ritual-fire worshippers"
+          },
+          {
+            "roman_itrans": "guNavadbhiH",
+            "devanagari_machine_converted": "गुणवद्भिः",
+            "english": "with virtuous ones"
+          },
+          {
+            "roman_itrans": "vedaSadangapaaragaiH",
+            "devanagari_machine_converted": "वेदषदन्गपारगैः",
+            "english": "scholars in Veda-s their six ancillary subjects ; sahasradaiH = donors that donate in thousands - not miserly"
+          },
+          {
+            "roman_itrans": "satyarataiH",
+            "devanagari_machine_converted": "सत्यरतैः",
+            "english": "by truth abiding ones; mahaatmabhiH = with great souls"
+          },
+          {
+            "roman_itrans": "maharSikalpaiH",
+            "devanagari_machine_converted": "महर्षिकल्पैः",
+            "english": "in similitude great saints"
+          },
+          {
+            "roman_itrans": "kevalaiH R^iSibhiH cha",
+            "devanagari_machine_converted": "केवलैः ऋषिभिः च",
+            "english": "just [like,] sages, also"
+          },
+          {
+            "roman_itrans": "dvijottamaiH",
+            "devanagari_machine_converted": "द्विजोत्तमैः",
+            "english": "with Brahman scholars; aavRitaaam = she is encompassed with"
+          },
+          {
+            "roman_itrans": "taam",
+            "devanagari_machine_converted": "ताम्",
+            "english": "her"
+          },
+          {
+            "roman_itrans": "[puriim dasharathaH aavaasayaamaasa",
+            "devanagari_machine_converted": "[पुरीम् दशरथः आवासयामास",
+            "english": "in such a city, Dasharatha, is dwelling]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.23",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed",
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "अग्निहोत्री, शम-दम आदि उत्तम गुणोंसे सम्पन्न तथा छहों अंगोंसहित सम्पूर्ण वेदोंके पारंगत विद्यान्‌ श्रेष्ठ ब्राह्मण उस पुरीको सदा घेरे रहते थे। वे सहस्रोंका दान करनेवाले और सत्यमें तत्पर रहनेवाले थे। ऐसे महर्षिकल्प महात्माओं तथा ऋषियोंसे अयोध्यापुरी सुशोभित थी तथा राजा दशरथ उसकी रक्षा करते थे॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "net_in_line_mismatch",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

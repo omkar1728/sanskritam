@@ -1,0 +1,224 @@
+{
+  "id": "baala-001-094",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 94,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 69
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-86"
+    ],
+    "vulgate_in_locators": [
+      "1.1.86"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.86"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001069a"
+      ],
+      "lines": [
+        "देवताभ्यो वरान्प्राप्य समुत्थाप्य च वानरान्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान्"
+      ],
+      "locators": [
+        "1-1-86"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान्"
+      ],
+      "locators": [
+        "1.1.86"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.86"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "देवताभ्यो वरान्प्राप्य समुत्थाप्य च वानरान्",
+      "net": "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान्",
+      "in": "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान्",
+      "gp": "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान्‌",
+      "similarity": {
+        "sim_smith_net": 0.9866666666666667,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वरान्प्राप्य",
+            "b": "वरं प्राप्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वानरान्",
+            "b": "वानरान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-86",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After obtaining a boon from the gods, Rama raised up monkeys from death. He then travelled to Ayodhya by Pushpaka aircraft surrounded by good hearted ones... [1-1-86]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-86",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "devataabhyaH varam praapya",
+            "devanagari_machine_converted": "देवताभ्यः वरम् प्राप्य",
+            "english": "after obtaining a boon from the gods"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "samutthaapya ca",
+            "devanagari_machine_converted": "समुत्थाप्य च",
+            "english": "raised [up from death]; vaanaraan = monkeys"
+          },
+          {
+            "roman_itrans": "ayodhyaam prasthitaH",
+            "devanagari_machine_converted": "अयोध्याम् प्रस्थितः",
+            "english": "[he] travelled to Ayodhya"
+          },
+          {
+            "roman_itrans": "puShpakeNa",
+            "devanagari_machine_converted": "पुष्पकेण",
+            "english": "by Pushpaka aircraft"
+          },
+          {
+            "roman_itrans": "suhR^it-vR^itaH",
+            "devanagari_machine_converted": "सुहृत्-वृतः",
+            "english": "surrounded by good hearted ones."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.86",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'यह सब हो जानेपर राम देवताओंसे वर पाकर और मरे हुए वानरोंको जीवन दिलाकर अपने सभी साथियोंके साथ पुष्पक विमानपर चढ़कर अयोध्याके लिये प्रस्थित हुए"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.86",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "देवताभ्यः",
+            "hindi": "देवताओं से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वरम्",
+            "hindi": "वर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राप्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "समुत्थाप्य",
+            "hindi": "जीवित करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "वानरान्",
+            "hindi": "वानरों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अयोध्याम्",
+            "hindi": "अयोध्या को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रस्थितः",
+            "hindi": "प्रस्थान किया (प्र + स्था, क्त प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुष्पकेण",
+            "hindi": "पुष्पक विमान से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुहृवृतः",
+            "hindi": "मित्रों से घिरा हुआ (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.86",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“यह सब हो जानेपर राम देवताओंसे वर पाकर और मरे हुए वानरोंको जीवन दिलाकर अपने सभी साथियोंके साथ पुष्पकविमानपर चढ़कर अयोध्याके लिये प्रस्थित हुए ॥ ८६॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

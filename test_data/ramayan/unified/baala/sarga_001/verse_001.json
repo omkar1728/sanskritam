@@ -1,0 +1,266 @@
+{
+  "id": "baala-001-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 1
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-1"
+    ],
+    "vulgate_in_locators": [
+      "1.1.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.1"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001001a",
+        "1001001c"
+      ],
+      "lines": [
+        "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्",
+        "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्"
+      ],
+      "punctuated_derived": "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\nनारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्",
+        "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम्"
+      ],
+      "locators": [
+        "1-1-1"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्",
+        "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्"
+      ],
+      "locators": [
+        "1.1.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ॐ तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्‌",
+        "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्",
+      "net": "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्",
+      "in": "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्",
+      "gp": "ॐ तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "",
+            "b": "ॐ"
+          },
+          {
+            "a": "वरम्",
+            "b": "वरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्",
+      "net": "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम्",
+      "in": "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्",
+      "gp": "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वाल्मीकिर्मुनिपुंगवम्",
+            "b": "वाल्मीकिर्मुनिपुङ्गवम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "वाल्मीकिर्मुनिपुङ्गवम्",
+            "b": "वाल्मीकिर्मुनिपुंगवम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वाल्मीकिर्मुनिपुङ्गवम्",
+            "b": "वाल्मीकिर्मुनिपुंगवम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-1",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The ascetic Valmiki inquired Naarada - 'who engaged deeply in austerity and study of Vedas, best among the eloquent and eminent among sages' (as follows:). [1-1-1]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-1",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tapasvii",
+            "devanagari_machine_converted": "तपस्वी",
+            "english": "The ascetic"
+          },
+          {
+            "roman_itrans": "vaalmiikiH",
+            "devanagari_machine_converted": "वाल्मीकिः",
+            "english": "(Poet) Valmiki"
+          },
+          {
+            "roman_itrans": "paripapracCha",
+            "devanagari_machine_converted": "परिपप्रच्छ",
+            "english": "inquired"
+          },
+          {
+            "roman_itrans": "naaradam",
+            "devanagari_machine_converted": "नारदम्",
+            "english": "Naarada"
+          },
+          {
+            "roman_itrans": "tapaH-svaadhyaayaniratam",
+            "devanagari_machine_converted": "तपः-स्वाध्यायनिरतम्",
+            "english": "deeply engaged in austerity and study of Vedas"
+          },
+          {
+            "roman_itrans": "varam",
+            "devanagari_machine_converted": "वरम्",
+            "english": "(and) best"
+          },
+          {
+            "roman_itrans": "vaagvidaam",
+            "devanagari_machine_converted": "वाग्विदाम्",
+            "english": "among enunciators"
+          },
+          {
+            "roman_itrans": "munipungavam",
+            "devanagari_machine_converted": "मुनिपुन्गवम्",
+            "english": "(and) eminent among sages (as follows:)"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-1",
+        "spans_beyond_this_verse": false,
+        "text": "The epic starts with the word auspicious word ta as said in 'takaarovighnanaashakaH', 'takaarosaukhyadaayakaH'..."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तपस्वी वाल्मीकिजी ने तपस्या और स्वाध्याय में लगे हुए विद्वानों में श्रेष्ठ मुनिवर नारदजी से पूछा-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ॐ",
+            "hindi": "ॐ (प्रणव / मंगलाचरण)"
+          },
+          {
+            "sanskrit": "तपःस्वाध्यायनिरतम्",
+            "hindi": "तपस्या और स्वाध्याय में लगे हुए को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तपस्वी",
+            "hindi": "तपस्वी ने (प्रथमा विभक्ति, कर्ता)"
+          },
+          {
+            "sanskrit": "वाग्विदाम्",
+            "hindi": "वक्ताओं/विद्वानों में (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वरम्",
+            "hindi": "श्रेष्ठ को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नारदम्",
+            "hindi": "नारदजी से (द्वितीया विभक्ति, कर्म)"
+          },
+          {
+            "sanskrit": "परिपप्रच्छ",
+            "hindi": "भली-भाँति पूछा (परि + प्रच्छ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वाल्मीकिः",
+            "hindi": "वाल्मीकि ने (प्रथमा विभक्ति, कर्ता)"
+          },
+          {
+            "sanskrit": "मुनिपुंगवम्",
+            "hindi": "मुनियों में श्रेष्ठ को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.1",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "तपस्वी वाल्मीकिजीने तपस्या और स्वाध्यायमें लगे हुए दिद्वानोंमें श्रेष्ठ मुनिवर नारदजीसे पूछा--॥ १॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

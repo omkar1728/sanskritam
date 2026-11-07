@@ -1,0 +1,286 @@
+{
+  "id": "baala-006-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 8
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-8"
+    ],
+    "vulgate_in_locators": [
+      "1.6.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006008a",
+        "1006008c"
+      ],
+      "lines": [
+        "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्",
+        "द्रष्टुं शक्यमयोध्यायां नाविद्वान्न च नास्तिकः"
+      ],
+      "punctuated_derived": "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित् ।\nद्रष्टुं शक्यमयोध्यायां नाविद्वान्न च नास्तिकः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्",
+        "द्रष्टुं शक्यमयोध्यायां नाविद्वान्न च नास्तिकः"
+      ],
+      "locators": [
+        "1-6-8"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्",
+        "द्रष्टुं शक्यमयोध्यायां नाविद्वान् न च नास्तिकः॥८"
+      ],
+      "locators": [
+        "1.6.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्‌",
+        "द्रष्टुं शक्यमयोध्यायां नाविद्वान्‌ न च नास्तिकः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्",
+      "net": "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्",
+      "in": "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्",
+      "gp": "कामी वा न कदर्यो वा नृशंसः पुरुषः क्वचित्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "क्वचित्",
+            "b": "क्वचित्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "द्रष्टुं शक्यमयोध्यायां नाविद्वान्न च नास्तिकः",
+      "net": "द्रष्टुं शक्यमयोध्यायां नाविद्वान्न च नास्तिकः",
+      "in": "द्रष्टुं शक्यमयोध्यायां नाविद्वान् न च नास्तिकः॥८",
+      "gp": "द्रष्टुं शक्यमयोध्यायां नाविद्वान्‌ न च नास्तिकः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नाविद्वान्न",
+            "b": "नाविद्वान् न"
+          },
+          {
+            "a": "नास्तिकः",
+            "b": "नास्तिकः॥८"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नाविद्वान्न",
+            "b": "नाविद्वान्‌ न"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-8",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "None can see a lustful person, or a miser or a cruel one anywhere in that Ayodhya, along with nondescripts or non-believers, for there are no such persons. [1-6-8]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-8",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kaamii vaa",
+            "devanagari_machine_converted": "कामी वा",
+            "english": "lustful one, either"
+          },
+          {
+            "roman_itrans": "na kadaryaH vaa",
+            "devanagari_machine_converted": "न कदर्यः वा",
+            "english": "none, miserly one, either"
+          },
+          {
+            "roman_itrans": "nR^ishamsaH",
+            "devanagari_machine_converted": "नृशम्सः",
+            "english": "cruel one"
+          },
+          {
+            "roman_itrans": "puruSaH",
+            "devanagari_machine_converted": "पुरुषः",
+            "english": "person"
+          },
+          {
+            "roman_itrans": "avidvaan cha",
+            "devanagari_machine_converted": "अविद्वान् च",
+            "english": "none, unscholarly, also [nondescripts]"
+          },
+          {
+            "roman_itrans": "naastikaH",
+            "devanagari_machine_converted": "नास्तिकः",
+            "english": "non-believers"
+          },
+          {
+            "roman_itrans": "kvachit",
+            "devanagari_machine_converted": "क्वचित्",
+            "english": "anywhere"
+          },
+          {
+            "roman_itrans": "ayodhyaayaam",
+            "devanagari_machine_converted": "अयोध्यायाम्",
+            "english": "in Ayodhya"
+          },
+          {
+            "roman_itrans": "draSTum na shakyam",
+            "devanagari_machine_converted": "द्रष्टुम् न शक्यम्",
+            "english": "not possible to see."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "अयोध्यामें कहीं भी कोई कामी, कृपण, क्रूर, मूर्ख और नास्तिक मनुष्य देखनेको भी नहीं मिलता था।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कामी",
+            "hindi": "कामी / विषयी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "कदर्यः",
+            "hindi": "कृपण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वा",
+            "hindi": "या (अव्यय)"
+          },
+          {
+            "sanskrit": "नृशंसः",
+            "hindi": "क्रूर / निर्दय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरुषः",
+            "hindi": "पुरुष (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्वचित्",
+            "hindi": "कहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "द्रष्टुम्",
+            "hindi": "देखने को (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "शक्यम्",
+            "hindi": "शक्य है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अयोध्यायाम्",
+            "hindi": "अयोध्या में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अविद्वान्",
+            "hindi": "अज्ञानी / मूर्ख (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नास्तिकः",
+            "hindi": "नास्तिक (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.8",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "अयोध्यामें कहीं भी कोई कामी, कृपण, क्रूर, मूर्ख और नास्तिक मनुष्य देखनेको भी नहीं मिलता था॥८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

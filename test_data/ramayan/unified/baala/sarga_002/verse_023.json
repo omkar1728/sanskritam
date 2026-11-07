@@ -1,0 +1,292 @@
+{
+  "id": "baala-002-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 22
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-23"
+    ],
+    "vulgate_in_locators": [
+      "1.2.23"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.23"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002022a",
+        "1002022c"
+      ],
+      "lines": [
+        "आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः",
+        "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्"
+      ],
+      "punctuated_derived": "आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः ।\nचतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आजगाम ततो ब्रह्म लोककर्ता स्वयं प्रभुः",
+        "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुङ्गवम्"
+      ],
+      "locators": [
+        "1-2-23"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः",
+        "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्"
+      ],
+      "locators": [
+        "1.2.23"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आजगाम तततो ब्रह्मा लोककर्ता स्वयं प्रभुः",
+        "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.23"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः",
+      "net": "आजगाम ततो ब्रह्म लोककर्ता स्वयं प्रभुः",
+      "in": "आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः",
+      "gp": "आजगाम तततो ब्रह्मा लोककर्ता स्वयं प्रभुः",
+      "similarity": {
+        "sim_smith_net": 0.9850746268656716,
+        "sim_in_net": 0.9850746268656716,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ब्रह्मा",
+            "b": "ब्रह्म"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ब्रह्म",
+            "b": "ब्रह्मा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ततो ब्रह्म",
+            "b": "तततो ब्रह्मा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्",
+      "net": "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुङ्गवम्",
+      "in": "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्",
+      "gp": "चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मुनिपुंगवम्",
+            "b": "मुनिपुङ्गवम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मुनिपुङ्गवम्",
+            "b": "मुनिपुंगवम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मुनिपुङ्गवम्",
+            "b": "मुनिपुंगवम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-23",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then, the great resplendent Four-faced creator of fourteen worlds, almighty Brahma, arrived there on his own, to see that eminent saint Valmiki. [1-2-23]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-23",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "lokakartaa",
+            "devanagari_machine_converted": "लोककर्ता",
+            "english": "maker of worlds [creator of 14 worlds]"
+          },
+          {
+            "roman_itrans": "prabhuH",
+            "devanagari_machine_converted": "प्रभुः",
+            "english": "almighty"
+          },
+          {
+            "roman_itrans": "chaturmukhaH",
+            "devanagari_machine_converted": "चतुर्मुखः",
+            "english": "four-faced one"
+          },
+          {
+            "roman_itrans": "mahaatejaa",
+            "devanagari_machine_converted": "महातेजा",
+            "english": "great resplendent one"
+          },
+          {
+            "roman_itrans": "brahmaa",
+            "devanagari_machine_converted": "ब्रह्मा",
+            "english": "Brahma"
+          },
+          {
+            "roman_itrans": "draSTum",
+            "devanagari_machine_converted": "द्रष्टुम्",
+            "english": "to see"
+          },
+          {
+            "roman_itrans": "tam munipungavam",
+            "devanagari_machine_converted": "तम् मुनिपुन्गवम्",
+            "english": "him who was an eminent sage[star amog sages]"
+          },
+          {
+            "roman_itrans": "svayam",
+            "devanagari_machine_converted": "स्वयम्",
+            "english": "on his own"
+          },
+          {
+            "roman_itrans": "aajagaama",
+            "devanagari_machine_converted": "आजगाम",
+            "english": "arrived."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-23",
+        "spans_beyond_this_verse": false,
+        "text": "Comment; The deities do not usually arrive on their own, but reveal themselves after a great penance, or on raising hue and cry as is done by demon devotees. Here Brahma, one among the Trinity of Hindu mythology, arrives on his own, to execute a divine deed through Valmiki, i.e. authoring the epic, Ramayana."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इतनेहीमें अखिल विश्वकी सृष्टि करनेवाले, सर्वसमर्थ, महातेजस्वी चतुर्मुख ब्रह्माजी मुनिवर वाल्मीकिसे मिलनेके लिये स्वयं उनके आश्रमपर आये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आजगाम",
+            "hindi": "आये (आ + गम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "ब्रह्मा",
+            "hindi": "ब्रह्मा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लोककर्ता",
+            "hindi": "लोकों के कर्ता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वयम्",
+            "hindi": "स्वयं (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रभुः",
+            "hindi": "प्रभु (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "चतुर्मुखः",
+            "hindi": "चार मुख वाले (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महातेजाः",
+            "hindi": "महातेजस्वी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "द्रष्टुम्",
+            "hindi": "देखने के लिए (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिपुंगवम्",
+            "hindi": "मुनिश्रेष्ठ को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.23",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "इतनेहीमें अखिल विश्वकी सृष्टि करनेवाले, सर्वसमर्थ, महातेजस्वी चतुर्मुख ब्रह्माजी मुनिवर वाल्मीकिसे मिलनेके लिये स्वयं उनके आश्रमपर आये॥ २३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

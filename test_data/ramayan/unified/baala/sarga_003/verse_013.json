@@ -1,0 +1,231 @@
+{
+  "id": "baala-003-013",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 13,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 10
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-18"
+    ],
+    "vulgate_in_locators": [
+      "1.3.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003010c"
+      ],
+      "lines": [
+        "दण्डकारण्यगमनं सुतीक्ष्णेन समागमम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दर्शनं शरभङ्गस्य सुतीक्ष्णेन समागमम्"
+      ],
+      "locators": [
+        "1-3-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दर्शनं शरभंगस्य सुतीक्ष्णेन समागमम्"
+      ],
+      "locators": [
+        "1.3.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दर्शनं शरभंगस्य सुतीक्ष्णेन समागमम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "दण्डकारण्यगमनं सुतीक्ष्णेन समागमम्",
+      "net": "दर्शनं शरभङ्गस्य सुतीक्ष्णेन समागमम्",
+      "in": "दर्शनं शरभंगस्य सुतीक्ष्णेन समागमम्",
+      "gp": "दर्शनं शरभंगस्य सुतीक्ष्णेन समागमम्‌",
+      "similarity": {
+        "sim_smith_net": 0.7,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "दण्डकारण्यगमनं",
+            "b": "दर्शनं शरभङ्गस्य"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "शरभङ्गस्य",
+            "b": "शरभंगस्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शरभङ्गस्य",
+            "b": "शरभंगस्य"
+          },
+          {
+            "a": "समागमम्",
+            "b": "समागमम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-18",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Rama's visit to Sage Sarabhanga and Suteekshna; their visiting hermitic lady Anasuuya, and her smooth speaking with Seetha and also her giving a body cream to Seetha...[by applying which cream Seetha will not wither away in the rough weather of woods. These details are incorporated with great care.] [1-3-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-18",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "darshanam sharabha~ngasya",
+            "devanagari_machine_converted": "दर्शनम् शरभञ्गस्य",
+            "english": "seeing [visiting,] Sage Sarabhanga"
+          },
+          {
+            "roman_itrans": "sutiikShNena samaagamam",
+            "devanagari_machine_converted": "सुतीक्ष्णेन समागमम्",
+            "english": "meeting with Sage Suteekshna"
+          },
+          {
+            "roman_itrans": "anasuuyaasamaakhyaam ca",
+            "devanagari_machine_converted": "अनसूयासमाख्याम् च",
+            "english": "also smooth speaking of Anasuya"
+          },
+          {
+            "roman_itrans": "angaraagasya",
+            "devanagari_machine_converted": "अन्गरागस्य",
+            "english": "of applying body cream"
+          },
+          {
+            "roman_itrans": "ca",
+            "devanagari_machine_converted": "च",
+            "english": "also"
+          },
+          {
+            "roman_itrans": "arpaNam",
+            "devanagari_machine_converted": "अर्पणम्",
+            "english": "giving."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "शरभंगमुनिका दर्शन, सुतीक्ष्णके साथ समागम, अनसूयाके साथ सीतादेवीकी कुछ कालतक स्थिति, उनके द्वारा सीताको अंगरागसमर्पण,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शरभङ्गस्य",
+            "hindi": "शरभंग मुनि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सुतीक्ष्णेन",
+            "hindi": "सुतीक्ष्ण के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समागमम्",
+            "hindi": "समागम / मिलन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनसूयासमाख्याम्",
+            "hindi": "अनसूया के साथ (सीता की) स्थिति का वर्णन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अङ्गरागस्य",
+            "hindi": "अंगराग (शरीर पर लगाने वाले सुगन्धित द्रव्य) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अर्पणम्",
+            "hindi": "समर्पण / देना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.18",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

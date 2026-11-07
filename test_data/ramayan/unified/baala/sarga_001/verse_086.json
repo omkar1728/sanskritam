@@ -1,0 +1,239 @@
+{
+  "id": "baala-001-086",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 86,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 65
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-80"
+    ],
+    "vulgate_in_locators": [
+      "1.1.80"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.80"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001065a",
+        "1001065c"
+      ],
+      "lines": [
+        "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+        "समुद्रवचनाच्चैव नलं सेतुमकारयत्"
+      ],
+      "punctuated_derived": "दर्शयामास चात्मानं समुद्रः सरितां पतिः ।\nसमुद्रवचनाच्चैव नलं सेतुमकारयत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+        "समुद्रवचनाच्चैव नलं सेतुमकारयत्"
+      ],
+      "locators": [
+        "1-1-80"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+        "समुद्रवचनाच्चैव नलं सेतुमकारयत्"
+      ],
+      "locators": [
+        "1.1.80"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+        "समुद्रवचनाच्चैव नलं सेतुमकारयत्‌"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.80"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+      "net": "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+      "in": "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+      "gp": "दर्शयामास चात्मानं समुद्रः सरितां पतिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "समुद्रवचनाच्चैव नलं सेतुमकारयत्",
+      "net": "समुद्रवचनाच्चैव नलं सेतुमकारयत्",
+      "in": "समुद्रवचनाच्चैव नलं सेतुमकारयत्",
+      "gp": "समुद्रवचनाच्चैव नलं सेतुमकारयत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सेतुमकारयत्",
+            "b": "सेतुमकारयत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-80",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The Ocean-god revealed himself and upon his word, Nala built the bridge across the ocean... [1-1-80]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-80",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saritaam patiH samudraH",
+            "devanagari_machine_converted": "सरिताम् पतिः समुद्रः",
+            "english": "Ocean-god the lord of the rivers"
+          },
+          {
+            "roman_itrans": "aatmaanam darshayaamaasa",
+            "devanagari_machine_converted": "आत्मानम् दर्शयामास",
+            "english": "revealed himself"
+          },
+          {
+            "roman_itrans": "samudravachanaat ca eva",
+            "devanagari_machine_converted": "समुद्रवचनात् च एव",
+            "english": "and upon the words of the Ocean-God"
+          },
+          {
+            "roman_itrans": "nalam setum akaarayat",
+            "devanagari_machine_converted": "नलम् सेतुम् अकारयत्",
+            "english": "Nala built the bridge [across the ocean]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-80",
+        "spans_beyond_this_verse": false,
+        "text": "Nala, a Vanara engineer, had a boon from his mother. In his childhood he used to throw playthings into water wanting them to float. But they were all submerged. His mother then gave a boon to him saying that whatever article he throws in waters will float, may they be toys or stones or boulders. Here that boon is taken advantage of, and a boulder bridge is built on ocean waters."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.80",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तब नदीपति समुद्रने अपनेको प्रकट कर दिया, फिर समुद्रके ही कहनेसे रामने नलसे पुल निर्माण कराया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.80",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दर्शयामास",
+            "hindi": "प्रकट किया (दृश् धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "आत्मानम्",
+            "hindi": "अपने आप को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रः",
+            "hindi": "समुद्र ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सरिताम्",
+            "hindi": "नदियों के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पतिः",
+            "hindi": "स्वामी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रवचनात्",
+            "hindi": "समुद्र के वचन से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "नलम्",
+            "hindi": "नल से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सेतुम्",
+            "hindi": "पुल को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अकारयत्",
+            "hindi": "निर्माण कराया (कृ धातु, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.80",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“तब नदीपति समुद्रने अपनेको प्रकट कर दिया, फिर समुद्रके ही कहनेसे रामने नलसे पुल निर्माण कराया॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

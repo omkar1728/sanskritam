@@ -1,0 +1,312 @@
+{
+  "id": "baala-001-063",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 63,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 48
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-58",
+      "1-1-59"
+    ],
+    "vulgate_in_locators": [
+      "1.1.59"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.59"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001048a",
+        "1001048c"
+      ],
+      "lines": [
+        "हनुमद्वचनाच्चैव सुग्रीवेण समागतः",
+        "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः"
+      ],
+      "punctuated_derived": "हनुमद्वचनाच्चैव सुग्रीवेण समागतः ।\nसुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "हनुमद्वचनाच्चैव सुग्रीवेण समागतः",
+        "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः"
+      ],
+      "locators": [
+        "1-1-58",
+        "1-1-59"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "हनुमद्वचनाच्चैव सुग्रीवेण समागतः",
+        "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः"
+      ],
+      "locators": [
+        "1.1.59"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_593_differs_from_sanskrit_59"
+      ],
+      "refs": [
+        "1.1.59"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "हनुमद्वचनाच्चैव सुग्रीवेण समागतः",
+      "net": "हनुमद्वचनाच्चैव सुग्रीवेण समागतः",
+      "in": "हनुमद्वचनाच्चैव सुग्रीवेण समागतः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः",
+      "net": "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः",
+      "in": "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः",
+      "gp": "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-58",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Rama was united indeed with the Vanara Hanuma on the banks of Lake Pampa, and upon the word of Hanuma, Rama met with Sugreeva... [1-1-58b, 59b]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-59",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The highly powerful Rama detailed from the beginning all that happened, and in particular the abduction of Seetha, to Sugriva and to Hanuma also... [1-1-59b, 60a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-58",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "58b, 59a. pampaatiire",
+            "devanagari_machine_converted": "५८ब्, ५९अ। पम्पातीरे",
+            "english": "On the banks of Pampa"
+          },
+          {
+            "roman_itrans": "hanumataa vaanareNa sangataH ha",
+            "devanagari_machine_converted": "हनुमता वानरेण सन्गतः ह",
+            "english": "[Rama was] indeed united with the Vanara Hanuma"
+          },
+          {
+            "roman_itrans": "hanumadvachanaat ca eva",
+            "devanagari_machine_converted": "हनुमद्वचनात् च एव",
+            "english": "and upon Hanuma's word"
+          },
+          {
+            "roman_itrans": "samaagataH",
+            "devanagari_machine_converted": "समागतः",
+            "english": "met"
+          },
+          {
+            "roman_itrans": "sugriiveNa",
+            "devanagari_machine_converted": "सुग्रीवेण",
+            "english": "with Sugreeva."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-59",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "59b, 60a. mahaaabalaH raamaH",
+            "devanagari_machine_converted": "५९ब्, ६०अ। महाअबलः रामः",
+            "english": "The highly powerful Rama"
+          },
+          {
+            "roman_itrans": "shamsat",
+            "devanagari_machine_converted": "शम्सत्",
+            "english": "detailed"
+          },
+          {
+            "roman_itrans": "aaditaH",
+            "devanagari_machine_converted": "आदितः",
+            "english": "from the beginning"
+          },
+          {
+            "roman_itrans": "tat sarvam",
+            "devanagari_machine_converted": "तत् सर्वम्",
+            "english": "all that"
+          },
+          {
+            "roman_itrans": "yathaavR^ittam",
+            "devanagari_machine_converted": "यथावृत्तम्",
+            "english": "as had happened"
+          },
+          {
+            "roman_itrans": "visheShataH siithaayaaH ca",
+            "devanagari_machine_converted": "विशेषतः सीथायाः च",
+            "english": "and in particular [the abduction] of Seetha"
+          },
+          {
+            "roman_itrans": "sugriivaaya ca",
+            "devanagari_machine_converted": "सुग्रीवाय च",
+            "english": "to Sugreeva [and to Hanuma] also."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-59",
+        "spans_beyond_this_verse": true,
+        "text": "Here the use of 'highly powerful...' for Rama is to indicate that though he himself was capable enough to eliminate Ravana, but as a human, he needed some agency, since humans in such difficulties are usually in need of a helping hand. As such, Rama had to befriend Sugreeva and it was necessary to narrate all sad episodes to his friend."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.59",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और उन्हींके कहनेसे सुग्रीवसे भी मेल किया। तदनन्तर महाबलवान् रामने"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.59",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "हनुमद्वचनात्",
+            "hindi": "हनुमान के कहने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "सुग्रीवेण",
+            "hindi": "सुग्रीव के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समागतः",
+            "hindi": "मिला हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवाय",
+            "hindi": "सुग्रीव से (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शंसन्",
+            "hindi": "कहता हुआ / सुनाता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाबलः",
+            "hindi": "महाबलवान् ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.59",
+        "ocr_flags": [
+          "hindi_marker_593_differs_from_sanskrit_59"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "आदितस्तद्‌ यथावृत्तं सीतायाश्च विशेषतः। “तदनन्तर महाबलवान्‌ रामने आदिसे ही लेकर जो कुछ हुआ था वह और विशेषतः सीताका वृत्तान्त सुग्रीवसे कह सुनाया॥५९३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed",
+  "critical_edition_notes": [
+    {
+      "smith_ids": [
+        "1001048a",
+        "1001048c"
+      ],
+      "comment": "In the Critical Notes, the editor remarks, “Read 96* and 97* after St. 48 in\nthe text.” Star passage 96* reads:\nStar passage 97* reads:",
+      "star_passages": [
+        {
+          "label": "96*",
+          "lines": [
+            "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः"
+          ]
+        },
+        {
+          "label": "97*",
+          "lines": [
+            "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्"
+          ]
+        }
+      ]
+    }
+  ]
+}

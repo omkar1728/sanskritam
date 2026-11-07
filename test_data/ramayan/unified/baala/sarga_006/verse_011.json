@@ -1,0 +1,264 @@
+{
+  "id": "baala-006-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 9
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-9"
+    ],
+    "vulgate_in_locators": [
+      "1.6.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.9"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006009a",
+        "1006009c"
+      ],
+      "lines": [
+        "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+        "मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः"
+      ],
+      "punctuated_derived": "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः ।\nमुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+        "उदिताः शीलवृत्ताभ्यां महर्षय इवामलाः"
+      ],
+      "locators": [
+        "1-6-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+        "मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः॥९"
+      ],
+      "locators": [
+        "1.6.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+        "मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+      "net": "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+      "in": "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+      "gp": "सर्वे नराश्च नार्यश्च धर्मशीलाः सुसंयताः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः",
+      "net": "उदिताः शीलवृत्ताभ्यां महर्षय इवामलाः",
+      "in": "मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः॥९",
+      "gp": "मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः",
+      "similarity": {
+        "sim_smith_net": 0.9552238805970149,
+        "sim_in_net": 0.9552238805970149,
+        "sim_gp_net": 0.9552238805970149
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मुदिताः",
+            "b": "उदिताः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "उदिताः",
+            "b": "मुदिताः"
+          },
+          {
+            "a": "इवामलाः",
+            "b": "इवामलाः॥९"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "उदिताः",
+            "b": "मुदिताः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-9",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "All the ladies and gentlemen in that city are virtuous in mind, self-controlled ones, they are all self-satisfied like great saints, and both in their conduct and character they are blameless. [1-6-9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-9",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "sarve naraaH cha",
+            "devanagari_machine_converted": "सर्वे नराः च",
+            "english": "all the males, also"
+          },
+          {
+            "roman_itrans": "naaryaaH cha",
+            "devanagari_machine_converted": "नार्याः च",
+            "english": "females, also"
+          },
+          {
+            "roman_itrans": "dharmashiilaaH",
+            "devanagari_machine_converted": "धर्मशीलाः",
+            "english": "virtue minded"
+          },
+          {
+            "roman_itrans": "susamyataaH",
+            "devanagari_machine_converted": "सुसम्यताः",
+            "english": "well self-controlled ones"
+          },
+          {
+            "roman_itrans": "shiilavR^ittaabhyaam",
+            "devanagari_machine_converted": "शीलवृत्ताभ्याम्",
+            "english": "in character and conduct"
+          },
+          {
+            "roman_itrans": "uditaaH",
+            "devanagari_machine_converted": "उदिताः",
+            "english": "self-satisfied ones"
+          },
+          {
+            "roman_itrans": "maharSayaH iva",
+            "devanagari_machine_converted": "महर्षयः इव",
+            "english": "like great saint"
+          },
+          {
+            "roman_itrans": "amalaaH",
+            "devanagari_machine_converted": "अमलाः",
+            "english": "without blemish."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वहाँके सभी स्त्री-पुरुष धर्मशील, संयमी, सदा प्रसन्न रहनेवाले तथा शील और सदाचारकी दृष्टिसे महर्षियोंकी भाँति निर्मल थे॥९॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नराः",
+            "hindi": "पुरुष (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नार्यः",
+            "hindi": "स्त्रियाँ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "धर्मशीलाः",
+            "hindi": "धर्मशील (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सुसंयताः",
+            "hindi": "सुसंयत / अच्छी तरह संयमित (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "मुदिताः",
+            "hindi": "प्रसन्न (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "शीलवृत्ताभ्याम्",
+            "hindi": "शील और सदाचार से (तृतीया विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "महर्षयः",
+            "hindi": "महर्षि (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          },
+          {
+            "sanskrit": "अमलाः",
+            "hindi": "निर्मल (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.9",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वहाँके सभी स्त्री-पुरुष धर्मशील, संयमी, सदा प्रसन्न रहनेवाले तथा शील और सदाचारकी दृष्टिसे महर्षियोंकी भाँति निर्मल थे॥९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

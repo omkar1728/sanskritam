@@ -1,0 +1,239 @@
+{
+  "id": "baala-010-004",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 4,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 3
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-3"
+    ],
+    "vulgate_in_locators": [
+      "1.10.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.3"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009003a",
+        "1009003c"
+      ],
+      "lines": [
+        "ऋश्यशृङ्गो वनचरस्तपःस्वाध्यायने रतः",
+        "अनभिज्ञः स नारीणां विषयाणां सुखस्य च"
+      ],
+      "punctuated_derived": "ऋश्यशृङ्गो वनचरस्तपःस्वाध्यायने रतः ।\nअनभिज्ञः स नारीणां विषयाणां सुखस्य च ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः",
+        "अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च"
+      ],
+      "locators": [
+        "1-10-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋष्यशृंगो वनचरस्तपःस्वाध्यायसंयुतः",
+        "अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च"
+      ],
+      "locators": [
+        "1.10.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋष्यशृंगो वनचरस्तपःस्वाध्यायसंयुतः",
+        "अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.10.3"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋश्यशृङ्गो वनचरस्तपःस्वाध्यायने रतः",
+      "net": "ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः",
+      "in": "ऋष्यशृंगो वनचरस्तपःस्वाध्यायसंयुतः",
+      "gp": "ऋष्यशृंगो वनचरस्तपःस्वाध्यायसंयुतः",
+      "similarity": {
+        "sim_smith_net": 0.8615384615384616,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ऋश्यशृङ्गो वनचरस्तपःस्वाध्यायने रतः",
+            "b": "ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ऋष्यशृङ्गो",
+            "b": "ऋष्यशृंगो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ऋष्यशृङ्गो",
+            "b": "ऋष्यशृंगो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "अनभिज्ञः स नारीणां विषयाणां सुखस्य च",
+      "net": "अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च",
+      "in": "अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च",
+      "gp": "अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च",
+      "similarity": {
+        "sim_smith_net": 0.9375,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "अनभिज्ञः स",
+            "b": "अनभिज्ञस्तु"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-3",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Rishyasringa is a forest-dweller absorbed in ascesis and self-study of Vedic scriptures, and he is not aware of women, or of worldly-matters or of even worldly-pleasures...[1-10-3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-3",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "R^iShyashR^i~ngaH vanacharaH",
+            "devanagari_machine_converted": "ऋष्यशृञ्गः वनचरः",
+            "english": "Rishyasringa, forest-dweller"
+          },
+          {
+            "roman_itrans": "tapaHsvaadhyaayasamyutaH",
+            "devanagari_machine_converted": "तपःस्वाध्यायसम्युतः",
+            "english": "absorbed in ascesis and in Vedic reading"
+          },
+          {
+            "roman_itrans": "naariiNaam viSayaaNaam sukhasya cha",
+            "devanagari_machine_converted": "नारीणाम् विषयाणाम् सुखस्य च",
+            "english": "in women, of worldly-matters, of pleasure, also"
+          },
+          {
+            "roman_itrans": "anabhij~naH tu",
+            "devanagari_machine_converted": "अनभिज्ञः तु",
+            "english": "not aware of."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ऋष्यशृंग मुनि सदा वनमें ही रहकर तपस्या और स्वाध्यायमें लगे रहते हैं। वे स्त्रियोंको पहचानतेतक नहीं हैं और विषयोंके सुखसे भी सर्वथा अनभिज्ञ हैं।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋष्यश्रृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वनचरः",
+            "hindi": "वन में विचरने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तपःस्वाध्यायसंयुतः",
+            "hindi": "तपस्या और स्वाध्याय में लगा हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनभिज्ञः",
+            "hindi": "अनभिज्ञ / न जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "नारीणाम्",
+            "hindi": "स्त्रियों के विषय में (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विषयाणाम्",
+            "hindi": "विषयों के विषय में (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सुखस्य",
+            "hindi": "सुख के विषय में (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "भी (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.3",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“ऋष्यश्रृंग मुनि सदा वनमें ही रहकर तपस्या और स्वाध्यायमें लगे रहते हैं। वे स्त्रियोंको पहचानतेतक नहीं हैं और विषयोंके सुखसे भी सर्वथा अनभिज्ञ हैं॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

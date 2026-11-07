@@ -1,0 +1,304 @@
+{
+  "id": "baala-001-053",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 53,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 39
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-49"
+    ],
+    "vulgate_in_locators": [
+      "1.1.49",
+      "1.1.50"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.49"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001039a",
+        "1001039c"
+      ],
+      "lines": [
+        "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः",
+        "सहायं वरयामास मारीचं नाम राक्षसम्"
+      ],
+      "punctuated_derived": "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः ।\nसहायं वरयामास मारीचं नाम राक्षसम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः",
+        "सहायं वरयामास मारीचं नाम राक्षसम्"
+      ],
+      "locators": [
+        "1-1-49"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्च्छितः",
+        "सहायं वरयामास मारीचं नाम राक्षसम्"
+      ],
+      "locators": [
+        "1.1.49",
+        "1.1.50"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूच्छितः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_3_differs_from_sanskrit_49"
+      ],
+      "refs": [
+        "1.1.49"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः",
+      "net": "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः",
+      "in": "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्च्छितः",
+      "gp": "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूच्छितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9743589743589743,
+        "sim_gp_net": 0.9736842105263158
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "क्रोधमूर्छितः",
+            "b": "क्रोधमूर्च्छितः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "क्रोधमूर्छितः",
+            "b": "क्रोधमूच्छितः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सहायं वरयामास मारीचं नाम राक्षसम्",
+      "net": "सहायं वरयामास मारीचं नाम राक्षसम्",
+      "in": "सहायं वरयामास मारीचं नाम राक्षसम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-49",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then, on hearing the slaughter of his kinsmen, Ravana convulsed in anger and sought to get the help of a demon named Maareecha... [1-1-49b, 50a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-49",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "49b, 50a tataH",
+            "devanagari_machine_converted": "४९ब्, ५०अ ततः",
+            "english": "Thereafter"
+          },
+          {
+            "roman_itrans": "raavaNaH",
+            "devanagari_machine_converted": "रावणः",
+            "english": "Ravana"
+          },
+          {
+            "roman_itrans": "j~naativadham shrutvaa",
+            "devanagari_machine_converted": "ज्ञातिवधम् श्रुत्वा",
+            "english": "on hearing the slaughter of [his] kinsmen"
+          },
+          {
+            "roman_itrans": "krodhamuurChitaH",
+            "devanagari_machine_converted": "क्रोधमूर्छितः",
+            "english": "convulsed in anger"
+          },
+          {
+            "roman_itrans": "sahaayam varayaamaasa",
+            "devanagari_machine_converted": "सहायम् वरयामास",
+            "english": "[and] sought to get the help"
+          },
+          {
+            "roman_itrans": "maariicham naama raakShasam",
+            "devanagari_machine_converted": "मारीचम् नाम राक्षसम्",
+            "english": "[of] a demon named Maareecha."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-49",
+        "spans_beyond_this_verse": false,
+        "text": "Ravana is the supremo of demons and the main antagonist in this epic. His name is Dashagriiva, meaning that he has ten heads. This name 'Ravana' obtains from the root ru - shabde raavayati iti raavaNaH 'one who makes people cry by his violent actions...' and it also means vishravasaH apatyam pumaan raavaNaH, vishravaso vishravaNa-ravaNau 'the son of one named Vishravasa...' Govindaraja."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.49",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "चौदह हजार राक्षसोंका वध किया। तदनन्तर अपने कुटुम्बका वध सुनकर रावण नामका राक्षस क्रोधसे मूर्च्छित हो उठा"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.50",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और उसने मारीच राक्षससे सहायता माँगी। यद्यपि मारीचने रावणको अनेकों बार मना किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.49",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रक्षसाम्",
+            "hindi": "राक्षसों में से (षष्ठी विभक्ति, निर्धारण)"
+          },
+          {
+            "sanskrit": "निहतानि",
+            "hindi": "मारे गए (प्रथमा विभक्ति, बहुवचन, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "आसन्",
+            "hindi": "थे (अस् धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सहस्राणि",
+            "hindi": "हजार (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "चतुर्दश",
+            "hindi": "चौदह (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "ज्ञातिवधम्",
+            "hindi": "कुटुम्बियों के वध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रावणः",
+            "hindi": "रावण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्रोधमूर्च्छितः",
+            "hindi": "क्रोध से मूर्च्छित हुआ (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.50",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सहायम्",
+            "hindi": "सहायता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वरयामास",
+            "hindi": "माँगा (वृ धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "मारीचम्",
+            "hindi": "मारीच को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम से (अव्यय)"
+          },
+          {
+            "sanskrit": "राक्षसम्",
+            "hindi": "राक्षस को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वार्यमाणः",
+            "hindi": "मना किया जाता हुआ (शानच् प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुबहुशः",
+            "hindi": "बहुत बार (अव्यय)"
+          },
+          {
+            "sanskrit": "मारीचेन",
+            "hindi": "मारीच के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणः",
+            "hindi": "रावण (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.49",
+        "ocr_flags": [
+          "hindi_marker_3_differs_from_sanskrit_49"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "सहायं वरयामास मारीचं नाम राक्षसम्‌। “तदनन्तर अपने कुटुम्बका वध सुनकर रावण नामका राक्षस क्रोधसे मूर्च्छित हो उठा और उसने मारीच राक्षससे सहायता माँगी॥ ४९ ३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

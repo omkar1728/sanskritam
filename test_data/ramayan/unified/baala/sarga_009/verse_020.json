@@ -1,0 +1,260 @@
+{
+  "id": "baala-009-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-13"
+    ],
+    "vulgate_in_locators": [
+      "1.9.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.13"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम्"
+      ],
+      "locators": [
+        "1-9-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम्"
+      ],
+      "locators": [
+        "1.9.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विभाण्डकसुतं राजन्‌ ब्राह्मणं वेदपारगम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_12-13"
+      ],
+      "refs": [
+        "1.9.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम्",
+      "in": "विभाण्डकसुतं राजन् ब्राह्मणं वेदपारगम्",
+      "gp": "विभाण्डकसुतं राजन्‌ ब्राह्मणं वेदपारगम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "राजन्",
+            "b": "राजन्‌"
+          },
+          {
+            "a": "वेदपारगम्",
+            "b": "वेदपारगम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-13",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Oh! King, having brought Sage Rishyasringa and honouring him well with good care, procedurally give him your daughter Shanta in marriage to that Vedic Brahman and the son of Sage Vibhaandaka... [1-9-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-13",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahiipala",
+            "devanagari_machine_converted": "महीपल",
+            "english": "oh king"
+          },
+          {
+            "roman_itrans": "aanaayya",
+            "devanagari_machine_converted": "आनाय्य",
+            "english": "on bringing"
+          },
+          {
+            "roman_itrans": "R^iShyashR^ingam",
+            "devanagari_machine_converted": "ऋष्यशृन्गम्",
+            "english": "Rishyasringa"
+          },
+          {
+            "roman_itrans": "vibhaaNDakasutam",
+            "devanagari_machine_converted": "विभाण्डकसुतम्",
+            "english": "Vibhaandaka's son"
+          },
+          {
+            "roman_itrans": "braahmaNam vedapaaragam",
+            "devanagari_machine_converted": "ब्राह्मणम् वेदपारगम्",
+            "english": "Brahman, Veda scholar"
+          },
+          {
+            "roman_itrans": "susatkR^itam",
+            "devanagari_machine_converted": "सुसत्कृतम्",
+            "english": "well honoured one"
+          },
+          {
+            "roman_itrans": "samaahitaH",
+            "devanagari_machine_converted": "समाहितः",
+            "english": "with good care"
+          },
+          {
+            "roman_itrans": "kanyaam shaantaam vidhinaa prayacCha",
+            "devanagari_machine_converted": "कन्याम् शान्ताम् विधिना प्रयच्छ",
+            "english": "girl [daughter,] Shanta, procedurally, you give [in marriage.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.12",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘राजन्! विभाण्डक के पुत्र ऋष्यशृंग वेदों के पारगामी विद्वान् हैं। भूपाल! आप सभी उपायोंसे उन्हें यहाँ ले आइये। बुलाकर उनका भलीभाँति सत्कार कीजिये। फिर एकाग्रचित्त हो वैदिक विधिके अनुसार उनके साथ अपनी कन्या शान्ता का विवाह कर दीजिये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.12",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विभाण्डकसुतम्",
+            "hindi": "विभाण्डक के पुत्र (ऋष्यशृंग) को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राजन्",
+            "hindi": "हे राजन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वोपायैः",
+            "hindi": "सभी उपायों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इह",
+            "hindi": "यहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "आनय",
+            "hindi": "लाइये (आ + नी, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "आनाय्य",
+            "hindi": "बुलाकर (ल्यबन्त अव्यय, प्रयोज्यार्थ)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "महीपाल",
+            "hindi": "हे राजन् / भूपाल! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋष्यश्रृङ्गम्",
+            "hindi": "ऋष्यशृंग को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुसत्कृतम्",
+            "hindi": "भलीभाँति सत्कार करके (द्वितीया विभक्ति/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "विभाण्डकसुतम्",
+            "hindi": "विभाण्डक पुत्र को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राजन्",
+            "hindi": "हे राजन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्राह्मणम्",
+            "hindi": "ब्राह्मण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वेदपारगम्",
+            "hindi": "वेदों के पारगामी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रयच्छ",
+            "hindi": "दो (प्र + यम्, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "कन्याम्",
+            "hindi": "कन्या को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शान्ताम्",
+            "hindi": "शान्ता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वै",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "विधिना",
+            "hindi": "विधि के अनुसार (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुसमाहितः",
+            "hindi": "एकाग्रचित्त होकर (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.13",
+        "ocr_flags": [
+          "hindi_marker_range_12-13"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "“राजन्‌! विभाण्डकके पुत्र ऋष्यशृंग वेदोंके पारगामी विद्वान्‌ हैं। भूपाल! आप सभी उपायोंसे उन्हें यहाँ ले आइये। बुलाकर उनका भलीभाँति सत्कार कीजिये। फिर एकाग्रचित्त हो वैदिक विधिके अनुसार उनके साथ अपनी कन्या शान्ताका विवाह कर दीजिये'॥ १२-१३॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

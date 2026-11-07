@@ -1,0 +1,238 @@
+{
+  "id": "baala-001-076",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 76,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 55
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-70"
+    ],
+    "vulgate_in_locators": [
+      "1.1.70"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.70"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001055a",
+        "1001055c"
+      ],
+      "lines": [
+        "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+        "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्"
+      ],
+      "punctuated_derived": "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे ।\nसुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+        "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्"
+      ],
+      "locators": [
+        "1-1-70"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+        "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्"
+      ],
+      "locators": [
+        "1.1.70"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+        "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्‌"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.70"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+      "net": "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+      "in": "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+      "gp": "ततः सुग्रीववचनाद्धत्वा वालिनमाहवे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्",
+      "net": "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्",
+      "in": "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्",
+      "gp": "सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रत्यपादयत्",
+            "b": "प्रत्यपादयत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-70",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then Raghava after killing Vali in a combat as per Sugreeva's plea, installed Sugreeva alone as the king of Vanaras.. [1-1-70]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-70",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "raaghavaH",
+            "devanagari_machine_converted": "राघवः",
+            "english": "Raghava; sugriivavachanaat = from Sugreeva's plea"
+          },
+          {
+            "roman_itrans": "aahave vaalinam hatvaa",
+            "devanagari_machine_converted": "आहवे वालिनम् हत्वा",
+            "english": "after killing Vali in a combat"
+          },
+          {
+            "roman_itrans": "tat raajye",
+            "devanagari_machine_converted": "तत् राज्ये",
+            "english": "in that kingdom"
+          },
+          {
+            "roman_itrans": "pratyapaadayat",
+            "devanagari_machine_converted": "प्रत्यपादयत्",
+            "english": "[Rama] installed"
+          },
+          {
+            "roman_itrans": "sugriivam eva",
+            "devanagari_machine_converted": "सुग्रीवम् एव",
+            "english": "Sugreeva alone [as king]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.70",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'सुग्रीवके कथनानुसार उस संग्राममें वालीको मारकर उसके राज्यपर रामने सुग्रीवको ही बिठा दिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.70",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "सुग्रीववचनात्",
+            "hindi": "सुग्रीव के वचन के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "वालिनम्",
+            "hindi": "वाली को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आहवे",
+            "hindi": "युद्ध में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवम्",
+            "hindi": "सुग्रीव को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (वाली) के (षष्ठी विभक्ति के अर्थ में द्वितीया/सम्बन्ध)"
+          },
+          {
+            "sanskrit": "राज्ये",
+            "hindi": "राज्य पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राघवः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रत्यपादयत्",
+            "hindi": "स्थापित किया (प्रति + पद्, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.70",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“सुग्रीवके कथनानुसार उस संग्राममें वालीको मारकर उसके राज्यपर रामने सुग्रीवको ही बिठा दिया॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

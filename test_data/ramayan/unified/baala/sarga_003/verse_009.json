@@ -1,0 +1,239 @@
+{
+  "id": "baala-003-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 8
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-15"
+    ],
+    "vulgate_in_locators": [
+      "1.3.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003008a",
+        "1003008c"
+      ],
+      "lines": [
+        "गङ्गायाश्चापि संतारं भरद्वाजस्य दर्शनम्",
+        "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्"
+      ],
+      "punctuated_derived": "गङ्गायाश्चापि संतारं भरद्वाजस्य दर्शनम् ।\nभरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गङ्गायाश्चापि संतारं भरद्वाजस्य दर्शनम्",
+        "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्"
+      ],
+      "locators": [
+        "1-3-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गंगायाश्चापि संतारं भरद्वाजस्य दर्शनम्",
+        "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्"
+      ],
+      "locators": [
+        "1.3.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गंगायाश्चापि संतारं भरद्वाजस्य दर्शनम्‌",
+        "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्‌"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed",
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गङ्गायाश्चापि संतारं भरद्वाजस्य दर्शनम्",
+      "net": "गङ्गायाश्चापि संतारं भरद्वाजस्य दर्शनम्",
+      "in": "गंगायाश्चापि संतारं भरद्वाजस्य दर्शनम्",
+      "gp": "गंगायाश्चापि संतारं भरद्वाजस्य दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गङ्गायाश्चापि",
+            "b": "गंगायाश्चापि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "गङ्गायाश्चापि",
+            "b": "गंगायाश्चापि"
+          },
+          {
+            "a": "दर्शनम्",
+            "b": "दर्शनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्",
+      "net": "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्",
+      "in": "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्",
+      "gp": "भरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "दर्शनम्",
+            "b": "दर्शनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Crossing over River Ganga; looking up Sage Bharadwaja; their look up at Chitrakuta on Sage Bharadwaja's advise... [1-3-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "ga~ngaayaaH ca api samtaaram",
+            "devanagari_machine_converted": "गञ्गायाः च अपि सम्तारम्",
+            "english": "also even crossing over River Ganga"
+          },
+          {
+            "roman_itrans": "bharadvaajasya darshanam",
+            "devanagari_machine_converted": "भरद्वाजस्य दर्शनम्",
+            "english": "seeing of Sage Bharadwaja"
+          },
+          {
+            "roman_itrans": "bharadvaajaabhyanuj~naanaat",
+            "devanagari_machine_converted": "भरद्वाजाभ्यनुज्ञानात्",
+            "english": "on Bharadwaja's advise"
+          },
+          {
+            "roman_itrans": "chitrakuuTasya darshanam",
+            "devanagari_machine_converted": "चित्रकूटस्य दर्शनम्",
+            "english": "seeing [visiting] of Chitrakuta."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीराम आदि का गंगाके पार जाना, भरद्वाज मुनिका दर्शन करना, भरद्वाज मुनिकी आज्ञा लेकर चित्रकूट जाना और वहाँकी नैसर्गिक शोभाका अवलोकन करना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गङ्गायाः",
+            "hindi": "गंगा के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "सन्तारम्",
+            "hindi": "पार जाना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "भरद्वाजस्य",
+            "hindi": "भरद्वाज मुनि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "भरद्वाजाभ्यनुज्ञानात्",
+            "hindi": "भरद्वाज की आज्ञा से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "चित्रकूटस्य",
+            "hindi": "चित्रकूट का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन / अवलोकन (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.15",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

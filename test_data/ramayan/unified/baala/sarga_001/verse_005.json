@@ -1,0 +1,266 @@
+{
+  "id": "baala-001-005",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 5,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 5
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-5"
+    ],
+    "vulgate_in_locators": [
+      "1.1.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001005a",
+        "1001005c"
+      ],
+      "lines": [
+        "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+        "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्"
+      ],
+      "punctuated_derived": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे ।\nमहर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+        "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्"
+      ],
+      "locators": [
+        "1-1-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+        "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्"
+      ],
+      "locators": [
+        "1.1.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+        "महषे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+      "net": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+      "in": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+      "gp": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्",
+      "net": "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्",
+      "in": "महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्",
+      "gp": "महषे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "महर्षे",
+            "b": "महषे"
+          },
+          {
+            "a": "नरम्",
+            "b": "नरम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"All this I wish to listen from you, oh! Great Sage, you are competent to know this kind of man, and indeed my inquisitiveness is immense...\" Thus Valmiki enquired with Narada. [1-1-5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "etat aham shrotum icChaami",
+            "devanagari_machine_converted": "एतत् अहम् श्रोतुम् इच्छामि",
+            "english": "all this I wish to listen"
+          },
+          {
+            "roman_itrans": "me kautuuhalam param hi",
+            "devanagari_machine_converted": "मे कौतूहलम् परम् हि",
+            "english": "my inquisitiveness is immense indeed"
+          },
+          {
+            "roman_itrans": "maharShe",
+            "devanagari_machine_converted": "महर्षे",
+            "english": "Oh! Great Sage - Narada"
+          },
+          {
+            "roman_itrans": "tvam",
+            "devanagari_machine_converted": "त्वम्",
+            "english": "you"
+          },
+          {
+            "roman_itrans": "samarthaH asi",
+            "devanagari_machine_converted": "समर्थः असि",
+            "english": "are competent"
+          },
+          {
+            "roman_itrans": "j~naatum",
+            "devanagari_machine_converted": "ज्ञातुम्",
+            "english": "to know"
+          },
+          {
+            "roman_itrans": "evamvidham naram",
+            "devanagari_machine_converted": "एवम्विधम् नरम्",
+            "english": "[about] this kind of man."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-5",
+        "spans_beyond_this_verse": false,
+        "text": "Valmiki wanted to know about that man - a man with godly qualities. Valmiki is thinking aloud, about the qualities of his prospective hero of this epic and these are the very opening questions put to an Omniscient Sage Narada. Both the sages know of Rama and his deeds. Even then Valmiki asks Narada, \"who is that man with godly qualities?' If Narada tells that Rama is Vishnu Himself, there is nothing left for Valmiki to compose his epic, because there are numerous mythologies, puraaNa-s, that have already adored God Vishnu. If Narada tells that Rama is so-and-so king, again Valmiki need not attempt to author about some king, however great that king might be."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'महर्षे! मैं यह सुनना चाहता हूँ, इसके लिये मुझे बड़ी उत्सुकता है और आप ऐसे पुरुषको जानने में समर्थ हैं'"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "एतत्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इच्छामि",
+            "hindi": "चाहता हूँ (इष् धातु, लट् लकार, उत्तम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अहम्",
+            "hindi": "मैं (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रोतुम्",
+            "hindi": "सुनने के लिए (तुमुन् प्रत्ययान्त क्रियार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "परम्",
+            "hindi": "बहुत अधिक / अत्यन्त (अव्यय)"
+          },
+          {
+            "sanskrit": "कौतूहलम्",
+            "hindi": "उत्सुकता / जिज्ञासा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हि",
+            "hindi": "निश्चय ही (अव्यय)"
+          },
+          {
+            "sanskrit": "मे",
+            "hindi": "मेरे लिए / मुझे (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "महर्षे",
+            "hindi": "हे महर्षि! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "आप (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समर्थः",
+            "hindi": "सक्षम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "असि",
+            "hindi": "हो (अस् धातु, लट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ज्ञातुम्",
+            "hindi": "जानने के लिए (तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "एवंविधम्",
+            "hindi": "इस प्रकार के (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नरम्",
+            "hindi": "मनुष्य को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.5",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“महर्षे! मैं यह सुनना चाहता हूँ, इसके लिये मुझे बड़ी उत्सुकता है और आप ऐसे पुरुषको जाननेमें समर्थ हैं'॥ ५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

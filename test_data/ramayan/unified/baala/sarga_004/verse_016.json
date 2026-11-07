@@ -1,0 +1,317 @@
+{
+  "id": "baala-004-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 14
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-15"
+    ],
+    "vulgate_in_locators": [
+      "1.4.15",
+      "1.4.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.15",
+      "1.4.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004014a",
+        "1004014c"
+      ],
+      "lines": [
+        "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+        "साधु साध्वित्य्तावूचतुः परं विस्मयमागताः"
+      ],
+      "punctuated_derived": "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः ।\nसाधु साध्वित्य्तावूचतुः परं विस्मयमागताः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+        "साधु साध्विति तावूचुः परं विस्मयमागताः"
+      ],
+      "locators": [
+        "1-4-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+        "साधु साध्विति तावूचुः परं विस्मयमागताः"
+      ],
+      "locators": [
+        "1.4.15",
+        "1.4.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तच्छुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+        "साधु साध्विति तावूचुः परं विस्मयमागताः"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.15",
+        "1.4.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+      "net": "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+      "in": "तच्छ्रुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+      "gp": "तच्छुत्वा मुनयः सर्वे बाष्पपर्याकुलेक्षणाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.975
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तच्छ्रुत्वा",
+            "b": "तच्छुत्वा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "साधु साध्वित्य्तावूचतुः परं विस्मयमागताः",
+      "net": "साधु साध्विति तावूचुः परं विस्मयमागताः",
+      "in": "साधु साध्विति तावूचुः परं विस्मयमागताः",
+      "gp": "साधु साध्विति तावूचुः परं विस्मयमागताः",
+      "similarity": {
+        "sim_smith_net": 0.9295774647887324,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "साध्वित्य्तावूचतुः",
+            "b": "साध्विति तावूचुः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On hearing that, the eyes of all the sages were overspread with tears of happiness, and they appreciated saying, 'splendid, splendid is this...' [1-4-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "sarve munayaH",
+            "devanagari_machine_converted": "सर्वे मुनयः",
+            "english": "all, sages"
+          },
+          {
+            "roman_itrans": "tat shrutvaa",
+            "devanagari_machine_converted": "तत् श्रुत्वा",
+            "english": "that, on hearing"
+          },
+          {
+            "roman_itrans": "param vismayam aagataaH",
+            "devanagari_machine_converted": "परम् विस्मयम् आगताः",
+            "english": "great, surprise, coming on"
+          },
+          {
+            "roman_itrans": "baaSpaparyaakulekShaNaaH",
+            "devanagari_machine_converted": "बाष्पपर्याकुलेक्षणाः",
+            "english": "with tears overspread eye-sight"
+          },
+          {
+            "roman_itrans": "saadhu saadhu iti tau uuchuH",
+            "devanagari_machine_converted": "साधु साधु इति तौ ऊचुः",
+            "english": "splendid, splendid, thus, they, said [appreciated]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उन्होंने बीच सभामें उन महात्माओंके समीप बैठकर उस रामायणकाव्यका गान किया। उसे सुनकर सभी मनियोंके नेत्रोंमें आँसू भर आये और-"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.16",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे अत्यन्त विस्मय-विमुग्ध होकर उन्हें साधुवाद देने लगे। मुनि धर्मवत्सल तो होते ही हैं; वह धार्मिक उपाख्यान सुनकर उन सबके मनमें बड़ी प्रसन्नता हुई।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.15",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "मध्ये",
+            "hindi": "बीच में"
+          },
+          {
+            "sanskrit": "सभम्",
+            "hindi": "सभा के"
+          },
+          {
+            "sanskrit": "समीपस्थौ",
+            "hindi": "समीप स्थित / बैठे हुए"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "इस"
+          },
+          {
+            "sanskrit": "काव्यम्",
+            "hindi": "काव्य को"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गाने लगे"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उसे"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर"
+          },
+          {
+            "sanskrit": "मुनयः",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी"
+          },
+          {
+            "sanskrit": "बाष्पपर्याकुलेक्षणाः",
+            "hindi": "आँसुओं से भरी हुई आँखों वाले"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.16",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "साधु साधु",
+            "hindi": "साधुवाद"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "ऊचुः",
+            "hindi": "कहा"
+          },
+          {
+            "sanskrit": "परम्",
+            "hindi": "अत्यन्त"
+          },
+          {
+            "sanskrit": "विस्मयम्",
+            "hindi": "विस्मय"
+          },
+          {
+            "sanskrit": "आगताः",
+            "hindi": "प्राप्त हुए"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे"
+          },
+          {
+            "sanskrit": "प्रीतमनसः",
+            "hindi": "प्रसन्न मन वाले"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी"
+          },
+          {
+            "sanskrit": "मुनयः",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "धर्मवत्सलाः",
+            "hindi": "धर्म के प्रति स्नेह रखने वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.15",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "एक दिनकी बात है, बहुत-से शुद्ध अन्तःकरणवाले महर्षियोंको मण्डली एकत्र हुई थी। उसमें सौभाग्यशाली तथा समस्त शुभ लक्षणोंसे सुशोभित महामनस्वी कुश और लव भी उपस्थित थे। उन्होंने बीच सभामें उन महात्माओंके समीप बैठकर उस रामायणकाव्यका गान किया। उसे सुनकर सभी मुनियोंके ेत्रॉमें आँसू भर आये और वे अत्यन्त विस्मय-विमुग्ध होकर उन्हें साधुवाद देने लगे। मुनि धर्मवत्सल तो होते ही हैं; वह धार्मिक उपाख्यान सुनकर उन सबके मनमें बड़ी प्रसन्नता हुई॥ १४--१६॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

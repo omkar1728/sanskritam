@@ -1,0 +1,231 @@
+{
+  "id": "baala-005-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 14
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-14"
+    ],
+    "vulgate_in_locators": [
+      "1.5.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005014a",
+        "1005014c"
+      ],
+      "lines": [
+        "सामन्तराजसङ्घैश्च बलिकर्मभिरावृताम्",
+        "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्"
+      ],
+      "punctuated_derived": "सामन्तराजसङ्घैश्च बलिकर्मभिरावृताम् ।\nनानादेशनिवासैश्च वणिग्भिरुपशोभिताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सामन्तराजसंङ्घैश्च बलिकर्मभिरावृताम्",
+        "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्"
+      ],
+      "locators": [
+        "1-5-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सामन्तराजसंधैश्च बलिकर्मभिरावृताम्",
+        "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्"
+      ],
+      "locators": [
+        "1.5.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सामन्तराजसंघैशर बलिकर्मभिरावृताम्‌",
+        "नानादेशनिवासैश वणिरिभरुपशोभिताम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सामन्तराजसङ्घैश्च बलिकर्मभिरावृताम्",
+      "net": "सामन्तराजसंङ्घैश्च बलिकर्मभिरावृताम्",
+      "in": "सामन्तराजसंधैश्च बलिकर्मभिरावृताम्",
+      "gp": "सामन्तराजसंघैशर बलिकर्मभिरावृताम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9841269841269841,
+        "sim_in_net": 0.9523809523809523,
+        "sim_gp_net": 0.9354838709677419
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सामन्तराजसङ्घैश्च",
+            "b": "सामन्तराजसंङ्घैश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सामन्तराजसंङ्घैश्च",
+            "b": "सामन्तराजसंधैश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सामन्तराजसंङ्घैश्च बलिकर्मभिरावृताम्",
+            "b": "सामन्तराजसंघैशर बलिकर्मभिरावृताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्",
+      "net": "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्",
+      "in": "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्",
+      "gp": "नानादेशनिवासैश वणिरिभरुपशोभिताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.8888888888888888
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नानादेशनिवासैश्च वणिग्भिरुपशोभिताम्",
+            "b": "नानादेशनिवासैश वणिरिभरुपशोभिताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-14",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "With the throngs of provincial kings who come hither to pay dues pervade that city, and she is verily lustrous with residents of various other countries, and with traders, too. In such a city Dasharatha dwells. [1-5-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-14",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saamantaraajasanghaiH cha",
+            "devanagari_machine_converted": "सामन्तराजसन्घैः च",
+            "english": "with throngs of provincial kings', also"
+          },
+          {
+            "roman_itrans": "balikarmabhiH aavR^itaam",
+            "devanagari_machine_converted": "बलिकर्मभिः आवृताम्",
+            "english": "pervaded by dues paying"
+          },
+          {
+            "roman_itrans": "naanaadeshanivaasaiH cha",
+            "devanagari_machine_converted": "नानादेशनिवासैः च",
+            "english": "residents of various countries"
+          },
+          {
+            "roman_itrans": "vaNigbhiH upashobhitaam",
+            "devanagari_machine_converted": "वणिग्भिः उपशोभिताम्",
+            "english": "verily lustrous with traders too."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कर देनेवाले सामन्त नरेशोंके समुदाय उसे सदा घेरे रहते थे। विभिन्न देशोंके निवासी वैश्य उस पुरीकी शोभा बढ़ाते थे॥ १४॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सामन्तराजसन्धैः",
+            "hindi": "सामन्त राजाओं के समूहों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "बलिकर्मभिः",
+            "hindi": "कर चढ़ाने वालों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आवृताम्",
+            "hindi": "आवृत / घिरी हुई को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नानादेशनिवासैः",
+            "hindi": "विभिन्न देशों में निवास करने वालों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "वणिग्भिः",
+            "hindi": "वैश्यों / व्यापारियों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपशोभिताम्",
+            "hindi": "सुशोभित को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.14",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "कर देनेवाले सामन्त नरेशोंके समुदाय उसे सदा घेरे रहते थे। विभिन्न देशोंके निवासी वैश्य उस पुरीको शोभा बढ़ाते थे॥ १४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

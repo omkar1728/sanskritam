@@ -1,0 +1,117 @@
+{
+  "id": "baala-004-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [],
+    "vulgate_in_locators": [
+      "1.4.11"
+    ],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": null,
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सुलक्षणौ सुवपुषौ राममूर्त्यनुकारिणौ",
+        "रामाद्भिन्नौ सुसंकाशौ भ्रातरौ भ्रातृवत्सलौ"
+      ],
+      "locators": [
+        "1.4.11"
+      ]
+    },
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": null,
+      "in": "सुलक्षणौ सुवपुषौ राममूर्त्यनुकारिणौ",
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": null,
+      "in": "रामाद्भिन्नौ सुसंकाशौ भ्रातरौ भ्रातृवत्सलौ",
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": null,
+    "english_word_by_word": null,
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "(यह श्लोक हिंदी अनुवाद में विलीन है। अर्थ: सुन्दर लक्षणों और सुन्दर शरीर वाले, राम की मूर्ति के अनुकारी, राम से भिन्न होते हुए भी उनके समान दिखने वाले, दोनों भाई परस्पर स्नेही थे।)"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सुलक्षणौ",
+            "hindi": "सुन्दर लक्षणों वाले"
+          },
+          {
+            "sanskrit": "सुवपुषौ",
+            "hindi": "सुन्दर शरीर वाले"
+          },
+          {
+            "sanskrit": "राममूर्त्यनुकारिणौ",
+            "hindi": "राम की मूर्ति की अनुकृति करने वाले"
+          },
+          {
+            "sanskrit": "रामात्",
+            "hindi": "राम से"
+          },
+          {
+            "sanskrit": "भिन्नौ",
+            "hindi": "भिन्न / अलग"
+          },
+          {
+            "sanskrit": "सुसंकाशौ",
+            "hindi": "सुन्दर दिखने वाले"
+          },
+          {
+            "sanskrit": "भ्रातरौ",
+            "hindi": "दोनों भाई"
+          },
+          {
+            "sanskrit": "भ्रातृवत्सलौ",
+            "hindi": "भाइयों में स्नेह रखने वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "net_in_line_mismatch"
+  ],
+  "review_status": "unreviewed"
+}

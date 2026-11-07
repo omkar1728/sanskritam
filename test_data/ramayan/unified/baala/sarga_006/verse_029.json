@@ -1,0 +1,268 @@
+{
+  "id": "baala-006-029",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 29,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 22
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-24"
+    ],
+    "vulgate_in_locators": [
+      "1.6.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.24"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006022a"
+      ],
+      "lines": [
+        "अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अंजनादपि निष्क्रान्तैः वामनादपि च द्विपैः"
+      ],
+      "locators": [
+        "1-6-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः ॥२४"
+      ],
+      "locators": [
+        "1.6.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः",
+      "net": "अंजनादपि निष्क्रान्तैः वामनादपि च द्विपैः",
+      "in": "अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः ॥२४",
+      "gp": "अञ्जनादपि निष्क्रान्तैर्वामनादपि च द्विपैः",
+      "similarity": {
+        "sim_smith_net": 0.958904109589041,
+        "sim_in_net": 0.958904109589041,
+        "sim_gp_net": 0.958904109589041
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "अञ्जनादपि निष्क्रान्तैर्वामनादपि",
+            "b": "अंजनादपि निष्क्रान्तैः वामनादपि"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "अंजनादपि निष्क्रान्तैः वामनादपि",
+            "b": "अञ्जनादपि निष्क्रान्तैर्वामनादपि"
+          },
+          {
+            "a": "",
+            "b": "॥२४"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अंजनादपि निष्क्रान्तैः वामनादपि",
+            "b": "अञ्जनादपि निष्क्रान्तैर्वामनादपि"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-24",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "High bred from the classes of Airavata, the Elephant of Lord Indra, and from Mahapadma, Anjana and Vamana, too...are the elephants [of that city] [1-6-24]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-24",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "airaavatakuliinaiH",
+            "devanagari_machine_converted": "ऐरावतकुलीनैः",
+            "english": "from the breed of Airavata [the Elephant of Indra]"
+          },
+          {
+            "roman_itrans": "cha",
+            "devanagari_machine_converted": "च",
+            "english": "also"
+          },
+          {
+            "roman_itrans": "mahaapadmakulaiH",
+            "devanagari_machine_converted": "महापद्मकुलैः",
+            "english": "from Mahapadma breed"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "thus"
+          },
+          {
+            "roman_itrans": "anjanaat api",
+            "devanagari_machine_converted": "अन्जनात् अपि",
+            "english": "From Anjana breed, also"
+          },
+          {
+            "roman_itrans": "niSkraantaiH",
+            "devanagari_machine_converted": "निष्क्रान्तैः",
+            "english": "derived from"
+          },
+          {
+            "roman_itrans": "vaamanaat api cha",
+            "devanagari_machine_converted": "वामनात् अपि च",
+            "english": "from Vamana breed, too"
+          },
+          {
+            "roman_itrans": "dvipaiH",
+            "devanagari_machine_converted": "द्विपैः",
+            "english": "elephants."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-24",
+        "spans_beyond_this_verse": true,
+        "text": "It is said that eight elephants from eight corners called aSTadiggaja support the Universe. And these eight elephants have their presiding deities. From those eight elephants, four are prominent. They are Airaavata , the Elephant of Indra, anjana , the Elephant of varuNa , the Rain-god, vaamana , the Elephant of Yama, the Lord of Death, and another is punDariika . Thus, the elephants of Ayodhya are termed as divine breed."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.24",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ऐरावतकुलमें उत्पन्न, महापद्मके वंशमें पैदा हुए तथा अञ्जन और वामन नामक दिग्गजों से भी प्रकट हुए हाथी उस पुरीकी पूर्णतामें सहायक हो रहे थे। २४॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.24",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऐरावतकुलीनैः",
+            "hindi": "ऐरावत कुल में उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "महापद्मकुलैः",
+            "hindi": "महापद्म कुल में उत्पन्न से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "अञ्जनात्",
+            "hindi": "अञ्जन नामक दिग्गज से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "निष्क्रान्तैः",
+            "hindi": "प्रकट हुए से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वामनात्",
+            "hindi": "वामन नामक दिग्गज से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "द्विपैः",
+            "hindi": "हाथियों से (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.24",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "ऐरावतकुलमें उत्पन्न, महापद्मके वंशमें पैदा हुए तथा अञ्जन और वामन नामक दिग्गजोंसे भी प्रकट हुए हाथी उस पुरीकी पूर्णतामें सहायक हो रहे थे॥ २४॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed",
+  "critical_edition_notes": [
+    {
+      "smith_ids": [
+        "1006022a",
+        "1006022c"
+      ],
+      "comment": "In the Critical Notes, the editor remarks, “Put the star passage 243* in the\ntext after 22ab” — i.e., between the two existing lines of this श्लोक.\nStar passage 243* reads:",
+      "star_passages": [
+        {
+          "label": "243*",
+          "lines": [
+            "भद्रैर्मन्द्रैर्मृगैश्चैव भद्रमन्द्रमृगैस्तथा"
+          ]
+        }
+      ]
+    }
+  ]
+}

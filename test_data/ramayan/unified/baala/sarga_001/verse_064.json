@@ -1,0 +1,370 @@
+{
+  "id": "baala-001-064",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 64,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-59",
+      "1-1-60"
+    ],
+    "vulgate_in_locators": [
+      "1.1.60",
+      "1.1.61"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.60"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आदितस्तद्यथावृत्तं सीतायाश्च विशेषतः",
+        "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः",
+        "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्"
+      ],
+      "locators": [
+        "1-1-59",
+        "1-1-60"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आदितस्तद् यथावृत्तं सीतायाश्च विशेषतः",
+        "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः",
+        "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्"
+      ],
+      "locators": [
+        "1.1.60",
+        "1.1.61"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सुग्रीवश्चापि तत्सर्व श्रुत्वा रामस्य वानरः"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.60"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "आदितस्तद्यथावृत्तं सीतायाश्च विशेषतः",
+      "in": "आदितस्तद् यथावृत्तं सीतायाश्च विशेषतः",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "आदितस्तद्यथावृत्तं",
+            "b": "आदितस्तद् यथावृत्तं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः",
+      "in": "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः",
+      "gp": "सुग्रीवश्चापि तत्सर्व श्रुत्वा रामस्य वानरः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9873417721518988
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तत्सर्वं",
+            "b": "तत्सर्व"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्",
+      "in": "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-59",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The highly powerful Rama detailed from the beginning all that happened, and in particular the abduction of Seetha, to Sugriva and to Hanuma also... [1-1-59b, 60a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-60",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"The Vanara Sugreeva after listening to all that talk of Rama made friendship with Rama delightedly with sacred fire as witness... [1-1-60b, 61a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-59",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "59b, 60a. mahaaabalaH raamaH",
+            "devanagari_machine_converted": "५९ब्, ६०अ। महाअबलः रामः",
+            "english": "The highly powerful Rama"
+          },
+          {
+            "roman_itrans": "shamsat",
+            "devanagari_machine_converted": "शम्सत्",
+            "english": "detailed"
+          },
+          {
+            "roman_itrans": "aaditaH",
+            "devanagari_machine_converted": "आदितः",
+            "english": "from the beginning"
+          },
+          {
+            "roman_itrans": "tat sarvam",
+            "devanagari_machine_converted": "तत् सर्वम्",
+            "english": "all that"
+          },
+          {
+            "roman_itrans": "yathaavR^ittam",
+            "devanagari_machine_converted": "यथावृत्तम्",
+            "english": "as had happened"
+          },
+          {
+            "roman_itrans": "visheShataH siithaayaaH ca",
+            "devanagari_machine_converted": "विशेषतः सीथायाः च",
+            "english": "and in particular [the abduction] of Seetha"
+          },
+          {
+            "roman_itrans": "sugriivaaya ca",
+            "devanagari_machine_converted": "सुग्रीवाय च",
+            "english": "to Sugreeva [and to Hanuma] also."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-60",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "60b, 61a. vaanaraH sugriivaH ca api",
+            "devanagari_machine_converted": "६०ब्, ६१अ। वानरः सुग्रीवः च अपि",
+            "english": "The Vanara Sugreeva also"
+          },
+          {
+            "roman_itrans": "tat sarvam shrutvaa",
+            "devanagari_machine_converted": "तत् सर्वम् श्रुत्वा",
+            "english": "after listening to all that [talk]"
+          },
+          {
+            "roman_itrans": "raamasya",
+            "devanagari_machine_converted": "रामस्य",
+            "english": "of Rama; sakhyam chakaara = made friendship [with Rama]"
+          },
+          {
+            "roman_itrans": "priitaH",
+            "devanagari_machine_converted": "प्रीतः",
+            "english": "delighted"
+          },
+          {
+            "roman_itrans": "agnisaakShikam ca eva",
+            "devanagari_machine_converted": "अग्निसाक्षिकम् च एव",
+            "english": "with fire [flaring auspicious fire] as witness also thus."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-59",
+        "spans_beyond_this_verse": true,
+        "text": "Here the use of 'highly powerful...' for Rama is to indicate that though he himself was capable enough to eliminate Ravana, but as a human, he needed some agency, since humans in such difficulties are usually in need of a helping hand. As such, Rama had to befriend Sugreeva and it was necessary to narrate all sad episodes to his friend."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.60",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "आदिसे ही लेकर जो कुछ हुआ था वह और विशेषतः सीताका वृत्तान्त सुग्रीवसे कह सुनाया। वानर सुग्रीवने रामकी सारी बातें सुनकर"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.61",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके साथ प्रेमपूर्वक अग्निको साक्षी बनाकर मित्रता की। उसके बाद वानरराज सुग्रीवने"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.60",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आदितः",
+            "hindi": "प्रारम्भ से (पञ्चमी विभक्ति का अव्यय)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यथावृत्तम्",
+            "hindi": "जैसा घटित हुआ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सीतायाः",
+            "hindi": "सीता का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "विशेषतः",
+            "hindi": "विशेष रूप से (अव्यय)"
+          },
+          {
+            "sanskrit": "सुग्रीवः",
+            "hindi": "सुग्रीव ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वम्",
+            "hindi": "सब कुछ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वानरः",
+            "hindi": "वानर ने (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.61",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सख्यम्",
+            "hindi": "मित्रता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामेण",
+            "hindi": "राम के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रीतः",
+            "hindi": "प्रसन्न होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "अग्निसाक्षिकम्",
+            "hindi": "अग्नि को साक्षी करके किया हुआ (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "उसके बाद (अव्यय)"
+          },
+          {
+            "sanskrit": "वानरराजेन",
+            "hindi": "वानरराज के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वैरानुकथनम्",
+            "hindi": "वैर का वर्णन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रति",
+            "hindi": "के बारे में (कर्मप्रवचनीय अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.60",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम्‌। “वानर सुग्रीवने रामकी सारी बातें सुनकर उनके साथ प्रेमपूर्वक अग्निको साक्षी बनाकर मित्रता को॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

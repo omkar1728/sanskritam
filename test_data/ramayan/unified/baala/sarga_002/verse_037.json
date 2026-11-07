@@ -1,0 +1,255 @@
+{
+  "id": "baala-002-037",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 37,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 35
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-36"
+    ],
+    "vulgate_in_locators": [
+      "1.2.36"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.36"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002035a",
+        "1002035c"
+      ],
+      "lines": [
+        "यावत्स्थास्यन्ति गिरयः सरितश्च महीतले",
+        "तावद्रामायणकथा लोकेषु प्रचरिष्यति"
+      ],
+      "punctuated_derived": "यावत्स्थास्यन्ति गिरयः सरितश्च महीतले ।\nतावद्रामायणकथा लोकेषु प्रचरिष्यति ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "यावत्स्थास्यन्ति गिरयः सरितश्च महीतले",
+        "तावद्रामायणकथा लोकेषु प्रचरिष्यति"
+      ],
+      "locators": [
+        "1-2-36"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "यावत् स्थास्यन्ति गिरयः सरितश्च महीतले",
+        "तावद् रामायणकथा लोकेषु प्रचरिष्यति"
+      ],
+      "locators": [
+        "1.2.36"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "यावत्‌ स्थास्यन्ति गिरयः सरितश्च महीतले"
+      ],
+      "ocr_flags": [
+        "hindi_marker_363_differs_from_sanskrit_36"
+      ],
+      "refs": [
+        "1.2.36"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "यावत्स्थास्यन्ति गिरयः सरितश्च महीतले",
+      "net": "यावत्स्थास्यन्ति गिरयः सरितश्च महीतले",
+      "in": "यावत् स्थास्यन्ति गिरयः सरितश्च महीतले",
+      "gp": "यावत्‌ स्थास्यन्ति गिरयः सरितश्च महीतले",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "यावत्स्थास्यन्ति",
+            "b": "यावत् स्थास्यन्ति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यावत्स्थास्यन्ति",
+            "b": "यावत्‌ स्थास्यन्ति"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "तावद्रामायणकथा लोकेषु प्रचरिष्यति",
+      "net": "तावद्रामायणकथा लोकेषु प्रचरिष्यति",
+      "in": "तावद् रामायणकथा लोकेषु प्रचरिष्यति",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तावद्रामायणकथा",
+            "b": "तावद् रामायणकथा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-36",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"As long as the mountains and even rivers flourish on the surface of the earth, so long the legend of Ramayana will flourish in this world... [1-2-36]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-36",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "36b-37a. girayaH",
+            "devanagari_machine_converted": "३६ब्-३७अ। गिरयः",
+            "english": "mountains; saritaH ca = rivers, even"
+          },
+          {
+            "roman_itrans": "mahiitale",
+            "devanagari_machine_converted": "महीतले",
+            "english": "on earth's surface"
+          },
+          {
+            "roman_itrans": "yaavat",
+            "devanagari_machine_converted": "यावत्",
+            "english": "as long as"
+          },
+          {
+            "roman_itrans": "sthaasyanti",
+            "devanagari_machine_converted": "स्थास्यन्ति",
+            "english": "there will be"
+          },
+          {
+            "roman_itrans": "taavat",
+            "devanagari_machine_converted": "तावत्",
+            "english": "so long"
+          },
+          {
+            "roman_itrans": "raamaayaNakathaa",
+            "devanagari_machine_converted": "रामायणकथा",
+            "english": "Rama's, legend - Ramayana"
+          },
+          {
+            "roman_itrans": "lokeSu",
+            "devanagari_machine_converted": "लोकेषु",
+            "english": "in the world"
+          },
+          {
+            "roman_itrans": "prachariSyati",
+            "devanagari_machine_converted": "प्रचरिष्यति",
+            "english": "will flourish."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.36",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘इस पृथ्वीपर जबतक नदियों और पर्वतोंकी सत्ता रहेगी, तबतक संसारमें रामायणकथाका प्रचार होता रहेगा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.36",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "यावत्",
+            "hindi": "जब तक (अव्यय)"
+          },
+          {
+            "sanskrit": "स्थास्यन्ति",
+            "hindi": "स्थिर रहेंगे (स्था धातु, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "गिरयः",
+            "hindi": "पर्वत (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सरितः",
+            "hindi": "नदियाँ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "महीतले",
+            "hindi": "पृथ्वी पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तावत्",
+            "hindi": "तब तक (अव्यय)"
+          },
+          {
+            "sanskrit": "रामायणकथा",
+            "hindi": "रामायण की कथा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लोकेषु",
+            "hindi": "लोकों में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रचरिष्यति",
+            "hindi": "प्रचारित होगी (प्र + चर्, लृट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.36",
+        "ocr_flags": [
+          "hindi_marker_363_differs_from_sanskrit_36"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "तावद्‌ रामायणकथा लोकेषु प्रचरिष्यति। “इस पृथ्वीपर जबतक नदियों और पर्वतोंकी सत्ता रहेगी, तबतक संसारमें रामायणकथाका प्रचार होता रहेगा॥ ३६३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

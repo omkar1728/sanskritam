@@ -1,0 +1,229 @@
+{
+  "id": "baala-009-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-11, 1-9-12"
+    ],
+    "vulgate_in_locators": [
+      "1.9.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.11"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः"
+      ],
+      "locators": [
+        "1-9-11, 1-9-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः"
+      ],
+      "locators": [
+        "1.9.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमा:"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.9.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः",
+      "in": "इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः",
+      "gp": "इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमा:",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9879518072289156
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "ब्राह्मणसत्तमाः",
+            "b": "ब्राह्मणसत्तमा:"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-11, 1-9-12",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Thus said by king those scholarly Brahmans and Vedic scholars will say to the king, 'oh, king, son of Sage Vibhaandaka, namely Rishyasringa, is to be fetched by all methods... [1-9-11b, 12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-11, 1-9-12",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "iti uktavaa te raaj~naa",
+            "devanagari_machine_converted": "इति उक्तवा ते राज्ञा",
+            "english": "thus, said by king to them"
+          },
+          {
+            "roman_itrans": "sarve braahmaNasattamaaH",
+            "devanagari_machine_converted": "सर्वे ब्राह्मणसत्तमाः",
+            "english": "to all those scholarly Brahmans"
+          },
+          {
+            "roman_itrans": "vedapaaragaaH braahmaNaaH",
+            "devanagari_machine_converted": "वेदपारगाः ब्राह्मणाः",
+            "english": "Veda scholars, Brahmans"
+          },
+          {
+            "roman_itrans": "mahiipaalam",
+            "devanagari_machine_converted": "महीपालम्",
+            "english": "to the king"
+          },
+          {
+            "roman_itrans": "te vakShyanti",
+            "devanagari_machine_converted": "ते वक्ष्यन्ति",
+            "english": "they, will say"
+          },
+          {
+            "roman_itrans": "raajan",
+            "devanagari_machine_converted": "राजन्",
+            "english": "oh king"
+          },
+          {
+            "roman_itrans": "vibhaaNDakasutam",
+            "devanagari_machine_converted": "विभाण्डकसुतम्",
+            "english": "Sage Vibhandaka's son"
+          },
+          {
+            "roman_itrans": "sarvopaayaiH",
+            "devanagari_machine_converted": "सर्वोपायैः",
+            "english": "by all methods"
+          },
+          {
+            "roman_itrans": "iha aanaya",
+            "devanagari_machine_converted": "इह आनय",
+            "english": "here, you fetch."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.11",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“राजाके ऐसा कहने पर वे वेदों के पारंगत विद्वान्– सभी श्रेष्ठ ब्राह्मण उन्हें इस प्रकार सलाह देंगे—॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.11",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "उक्ताः",
+            "hindi": "कहे जाने पर (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "राज्ञा",
+            "hindi": "राजा द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ब्राह्मणसत्तमाः",
+            "hindi": "ब्राह्मणश्रेष्ठ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वक्ष्यन्ति",
+            "hindi": "कहेंगे (वच् धातु, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "महीपालम्",
+            "hindi": "राजा से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्राह्मणाः",
+            "hindi": "ब्राह्मण (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वेदपारगाः",
+            "hindi": "वेदों के पारंगत (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.11",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "वक्ष्यन्ति ते महीपालं ब्राह्मणा वेदपारगाः। “'राजाके ऐसा कहनेपर वे वेदोंके पारंगत विद्वान्‌ सभी श्रेष्ठ ब्राह्मण उन्हें इस प्रकार सलाह देंगे-॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

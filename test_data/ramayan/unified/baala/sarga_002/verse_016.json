@@ -1,0 +1,272 @@
+{
+  "id": "baala-002-016",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 16,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 15
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-16"
+    ],
+    "vulgate_in_locators": [
+      "1.2.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002015a",
+        "1002015c"
+      ],
+      "lines": [
+        "तस्यैवं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+        "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया"
+      ],
+      "punctuated_derived": "तस्यैवं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः ।\nशोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्यैवं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+        "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया"
+      ],
+      "locators": [
+        "1-2-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्येत्थं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+        "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया"
+      ],
+      "locators": [
+        "1.2.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्येत्थं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+        "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्यैवं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+      "net": "तस्यैवं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+      "in": "तस्येत्थं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+      "gp": "तस्येत्थं ब्रुवतश्चिन्ता बभूव हृदि वीक्षतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9166666666666666,
+        "sim_gp_net": 0.9166666666666666
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तस्यैवं",
+            "b": "तस्येत्थं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तस्यैवं",
+            "b": "तस्येत्थं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया",
+      "net": "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया",
+      "in": "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया",
+      "gp": "शोकार्तेनास्य शकुनेः किमिदं व्याहृतं मया",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Thus speaking and pondering in his heart, he became thoughtful: \"What is this utterance by me in grief and anguish for this bird?\". [1-2-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "evam bruvataH",
+            "devanagari_machine_converted": "एवम् ब्रुवतः",
+            "english": "thus speaking"
+          },
+          {
+            "roman_itrans": "viikShataH",
+            "devanagari_machine_converted": "वीक्षतः",
+            "english": "pondering"
+          },
+          {
+            "roman_itrans": "tasya hR^idi",
+            "devanagari_machine_converted": "तस्य हृदि",
+            "english": "in his heart"
+          },
+          {
+            "roman_itrans": "chintaa babhuuva",
+            "devanagari_machine_converted": "चिन्ता बभूव",
+            "english": "[he] became thoughtful"
+          },
+          {
+            "roman_itrans": "kim",
+            "devanagari_machine_converted": "किम्",
+            "english": "what"
+          },
+          {
+            "roman_itrans": "idam",
+            "devanagari_machine_converted": "इदम्",
+            "english": "[is] this"
+          },
+          {
+            "roman_itrans": "vyaahR^itam",
+            "devanagari_machine_converted": "व्याहृतम्",
+            "english": "utterance"
+          },
+          {
+            "roman_itrans": "mayaa",
+            "devanagari_machine_converted": "मया",
+            "english": "by me"
+          },
+          {
+            "roman_itrans": "shokaartena",
+            "devanagari_machine_converted": "शोकार्तेन",
+            "english": "in grief and anguish"
+          },
+          {
+            "roman_itrans": "asya shakuneH",
+            "devanagari_machine_converted": "अस्य शकुनेः",
+            "english": "for this bird."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ऐसा कहकर जब उन्होंने इसपर विचार किया, तब उनके मनमें यह चिन्ता हुई कि ‘अहो! इस पक्षीके शोकसे पीड़ित होकर मैंने यह क्या कह डाला’।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (मुनि) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "इत्थम्",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "ब्रुवतः",
+            "hindi": "कहते हुए के (शतृ प्रत्ययान्त, षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "चिन्ता",
+            "hindi": "चिन्ता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "बभूव",
+            "hindi": "हुई (भू धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "हृदि",
+            "hindi": "हृदय में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वीक्षतः",
+            "hindi": "विचार करते हुए के (शतृ प्रत्ययान्त, षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "शोकार्तेन",
+            "hindi": "शोक से पीड़ित ने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्य",
+            "hindi": "इस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "शकुनेः",
+            "hindi": "पक्षी के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "किम्",
+            "hindi": "क्या (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्याहृतम्",
+            "hindi": "कह डाला (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "मया",
+            "hindi": "मेरे द्वारा (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "ऐसा कहकर जब उन्होंने इसपर विचार किया, तब उनके मनमें यह चिन्ता हुई कि 'अहो! इस पक्षीके शोकसे पीड़ित होकर मैंने यह क्या कह डाला'॥ १६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

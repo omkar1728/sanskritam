@@ -1,0 +1,274 @@
+{
+  "id": "baala-002-039",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 39,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 37
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-38"
+    ],
+    "vulgate_in_locators": [
+      "1.2.38"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.38"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002037a",
+        "1002037c"
+      ],
+      "lines": [
+        "इत्युक्त्वा भगवान्ब्रह्मा तत्रैवान्तरधीयत",
+        "ततः सशिष्यो वाल्मीकिर्मुनिर्विस्मयमाययौ"
+      ],
+      "punctuated_derived": "इत्युक्त्वा भगवान्ब्रह्मा तत्रैवान्तरधीयत ।\nततः सशिष्यो वाल्मीकिर्मुनिर्विस्मयमाययौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इत्युक्त्वा भगवान् ब्रह्मा तत्रैवान्तरधीयत",
+        "ततः सशिष्यो भगवान्मुनिर्विस्मयमाययौ"
+      ],
+      "locators": [
+        "1-2-38"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इत्युक्त्वा भगवान् ब्रह्मा तत्रैवान्तरधीयत",
+        "ततः सशिष्यो भगवान् मुनिर्विस्मयमाययौ"
+      ],
+      "locators": [
+        "1.2.38"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "इत्युक्त्वा भगवान्‌ ब्रह्मा तत्रैवान्तरधीयत",
+        "ततः सशिष्यो भगवान्‌ मुनिर्विस्मयमाययौ"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.38"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "इत्युक्त्वा भगवान्ब्रह्मा तत्रैवान्तरधीयत",
+      "net": "इत्युक्त्वा भगवान् ब्रह्मा तत्रैवान्तरधीयत",
+      "in": "इत्युक्त्वा भगवान् ब्रह्मा तत्रैवान्तरधीयत",
+      "gp": "इत्युक्त्वा भगवान्‌ ब्रह्मा तत्रैवान्तरधीयत",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "भगवान्ब्रह्मा",
+            "b": "भगवान् ब्रह्मा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "भगवान्",
+            "b": "भगवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ततः सशिष्यो वाल्मीकिर्मुनिर्विस्मयमाययौ",
+      "net": "ततः सशिष्यो भगवान्मुनिर्विस्मयमाययौ",
+      "in": "ततः सशिष्यो भगवान् मुनिर्विस्मयमाययौ",
+      "gp": "ततः सशिष्यो भगवान्‌ मुनिर्विस्मयमाययौ",
+      "similarity": {
+        "sim_smith_net": 0.8405797101449275,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वाल्मीकिर्मुनिर्विस्मयमाययौ",
+            "b": "भगवान्मुनिर्विस्मयमाययौ"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "भगवान्मुनिर्विस्मयमाययौ",
+            "b": "भगवान् मुनिर्विस्मयमाययौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "भगवान्मुनिर्विस्मयमाययौ",
+            "b": "भगवान्‌ मुनिर्विस्मयमाययौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-38",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "On saying thus that Divinity Brahma vanished then and there only, and then that godly sage Valmiki came by astonishment, along with his disciples. [1-2-38]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-38",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhagavaan",
+            "devanagari_machine_converted": "भगवान्",
+            "english": "The Divinity; Brahmaa"
+          },
+          {
+            "roman_itrans": "iti uktvaa",
+            "devanagari_machine_converted": "इति उक्त्वा",
+            "english": "thus, saying"
+          },
+          {
+            "roman_itrans": "tatra eva",
+            "devanagari_machine_converted": "तत्र एव",
+            "english": "there only"
+          },
+          {
+            "roman_itrans": "antaradhiiyata",
+            "devanagari_machine_converted": "अन्तरधीयत",
+            "english": "vanished; tataH = then"
+          },
+          {
+            "roman_itrans": "sashiSyaH",
+            "devanagari_machine_converted": "सशिष्यः",
+            "english": "along with, disciples"
+          },
+          {
+            "roman_itrans": "bhagavaan muniH",
+            "devanagari_machine_converted": "भगवान् मुनिः",
+            "english": "godly, sage"
+          },
+          {
+            "roman_itrans": "vismayam aayayau",
+            "devanagari_machine_converted": "विस्मयम् आययौ",
+            "english": "astonishment, came upon [wondered.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.38",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "ऐसा कहकर भगवान् ब्रह्माजी वहीं अन्तर्धान हो गये। उनके वहीं अन्तर्धान होनेसे शिष्योंसहित भगवान् वाल्मीकि मुनिको बड़ा विस्मय हुआ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.38",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "उक्त्वा",
+            "hindi": "कहकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रह्मा",
+            "hindi": "ब्रह्मा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्तरधीयत",
+            "hindi": "अन्तर्धान हो गए (अन्तर् + धा, कर्मवाच्य, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "सशिष्यः",
+            "hindi": "शिष्यों सहित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विस्मयम्",
+            "hindi": "विस्मय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आययौ",
+            "hindi": "प्राप्त हुए (आ + इण्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.38",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "ऐसा कहकर भगवान्‌ ब्रह्माजी वहीं अन्तर्धान हो गये। उनके वहीं अन्तर्धान होनेसे शिष्योंसहित भगवान्‌ वाल्मीकि मुनिको बड़ा विस्मय हुआ॥ ३८॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

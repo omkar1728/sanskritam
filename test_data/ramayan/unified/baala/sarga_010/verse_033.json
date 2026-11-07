@@ -1,0 +1,251 @@
+{
+  "id": "baala-010-033",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 33,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 28
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-29"
+    ],
+    "vulgate_in_locators": [
+      "1.10.29"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.29"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009028a",
+        "1009028c"
+      ],
+      "lines": [
+        "तत्र चानीयमाने तु विप्रे तस्मिन्महात्मनि",
+        "ववर्ष सहसा देवो जगत्प्रह्लादयंस्तदा"
+      ],
+      "punctuated_derived": "तत्र चानीयमाने तु विप्रे तस्मिन्महात्मनि ।\nववर्ष सहसा देवो जगत्प्रह्लादयंस्तदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तत्र चानीयमाने तु विप्रे तस्मिन्महात्मनि",
+        "ववर्ष सहसा देवो जगत्प्रह्लादयंस्तदा"
+      ],
+      "locators": [
+        "1-10-29"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तत्र चानीयमाने तु विप्रे तस्मिन् महात्मनि",
+        "ववर्ष सहसा देवो जगत् प्रह्लादयंस्तदा"
+      ],
+      "locators": [
+        "1.10.29"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तत्र चानीयमाने तु विप्रे तस्मिन्‌ महात्मनि",
+        "ववर्ष सहसा देवो जगत्‌ प्रह्लादयंस्तदा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तत्र चानीयमाने तु विप्रे तस्मिन्महात्मनि",
+      "net": "तत्र चानीयमाने तु विप्रे तस्मिन्महात्मनि",
+      "in": "तत्र चानीयमाने तु विप्रे तस्मिन् महात्मनि",
+      "gp": "तत्र चानीयमाने तु विप्रे तस्मिन्‌ महात्मनि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तस्मिन्महात्मनि",
+            "b": "तस्मिन् महात्मनि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तस्मिन्महात्मनि",
+            "b": "तस्मिन्‌ महात्मनि"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ववर्ष सहसा देवो जगत्प्रह्लादयंस्तदा",
+      "net": "ववर्ष सहसा देवो जगत्प्रह्लादयंस्तदा",
+      "in": "ववर्ष सहसा देवो जगत् प्रह्लादयंस्तदा",
+      "gp": "ववर्ष सहसा देवो जगत्‌ प्रह्लादयंस्तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "जगत्प्रह्लादयंस्तदा",
+            "b": "जगत् प्रह्लादयंस्तदा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "जगत्प्रह्लादयंस्तदा",
+            "b": "जगत्‌ प्रह्लादयंस्तदा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-29",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"While that great soul ad Brahman Rishyasringa while being brought into Anga Kingdom, then the Rain-god quickly showered rain in Anga kingdom to the delight of the world. [1-10-29]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-29",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahaatmani tasmin vipre",
+            "devanagari_machine_converted": "महात्मनि तस्मिन् विप्रे",
+            "english": "great-soul, that, Brahman"
+          },
+          {
+            "roman_itrans": "aaniiyamane tu",
+            "devanagari_machine_converted": "आनीयमने तु",
+            "english": "while being brought"
+          },
+          {
+            "roman_itrans": "tadaa devaH jagat prahlaadayan",
+            "devanagari_machine_converted": "तदा देवः जगत् प्रह्लादयन्",
+            "english": "then god [Rain-god,] to gladden world"
+          },
+          {
+            "roman_itrans": "sahasaa tatra vavarSha",
+            "devanagari_machine_converted": "सहसा तत्र ववर्ष",
+            "english": "quickly, in there [in Anga kingdom], showered rain."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.29",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“उन महात्मा ब्राह्मणके अंगदेशमें आते ही इन्द्रने सम्पूर्ण जगत् को प्रसन्न करते हुए सहसा पानी बरसाना आरम्भ कर दिया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.29",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अंगदेश में) (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आनीयमाने",
+            "hindi": "लाये जाने पर (सप्तमी विभक्ति, शानच् प्रत्ययान्त, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "विप्रे",
+            "hindi": "ब्राह्मण के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "महात्मनि",
+            "hindi": "महात्मा के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "ववर्ष",
+            "hindi": "वर्षा की (वृष् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सहसा",
+            "hindi": "सहसा / तुरन्त (तृतीया विभक्ति का अव्यय)"
+          },
+          {
+            "sanskrit": "देवः",
+            "hindi": "देव (इन्द्र) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगत्",
+            "hindi": "जगत् को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रह्लादयन्",
+            "hindi": "प्रसन्न करते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.29",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“उन महात्मा ब्राह्मणके अंगदेशमें आते ही इनद्रने सम्पूर्ण जगत्को प्रसन्न करते हुए सहसा पानी बरसाना आरम्भ कर दिया॥ २९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

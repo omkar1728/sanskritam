@@ -1,0 +1,215 @@
+{
+  "id": "baala-003-037",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 37,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 26
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-36"
+    ],
+    "vulgate_in_locators": [
+      "1.3.36"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.36"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003026a",
+        "1003026c"
+      ],
+      "lines": [
+        "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्",
+        "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे"
+      ],
+      "punctuated_derived": "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम् ।\nरावणस्य विनाशं च सीतावाप्तिमरेः पुरे ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्",
+        "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे"
+      ],
+      "locators": [
+        "1-3-36"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्",
+        "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे"
+      ],
+      "locators": [
+        "1.3.36"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्‌",
+        "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.36"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्",
+      "net": "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्",
+      "in": "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्",
+      "gp": "कुम्भकर्णस्य निधनं मेघनादनिबर्हणम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "मेघनादनिबर्हणम्",
+            "b": "मेघनादनिबर्हणम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे",
+      "net": "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे",
+      "in": "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे",
+      "gp": "रावणस्य विनाशं च सीतावाप्तिमरेः पुरे",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-36",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": null
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-36",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kumbhakarNasya nidhanam",
+            "devanagari_machine_converted": "कुम्भकर्णस्य निधनम्",
+            "english": "destruction of Kumbhakarna"
+          },
+          {
+            "roman_itrans": "meghanaadanibarhaNam",
+            "devanagari_machine_converted": "मेघनादनिबर्हणम्",
+            "english": "elimination of Meghanada"
+          },
+          {
+            "roman_itrans": "raavaNasya vinaasham ca",
+            "devanagari_machine_converted": "रावणस्य विनाशम् च",
+            "english": "Ravana's, annihilation, also; siitaavaaptim areH pure = restitution of Seetha in enemy's, city."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.36",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कुम्भकर्णका निधन, मेघनादका वध, रावणका विनाश, सीताकी प्राप्ति, शत्रुनगरी लङ्कामें-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.36",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कुम्भकर्णस्य",
+            "hindi": "कुम्भकर्ण का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "निधनम्",
+            "hindi": "निधन / मृत्यु (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मेघनादनिबर्हणम्",
+            "hindi": "मेघनाद का वध (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणस्य",
+            "hindi": "रावण का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "विनाशम्",
+            "hindi": "विनाश (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सीतावाप्तिम्",
+            "hindi": "सीता की प्राप्ति (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अरेः",
+            "hindi": "शत्रु की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरे",
+            "hindi": "नगरी में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.36",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

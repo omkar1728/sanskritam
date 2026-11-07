@@ -1,0 +1,177 @@
+{
+  "id": "baala-004-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 10
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-11"
+    ],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": [
+      "1.4.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004010a",
+        "1004010c"
+      ],
+      "lines": [
+        "रूपलक्षणसंपन्नौ मधुरस्वरभाषिणौ",
+        "बिम्बादिवोद्धृतौ बिम्बौ रामदेहात्तथापरौ"
+      ],
+      "punctuated_derived": "रूपलक्षणसंपन्नौ मधुरस्वरभाषिणौ ।\nबिम्बादिवोद्धृतौ बिम्बौ रामदेहात्तथापरौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रूपलक्षणसम्पन्नौ मधुरस्वरभाषिणौ",
+        "बिम्बादिवोत्थितौ बिम्बौ रामदेहात्तथापरौ"
+      ],
+      "locators": [
+        "1-4-11"
+      ]
+    },
+    "vulgate_in": null,
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रूपलक्षणसम्पन्नौ मधुरस्वरभाषिणौ",
+        "बिम्बादिवोत्थितौ बिम्बौ रामदेहात्‌ तथापरौ"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "रूपलक्षणसंपन्नौ मधुरस्वरभाषिणौ",
+      "net": "रूपलक्षणसम्पन्नौ मधुरस्वरभाषिणौ",
+      "in": null,
+      "gp": "रूपलक्षणसम्पन्नौ मधुरस्वरभाषिणौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "रूपलक्षणसंपन्नौ",
+            "b": "रूपलक्षणसम्पन्नौ"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "बिम्बादिवोद्धृतौ बिम्बौ रामदेहात्तथापरौ",
+      "net": "बिम्बादिवोत्थितौ बिम्बौ रामदेहात्तथापरौ",
+      "in": null,
+      "gp": "बिम्बादिवोत्थितौ बिम्बौ रामदेहात्‌ तथापरौ",
+      "similarity": {
+        "sim_smith_net": 0.9142857142857143,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "बिम्बादिवोद्धृतौ",
+            "b": "बिम्बादिवोत्थितौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "रामदेहात्तथापरौ",
+            "b": "रामदेहात्‌ तथापरौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-11",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They have charm in their appearance and melodiousness in their voice, they are like the two reflections of one original object, and thus they came out from the body of Rama, separately. [1-4-11]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-11",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "ruupalakShaNasampannau",
+            "devanagari_machine_converted": "रूपलक्षणसम्पन्नौ",
+            "english": "privileged with in appearance charm"
+          },
+          {
+            "roman_itrans": "madhurasvarabhaShiNau",
+            "devanagari_machine_converted": "मधुरस्वरभषिणौ",
+            "english": "melodiously voiced in voicing"
+          },
+          {
+            "roman_itrans": "bimbaat iva utthitau bimbau",
+            "devanagari_machine_converted": "बिम्बात् इव उत्थितौ बिम्बौ",
+            "english": "reflections issued forth like [from original] reflection"
+          },
+          {
+            "roman_itrans": "raamadehaat",
+            "devanagari_machine_converted": "रामदेहात्",
+            "english": "from Rama's body"
+          },
+          {
+            "roman_itrans": "tathaa aparau",
+            "devanagari_machine_converted": "तथा अपरौ",
+            "english": "like that, separately."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-11",
+        "spans_beyond_this_verse": false,
+        "text": "Vishnu's reflection is Rama; and Kusha, Lava are two reflections of Rama, and thus, in turn, these two princes are adorable like Vishnu, as in bimba-pratibimba nyaaya , image-reflection syndrome."
+      }
+    ],
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "सुन्दर रूप और शुभ लक्षण उनकी सहज सम्पत्ति थे। वे दोनों भाई बड़े मधुर स्वरसे वार्तालाप करते थे। जैसे बिम्बसे प्रतिबिम्ब प्रकट होते हैं, उसी प्रकार श्रीरामके शरीरसे उत्पन्न हुए वे दोनों राजकुमार दूसरे युगल श्रीराम ही प्रतीत होते थे॥ ११॥"
+      }
+    ]
+  },
+  "flags": [
+    "net_in_line_mismatch"
+  ],
+  "review_status": "unreviewed"
+}

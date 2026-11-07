@@ -1,0 +1,299 @@
+{
+  "id": "baala-005-001",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 1,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 1
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-1, 1-5-2, 1-5-3"
+    ],
+    "vulgate_in_locators": [
+      "1.5.1"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.1"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005001a",
+        "1005001c"
+      ],
+      "lines": [
+        "सर्वापूर्वमियं येषामासीत्कृत्स्ना वसुंधरा",
+        "प्रजापतिमुपादाय नृपाणां जयशालिनाम्"
+      ],
+      "punctuated_derived": "सर्वापूर्वमियं येषामासीत्कृत्स्ना वसुंधरा ।\nप्रजापतिमुपादाय नृपाणां जयशालिनाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सर्वा पूर्वमियं येषामासीत्कृत्स्ना वसुंधरा",
+        "प्रजापतिमुपादाय नृपाणां जयशालिनाम्"
+      ],
+      "locators": [
+        "1-5-1, 1-5-2, 1-5-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सर्वा पूर्वमियं येषामासीत् कृत्स्ना वसुंधरा",
+        "प्रजापतिमुपादाय नृपाणां जयशालिनाम्"
+      ],
+      "locators": [
+        "1.5.1"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सर्वा पूर्वमियं येषामासीत्‌ कृत्स्ना वसुंधरा",
+        "प्रजापतिमुपादाय नृपाणां जयशालिनाम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.5.1"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सर्वापूर्वमियं येषामासीत्कृत्स्ना वसुंधरा",
+      "net": "सर्वा पूर्वमियं येषामासीत्कृत्स्ना वसुंधरा",
+      "in": "सर्वा पूर्वमियं येषामासीत् कृत्स्ना वसुंधरा",
+      "gp": "सर्वा पूर्वमियं येषामासीत्‌ कृत्स्ना वसुंधरा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सर्वापूर्वमियं",
+            "b": "सर्वा पूर्वमियं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "येषामासीत्कृत्स्ना",
+            "b": "येषामासीत् कृत्स्ना"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "येषामासीत्कृत्स्ना",
+            "b": "येषामासीत्‌ कृत्स्ना"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रजापतिमुपादाय नृपाणां जयशालिनाम्",
+      "net": "प्रजापतिमुपादाय नृपाणां जयशालिनाम्",
+      "in": "प्रजापतिमुपादाय नृपाणां जयशालिनाम्",
+      "gp": "प्रजापतिमुपादाय नृपाणां जयशालिनाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "जयशालिनाम्",
+            "b": "जयशालिनाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-1, 1-5-2, 1-5-3",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Once upon a time, under which victorious kings, starting from Prajapati-s, this entire earth with all its islands is there, among which kings one king named Sagara is there, well-known for his deepening the oceans, and whom his sixty thousand sons were fencing in when he is set out for action, in the dynasty of such Ikshvaku kings this highly revered and reputed epic Ramayana is originated. [1-5-1, 3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-1, 1-5-2, 1-5-3",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "1-3. iyam kR^itsnaa vasundharaa",
+            "devanagari_machine_converted": "१-३। इयम् कृत्स्ना वसुन्धरा",
+            "english": "this, entire, earth"
+          },
+          {
+            "roman_itrans": "sarvaa",
+            "devanagari_machine_converted": "सर्वा",
+            "english": "(sakaladwiipaatmaka) = with all islands; upaadaaya prajaapatim = starting from, Prajapati"
+          },
+          {
+            "roman_itrans": "jayashaalinaam",
+            "devanagari_machine_converted": "जयशालिनाम्",
+            "english": "victorious ones"
+          },
+          {
+            "roman_itrans": "yeSaam nR^ipaaNam",
+            "devanagari_machine_converted": "येषाम् नृपाणम्",
+            "english": "[under] which, kings"
+          },
+          {
+            "roman_itrans": "puurvam aasiit",
+            "devanagari_machine_converted": "पूर्वम् आसीत्",
+            "english": "once, it is there"
+          },
+          {
+            "roman_itrans": "yena saagaraH khaanitaH",
+            "devanagari_machine_converted": "येन सागरः खानितः",
+            "english": "by whom, oceans, deepened"
+          },
+          {
+            "roman_itrans": "yam yaantam",
+            "devanagari_machine_converted": "यम् यान्तम्",
+            "english": "whom, while setting out in battles"
+          },
+          {
+            "roman_itrans": "SaSTiH putrasahasraaNi",
+            "devanagari_machine_converted": "षष्टिः पुत्रसहस्राणि",
+            "english": "sixty-thousand, sons; paryavaarayan = [going with him] fencing in"
+          },
+          {
+            "roman_itrans": "yeSaam",
+            "devanagari_machine_converted": "येषाम्",
+            "english": "in which kings"
+          },
+          {
+            "roman_itrans": "saH saagaraH naama",
+            "devanagari_machine_converted": "सः सागरः नाम",
+            "english": "he, that Sagara, named [king was there]"
+          },
+          {
+            "roman_itrans": "teShaam mahaatmanaam",
+            "devanagari_machine_converted": "तेषाम् महात्मनाम्",
+            "english": "such of those, great-souled"
+          },
+          {
+            "roman_itrans": "IkShwaakuuNaam raaj~naam vamshe",
+            "devanagari_machine_converted": "ईक्ष्वाकूणाम् राज्ञाम् वम्शे",
+            "english": "Ikshvaku, kings', dynasty; raamaayaNam = Ramayana"
+          },
+          {
+            "roman_itrans": "iti shrutam",
+            "devanagari_machine_converted": "इति श्रुतम्",
+            "english": "thus, heard [reputed]"
+          },
+          {
+            "roman_itrans": "idam mahat aakhyaanam utpannam",
+            "devanagari_machine_converted": "इदम् महत् आख्यानम् उत्पन्नम्",
+            "english": "this, highly revered, epic, originated."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यह सारी पृथ्वी पूर्वकालमें प्रजापति मनु से लेकर अब तक जिस वंशके विजयशाली नरेशों के अधिकार में रही है,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.1",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सर्वा",
+            "hindi": "सम्पूर्ण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पूर्वम्",
+            "hindi": "पूर्वकाल में (अव्यय)"
+          },
+          {
+            "sanskrit": "इयम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "येषाम्",
+            "hindi": "जिनके (अधिकार में) (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "आसीत्",
+            "hindi": "थी (अस् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "कृत्स्ना",
+            "hindi": "सम्पूर्ण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वसुन्धरा",
+            "hindi": "पृथ्वी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रजापतिम्",
+            "hindi": "प्रजापति मनु से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपादाय",
+            "hindi": "लेकर (ल्यबन्त अव्यय, 'आरभ्य' के अर्थ में)"
+          },
+          {
+            "sanskrit": "नृपाणाम्",
+            "hindi": "राजाओं के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "जयशालिनाम्",
+            "hindi": "विजयशाली के (षष्ठी विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.1",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

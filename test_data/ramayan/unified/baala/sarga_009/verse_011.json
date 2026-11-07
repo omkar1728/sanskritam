@@ -1,0 +1,335 @@
+{
+  "id": "baala-009-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 9
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-5",
+      "1-9-6"
+    ],
+    "vulgate_in_locators": [
+      "1.9.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008009a",
+        "1008009c"
+      ],
+      "lines": [
+        "द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः",
+        "लोकेषु प्रथितं राजन्विप्रैश्च कथितं सदा"
+      ],
+      "punctuated_derived": "द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः ।\nलोकेषु प्रथितं राजन्विप्रैश्च कथितं सदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "द्वैविध्यं ब्रहचर्यस्य भविष्यति महात्मनः",
+        "लोकेषु प्रथितं राजन् विप्रैश्च कथितं सदा"
+      ],
+      "locators": [
+        "1-9-5",
+        "1-9-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः",
+        "लोकेषु प्रथितं राजन् विप्रैश्च कथितं सदा"
+      ],
+      "locators": [
+        "1.9.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_53_differs_from_sanskrit_5"
+      ],
+      "refs": [
+        "1.9.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः",
+      "net": "द्वैविध्यं ब्रहचर्यस्य भविष्यति महात्मनः",
+      "in": "दैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः",
+      "gp": "द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मनः",
+      "similarity": {
+        "sim_smith_net": 0.9736842105263158,
+        "sim_in_net": 0.9459459459459459,
+        "sim_gp_net": 0.9736842105263158
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ब्रह्मचर्यस्य",
+            "b": "ब्रहचर्यस्य"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "द्वैविध्यं ब्रहचर्यस्य",
+            "b": "दैविध्यं ब्रह्मचर्यस्य"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ब्रहचर्यस्य",
+            "b": "ब्रह्मचर्यस्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "लोकेषु प्रथितं राजन्विप्रैश्च कथितं सदा",
+      "net": "लोकेषु प्रथितं राजन् विप्रैश्च कथितं सदा",
+      "in": "लोकेषु प्रथितं राजन् विप्रैश्च कथितं सदा",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "राजन्विप्रैश्च",
+            "b": "राजन् विप्रैश्च"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-5",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": ""
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-6",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"In the world he becomes famous for his celibacy, oh king, and he will always be praised by Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-5",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "viprendraH",
+            "devanagari_machine_converted": "विप्रेन्द्रः",
+            "english": "the best Brahman"
+          },
+          {
+            "roman_itrans": "na anyam jaanaati",
+            "devanagari_machine_converted": "न अन्यम् जानाति",
+            "english": "not knowing others"
+          },
+          {
+            "roman_itrans": "nityam pitranuvartanaat",
+            "devanagari_machine_converted": "नित्यम् पित्रनुवर्तनात्",
+            "english": "always abiding father"
+          },
+          {
+            "roman_itrans": "dvaividhyam",
+            "devanagari_machine_converted": "द्वैविध्यम्",
+            "english": "hindrance [two kinds]"
+          },
+          {
+            "roman_itrans": "brahmacharyasya",
+            "devanagari_machine_converted": "ब्रह्मचर्यस्य",
+            "english": "of his celibacy"
+          },
+          {
+            "roman_itrans": "bhaviSyati",
+            "devanagari_machine_converted": "भविष्यति",
+            "english": "he will be following/will occur to him"
+          },
+          {
+            "roman_itrans": "mahaatmanaH",
+            "devanagari_machine_converted": "महात्मनः",
+            "english": "to that great soul."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-6",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "lokeSu prathitam",
+            "devanagari_machine_converted": "लोकेषु प्रथितम्",
+            "english": "famous in the world"
+          },
+          {
+            "roman_itrans": "raajan",
+            "devanagari_machine_converted": "राजन्",
+            "english": "oh King"
+          },
+          {
+            "roman_itrans": "vipraiH cha kathitam sadaa",
+            "devanagari_machine_converted": "विप्रैः च कथितम् सदा",
+            "english": "by Brahmans, praised, always"
+          },
+          {
+            "roman_itrans": "tasya evam vartamaanasya",
+            "devanagari_machine_converted": "तस्य एवम् वर्तमानस्य",
+            "english": "him, thus, with that conduct"
+          },
+          {
+            "roman_itrans": "kaalaH samabhivartata",
+            "devanagari_machine_converted": "कालः समभिवर्तत",
+            "english": "time, will pass on."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-5",
+        "spans_beyond_this_verse": true,
+        "text": "The word dvaividhyam also means two kinds of celibacy, vratitva and prajaapatyam. One, as a bachelor and the other after marriage, voluntarily distancing away from his wife on certain forbidden days like full moon and new moon days, during daytime, eclipses, and other astronomical occurrences and some more. This kind of self-imposed celibacy is one way of observing sustained family planning methods, instead of resorting to medicaments. Here, this word is more nearer to mean 'hindrance', than to mean the 'two way celibacy' as deciphered by some commentators."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.5",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘सदा पिताके ही साथ रहने के कारण विप्रवर ऋष्यशृंग दूसरे किसी को नहीं जानेंगे। राजन्! लोक में ब्रह्मचर्य के दो रूप विख्यात हैं और ब्राह्मणों ने सदा उन दोनों स्वरूपोंका वर्णन किया है। एक तो है दण्ड, मेखला आदि धारणरूप मुख्य ब्रह्मचर्य और दूसरा है ऋतुकाल में पत्नी-समागमरूप गौण ब्रह्मचर्य। उन महात्माके द्वारा उक्त दोनों प्रकार के ब्रह्मचर्यों का पालन होगा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.5",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्यम्",
+            "hindi": "दूसरे किसी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जानाति",
+            "hindi": "जानता है (ज्ञा धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विप्रेन्द्रः",
+            "hindi": "विप्रवर / ब्राह्मणश्रेष्ठ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "पित्रनुवर्तनात्",
+            "hindi": "पिता के अनुवर्तन / साथ रहने के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दैविध्यम्",
+            "hindi": "दो प्रकार का (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रह्मचर्यस्य",
+            "hindi": "ब्रह्मचर्य का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "होगा (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "महात्मनः",
+            "hindi": "महात्मा के द्वारा (षष्ठी विभक्ति, कर्तृवाच्य में)"
+          },
+          {
+            "sanskrit": "लोकेषु",
+            "hindi": "लोकों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रथितम्",
+            "hindi": "विख्यात है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "राजन्",
+            "hindi": "हे राजन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "विप्रैः",
+            "hindi": "ब्राह्मणों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "कथितम्",
+            "hindi": "वर्णित है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सदा",
+            "hindi": "सदा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.5",
+        "ocr_flags": [
+          "hindi_marker_53_differs_from_sanskrit_5"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "लोकेषु प्रथितं राजन्‌ विप्रैश्च कथितं सदा। “सदा पिताके ही साथ रहनेके कारण विप्रवर ऋष्यशृंग दूसरे किसीको नहीं जानेंगे। राजन्‌! लोकमें ब्रह्मचर्यके दो रूप विख्यात हैं और ब्राह्मणोंने सदा उन दोनों स्वरूपाका वर्णन किया है। एक तो है दण्ड, मेखला आदि धारणरूप मुख्य ब्रह्मचर्यं और दूसरा है ऋतुकालमें पत्नी-समागमरूप गौण ब्रह्मचर्य। उन महात्माके द्वारा उक्त दोनों प्रकारके ब्रह्मचयाँका पालन होगा॥५३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

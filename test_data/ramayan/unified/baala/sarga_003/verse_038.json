@@ -1,0 +1,248 @@
+{
+  "id": "baala-003-038",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 38,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 27
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-37"
+    ],
+    "vulgate_in_locators": [
+      "1.3.37"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.37"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003027a",
+        "1003027c"
+      ],
+      "lines": [
+        "बिभीषणाभिषेकं च पुष्पकस्य च दर्शनम्",
+        "अयोध्यायाश्च गमनं भरतेन समागमम्"
+      ],
+      "punctuated_derived": "बिभीषणाभिषेकं च पुष्पकस्य च दर्शनम् ।\nअयोध्यायाश्च गमनं भरतेन समागमम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वीभीषणाभिषेकं च पुष्पकस्य च दर्शनम्",
+        "अयोध्यायाश्च गमनं भरद्वाजसमागमम्"
+      ],
+      "locators": [
+        "1-3-37"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विभीषणाभिषेकं च पुष्पकस्य च दर्शनम्",
+        "अयोध्यायाश्च गमनं भरद्वाजसमागमम्"
+      ],
+      "locators": [
+        "1.3.37"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विभीषणाभिषेकं च पुष्पकस्य च दर्शनम्‌",
+        "अयोध्यायाशच गमनं भरद्वाजसमागमम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.37"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "बिभीषणाभिषेकं च पुष्पकस्य च दर्शनम्",
+      "net": "वीभीषणाभिषेकं च पुष्पकस्य च दर्शनम्",
+      "in": "विभीषणाभिषेकं च पुष्पकस्य च दर्शनम्",
+      "gp": "विभीषणाभिषेकं च पुष्पकस्य च दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9333333333333333,
+        "sim_in_net": 0.9666666666666667,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "बिभीषणाभिषेकं",
+            "b": "वीभीषणाभिषेकं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "वीभीषणाभिषेकं",
+            "b": "विभीषणाभिषेकं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वीभीषणाभिषेकं",
+            "b": "विभीषणाभिषेकं"
+          },
+          {
+            "a": "दर्शनम्",
+            "b": "दर्शनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "अयोध्यायाश्च गमनं भरतेन समागमम्",
+      "net": "अयोध्यायाश्च गमनं भरद्वाजसमागमम्",
+      "in": "अयोध्यायाश्च गमनं भरद्वाजसमागमम्",
+      "gp": "अयोध्यायाशच गमनं भरद्वाजसमागमम्‌",
+      "similarity": {
+        "sim_smith_net": 0.8571428571428571,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9824561403508771
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "भरतेन समागमम्",
+            "b": "भरद्वाजसमागमम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अयोध्यायाश्च",
+            "b": "अयोध्यायाशच"
+          },
+          {
+            "a": "भरद्वाजसमागमम्",
+            "b": "भरद्वाजसमागमम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-37",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Crowning of Vibheeshana as the king of Lanka, after the demise of Ravana, and also Rama's seeing Pushpaka, the divine aircraft, and returning to Ayodhya in that aircraft... and Rama's meeting Sage Bharadvaja on his way back... [1-3-37]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-37",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vibhiiSaNaabhiShekam cha",
+            "devanagari_machine_converted": "विभीषणाभिषेकम् च",
+            "english": "also Vibheeshana's crowning"
+          },
+          {
+            "roman_itrans": "puSpakasya ca darshanam",
+            "devanagari_machine_converted": "पुष्पकस्य च दर्शनम्",
+            "english": "seeing Pushpaka aircraft"
+          },
+          {
+            "roman_itrans": "ayodhyaayaaH ca gamanam",
+            "devanagari_machine_converted": "अयोध्यायाः च गमनम्",
+            "english": "also going to Ayodhya; bharadvaajasamaagamam = meeting with Sage Bharadvaja."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.37",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "विभीषणका अभिषेक, श्रीरामद्वारा पुष्पकविमानका अवलोकन, (उसके द्वारा दल-बलसहित उनका) अयोध्या के लिये प्रस्थान, श्रीरामका भरद्वाजमुनिसे मिलना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.37",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विभीषणाभिषेकम्",
+            "hindi": "विभीषण का अभिषेक (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "पुष्पकस्य",
+            "hindi": "पुष्पक विमान का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन / अवलोकन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अयोध्यायाः",
+            "hindi": "अयोध्या के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "गमनम्",
+            "hindi": "गमन / प्रस्थान (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "भरद्वाजसमागमम्",
+            "hindi": "भरद्वाज के साथ समागम / मिलन (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.37",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

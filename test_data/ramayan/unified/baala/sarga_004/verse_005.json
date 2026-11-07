@@ -1,0 +1,240 @@
+{
+  "id": "baala-004-005",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 5,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 4
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-5"
+    ],
+    "vulgate_in_locators": [
+      "1.4.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004004a",
+        "1004004c"
+      ],
+      "lines": [
+        "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+        "भ्रातरौ स्वरसंपन्नौ ददर्शाश्रमवासिनौ"
+      ],
+      "punctuated_derived": "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ ।\nभ्रातरौ स्वरसंपन्नौ ददर्शाश्रमवासिनौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+        "भ्रातरौ स्वरसम्पन्नौ ददर्शाश्रमवासिनौ"
+      ],
+      "locators": [
+        "1-4-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+        "भ्रातरौ स्वरसम्पन्नौ ददर्शाश्रमवासिनौ"
+      ],
+      "locators": [
+        "1.4.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+        "भ्रातरौ स्वरसम्पन्नौ ददर्शाश्रमवासिनौ"
+      ],
+      "ocr_flags": [
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.4.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+      "net": "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+      "in": "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+      "gp": "कुशीलवौ तु धर्मज्ञौ राजपुत्रौ यशस्विनौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "भ्रातरौ स्वरसंपन्नौ ददर्शाश्रमवासिनौ",
+      "net": "भ्रातरौ स्वरसम्पन्नौ ददर्शाश्रमवासिनौ",
+      "in": "भ्रातरौ स्वरसम्पन्नौ ददर्शाश्रमवासिनौ",
+      "gp": "भ्रातरौ स्वरसम्पन्नौ ददर्शाश्रमवासिनौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "स्वरसंपन्नौ",
+            "b": "स्वरसम्पन्नौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Glorious Kusha and Lava are the virtue knowing princes, and they are endowed with melodious voice, besides being the residents of the same hermitage, thus Valmiki saw them saluting at his feet. [1-4-5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kushiilavau tu",
+            "devanagari_machine_converted": "कुशीलवौ तु",
+            "english": "Kusha and Lava"
+          },
+          {
+            "roman_itrans": "dharmaj~nau",
+            "devanagari_machine_converted": "धर्मज्ञौ",
+            "english": "virtue-knowers"
+          },
+          {
+            "roman_itrans": "raajaputrau",
+            "devanagari_machine_converted": "राजपुत्रौ",
+            "english": "princes"
+          },
+          {
+            "roman_itrans": "yashasvinau",
+            "devanagari_machine_converted": "यशस्विनौ",
+            "english": "glorious ones"
+          },
+          {
+            "roman_itrans": "svarasampannau",
+            "devanagari_machine_converted": "स्वरसम्पन्नौ",
+            "english": "endowed with melodious voice"
+          },
+          {
+            "roman_itrans": "bhraatarau",
+            "devanagari_machine_converted": "भ्रातरौ",
+            "english": "brothers"
+          },
+          {
+            "roman_itrans": "aashramavaasinau",
+            "devanagari_machine_converted": "आश्रमवासिनौ",
+            "english": "residents of [of same] hermitage"
+          },
+          {
+            "roman_itrans": "[Valmiki] dadarsha",
+            "devanagari_machine_converted": "[Vअल्मिकि] ददर्श",
+            "english": "seen"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "राजकुमार कुश और लव दोनों भाई धर्मके ज्ञाता और यशस्वी थे। उनका स्वर बड़ा ही मधुर था और वे मुनिके आश्रमपर ही रहते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कुशीलवौ",
+            "hindi": "कुश और लव"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "धर्मज्ञौ",
+            "hindi": "धर्म के ज्ञाता"
+          },
+          {
+            "sanskrit": "राजपुत्रौ",
+            "hindi": "राजकुमार"
+          },
+          {
+            "sanskrit": "यशस्विनौ",
+            "hindi": "यशस्वी"
+          },
+          {
+            "sanskrit": "भ्रातरौ",
+            "hindi": "दोनों भाई"
+          },
+          {
+            "sanskrit": "स्वरसम्पन्नौ",
+            "hindi": "मधुर स्वर वाले"
+          },
+          {
+            "sanskrit": "ददर्श",
+            "hindi": "देखा"
+          },
+          {
+            "sanskrit": "आश्रमवासिनौ",
+            "hindi": "आश्रम में रहने वाले"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.5",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "राजकुमार कुश और लव दोनों भाई धर्मके ज्ञाता और यशस्वी थे। उनका स्वर बड़ा ही मधुर था और वे मुनिके आश्रमपर ही रहते थे। उनकी धारणाशक्ति अद्भुत थी और वे दोनों ही वेदाँमें पारंगत हो चुके थे। भगवान्‌ वाल्मीकिने उनकी ओर देखा और उन्हें सुयोग्य समझकर उत्तम व्रतका पालन करनेवाले उन महषिने वेदार्थका विस्तारके साथ ज्ञान करानेके लिये उन्हें सीताके चरित्रसे युक्त सम्पूर्ण रामायण नामक महाकाव्यका, जिसका दूसरा नाम पौलस्त्ययध अथवा दशाननवध था, अध्ययन कराया॥ ५-७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

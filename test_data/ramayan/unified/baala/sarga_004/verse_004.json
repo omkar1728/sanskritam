@@ -1,0 +1,235 @@
+{
+  "id": "baala-004-004",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 4,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 3
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-4"
+    ],
+    "vulgate_in_locators": [
+      "1.4.4"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004003a",
+        "1004003c"
+      ],
+      "lines": [
+        "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः",
+        "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ"
+      ],
+      "punctuated_derived": "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः ।\nअगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः",
+        "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ"
+      ],
+      "locators": [
+        "1-4-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्य चिन्तयमानस्य महर्षेर्विभुप्रभोः",
+        "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ"
+      ],
+      "locators": [
+        "1.4.4"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः",
+        "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलबौ"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः",
+      "net": "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः",
+      "in": "तस्य चिन्तयमानस्य महर्षेर्विभुप्रभोः",
+      "gp": "तस्य चिन्तयमानस्य महर्षेर्भावितात्मनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.8059701492537313,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "महर्षेर्भावितात्मनः",
+            "b": "महर्षेर्विभुप्रभोः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ",
+      "net": "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ",
+      "in": "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलवौ",
+      "gp": "अगृह्णीतां ततः पादौ मुनिवेषौ कुशीलबौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "कुशीलवौ",
+            "b": "कुशीलबौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-4",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then Lava and Kusha who are in the attire of hermits have touched the feet of that contemplative soul Valmiki, who is now thoughtful. [1-4-4]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-4",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "muniveShau kushiilavau",
+            "devanagari_machine_converted": "मुनिवेषौ कुशीलवौ",
+            "english": "Kusha, Lava in hermits attire"
+          },
+          {
+            "roman_itrans": "chintayamaanasya",
+            "devanagari_machine_converted": "चिन्तयमानस्य",
+            "english": "thoughtful one"
+          },
+          {
+            "roman_itrans": "bhaavitaatmanaH",
+            "devanagari_machine_converted": "भावितात्मनः",
+            "english": "contemplating soul"
+          },
+          {
+            "roman_itrans": "tasya maharSheH",
+            "devanagari_machine_converted": "तस्य महर्षेः",
+            "english": "his, of the Sage's"
+          },
+          {
+            "roman_itrans": "paadau agR^ihNiitaam",
+            "devanagari_machine_converted": "पादौ अगृह्णीताम्",
+            "english": "feet taken [touched.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "शुद्ध अन्तःकरण वाले उन महर्षि के इस प्रकार विचार करते ही मुनिवेष में रहने वाले राजकुमार कुश और लव ने आकर उनके चरणों में प्रणाम किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस"
+          },
+          {
+            "sanskrit": "चिन्तयमानस्य",
+            "hindi": "विचार करते हुए"
+          },
+          {
+            "sanskrit": "महर्षेः",
+            "hindi": "महर्षि के"
+          },
+          {
+            "sanskrit": "विभुप्रभोः",
+            "hindi": "प्रभुशाली / महान्"
+          },
+          {
+            "sanskrit": "अगृह्णीताम्",
+            "hindi": "पकड़ा / प्रणाम किया"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब"
+          },
+          {
+            "sanskrit": "पादौ",
+            "hindi": "चरणों को"
+          },
+          {
+            "sanskrit": "मुनिवेषौ",
+            "hindi": "मुनि के वेष वाले"
+          },
+          {
+            "sanskrit": "कुशीलवौ",
+            "hindi": "कुश और लव"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.4",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "शुद्ध अन्तःकरणवाले उन महर्षिके इस प्रकार विचार करते ही मुनिवेषमें रहनेवाले राजकुमार कुश और लवने आकर उनके चरणोंमें प्रणाम किया॥४॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

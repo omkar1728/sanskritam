@@ -1,0 +1,6 @@
+# Extra packages for the model POC on EC2, on top of the repo deps (uv sync / pyproject.toml). UNTESTED pins.
+# GPU torch: install the CUDA build matching the instance instead of the CPU index the repo uses locally.
+transformers
+accelerate
+soundfile
+git+https://github.com/huggingface/parler-tts.git

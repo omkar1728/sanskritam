@@ -31,3 +31,9 @@ Verses: add them in the Library, or put a list in `backend/seed/verses.json` (fo
 
 ## Status and caveats
 Rendering takes minutes on CPU. Audio quality, highlight accuracy and slow-playback quality have not been judged by ear. The Colab executors are tested with fakes only. SSH executor and the Claude-drafted meanings pipeline are not built.
+
+## Epic audio batches and the Android app
+- Generate (epic mode): create a batch, download `batch.zip`, run `notebooks/colab_batch.ipynb`, then drop the resulting `results.zip` into the "Align results zip" box (`PUT /api/alignment/upload`; the batch is detected from the zip, alignment runs automatically, one chant at a time).
+- Re-align finished chants that have no alignment: `uv run python -m backend.app.realign [job ids]`.
+- Epic reader: verses with chants embed the Learn player inline.
+- Android offline app: see `Android/README.md` (`Android/staticdata/` is gitignored; that file explains how to regenerate it). Open follow-ups: `todo.md`.

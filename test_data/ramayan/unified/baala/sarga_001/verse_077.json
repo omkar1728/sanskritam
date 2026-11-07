@@ -1,0 +1,255 @@
+{
+  "id": "baala-001-077",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 77,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 56
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-71"
+    ],
+    "vulgate_in_locators": [
+      "1.1.71"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.71"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001056a",
+        "1001056c"
+      ],
+      "lines": [
+        "स च सर्वान्समानीय वानरान्वानरर्षभः",
+        "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम्"
+      ],
+      "punctuated_derived": "स च सर्वान्समानीय वानरान्वानरर्षभः ।\nदिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स च सर्वान् समानीय वानरान् वानरर्षभः",
+        "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम्"
+      ],
+      "locators": [
+        "1-1-71"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स च सर्वान् समानीय वानरान् वानरर्षभः",
+        "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम्"
+      ],
+      "locators": [
+        "1.1.71"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स च सर्वान्‌ समानीय वानरान्‌ वानरर्षभः",
+        "दिशः प्रस्थापयामास"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.71"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स च सर्वान्समानीय वानरान्वानरर्षभः",
+      "net": "स च सर्वान् समानीय वानरान् वानरर्षभः",
+      "in": "स च सर्वान् समानीय वानरान् वानरर्षभः",
+      "gp": "स च सर्वान्‌ समानीय वानरान्‌ वानरर्षभः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सर्वान्समानीय वानरान्वानरर्षभः",
+            "b": "सर्वान् समानीय वानरान् वानरर्षभः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सर्वान्",
+            "b": "सर्वान्‌"
+          },
+          {
+            "a": "वानरान्",
+            "b": "वानरान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम्",
+      "net": "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम्",
+      "in": "दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम्",
+      "gp": "दिशः प्रस्थापयामास",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.6296296296296297
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "दिदृक्षुर्जनकात्मजाम्",
+            "b": ""
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-71",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That best among monkeys, Sugreeva, after summoning all Vanaras, dispatched them in different directions to behold the daughter of Janaka... [1-1-71]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-71",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH vaanararShabhaH",
+            "devanagari_machine_converted": "सः वानरर्षभः",
+            "english": "That best among monkeys"
+          },
+          {
+            "roman_itrans": "sarvaan vaanaraan samaaniiya",
+            "devanagari_machine_converted": "सर्वान् वानरान् समानीय",
+            "english": "after summoning all Vanaras"
+          },
+          {
+            "roman_itrans": "dishaH prasthaapayaamaasa",
+            "devanagari_machine_converted": "दिशः प्रस्थापयामास",
+            "english": "dispatched [them] in different directions"
+          },
+          {
+            "roman_itrans": "didR^ikShuH",
+            "devanagari_machine_converted": "दिदृक्षुः",
+            "english": "to behold"
+          },
+          {
+            "roman_itrans": "janakaatmajaam",
+            "devanagari_machine_converted": "जनकात्मजाम्",
+            "english": "Janaka's daughter."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-71",
+        "spans_beyond_this_verse": false,
+        "text": "Sugreeva was acclaimed to be a strict disciplinarian, and his orders were inviolable by anyone. Even now the proverbial saying exists that a \"command by elders is to be followed like sugreevaaj~naa 'Sugreeva's order'."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.71",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तब उन वानरराजने भी सभी वानरोंको बुलाकर जानकीका पता लगानेके लिये उन्हें चारों दिशाओंमें भेजा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.71",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "उस (सुग्रीव) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सर्वान्",
+            "hindi": "सभी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समानीय",
+            "hindi": "बुलाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "वानरान्",
+            "hindi": "वानरों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वानरर्षभः",
+            "hindi": "वानरश्रेष्ठ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दिशः",
+            "hindi": "दिशाओं में (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रस्थापयामास",
+            "hindi": "भेजा (प्र + स्था, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "दिदृक्षुः",
+            "hindi": "देखने की इच्छा वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जनकात्मजाम्",
+            "hindi": "जनक की पुत्री को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.71",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“तब उन वानरराजने भी सभी वानरोंको बुलाकर जानकीका पता लगानेके लिये उन्हें चारों दिशाओंमें भेजा॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

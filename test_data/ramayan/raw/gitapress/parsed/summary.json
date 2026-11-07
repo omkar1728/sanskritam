@@ -1,0 +1,79 @@
+{
+ "baala": {
+  "start_line": 5371,
+  "end_line": 21437,
+  "sarga_headings": 77,
+  "sargas_in_units": 77,
+  "known_sargas": 77,
+  "units": 2252,
+  "explicit": 2239,
+  "flagged": 1187,
+  "unparsed_lines": 457
+ },
+ "ayodhya": {
+  "start_line": 21438,
+  "end_line": 53575,
+  "sarga_headings": 119,
+  "sargas_in_units": 119,
+  "known_sargas": 119,
+  "units": 4262,
+  "explicit": 4238,
+  "flagged": 1791,
+  "unparsed_lines": 1257
+ },
+ "aranya": {
+  "start_line": 53576,
+  "end_line": 71977,
+  "sarga_headings": 75,
+  "sargas_in_units": 76,
+  "known_sargas": 75,
+  "units": 2436,
+  "explicit": 2426,
+  "flagged": 1297,
+  "unparsed_lines": 578
+ },
+ "kishkindha": {
+  "start_line": 71978,
+  "end_line": 90722,
+  "sarga_headings": 67,
+  "sargas_in_units": 67,
+  "known_sargas": 67,
+  "units": 2445,
+  "explicit": 2422,
+  "flagged": 1246,
+  "unparsed_lines": 892
+ },
+ "sundara": {
+  "start_line": 1070,
+  "end_line": 22987,
+  "sarga_headings": 68,
+  "sargas_in_units": 68,
+  "known_sargas": 68,
+  "units": 2848,
+  "explicit": 2837,
+  "flagged": 1447,
+  "unparsed_lines": 1196
+ },
+ "yuddha": {
+  "start_line": 22988,
+  "end_line": 65052,
+  "sarga_headings": 127,
+  "sargas_in_units": 128,
+  "known_sargas": 128,
+  "units": 5691,
+  "explicit": 5648,
+  "flagged": 3097,
+  "unparsed_lines": 2013
+ },
+ "uttara": {
+  "start_line": 65053,
+  "end_line": 90657,
+  "sarga_headings": 111,
+  "sargas_in_units": 113,
+  "known_sargas": 111,
+  "units": 3485,
+  "explicit": 3475,
+  "flagged": 1747,
+  "unparsed_lines": 979
+ }
+}

@@ -1,0 +1,197 @@
+{
+  "id": "baala-003-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-19"
+    ],
+    "vulgate_in_locators": [
+      "1.3.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.19"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "दर्शनं चाप्यगस्त्यस्य धनुषो ग्रहणं तथा"
+      ],
+      "locators": [
+        "1-3-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "दर्शनं चाप्यगस्त्यस्य धनुषो ग्रहणं तथा"
+      ],
+      "locators": [
+        "1.3.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "दर्शनं चाप्यगस्त्यस्य धनुषो ग्रहणं तथा"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "दर्शनं चाप्यगस्त्यस्य धनुषो ग्रहणं तथा",
+      "in": "दर्शनं चाप्यगस्त्यस्य धनुषो ग्रहणं तथा",
+      "gp": "दर्शनं चाप्यगस्त्यस्य धनुषो ग्रहणं तथा",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-19",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Also even Rama's seeing the Sage Agastya, and likewise taking a great bow from that sage... also the palaver of Surpanakha, the demoness, and defacing her, likewise... [1-3-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-19",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "darshanam ca api agastasya",
+            "devanagari_machine_converted": "दर्शनम् च अपि अगस्तस्य",
+            "english": "seeing, also, even, Sage Agastya,"
+          },
+          {
+            "roman_itrans": "dhanuSaH grahaNam tathaa",
+            "devanagari_machine_converted": "धनुषः ग्रहणम् तथा",
+            "english": "a great bow, taking, likewise"
+          },
+          {
+            "roman_itrans": "shuurpaNakhyaaH cha samvaadam",
+            "devanagari_machine_converted": "शूर्पणख्याः च सम्वादम्",
+            "english": "also palaver of ShuurpaNakhaa"
+          },
+          {
+            "roman_itrans": "viruupakaraNam tathaa",
+            "devanagari_machine_converted": "विरूपकरणम् तथा",
+            "english": "defacing, likewise."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.19",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीराम आदिके द्वारा अगस्त्यका दर्शन, उनके दिये हुए वैष्णव धनुषका ग्रहण, शूर्पणखाका संवाद, श्रीरामकी आज्ञासे लक्ष्मणद्वारा उसका विरूपकरण (उसकी नाक और कानका छेदन),"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.19",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अगस्त्यस्य",
+            "hindi": "अगस्त्य मुनि का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धनुषः",
+            "hindi": "धनुष का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "ग्रहणम्",
+            "hindi": "ग्रहण करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "शूर्पणख्याः",
+            "hindi": "शूर्पणखा का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "संवादम्",
+            "hindi": "संवाद को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विरूपकरणम्",
+            "hindi": "विरूप करना / कुरूप बनाना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.19",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

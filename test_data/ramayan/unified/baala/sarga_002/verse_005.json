@@ -1,0 +1,224 @@
+{
+  "id": "baala-002-005",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 5,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 5
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-5"
+    ],
+    "vulgate_in_locators": [
+      "1.2.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002005a",
+        "1002005c"
+      ],
+      "lines": [
+        "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+        "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा"
+      ],
+      "punctuated_derived": "अकर्दममिदं तीर्थं भरद्वाज निशामय ।\nरमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+        "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा"
+      ],
+      "locators": [
+        "1-2-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+        "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा"
+      ],
+      "locators": [
+        "1.2.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+        "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+      "net": "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+      "in": "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+      "gp": "अकर्दममिदं तीर्थं भरद्वाज निशामय",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा",
+      "net": "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा",
+      "in": "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा",
+      "gp": "रमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Oh! Bharadwaja, behold this ford which is without dirt, with clear waters and pleasant like a virtuous man's mind. [1-2-5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bharadwaja",
+            "devanagari_machine_converted": "भरद्वज",
+            "english": "Oh! Bharadwaaja"
+          },
+          {
+            "roman_itrans": "nishaamaya",
+            "devanagari_machine_converted": "निशामय",
+            "english": "behold"
+          },
+          {
+            "roman_itrans": "idam tiirtham",
+            "devanagari_machine_converted": "इदम् तीर्थम्",
+            "english": "this ford"
+          },
+          {
+            "roman_itrans": "akardamam",
+            "devanagari_machine_converted": "अकर्दमम्",
+            "english": "which is without dirt"
+          },
+          {
+            "roman_itrans": "prasannaambu",
+            "devanagari_machine_converted": "प्रसन्नाम्बु",
+            "english": "with clear waters"
+          },
+          {
+            "roman_itrans": "ramaNiiyam",
+            "devanagari_machine_converted": "रमणीयम्",
+            "english": "(and) pleasant"
+          },
+          {
+            "roman_itrans": "sat manuShyamanaH yathaa",
+            "devanagari_machine_converted": "सत् मनुष्यमनः यथा",
+            "english": "like a virtuous man's mind."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘भरद्वाज! देखो, यहाँका घाट बड़ा सुन्दर है। इसमें कीचड़का नाम नहीं है। यहाँका जल वैसा ही स्वच्छ है, जैसा सत्पुरुषका मन होता है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अकर्दमम्",
+            "hindi": "कीचड़ रहित (प्रथमा विभक्ति, विशेषण)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तीर्थम्",
+            "hindi": "तीर्थ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भरद्वाज",
+            "hindi": "हे भरद्वाज (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "निशामय",
+            "hindi": "देखो (नि + शम्, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "रमणीयम्",
+            "hindi": "सुन्दर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रसन्नाम्बु",
+            "hindi": "स्वच्छ जल वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सन्मनुष्यमनः",
+            "hindi": "सत्पुरुष का मन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.5",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "' भरद्वाज! देखो, यहाँका घाट बड़ा सुन्दर है। इसमें कीचड़का नाम नहीं है। यहाँका जल वैसा ही स्वच्छ है, जैसा सत्पुरुषका मन होता है॥५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

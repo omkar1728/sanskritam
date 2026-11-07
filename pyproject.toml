@@ -24,6 +24,7 @@ dependencies = [
   "httpx>=0.28.1",
   "psycopg[binary]>=3.3.6",
   "boto3>=1.43.123",
+  "asyncssh>=2.24.1",
 ]
 
 [tool.uv]

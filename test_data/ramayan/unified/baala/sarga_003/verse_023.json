@@ -1,0 +1,239 @@
+{
+  "id": "baala-003-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 16
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-24"
+    ],
+    "vulgate_in_locators": [
+      "1.3.24"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.24"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003016a",
+        "1003016c"
+      ],
+      "lines": [
+        "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम्",
+        "ताराविलापसमयं वर्षरात्रिनिवासनम्"
+      ],
+      "punctuated_derived": "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम् ।\nताराविलापसमयं वर्षरात्रिनिवासनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वालिप्रमथनं चैव सुगीवप्रतिपादनम्",
+        "ताराविलापं समयं वर्षरात्रनिवासनम्"
+      ],
+      "locators": [
+        "1-3-24"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम्",
+        "ताराविलापं समयं वर्षरात्रनिवासनम्"
+      ],
+      "locators": [
+        "1.3.24"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम्‌",
+        "ताराविलापं समयं वर्षरात्रनिवासनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.24"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम्",
+      "net": "वालिप्रमथनं चैव सुगीवप्रतिपादनम्",
+      "in": "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम्",
+      "gp": "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9666666666666667,
+        "sim_in_net": 0.9666666666666667,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सुग्रीवप्रतिपादनम्",
+            "b": "सुगीवप्रतिपादनम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सुगीवप्रतिपादनम्",
+            "b": "सुग्रीवप्रतिपादनम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सुगीवप्रतिपादनम्",
+            "b": "सुग्रीवप्रतिपादनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ताराविलापसमयं वर्षरात्रिनिवासनम्",
+      "net": "ताराविलापं समयं वर्षरात्रनिवासनम्",
+      "in": "ताराविलापं समयं वर्षरात्रनिवासनम्",
+      "gp": "ताराविलापं समयं वर्षरात्रनिवासनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9666666666666667,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ताराविलापसमयं वर्षरात्रिनिवासनम्",
+            "b": "ताराविलापं समयं वर्षरात्रनिवासनम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वर्षरात्रनिवासनम्",
+            "b": "वर्षरात्रनिवासनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-24",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Also thus Vali's elimination and establishing Sugreeva on throne of monkey kingdom, grieving of Tara, the wife of Vali and empress of that kingdom, and as consented Rama's stopover during the days of rain... [1-3-24]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-24",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vaalipramathanam cha eva",
+            "devanagari_machine_converted": "वालिप्रमथनम् च एव",
+            "english": "also thus elimination of Vali"
+          },
+          {
+            "roman_itrans": "sugriivapratipaadanam",
+            "devanagari_machine_converted": "सुग्रीवप्रतिपादनम्",
+            "english": "Sugreeva is established"
+          },
+          {
+            "roman_itrans": "taaraavilaapam",
+            "devanagari_machine_converted": "ताराविलापम्",
+            "english": "grieving of Tara, [wife of Vali] ; samayam varSaraatranivaasanam = consented, stopover during rainy nights [and days]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-24",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: This raatri usually means night. But it includes day also. When saying triraatra, dasharaatra, in conducting rituals it includes daytime also. On the whole it is total rainy season that is admirably narrated in KiShkindhaa Kanda."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीरामद्वारा वालीका विनाश, सुग्रीवको राज्य-समर्पण, अपने पति वाली के लिये तारा का विलाप, शरत्कालमें सीताकी खोज करानेके लिये सुग्रीवकी प्रतिज्ञा, श्रीरामका बरसातके दिनोंमें माल्यवान् पर्वत के प्रस्रवण नामक शिखरपर निवास,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वालिप्रमथनम्",
+            "hindi": "वाली के विनाश / प्रमथन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "सुग्रीवप्रतिपादनम्",
+            "hindi": "सुग्रीव को राज्य देना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ताराविलापम्",
+            "hindi": "तारा के विलाप को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समयम्",
+            "hindi": "प्रतिज्ञा / समय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वर्षरात्रनिवासनम्",
+            "hindi": "वर्षा ऋतु की रातों में निवास करना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.24",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

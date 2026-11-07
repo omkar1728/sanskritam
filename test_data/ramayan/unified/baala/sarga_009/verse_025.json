@@ -1,0 +1,264 @@
+{
+  "id": "baala-009-025",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 25,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 20
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-17"
+    ],
+    "vulgate_in_locators": [
+      "1.9.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008020a",
+        "1008020c"
+      ],
+      "lines": [
+        "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान्क्षमान्",
+        "आनेष्यामो वयं विप्रं न च दोषो भविष्यति"
+      ],
+      "punctuated_derived": "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान्क्षमान् ।\nआनेष्यामो वयं विप्रं न च दोषो भविष्यति ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वक्ष्यन्ति चिंतयित्वा ते तस्योपायांश्च तत्क्षमान्",
+        "आनेष्यामो वयं विप्रं न च दोषो भविष्यति"
+      ],
+      "locators": [
+        "1-9-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान् क्षमान्",
+        "आनेष्यामो वयं विप्रं न च दोषो भविष्यति"
+      ],
+      "locators": [
+        "1.9.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान्‌ क्षमान्‌",
+        "आनेष्यामो वयं विप्रं न च दोषो भविष्यति"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.9.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान्क्षमान्",
+      "net": "वक्ष्यन्ति चिंतयित्वा ते तस्योपायांश्च तत्क्षमान्",
+      "in": "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान् क्षमान्",
+      "gp": "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तान्‌ क्षमान्‌",
+      "similarity": {
+        "sim_smith_net": 0.9545454545454546,
+        "sim_in_net": 0.9545454545454546,
+        "sim_gp_net": 0.9545454545454546
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "चिन्तयित्वा",
+            "b": "चिंतयित्वा"
+          },
+          {
+            "a": "तान्क्षमान्",
+            "b": "तत्क्षमान्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "चिंतयित्वा",
+            "b": "चिन्तयित्वा"
+          },
+          {
+            "a": "तत्क्षमान्",
+            "b": "तान् क्षमान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चिंतयित्वा",
+            "b": "चिन्तयित्वा"
+          },
+          {
+            "a": "तत्क्षमान्",
+            "b": "तान्‌ क्षमान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "आनेष्यामो वयं विप्रं न च दोषो भविष्यति",
+      "net": "आनेष्यामो वयं विप्रं न च दोषो भविष्यति",
+      "in": "आनेष्यामो वयं विप्रं न च दोषो भविष्यति",
+      "gp": "आनेष्यामो वयं विप्रं न च दोषो भविष्यति",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After thinking over they will say as a second thought, and having found a solution with a plan to bring that sage, 'we will fetch that Brahman and also by that no stigma will occur...' [1-9-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "chintayitaa te vakSyanti",
+            "devanagari_machine_converted": "चिन्तयिता ते वक्ष्यन्ति",
+            "english": "after thinking over, they [as a second thought,] will say"
+          },
+          {
+            "roman_itrans": "tat kShamaan upaayaan tasya",
+            "devanagari_machine_converted": "तत् क्षमान् उपायान् तस्य",
+            "english": "that, plan, to bring the sage"
+          },
+          {
+            "roman_itrans": "vayam vipram aaneShyaamaH",
+            "devanagari_machine_converted": "वयम् विप्रम् आनेष्यामः",
+            "english": "we will fetch that Brahman, Rishyasringa,"
+          },
+          {
+            "roman_itrans": "na cha doShaH bhaviShyati",
+            "devanagari_machine_converted": "न च दोषः भविष्यति",
+            "english": "no, also, stigma will occur."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘इसके बाद सोच-विचारकर वे राजा को योग्य उपाय बतायेंगे और कहेंगे कि ‘हम उन ब्राह्मणकुमार को किसी उपायसे यहाँ ले आयेंगे। ऐसा करनेसे कोई दोष नहीं घटित होगा’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वक्ष्यन्ति",
+            "hindi": "कहेंगे (वच् धातु, लृट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "चिन्तयित्वा",
+            "hindi": "सोच-विचारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (ऋष्यशृंग को लाने) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "उपायान्",
+            "hindi": "उपायों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तान्",
+            "hindi": "उन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षमान्",
+            "hindi": "योग्य / उचित (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आनेष्यामः",
+            "hindi": "ले आयेंगे (आ + नी, लृट् लकार, उत्तम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "वयम्",
+            "hindi": "हम (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विप्रम्",
+            "hindi": "ब्राह्मणकुमार को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "दोषः",
+            "hindi": "दोष (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "होगा (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'इसके बाद सोच-विचारकर वे राजाको योग्य उपाय बतायेंगे और कहेंगे कि “हम उन ब्राह्मणकुमारको किसी उपायसे यहाँ ले आयेंगे। ऐसा करनेसे कोई दोष नहीं घटित होगा'॥ १७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

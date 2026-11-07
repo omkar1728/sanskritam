@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 6,
+  "critical_sarga": 6,
+  "vulgate_sarga": 6,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "राजा दशरथ के शासनकाल में अयोध्या और वहाँ के नागरिकों की उत्तम स्थिति का वर्णन",
+  "title_en_from_in": "Description of the excellent condition of Ayodhya and its citizens during King Dasharatha's reign",
+  "intro_en_from_net": "The riches and happiness enjoyed by the people, under the rein of Emperor Dasharatha, along with the details of its valiant heroes, elephants, horses and the town planning are narrated.",
+  "counts": {
+    "smith_lines": 49,
+    "net_lines": 59,
+    "in_lines": 56,
+    "smith_verses": 24,
+    "net_blocks": 25,
+    "in_verses": 28,
+    "gp_lines": 56,
+    "gp_units": 28,
+    "in_declared": 28,
+    "docs": 35
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "baala-001-014",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 14,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 13
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-13"
+    ],
+    "vulgate_in_locators": [
+      "1.1.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001013a"
+      ],
+      "lines": [
+        "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता"
+      ],
+      "locators": [
+        "1-1-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता"
+      ],
+      "locators": [
+        "1.1.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता",
+      "net": "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता",
+      "in": "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता",
+      "gp": "रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-13",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He equals Lord Vishnu, the Lord of all creatures, Sustainer of the Universe, together with Sri Lakshmi (shriimaan = lakShmiivaan), Eliminator of enemies, Protector of the world of living creatures and complete Guardian of probity... [1-1-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-13",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "prajaapatisamaH",
+            "devanagari_machine_converted": "प्रजापतिसमः",
+            "english": "equals the Lord of creatures; dhaataa = Sustainer (Lord Vishnu); shriimaan = (together) with Sri Lakshmi ; ripuniShuudanaH = Eliminator of enemies"
+          },
+          {
+            "roman_itrans": "jiivalokasya rakShitaa",
+            "devanagari_machine_converted": "जीवलोकस्य रक्षिता",
+            "english": "Protector of the world of living creatures"
+          },
+          {
+            "roman_itrans": "dharmasya parirakShitaa",
+            "devanagari_machine_converted": "धर्मस्य परिरक्षिता",
+            "english": "complete Guardian of probity."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-13",
+        "spans_beyond_this_verse": true,
+        "text": "The word रक्षिता is the Nominative Singular of रक्षितृ and means Protector. Please note that prajaapatiH can be applied to Vedic Gods as well as to Lord Brahma, Lord Vishnu and Lord Maheswara. Here we consider Rama as equalling the Supreme God Lord Vishnu who is the One with Goddess Sri Lakshmi and also the sustainer. prajaapatiH is thus being translated as Lord Vishnu. Please note that we are deviating from traditional translations of prajaapatiH as Lord Brahma here and this is intentional. 'These features show the aspects of Rama's incarnation...' Govindaraja. 'These features are available only in the Supreme Person, but unobtainable in any other...' Maheshvara Tiirtha. These two, Govindaraja and Maheshvara Tiirtha are reputed commentators on Ramayana among many others."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.13",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'प्रजापतिके समान पालक, श्रीसम्पन्न, वैरिविध्वंसक और जीवों तथा धर्मके रक्षक हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.13",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रजापतिसमः",
+            "hindi": "प्रजापति के समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रीमान्",
+            "hindi": "लक्ष्मीवान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धाता",
+            "hindi": "धारण करने वाला / पालक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रिपुनिषूदनः",
+            "hindi": "शत्रुओं का वध करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रक्षिता",
+            "hindi": "रक्षा करने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जीवलोकस्य",
+            "hindi": "प्राणियों के संसार का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मस्य",
+            "hindi": "धर्म का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "परिरक्षिता",
+            "hindi": "सब ओर से रक्षा करने वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.13",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“प्रजापतिके समान पालक, श्रीसम्पन्न, वैरिविध्वंसक और जीवों तथा धर्मके रक्षक हैं॥ १३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

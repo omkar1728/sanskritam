@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 5,
+  "critical_sarga": 5,
+  "vulgate_sarga": 5,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "राजा दशरथ द्वारा सुरक्षित अयोध्यापुरी का वर्णन",
+  "title_en_from_in": "Description of the city of Ayodhya protected by King Dasharatha",
+  "intro_en_from_net": "We enter the capital of the Emperor Dasharatha. The pomp and glory of his capital is depicted along with its town planning and grandeur of the city, and its residents.",
+  "counts": {
+    "smith_lines": 46,
+    "net_lines": 48,
+    "in_lines": 46,
+    "smith_verses": 23,
+    "net_blocks": 21,
+    "in_verses": 23,
+    "gp_lines": 46,
+    "gp_units": 23,
+    "in_declared": 23,
+    "docs": 27
+  }
+}

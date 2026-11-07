@@ -1,0 +1,304 @@
+{
+  "id": "baala-009-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 10
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-6",
+      "1-9-7"
+    ],
+    "vulgate_in_locators": [
+      "1.9.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008010a",
+        "1008010c"
+      ],
+      "lines": [
+        "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+        "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्"
+      ],
+      "punctuated_derived": "तस्यैवं वर्तमानस्य कालः समभिवर्तत ।\nअग्निं शुश्रूषमाणस्य पितरं च यशस्विनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+        "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्"
+      ],
+      "locators": [
+        "1-9-6",
+        "1-9-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+        "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्"
+      ],
+      "locators": [
+        "1.9.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्यैवं वर्तमानस्य कालः समभिवर्तत"
+      ],
+      "ocr_flags": [
+        "hindi_marker_63_differs_from_sanskrit_6"
+      ],
+      "refs": [
+        "1.9.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+      "net": "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+      "in": "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+      "gp": "तस्यैवं वर्तमानस्य कालः समभिवर्तत",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्",
+      "net": "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्",
+      "in": "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-6",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"In the world he becomes famous for his celibacy, oh king, and he will always be praised by Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-7",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Sage Rishyasringa looses no time with his servitor-ship to the Sacrificial Fire and also to his celebrated father, and during this period alone there will be a famed and very strong king Romapaada, a valiant in Anga country... [1-9-7, 8a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-6",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "lokeSu prathitam",
+            "devanagari_machine_converted": "लोकेषु प्रथितम्",
+            "english": "famous in the world"
+          },
+          {
+            "roman_itrans": "raajan",
+            "devanagari_machine_converted": "राजन्",
+            "english": "oh King"
+          },
+          {
+            "roman_itrans": "vipraiH cha kathitam sadaa",
+            "devanagari_machine_converted": "विप्रैः च कथितम् सदा",
+            "english": "by Brahmans, praised, always"
+          },
+          {
+            "roman_itrans": "tasya evam vartamaanasya",
+            "devanagari_machine_converted": "तस्य एवम् वर्तमानस्य",
+            "english": "him, thus, with that conduct"
+          },
+          {
+            "roman_itrans": "kaalaH samabhivartata",
+            "devanagari_machine_converted": "कालः समभिवर्तत",
+            "english": "time, will pass on."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-7",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "7, 8a. agnim",
+            "devanagari_machine_converted": "७, ८अ। अग्निम्",
+            "english": "to Sacrificial Fire"
+          },
+          {
+            "roman_itrans": "shushruuShamaaNasya",
+            "devanagari_machine_converted": "शुश्रूषमाणस्य",
+            "english": "while in servitor-ship of"
+          },
+          {
+            "roman_itrans": "pitaram cha",
+            "devanagari_machine_converted": "पितरम् च",
+            "english": "to his father, also"
+          },
+          {
+            "roman_itrans": "yashasvinam",
+            "devanagari_machine_converted": "यशस्विनम्",
+            "english": "prosperous one"
+          },
+          {
+            "roman_itrans": "etasmin eva",
+            "devanagari_machine_converted": "एतस्मिन् एव",
+            "english": "in this, only"
+          },
+          {
+            "roman_itrans": "kaale",
+            "devanagari_machine_converted": "काले",
+            "english": "meantime"
+          },
+          {
+            "roman_itrans": "prataapavaan",
+            "devanagari_machine_converted": "प्रतापवान्",
+            "english": "valiant one"
+          },
+          {
+            "roman_itrans": "raajaa",
+            "devanagari_machine_converted": "राजा",
+            "english": "king"
+          },
+          {
+            "roman_itrans": "romapaadaH",
+            "devanagari_machine_converted": "रोमपादः",
+            "english": "Romapaada"
+          },
+          {
+            "roman_itrans": "angeShu",
+            "devanagari_machine_converted": "अन्गेषु",
+            "english": "in Anga kingdom"
+          },
+          {
+            "roman_itrans": "prathitaH",
+            "devanagari_machine_converted": "प्रथितः",
+            "english": "famed one"
+          },
+          {
+            "roman_itrans": "bhaviShyati",
+            "devanagari_machine_converted": "भविष्यति",
+            "english": "will be there"
+          },
+          {
+            "roman_itrans": "mahaabalaH",
+            "devanagari_machine_converted": "महाबलः",
+            "english": "very strong one."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“इस प्रकार रहते हुए मुनि का समय अग्नि तथा यशस्वी पिता की सेवा में ही व्यतीत होगा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (ऋष्यशृंग) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "एवम्",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "वर्तमानस्य",
+            "hindi": "रहते हुए के (शानच् प्रत्ययान्त, षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "कालः",
+            "hindi": "समय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समभिवर्तत",
+            "hindi": "व्यतीत होगा (सम् + अभि + वृत्, लट्/लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अग्निम्",
+            "hindi": "अग्नि की (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शुश्रूषमाणस्य",
+            "hindi": "सेवा करते हुए के (शानच् प्रत्ययान्त, षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पितरम्",
+            "hindi": "पिता की (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "यशस्विनम्",
+            "hindi": "यशस्वी की (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.6",
+        "ocr_flags": [
+          "hindi_marker_63_differs_from_sanskrit_6"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्‌। “डस प्रकार रहते हुए मुनिका समय अग्नि तथा यशस्वी पिताकी सेवामें ही व्यतीत होगा॥ ६३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

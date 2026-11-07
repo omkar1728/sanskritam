@@ -1,0 +1,314 @@
+{
+  "id": "baala-001-056",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 56,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 42
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-52"
+    ],
+    "vulgate_in_locators": [
+      "1.1.52",
+      "1.1.53"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.52"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001042a",
+        "1001042c"
+      ],
+      "lines": [
+        "तेन मायाविना दूरमपवाह्य नृपात्मजौ",
+        "जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम्"
+      ],
+      "punctuated_derived": "तेन मायाविना दूरमपवाह्य नृपात्मजौ ।\nजहार भार्यां रामस्य गृध्रं हत्वा जटायुषम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तेन मायाविना दूरमपवाह्य नृपात्मजौ",
+        "जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम्"
+      ],
+      "locators": [
+        "1-1-52"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तेन मायाविना दूरमपवाह्य नृपात्मजौ",
+        "जहार भार्यां रामस्य गृधं हत्वा जटायुषम्"
+      ],
+      "locators": [
+        "1.1.52",
+        "1.1.53"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तेन मायाविना दूरमपवाह्य नुपात्मजौ"
+      ],
+      "ocr_flags": [
+        "verse_number_nonsequential_expected_60"
+      ],
+      "refs": [
+        "1.1.52"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तेन मायाविना दूरमपवाह्य नृपात्मजौ",
+      "net": "तेन मायाविना दूरमपवाह्य नृपात्मजौ",
+      "in": "तेन मायाविना दूरमपवाह्य नृपात्मजौ",
+      "gp": "तेन मायाविना दूरमपवाह्य नुपात्मजौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नृपात्मजौ",
+            "b": "नुपात्मजौ"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम्",
+      "net": "जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम्",
+      "in": "जहार भार्यां रामस्य गृधं हत्वा जटायुषम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "गृध्रं",
+            "b": "गृधं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-52",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After taking away of Rama and Lakshmana to a distance by the trickster Maareecha, Ravana stole Rama's wife after killing Jatayu... [1-1-52b, 53a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-52",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "52b, 53a. apavaahya",
+            "devanagari_machine_converted": "५२ब्, ५३अ। अपवाह्य",
+            "english": "after taking away"
+          },
+          {
+            "roman_itrans": "nR^ipaatmajau",
+            "devanagari_machine_converted": "नृपात्मजौ",
+            "english": "the sons of king"
+          },
+          {
+            "roman_itrans": "duuram",
+            "devanagari_machine_converted": "दूरम्",
+            "english": "to a distance"
+          },
+          {
+            "roman_itrans": "tena mayaavinaa",
+            "devanagari_machine_converted": "तेन मयाविना",
+            "english": "by that trickster"
+          },
+          {
+            "roman_itrans": "raamasya bhaaryaam jahaara",
+            "devanagari_machine_converted": "रामस्य भार्याम् जहार",
+            "english": "[Ravana] stole Rama's, wife"
+          },
+          {
+            "roman_itrans": "jaTaayuSam gR^idhram hatvaa",
+            "devanagari_machine_converted": "जटायुषम् गृध्रम् हत्वा",
+            "english": "after killing Jatayu; ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.52",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और उसके साथ ही रामके आश्रमपर गया। मायावी मारीचके द्वारा उसने दोनों राजकुमारोंको आश्रमसे दूर हटा दिया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.53",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और स्वयं रामकी पत्नी सीताका अपहरण कर लिया, [जाते समय मार्गमें विघ्न डालनेके कारण] उसने जटायु नामक गृध्रका वध किया। तत्पश्चात् जटायुको आहत देखकर और (उसीके मुखसे) सीताका हरण सुनकर"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.52",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सहमारीचः",
+            "hindi": "मारीच के साथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (राम) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आश्रमपदम्",
+            "hindi": "आश्रम स्थान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (मारीच) के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मायाविना",
+            "hindi": "माया करने वाले के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दूरम्",
+            "hindi": "दूर (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "अपवाह्य",
+            "hindi": "हटाकर / बहलाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "नृपात्मजौ",
+            "hindi": "राजकुमारों को (द्वितीया विभक्ति, द्विवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.53",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "जहार",
+            "hindi": "हरण किया (हृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भार्याम्",
+            "hindi": "पत्नी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "गृधम्",
+            "hindi": "गिद्ध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "जटायुषम्",
+            "hindi": "जटायु को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गृधम्",
+            "hindi": "गिद्ध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "निहतम्",
+            "hindi": "मारे हुए को (द्वितीया विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "हृताम्",
+            "hindi": "हर ली गई को (द्वितीया विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "मैथिलीम्",
+            "hindi": "मैथिली को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.52",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_60"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "जहार भार्यां रामस्य गाध्रं हत्वा जटायुषम्‌ “मायावी मारीचके द्वारा उसने दोनों राजकुमारोंको आश्रमसे दूर हटा दिया और स्वयं रामकी पली सीताका अपहरण कर लिया, [जाते समय मार्गमें विघ्न डालनेके कारण] उसने जटायु नामक गृध्रका वध किया॥ ५२ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

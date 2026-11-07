@@ -1,0 +1,279 @@
+{
+  "id": "baala-007-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 14
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-17"
+    ],
+    "vulgate_in_locators": [
+      "1.7.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007014a",
+        "1007014c"
+      ],
+      "lines": [
+        "गुरौ गुणगृहीताश्च प्रख्याताश्च पराक्रमैः",
+        "विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयात्"
+      ],
+      "punctuated_derived": "गुरौ गुणगृहीताश्च प्रख्याताश्च पराक्रमैः ।\nविदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयात् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमे",
+        "विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः"
+      ],
+      "locators": [
+        "1-7-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः",
+        "विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः॥१७"
+      ],
+      "locators": [
+        "1.7.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः",
+        "विदेशेष्वपि विज्ञाताः सर्वतो बुद्द्रिनिश्चयाः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गुरौ गुणगृहीताश्च प्रख्याताश्च पराक्रमैः",
+      "net": "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमे",
+      "in": "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः",
+      "gp": "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमैः",
+      "similarity": {
+        "sim_smith_net": 0.9066666666666666,
+        "sim_in_net": 0.961038961038961,
+        "sim_gp_net": 0.961038961038961
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "गुरौ गुणगृहीताश्च",
+            "b": "गुरोर्गुणगृहीताश्च"
+          },
+          {
+            "a": "पराक्रमैः",
+            "b": "पराक्रमे"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "पराक्रमे",
+            "b": "पराक्रमैः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पराक्रमे",
+            "b": "पराक्रमैः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयात्",
+      "net": "विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः",
+      "in": "विदेशेष्वपि विज्ञाताः सर्वतो बुद्धिनिश्चयाः॥१७",
+      "gp": "विदेशेष्वपि विज्ञाताः सर्वतो बुद्द्रिनिश्चयाः",
+      "similarity": {
+        "sim_smith_net": 0.9629629629629629,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9512195121951219
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "बुद्धिनिश्चयात्",
+            "b": "बुद्धिनिश्चयाः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "बुद्धिनिश्चयाः",
+            "b": "बुद्धिनिश्चयाः॥१७"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "बुद्धिनिश्चयाः",
+            "b": "बुद्द्रिनिश्चयाः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "They acquired good qualities from their mentors and they are renowned by their expertise, and even in foreign countries they are famous for their intellectual determinations in all affairs. [1-7-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "guroH",
+            "devanagari_machine_converted": "गुरोः",
+            "english": "from their mentor (mother, father and teachers)"
+          },
+          {
+            "roman_itrans": "guNagR^ihiitaaH",
+            "devanagari_machine_converted": "गुणगृहीताः",
+            "english": "acquired good qualities"
+          },
+          {
+            "roman_itrans": "paraakrame",
+            "devanagari_machine_converted": "पराक्रमे",
+            "english": "expertise"
+          },
+          {
+            "roman_itrans": "prakhyaataaH",
+            "devanagari_machine_converted": "प्रख्याताः",
+            "english": "renowned"
+          },
+          {
+            "roman_itrans": "sarvataH",
+            "devanagari_machine_converted": "सर्वतः",
+            "english": "in all affairs"
+          },
+          {
+            "roman_itrans": "buddhinishchayaaH",
+            "devanagari_machine_converted": "बुद्धिनिश्चयाः",
+            "english": "intellectual determinations"
+          },
+          {
+            "roman_itrans": "videsheSu api",
+            "devanagari_machine_converted": "विदेशेषु अपि",
+            "english": "in foreign countries, also"
+          },
+          {
+            "roman_itrans": "vij~naataaH",
+            "devanagari_machine_converted": "विज्ञाताः",
+            "english": "famous."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "अपने गुणोंके कारण वे सभी मन्त्री गुरुतुल्य समादरणीय राजाके अनुग्रहपात्र थे। अपने पराक्रमोंके कारण उनकी सर्वत्र ख्याति थी। विदेशोंमें भी सब लोग उन्हें जानते थे। वे सभी बातोंमें बुद्धिद्वारा भलीभाँति विचार करके किसी निश्चयपर पहुँचते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गुरोः",
+            "hindi": "गुरु के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "गुणगृहीताः",
+            "hindi": "गुणों से ग्रहण किए गए (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रख्याताः",
+            "hindi": "प्रख्यात (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "पराक्रमैः",
+            "hindi": "पराक्रमों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विदेशेषु",
+            "hindi": "विदेशों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "विज्ञाताः",
+            "hindi": "जाने जाते थे (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सर्वतः",
+            "hindi": "सब प्रकार से (अव्यय)"
+          },
+          {
+            "sanskrit": "बुद्धिनिश्चयाः",
+            "hindi": "बुद्धि से निश्चय करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "अपने गुणोंके कारण वे सभी मन्त्री गुरुतुल्य समादरणीय राजाके अनुग्रहपात्र थे। अपने पराक्रमोंके कारण उनकी सर्वत्र ख्याति थी। विदेशॉमें भी सब लोग उन्हें जानते थे। वे सभी बातोंमें बुद्धिद्वार भलीभाँति विचार करके किसी निश्चयपर पहुँचते थे॥ १७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

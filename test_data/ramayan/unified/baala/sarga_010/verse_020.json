@@ -1,0 +1,279 @@
+{
+  "id": "baala-010-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 19
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-19"
+    ],
+    "vulgate_in_locators": [
+      "1.10.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.19"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009019a",
+        "1009019c"
+      ],
+      "lines": [
+        "अस्माकमपि मुख्यानि फलानीमानि वै द्विज",
+        "गृहाण प्रति भद्रं ते भक्षयस्व च मा चिरम्"
+      ],
+      "punctuated_derived": "अस्माकमपि मुख्यानि फलानीमानि वै द्विज ।\nगृहाण प्रति भद्रं ते भक्षयस्व च मा चिरम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अस्माकमपि मुख्यानि फलानीमानि वै द्विज",
+        "गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम्"
+      ],
+      "locators": [
+        "1-10-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अस्माकमपि मुख्यानि फलानीमानि हे द्विज",
+        "गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम्"
+      ],
+      "locators": [
+        "1.10.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अस्माकमपि मुख्यानि फलानीमानि हे द्विज",
+        "गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अस्माकमपि मुख्यानि फलानीमानि वै द्विज",
+      "net": "अस्माकमपि मुख्यानि फलानीमानि वै द्विज",
+      "in": "अस्माकमपि मुख्यानि फलानीमानि हे द्विज",
+      "gp": "अस्माकमपि मुख्यानि फलानीमानि हे द्विज",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9393939393939394,
+        "sim_gp_net": 0.9393939393939394
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "वै",
+            "b": "हे"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "वै",
+            "b": "हे"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "गृहाण प्रति भद्रं ते भक्षयस्व च मा चिरम्",
+      "net": "गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम्",
+      "in": "गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम्",
+      "gp": "गृहाण विप्र भद्रं ते भक्षयस्व च मा चिरम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9375,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "प्रति",
+            "b": "विप्र"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चिरम्",
+            "b": "चिरम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\" 'Take these important fruits of ours, oh, Brahman, you be safe, oh, holy one... eat them before long....' Said courtesans to Rishyasringa.] [1-10-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dvija",
+            "devanagari_machine_converted": "द्विज",
+            "english": "oh Brahman"
+          },
+          {
+            "roman_itrans": "asmaakam mukhyaani imaani phalaani api",
+            "devanagari_machine_converted": "अस्माकम् मुख्यानि इमानि फलानि अपि",
+            "english": "these are important fruits of ours ,indeed"
+          },
+          {
+            "roman_itrans": "gR^ihaaNa",
+            "devanagari_machine_converted": "गृहाण",
+            "english": "take them"
+          },
+          {
+            "roman_itrans": "vipra",
+            "devanagari_machine_converted": "विप्र",
+            "english": "oh holy One"
+          },
+          {
+            "roman_itrans": "bhadram te",
+            "devanagari_machine_converted": "भद्रम् ते",
+            "english": "safe be you"
+          },
+          {
+            "roman_itrans": "bhakShayasva",
+            "devanagari_machine_converted": "भक्षयस्व",
+            "english": "eat them"
+          },
+          {
+            "roman_itrans": "chiram",
+            "devanagari_machine_converted": "चिरम्",
+            "english": "long after"
+          },
+          {
+            "roman_itrans": "maa",
+            "devanagari_machine_converted": "मा",
+            "english": "not."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“वे बोलीं—’ब्रह्मन् ! हमारे पास भी ये उत्तम-उत्तम फल हैं। विप्रवर! इन्हें ग्रहण कीजिये। आपका कल्याण हो। इन फलोंको शीघ्र ही खा लीजिये, विलम्ब न कीजिये’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अस्माकम्",
+            "hindi": "हमारे पास (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "मुख्यानि",
+            "hindi": "उत्तम / मुख्य (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "फलानि",
+            "hindi": "फल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इमानि",
+            "hindi": "ये (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "हे",
+            "hindi": "हे (सम्बोधन अव्यय)"
+          },
+          {
+            "sanskrit": "द्विज",
+            "hindi": "द्विज / ब्राह्मण! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "गृहाण",
+            "hindi": "ग्रहण कीजिये (ग्रह् धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विप्र",
+            "hindi": "हे विप्रवर! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "भद्रम्",
+            "hindi": "कल्याण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "आपका (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भक्षयस्व",
+            "hindi": "खाइये (भक्ष् धातु, लोट् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "मा",
+            "hindi": "मत (निषेधार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "चिरम्",
+            "hindi": "विलम्ब (अव्यय/क्रियाविशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.19",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“'वे बोलीं-' ब्रह्मन्‌! हमारे पास भी ये उत्तम- उत्तम फल हैं। विप्रवर! इन्हें ग्रहण कीजिये। आपका कल्याण हो। इन फलोंको शीघ्र ही खा लीजिये, विलम्ब न कीजिये'॥ १९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

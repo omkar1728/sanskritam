@@ -1,0 +1,238 @@
+{
+  "id": "baala-002-014",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 14,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 13
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-14"
+    ],
+    "vulgate_in_locators": [
+      "1.2.14"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.14"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002013a",
+        "1002013c"
+      ],
+      "lines": [
+        "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+        "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत्"
+      ],
+      "punctuated_derived": "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः ।\nनिशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+        "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत्"
+      ],
+      "locators": [
+        "1-2-14"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+        "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत्"
+      ],
+      "locators": [
+        "1.2.14"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+        "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमन्रवीत्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.14"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+      "net": "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+      "in": "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+      "gp": "ततः करुणवेदित्वादधर्मोऽयमिति द्विजः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत्",
+      "net": "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत्",
+      "in": "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत्",
+      "gp": "निशाम्य रुदतीं क्रौञ्चीमिदं वचनमन्रवीत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9552238805970149
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "वचनमब्रवीत्",
+            "b": "वचनमन्रवीत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-14",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then on seeing the wailing female krounchi bird, out of state of compassion and apperceiving the killing of male bird as unjust, the sage uttered this sentence... [1-2-14]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-14",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "dvijaH",
+            "devanagari_machine_converted": "द्विजः",
+            "english": "sage Valmiki"
+          },
+          {
+            "roman_itrans": "rudatiim krounchiim nishaamya",
+            "devanagari_machine_converted": "रुदतीम् क्रोउन्चीम् निशाम्य",
+            "english": "on seeing the wailing Krauncha bird"
+          },
+          {
+            "roman_itrans": "karuNaveditvaat",
+            "devanagari_machine_converted": "करुणवेदित्वात्",
+            "english": "out of state of compassion"
+          },
+          {
+            "roman_itrans": "ayam adharmaH iti",
+            "devanagari_machine_converted": "अयम् अधर्मः इति",
+            "english": "this is unjust - thus [thinking]"
+          },
+          {
+            "roman_itrans": "idam vacanam abraviit",
+            "devanagari_machine_converted": "इदम् वचनम् अब्रवीत्",
+            "english": "uttered this sentence."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "स्वभावतः करुणाका अनुभव करनेवाले ब्रह्मर्षिने ‘यह अधर्म हुआ है’ ऐसा निश्चय करके रोती हुई क्रौञ्चीकी ओर देखते हुए निषादसे इस प्रकार कहा-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.14",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "करुणवेदित्वात्",
+            "hindi": "करुणा के अनुभव के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "अधर्मः",
+            "hindi": "अधर्म (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अयम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "द्विजः",
+            "hindi": "ब्राह्मण (वाल्मीकि) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निशाम्य",
+            "hindi": "देखकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "रुदतीम्",
+            "hindi": "रोती हुई को (शतृ प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "क्रौञ्चीम्",
+            "hindi": "क्रौञ्ची को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वचनम्",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अब्रवीत्",
+            "hindi": "कहा (ब्रू धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.14",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "स्वभावतः करुणाका अनुभव करनेवाले ब्रह्मषिने “यह अधर्म हुआ है' ऐसा निश्चय करके रोती हुई क्रौञ्चीकी ओर देखते हुए निषादसे इस प्रकार कहा ॥ १४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

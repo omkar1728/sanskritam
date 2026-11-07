@@ -1,0 +1,321 @@
+{
+  "id": "baala-001-045",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 45,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 34
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-42"
+    ],
+    "vulgate_in_locators": [
+      "1.1.42",
+      "1.1.43"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.42"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001034a",
+        "1001034c"
+      ],
+      "lines": [
+        "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्",
+        "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ"
+      ],
+      "punctuated_derived": "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम् ।\nखड्गं च परमप्रीतस्तूणी चाक्षयसायकौ ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्",
+        "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ"
+      ],
+      "locators": [
+        "1-1-42"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्",
+        "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ"
+      ],
+      "locators": [
+        "1.1.42",
+        "1.1.43"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_423_differs_from_sanskrit_42"
+      ],
+      "refs": [
+        "1.1.42"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्",
+      "net": "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्",
+      "in": "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्",
+      "gp": "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "शरासनम्",
+            "b": "शरासनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ",
+      "net": "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ",
+      "in": "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-42",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On Sage Agastya's word, Rama, with great delight, received from Agastya, Indra's bow along with the sword and two quivers with ever replenishing arrows... [1-1-42b, 43a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-42",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "42b, 43a. agastyavachanaat ca eva",
+            "devanagari_machine_converted": "४२ब्, ४३अ। अगस्त्यवचनात् च एव",
+            "english": "And according to Sage Agastya's word alone"
+          },
+          {
+            "roman_itrans": "jagraaha",
+            "devanagari_machine_converted": "जग्राह",
+            "english": "[Rama] received"
+          },
+          {
+            "roman_itrans": "paramapriitaH",
+            "devanagari_machine_converted": "परमप्रीतः",
+            "english": "greatly delighted"
+          },
+          {
+            "roman_itrans": "sharaasanam",
+            "devanagari_machine_converted": "शरासनम्",
+            "english": "a bow"
+          },
+          {
+            "roman_itrans": "khadgam ca",
+            "devanagari_machine_converted": "खद्गम् च",
+            "english": "also a sword"
+          },
+          {
+            "roman_itrans": "tuuNii ca",
+            "devanagari_machine_converted": "तूणी च",
+            "english": "(and) also two quivers"
+          },
+          {
+            "roman_itrans": "akShayasaayakau",
+            "devanagari_machine_converted": "अक्षयसायकौ",
+            "english": "with ever replenishing arrows"
+          },
+          {
+            "roman_itrans": "aindram",
+            "devanagari_machine_converted": "ऐन्द्रम्",
+            "english": "of Indra."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.42",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सुतीक्ष्ण, अगस्त्य मुनि तथा अगस्त्यके भ्राताका भी दर्शन किया। फिर अगस्त्य मुनिके कहनेसे उन्होंने ऐन्द्र धनुष ग्रहण किया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.43",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "एक खड्ग और दो तूणीर, जिनमें बाण कभी नहीं घटते थे, प्रसन्नतापूर्वक ग्रहण किये। एक दिन वनमें वनचरोंके साथ रहनेवाले श्रीरामके पास"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.42",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सुतीक्ष्णम्",
+            "hindi": "सुतीक्ष्ण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अगस्त्यम्",
+            "hindi": "अगस्त्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अगस्त्यभ्रातरम्",
+            "hindi": "अगस्त्य के भाई को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "अगस्त्यवचनात्",
+            "hindi": "अगस्त्य के कहने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "जग्राह",
+            "hindi": "ग्रहण किया (ग्रह् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ऐन्द्रम्",
+            "hindi": "इन्द्र सम्बन्धी (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शरासनम्",
+            "hindi": "धनुष को (द्वितीया विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.43",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "खड्गम्",
+            "hindi": "तलवार को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "परमप्रीतः",
+            "hindi": "अत्यन्त प्रसन्न होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तूणी",
+            "hindi": "दो तरकशों को (द्वितीया विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अक्षयसायकौ",
+            "hindi": "अक्षय बाणों वाले (द्वितीया विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "वसतः",
+            "hindi": "रहते हुए के (षष्ठी विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वनचरैः",
+            "hindi": "वन में घूमने वालों के (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सह",
+            "hindi": "साथ (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.42",
+        "ocr_flags": [
+          "hindi_marker_423_differs_from_sanskrit_42"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "खड्गं च परमप्रीतस्तूणी चाक्षयसायकौ। “फिर अगस्त्य मुनिके कहनेसे उन्होंने ऐन्द्र धनुष, एक खंग और दो तूणीर, जिनमें बाण कभी नहीं घटते थे, प्रसन्नतापूर्वक ग्रहण किये॥ ४२३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

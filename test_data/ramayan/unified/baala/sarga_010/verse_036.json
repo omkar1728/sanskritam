@@ -1,0 +1,253 @@
+{
+  "id": "baala-010-036",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 36,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 31
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-32"
+    ],
+    "vulgate_in_locators": [
+      "1.10.32"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.32"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009031a",
+        "1009031c"
+      ],
+      "lines": [
+        "अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि",
+        "शान्तां शान्तेन मनसा राजा हर्षमवाप सः"
+      ],
+      "punctuated_derived": "अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि ।\nशान्तां शान्तेन मनसा राजा हर्षमवाप सः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि",
+        "शांतां शान्तेन मनसा राजा हर्षमवाप सः"
+      ],
+      "locators": [
+        "1-10-32"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अन्तःपुरं प्रवेश्यास्मै कन्यां दत्त्वा यथाविधि",
+        "शान्तां शान्तेन मनसा राजा हर्षमवाप सः"
+      ],
+      "locators": [
+        "1.10.32"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "शान्तां शान्तेन मनसा राजा हर्षमवाप सः"
+      ],
+      "ocr_flags": [
+        "verse_number_nonsequential_expected_40"
+      ],
+      "refs": [
+        "1.10.32"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि",
+      "net": "अन्तःपुरं प्रविश्यास्मै कन्यां दत्त्वा यथाविधि",
+      "in": "अन्तःपुरं प्रवेश्यास्मै कन्यां दत्त्वा यथाविधि",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.975
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "प्रविश्यास्मै",
+            "b": "प्रवेश्यास्मै"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शान्तां शान्तेन मनसा राजा हर्षमवाप सः",
+      "net": "शांतां शान्तेन मनसा राजा हर्षमवाप सः",
+      "in": "शान्तां शान्तेन मनसा राजा हर्षमवाप सः",
+      "gp": "शान्तां शान्तेन मनसा राजा हर्षमवाप सः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "शान्तां",
+            "b": "शांतां"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "शांतां",
+            "b": "शान्तां"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शांतां",
+            "b": "शान्तां"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-32",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On entering the palace princess Shanta is given to Rishyasringa in customary marriage, and then that King Romapada obtained rejoice with a peaceful mind. [1-10-32]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-32",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH raajaa",
+            "devanagari_machine_converted": "सः राजा",
+            "english": "he that king"
+          },
+          {
+            "roman_itrans": "antaHpuram pravishya",
+            "devanagari_machine_converted": "अन्तःपुरम् प्रविश्य",
+            "english": "on entering palace [or inside city]"
+          },
+          {
+            "roman_itrans": "kanyaam shantaam asmai yathaavidhi datvaa",
+            "devanagari_machine_converted": "कन्याम् शन्ताम् अस्मै यथाविधि दत्वा",
+            "english": "on giving bride Shanta customarily to him"
+          },
+          {
+            "roman_itrans": "shaantena manasaa harSam avaapa",
+            "devanagari_machine_converted": "शान्तेन मनसा हर्षम् अवाप",
+            "english": "he obtained rejoice with peaceful mind."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.32",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“तत्पश्चात् ऋष्यशृंगको अन्तःपुरमें ले जाकर उन्होंने शान्तचित्तसे अपनी कन्या शान्ताका उनके साथ विधिपूर्वक विवाह कर दिया। ऐसा करके राजाको बड़ी प्रसन्नता हुई।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.32",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अन्तःपुरम्",
+            "hindi": "अन्तःपुर में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रवेश्य",
+            "hindi": "प्रवेश कराकर (ल्यबन्त अव्यय, प्रयोज्यार्थ)"
+          },
+          {
+            "sanskrit": "अस्मै",
+            "hindi": "उसे (ऋष्यशृंग को) (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "कन्याम्",
+            "hindi": "कन्या को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दत्त्वा",
+            "hindi": "देकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "यथाविधि",
+            "hindi": "विधि के अनुसार (अव्यय)"
+          },
+          {
+            "sanskrit": "शान्ताम्",
+            "hindi": "शान्ता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शान्तेन",
+            "hindi": "शान्त (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मनसा",
+            "hindi": "मन से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हर्षम्",
+            "hindi": "हर्ष / प्रसन्नता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अवाप",
+            "hindi": "प्राप्त हुआ (अव + आप्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.32",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_40"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“तत्पश्चात्‌ ऋष्यश्ृंगको अन्तःपुरमें ले जाकर उन्होंने शान्तचित्तसे अपनी कन्या शान्ताका उनके साथ विधिपूर्वक विवाह कर दिया। ऐसा करके राजाको बड़ी प्रसन्नता हुई॥ ३२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

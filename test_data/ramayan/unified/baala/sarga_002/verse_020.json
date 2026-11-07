@@ -1,0 +1,264 @@
+{
+  "id": "baala-002-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 19
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-20"
+    ],
+    "vulgate_in_locators": [
+      "1.2.20"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.20"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002019a",
+        "1002019c"
+      ],
+      "lines": [
+        "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन्यथाविधि",
+        "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः"
+      ],
+      "punctuated_derived": "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन्यथाविधि ।\nतमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन् यथाविधि",
+        "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः"
+      ],
+      "locators": [
+        "1-2-20"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन् यथाविधि",
+        "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः"
+      ],
+      "locators": [
+        "1.2.20"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन्‌ यथाविधि",
+        "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.20"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन्यथाविधि",
+      "net": "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन् यथाविधि",
+      "in": "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन् यथाविधि",
+      "gp": "सोऽभिषेकं ततः कृत्वा तीर्थे तस्मिन्‌ यथाविधि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तस्मिन्यथाविधि",
+            "b": "तस्मिन् यथाविधि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तस्मिन्",
+            "b": "तस्मिन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः",
+      "net": "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः",
+      "in": "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः",
+      "gp": "तमेव चिन्तयन्नर्थमुपावर्तत वै मुनिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-20",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then that saint on performing his bathing in that ford according to custom, and still thinking on the purport of his utterance, he returned towards his hermitage. [1-2-20]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-20",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "saH muniH",
+            "devanagari_machine_converted": "सः मुनिः",
+            "english": "that, saint"
+          },
+          {
+            "roman_itrans": "tasmin tiirthe",
+            "devanagari_machine_converted": "तस्मिन् तीर्थे",
+            "english": "in that, ford"
+          },
+          {
+            "roman_itrans": "yathaavidhi",
+            "devanagari_machine_converted": "यथाविधि",
+            "english": "as per custom"
+          },
+          {
+            "roman_itrans": "abhiShekam kR^itva",
+            "devanagari_machine_converted": "अभिषेकम् कृत्व",
+            "english": "on performing bathing"
+          },
+          {
+            "roman_itrans": "tam artham eva chintayan",
+            "devanagari_machine_converted": "तम् अर्थम् एव चिन्तयन्",
+            "english": "thinking on its purport only"
+          },
+          {
+            "roman_itrans": "upaavartata vai",
+            "devanagari_machine_converted": "उपावर्तत वै",
+            "english": "he came back"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-20",
+        "spans_beyond_this_verse": false,
+        "text": "This is mid day bath for these hermits. tato madhyaahnasnaanaartham mR^idam aaharet | - - prekShya sa omkaaram aadityam triH nimajje jalaashaye - - vyaasa smR^iti The word abhiSheka refers to ceremonial showering of waters on deities or on kings in his coronation. At the beginning Valmiki arrives at the river for a daily bath, which he would do by usual dipping in river waters. But here it appears that waters are showered on him, abhiShekam kR^itvaa meaning that waters showered on him are on the analogy of poetic verses of Ramayana."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तत्पश्चात् उन्होंने उत्तम तीर्थमें विधिपूर्वक स्नान किया और उसी विषयका विचार करते हुए वे आश्रमकी ओर लौट पड़े।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.20",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "उन्होंने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिषेकम्",
+            "hindi": "स्नान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तत्पश्चात् (अव्यय)"
+          },
+          {
+            "sanskrit": "कृत्वा",
+            "hindi": "करके (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तीर्थे",
+            "hindi": "तीर्थ में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "यथाविधि",
+            "hindi": "विधि के अनुसार (अव्यय)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उसी (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "चिन्तयन्",
+            "hindi": "विचार करते हुए (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अर्थम्",
+            "hindi": "विषय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपावर्तत",
+            "hindi": "लौटे (उप + आ + वृत्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वै",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.20",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "तत्पश्चात्‌ उन्होंने उत्तम तीर्थमें विधिपूर्वक स्नान किया और उसी विषयका विचार करते हुए वे आश्रमको ओर लौट पड़े॥ २०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

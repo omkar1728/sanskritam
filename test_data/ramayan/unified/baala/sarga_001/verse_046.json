@@ -1,0 +1,308 @@
+{
+  "id": "baala-001-046",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 46,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 35
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-43"
+    ],
+    "vulgate_in_locators": [
+      "1.1.43",
+      "1.1.44"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.43"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001035a",
+        "1001035c"
+      ],
+      "lines": [
+        "वसतस्तस्य रामस्य वने वनचरैः सह",
+        "ऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम्"
+      ],
+      "punctuated_derived": "वसतस्तस्य रामस्य वने वनचरैः सह ।\nऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वसतस्तस्य रामस्य वने वनचरैः सह",
+        "ऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम्"
+      ],
+      "locators": [
+        "1-1-43"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वसतस्तस्य रामस्य वने वनचरैः सह",
+        "ऋषयोऽभ्यागमन् सर्वे वधायासुररक्षसाम्"
+      ],
+      "locators": [
+        "1.1.43",
+        "1.1.44"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वसतस्तस्य रामस्य वने वनचरैः सह"
+      ],
+      "ocr_flags": [
+        "hindi_marker_433_differs_from_sanskrit_43"
+      ],
+      "refs": [
+        "1.1.43"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वसतस्तस्य रामस्य वने वनचरैः सह",
+      "net": "वसतस्तस्य रामस्य वने वनचरैः सह",
+      "in": "वसतस्तस्य रामस्य वने वनचरैः सह",
+      "gp": "वसतस्तस्य रामस्य वने वनचरैः सह",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "ऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम्",
+      "net": "ऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम्",
+      "in": "ऋषयोऽभ्यागमन् सर्वे वधायासुररक्षसाम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "ऋषयोऽभ्यागमन्सर्वे",
+            "b": "ऋषयोऽभ्यागमन् सर्वे"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-43",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"During Rama's stay in the forest, all the sages together with other forest dwellers, approached him for the elimination of ogres and demons... [1-1-43b, 44a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-43",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "43b, 44a. vasataH",
+            "devanagari_machine_converted": "४३ब्, ४४अ। वसतः",
+            "english": "(During) the stay"
+          },
+          {
+            "roman_itrans": "tasya raamasya",
+            "devanagari_machine_converted": "तस्य रामस्य",
+            "english": "of that Rama"
+          },
+          {
+            "roman_itrans": "vane",
+            "devanagari_machine_converted": "वने",
+            "english": "in the forest"
+          },
+          {
+            "roman_itrans": "sarve R^iShayaH",
+            "devanagari_machine_converted": "सर्वे ऋषयः",
+            "english": "all sages"
+          },
+          {
+            "roman_itrans": "vanacharai sahaH",
+            "devanagari_machine_converted": "वनचरै सहः",
+            "english": "together with [other] forest dwellers"
+          },
+          {
+            "roman_itrans": "abhyaagaman",
+            "devanagari_machine_converted": "अभ्यागमन्",
+            "english": "approached [Rama]"
+          },
+          {
+            "roman_itrans": "asurarakShasaam vadhaaya",
+            "devanagari_machine_converted": "असुररक्षसाम् वधाय",
+            "english": "for the killing of ogres and demons; ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.43",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "एक खड्ग और दो तूणीर, जिनमें बाण कभी नहीं घटते थे, प्रसन्नतापूर्वक ग्रहण किये। एक दिन वनमें वनचरोंके साथ रहनेवाले श्रीरामके पास"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.44",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "असुर तथा राक्षसोंके वधके लिये निवेदन करनेको वहाँके सभी ऋषि आये। उस समय वनमें श्रीरामने उन ऋषियोंको प्रतिज्ञा दी"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.43",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "खड्गम्",
+            "hindi": "तलवार को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "परमप्रीतः",
+            "hindi": "अत्यन्त प्रसन्न होकर (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तूणी",
+            "hindi": "दो तरकशों को (द्वितीया विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अक्षयसायकौ",
+            "hindi": "अक्षय बाणों वाले (द्वितीया विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "वसतः",
+            "hindi": "रहते हुए के (षष्ठी विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वनचरैः",
+            "hindi": "वन में घूमने वालों के (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सह",
+            "hindi": "साथ (अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.44",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋषयः",
+            "hindi": "ऋषियों ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अभ्यागमन्",
+            "hindi": "आए (अभि + आ + गम्, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वधाय",
+            "hindi": "वध के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "असुररक्षसाम्",
+            "hindi": "असुरों और राक्षसों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "उस (राम) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तेषाम्",
+            "hindi": "उन (ऋषियों) के लिए (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "प्रतिशुश्राव",
+            "hindi": "प्रतिज्ञा की (प्रति + श्रु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "राक्षसानाम्",
+            "hindi": "राक्षसों का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.43",
+        "ocr_flags": [
+          "hindi_marker_433_differs_from_sanskrit_43"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "ऋषयोऽभ्यागमन्‌ सर्वे वधायासुररक्षसाम्‌। “एक दिन वनमें वनचरोंके साथ रहनेवाले श्रीरामके पास असुर तथा राक्षसोंके वधके लिये निवेदन करनेको वहाँके सभी ऋषि आये॥ ४३३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,292 @@
+{
+  "id": "baala-001-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 17
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-18"
+    ],
+    "vulgate_in_locators": [
+      "1.1.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001017a",
+        "1001017c"
+      ],
+      "lines": [
+        "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः",
+        "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः"
+      ],
+      "punctuated_derived": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः ।\nकालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः",
+        "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः"
+      ],
+      "locators": [
+        "1-1-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः",
+        "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः"
+      ],
+      "locators": [
+        "1.1.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विष्णुना सदृशो वीर्ये सोमवत्त्रियदर्शनः",
+        "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_183_differs_from_sanskrit_18"
+      ],
+      "refs": [
+        "1.1.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः",
+      "net": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः",
+      "in": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः",
+      "gp": "विष्णुना सदृशो वीर्ये सोमवत्त्रियदर्शनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सोमवत्प्रियदर्शनः",
+            "b": "सोमवत्त्रियदर्शनः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः",
+      "net": "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः",
+      "in": "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः",
+      "gp": "कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-18",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"In valour Rama is comparable to Vishnu, and in his looks he is attractive like the moon, he equals the earth in his forgiveness, but he is matchable to world ending fire in his wrath... and in benevolence he is identical to Kubera, God of Wealth, and in his candour he is like Dharma itself, the Truth personified, with none to rival him... [1-1-18, 19a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-18",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "18, 19a. viirye",
+            "devanagari_machine_converted": "१८, १९अ। वीर्ये",
+            "english": "in valour"
+          },
+          {
+            "roman_itrans": "vishNunaa sadR^ishaH",
+            "devanagari_machine_converted": "विश्णुना सदृशः",
+            "english": "comparable to Vishnu"
+          },
+          {
+            "roman_itrans": "somavat priyadarshanaH",
+            "devanagari_machine_converted": "सोमवत् प्रियदर्शनः",
+            "english": "attractive in look like the moon"
+          },
+          {
+            "roman_itrans": "krodhe",
+            "devanagari_machine_converted": "क्रोधे",
+            "english": "in anger"
+          },
+          {
+            "roman_itrans": "kaalaagnisadR^ishaH",
+            "devanagari_machine_converted": "कालाग्निसदृशः",
+            "english": "matchable to the world ending fire"
+          },
+          {
+            "roman_itrans": "kShamayaa pR^ithiviisamaH",
+            "devanagari_machine_converted": "क्षमया पृथिवीसमः",
+            "english": "equals to the Earth in forgiveness"
+          },
+          {
+            "roman_itrans": "tyage",
+            "devanagari_machine_converted": "त्यगे",
+            "english": "in benevolence"
+          },
+          {
+            "roman_itrans": "dhanadena samaH",
+            "devanagari_machine_converted": "धनदेन समः",
+            "english": "equal to Kubera [God of Wealth]"
+          },
+          {
+            "roman_itrans": "satye",
+            "devanagari_machine_converted": "सत्ये",
+            "english": "in candour"
+          },
+          {
+            "roman_itrans": "aparaH",
+            "devanagari_machine_converted": "अपरः",
+            "english": "with no rival"
+          },
+          {
+            "roman_itrans": "dharmaH iva",
+            "devanagari_machine_converted": "धर्मः इव",
+            "english": "like Truth personified."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-18",
+        "spans_beyond_this_verse": true,
+        "text": "Here the 'valour' is to cause harm to enemy, while remaining himself unharmed... svasya avikaara eva parasya vikaara aapadanam Rama Tilaka. 'Though Rama is Vishnu, but by nature of his incarnation as human, he is different from Vishnu upaadhi-bheda... Hence Vishnu has become another entity than Rama... Or, his valour is selfsame to Vishnu's valour because he is selfsame Vishnu...' Govindaraja. 'As there is none other in similitude, he is compared Vishnu, insofar as valour is concerned...' Maheshvara Tiirtha. Earth personally does not grieve when people tread on it, trample, dig, cut, or whatever is done to her. Likewise Rama personally gets unaffected, whatever harm is done to him, but he becomes wrathful, if that harm is committed to dharma."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वे विष्णुभगवान् के समान बलवान् हैं। उनका दर्शन चन्द्रमाके समान मनोहर प्रतीत होता है। वे क्रोधमें कालाग्निके समान और क्षमामें पृथिवीके सदृश हैं, त्यागमें कुबेर और सत्यमें द्वितीय धर्मराजके समान हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.18",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विष्णुना",
+            "hindi": "विष्णु के (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सदृशः",
+            "hindi": "समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वीर्ये",
+            "hindi": "पराक्रम में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सोमवत्",
+            "hindi": "चन्द्रमा के समान (वति प्रत्यय, अव्यय)"
+          },
+          {
+            "sanskrit": "प्रियदर्शनः",
+            "hindi": "प्रिय दर्शन वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कालाग्निसदृशः",
+            "hindi": "प्रलय काल की अग्नि के समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्रोधे",
+            "hindi": "क्रोध में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षमया",
+            "hindi": "क्षमा के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पृथिवीसमः",
+            "hindi": "पृथ्वी के समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धनदेन",
+            "hindi": "कुबेर के (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समः",
+            "hindi": "समान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "त्यागे",
+            "hindi": "दान करने में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्ये",
+            "hindi": "सत्य के विषय में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मः",
+            "hindi": "धर्मराज (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान (अव्यय)"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरा (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.18",
+        "ocr_flags": [
+          "hindi_marker_183_differs_from_sanskrit_18"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "धनदेन समस्त्यागे सत्ये धर्म इवापरः। \"वे विष्णुभगवानके समान बलवान्‌ हैं। उनका दर्शन चन्द्रमाके समान मनोहर प्रतीत होता है। वे क्रोधमें कालाग्निके समान और क्षमामें पृथिवीके सदृश हैं, त्यागमें कुबेर और सत्यमे द्वितीय धर्मराजके समान हैं॥ १८३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

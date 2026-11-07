@@ -1,0 +1,270 @@
+{
+  "id": "baala-010-032",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 32,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 27
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-28"
+    ],
+    "vulgate_in_locators": [
+      "1.10.28"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.28"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009027a",
+        "1009027c"
+      ],
+      "lines": [
+        "श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम्",
+        "गमनाय मतिं चक्रे तं च निन्युस्तदा स्त्रियः"
+      ],
+      "punctuated_derived": "श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम् ।\nगमनाय मतिं चक्रे तं च निन्युस्तदा स्त्रियः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम्",
+        "गमनाय मतिं चक्रे तं च निन्युस्तदा स्त्रियः"
+      ],
+      "locators": [
+        "1-10-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम्",
+        "गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः"
+      ],
+      "locators": [
+        "1.10.28"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "शरुत्वा तु वचनं तासां सर्वासां हृदयंगमम्‌",
+        "गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.28"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम्",
+      "net": "श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम्",
+      "in": "श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम्",
+      "gp": "शरुत्वा तु वचनं तासां सर्वासां हृदयंगमम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9855072463768116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "हृदयंगमम्",
+            "b": "हृदयङ्गमम्"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "हृदयङ्गमम्",
+            "b": "हृदयंगमम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "श्रुत्वा",
+            "b": "शरुत्वा"
+          },
+          {
+            "a": "हृदयङ्गमम्",
+            "b": "हृदयंगमम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "गमनाय मतिं चक्रे तं च निन्युस्तदा स्त्रियः",
+      "net": "गमनाय मतिं चक्रे तं च निन्युस्तदा स्त्रियः",
+      "in": "गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः",
+      "gp": "गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9714285714285714,
+        "sim_gp_net": 0.9714285714285714
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "निन्युस्तदा",
+            "b": "निन्युस्तथा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "निन्युस्तदा",
+            "b": "निन्युस्तथा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-28",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On hearing the heart-pleasing words of all those courtesans, Rishyasringa made up his mind to go over there, and then those women took him away [to their place in Anga Kingdom.] [1-10-28]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-28",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "taasaam sarvaasaam",
+            "devanagari_machine_converted": "तासाम् सर्वासाम्",
+            "english": "all of their"
+          },
+          {
+            "roman_itrans": "hR^idaya~ngamam",
+            "devanagari_machine_converted": "हृदयञ्गमम्",
+            "english": "heart pleasing"
+          },
+          {
+            "roman_itrans": "vachanam shrutvaa",
+            "devanagari_machine_converted": "वचनम् श्रुत्वा",
+            "english": "words, on hearing"
+          },
+          {
+            "roman_itrans": "gamanaaya matim chakre",
+            "devanagari_machine_converted": "गमनाय मतिम् चक्रे",
+            "english": "made up his mind to go there"
+          },
+          {
+            "roman_itrans": "tadaa striyaH tam ninyuH",
+            "devanagari_machine_converted": "तदा स्त्रियः तम् निन्युः",
+            "english": "then, those women took away him."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“उन सबके मनोहर वचन सुनकर ऋष्यशृंग उनके साथ जानेको तैयार हो गये और वे स्त्रियाँ उन्हें अंगदेशमें ले गयीं।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "वचनम्",
+            "hindi": "वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तासाम्",
+            "hindi": "उन (स्त्रियों) का (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वासाम्",
+            "hindi": "सब का (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "हृदयङ्गमम्",
+            "hindi": "हृदय को लगने वाला / मनोहर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गमनाय",
+            "hindi": "जाने के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "मतिम्",
+            "hindi": "निश्चय / तैयारी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चक्रे",
+            "hindi": "की (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उसे (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "निन्युः",
+            "hindi": "ले गईं (नी धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "स्त्रियः",
+            "hindi": "स्त्रियाँ (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.28",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“उन सबके मनोहर वचन सुनकर ऋष्यशृंग उनके साथ जानेको तैयार हो गये और वे स्त्रियाँ उन्हें अंगदेशमें ले गयीं॥ २८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

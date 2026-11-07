@@ -1,0 +1,230 @@
+{
+  "id": "baala-010-022",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 22,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 21
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-21"
+    ],
+    "vulgate_in_locators": [
+      "1.10.21"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.21"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009021a",
+        "1009021c"
+      ],
+      "lines": [
+        "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+        "अनास्वादितपूर्वाणि वने नित्यनिवासिना"
+      ],
+      "punctuated_derived": "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते ।\nअनास्वादितपूर्वाणि वने नित्यनिवासिना ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+        "अनास्वादितपूर्वाणि वने नित्यनिवासिनाम्"
+      ],
+      "locators": [
+        "1-10-21"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+        "अनास्वादितपूर्वाणि वने नित्यनिवासिनाम्"
+      ],
+      "locators": [
+        "1.10.21"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+        "अनास्वादितपूर्वाणि वने नित्यनिवासिनाम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.21"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+      "net": "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+      "in": "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+      "gp": "तानि चास्वाद्य तेजस्वी फलानीति स्म मन्यते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "अनास्वादितपूर्वाणि वने नित्यनिवासिना",
+      "net": "अनास्वादितपूर्वाणि वने नित्यनिवासिनाम्",
+      "in": "अनास्वादितपूर्वाणि वने नित्यनिवासिनाम्",
+      "gp": "अनास्वादितपूर्वाणि वने नित्यनिवासिनाम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9855072463768116,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नित्यनिवासिना",
+            "b": "नित्यनिवासिनाम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नित्यनिवासिनाम्",
+            "b": "नित्यनिवासिनाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-21",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Having relished the sweets, that resplendent sage supposed them to be fruits only, for he did not taste sweets earlier, as he is always forest-bound. [1-10-21]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-21",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tejasvii vane nityanivaasinaam",
+            "devanagari_machine_converted": "तेजस्वी वने नित्यनिवासिनाम्",
+            "english": "self-luminous one, always dwelling in forests [therefore]"
+          },
+          {
+            "roman_itrans": "anaasvaaditapuurvaaNi",
+            "devanagari_machine_converted": "अनास्वादितपूर्वाणि",
+            "english": "not tasted earlier"
+          },
+          {
+            "roman_itrans": "taani aasvaadya",
+            "devanagari_machine_converted": "तानि आस्वाद्य",
+            "english": "them [sweets,] relishing"
+          },
+          {
+            "roman_itrans": "phalaani iti sma manyate",
+            "devanagari_machine_converted": "फलानि इति स्म मन्यते",
+            "english": "resplendent one, supposed them to be fruits only."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“उनका रसास्वादन करके उन तेजस्वी ऋषिने समझा कि ये भी फल हैं; क्योंकि उस दिनके पहले उन्होंने कभी वैसे पदार्थ नहीं खाये थे। भला, सदा वनमें रहनेवालोंके लिये वैसी वस्तुओंके स्वाद लेनेका अवसर ही कहाँ है ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तानि",
+            "hindi": "उन (पदार्थों) को (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "आस्वाद्य",
+            "hindi": "स्वाद लेकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तेजस्वी",
+            "hindi": "तेजस्वी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "फलानि",
+            "hindi": "फल हैं (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "स्म",
+            "hindi": "ही (अतीतकाल सूचक अव्यय)"
+          },
+          {
+            "sanskrit": "मन्यते",
+            "hindi": "समझा (मन् धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "अनास्वादितपूर्वाणि",
+            "hindi": "पहले कभी स्वाद न लिए हुए (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यनिवासिनाम्",
+            "hindi": "सदा रहने वालों के लिए (षष्ठी विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.21",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“उनका रसास्वादन करके उन तेजस्वी ऋषिने समझा कि ये भी फल हैं; क्योंकि उस दिनके पहले उन्होंने कभी वैसे पदार्थ नहीं खाये थे। भला, सदा वनमें रहनेवालोंके लिये वैसी वस्तुओंके स्वाद लेनेका अवसर ही कहाँ है॥ २१॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

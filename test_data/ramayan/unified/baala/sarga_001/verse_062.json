@@ -1,0 +1,297 @@
+{
+  "id": "baala-001-062",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 62,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 47
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-57",
+      "1-1-58"
+    ],
+    "vulgate_in_locators": [
+      "1.1.58"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.58"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001047a",
+        "1001047c"
+      ],
+      "lines": [
+        "शबर्या पूजितः सम्यग्रामो दशरथात्मजः",
+        "पम्पातीरे हनुमता संगतो वानरेण ह"
+      ],
+      "punctuated_derived": "शबर्या पूजितः सम्यग्रामो दशरथात्मजः ।\nपम्पातीरे हनुमता संगतो वानरेण ह ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "शबर्या पूजितः सम्यग्रामो दशरथात्मजः",
+        "पम्पातीरे हनुमता सङ्गतो वानरेण ह"
+      ],
+      "locators": [
+        "1-1-57",
+        "1-1-58"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "शबर्या पूजितः सम्यग् रामो दशरथात्मजः",
+        "पम्पातीरे हनुमता संगतो वानरेण ह"
+      ],
+      "locators": [
+        "1.1.58"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पम्पातीरे हनुमता संगतो वानरेण ह"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.1.58"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "शबर्या पूजितः सम्यग्रामो दशरथात्मजः",
+      "net": "शबर्या पूजितः सम्यग्रामो दशरथात्मजः",
+      "in": "शबर्या पूजितः सम्यग् रामो दशरथात्मजः",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सम्यग्रामो",
+            "b": "सम्यग् रामो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पम्पातीरे हनुमता संगतो वानरेण ह",
+      "net": "पम्पातीरे हनुमता सङ्गतो वानरेण ह",
+      "in": "पम्पातीरे हनुमता संगतो वानरेण ह",
+      "gp": "पम्पातीरे हनुमता संगतो वानरेण ह",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संगतो",
+            "b": "सङ्गतो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सङ्गतो",
+            "b": "संगतो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सङ्गतो",
+            "b": "संगतो"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-57",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That great resplendent Rama, the son of Dasaratha, an anhillator of enemies, approached Sabari and was thoroughly honoured by her... [1-1-57b, 58a]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-58",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Rama was united indeed with the Vanara Hanuma on the banks of Lake Pampa, and upon the word of Hanuma, Rama met with Sugreeva... [1-1-58b, 59b]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-57",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "57b, 58a. saH mahaatejaaH",
+            "devanagari_machine_converted": "५७ब्, ५८अ। सः महातेजाः",
+            "english": "That great resplendent"
+          },
+          {
+            "roman_itrans": "dasharathaatmajaH raamaH",
+            "devanagari_machine_converted": "दशरथात्मजः रामः",
+            "english": "Rama the son of Dasaratha"
+          },
+          {
+            "roman_itrans": "shatrusuudanaH",
+            "devanagari_machine_converted": "शत्रुसूदनः",
+            "english": "an anhillator of enemies"
+          },
+          {
+            "roman_itrans": "shabariim abhyaagacChat",
+            "devanagari_machine_converted": "शबरीम् अभ्यागच्छत्",
+            "english": "approached Sabari"
+          },
+          {
+            "roman_itrans": "shabaryaa samyak puujitaH",
+            "devanagari_machine_converted": "शबर्या सम्यक् पूजितः",
+            "english": "[and] was thoroughly honoured by Sabari."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-58",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "58b, 59a. pampaatiire",
+            "devanagari_machine_converted": "५८ब्, ५९अ। पम्पातीरे",
+            "english": "On the banks of Pampa"
+          },
+          {
+            "roman_itrans": "hanumataa vaanareNa sangataH ha",
+            "devanagari_machine_converted": "हनुमता वानरेण सन्गतः ह",
+            "english": "[Rama was] indeed united with the Vanara Hanuma"
+          },
+          {
+            "roman_itrans": "hanumadvachanaat ca eva",
+            "devanagari_machine_converted": "हनुमद्वचनात् च एव",
+            "english": "and upon Hanuma's word"
+          },
+          {
+            "roman_itrans": "samaagataH",
+            "devanagari_machine_converted": "समागतः",
+            "english": "met"
+          },
+          {
+            "roman_itrans": "sugriiveNa",
+            "devanagari_machine_converted": "सुग्रीवेण",
+            "english": "with Sugreeva."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-57",
+        "spans_beyond_this_verse": true,
+        "text": "Next verse onwards the episodes in KiShkindha are introduced. Now Rama meets Hanuma, the Vaanara. vanena= in forests, charati= moves about, iti= thus; therefore vaanara = 'forest-ranger' is the declination of the term Vaanara. Traditionally Hanuma is worshipped as a god."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.58",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उसने इनका भलीभाँति पूजन किया। फिर वे पम्पासरके तटपर हनुमान् नामक वानरसे मिले"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.58",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "शबर्या",
+            "hindi": "शबरी के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पूजितः",
+            "hindi": "पूजित हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सम्यक्",
+            "hindi": "भली-भाँति (अव्यय)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथात्मजः",
+            "hindi": "दशरथ का पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पम्पातीरे",
+            "hindi": "पम्पा सरोवर के तट पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "हनुमता",
+            "hindi": "हनुमान के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सङ्गतः",
+            "hindi": "मिला हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वानरेण",
+            "hindi": "वानर के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.58",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "इनुमद्दचनाच्चैव सुग्रीवीण समागतः। “फिर वे पम्पासरके तटपर हनुमान्‌ नामक वानरसे मिले और उन्हींके कहनेसे सुग्रीवसे भी मेल किया॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

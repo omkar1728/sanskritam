@@ -1,0 +1,253 @@
+{
+  "id": "baala-004-025",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 25,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-27, 1-4-28"
+    ],
+    "vulgate_in_locators": [
+      "1.4.27"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.27"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अभिगीतमिदं गीतं सर्वगीतेषु कोविदौ",
+        "आयुष्यं पुष्टिजनकं सर्वश्रुतिमनोहरम्"
+      ],
+      "locators": [
+        "1-4-27, 1-4-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अभिगीतमिदं गीतं सर्वगीतिषु कोविदौ",
+        "आयुष्यं पुष्टिजननं सर्वश्रुतिमनोहरम्"
+      ],
+      "locators": [
+        "1.4.27"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अभिगीतमिदं. गीतं सर्वगीतिषु कोविदौ"
+      ],
+      "ocr_flags": [
+        "hindi_marker_273_differs_from_sanskrit_27"
+      ],
+      "refs": [
+        "1.4.27"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "अभिगीतमिदं गीतं सर्वगीतेषु कोविदौ",
+      "in": "अभिगीतमिदं गीतं सर्वगीतिषु कोविदौ",
+      "gp": "अभिगीतमिदं. गीतं सर्वगीतिषु कोविदौ",
+      "similarity": {
+        "sim_in_net": 0.9666666666666667,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सर्वगीतेषु",
+            "b": "सर्वगीतिषु"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अभिगीतमिदं",
+            "b": "अभिगीतमिदं."
+          },
+          {
+            "a": "सर्वगीतेषु",
+            "b": "सर्वगीतिषु"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "आयुष्यं पुष्टिजनकं सर्वश्रुतिमनोहरम्",
+      "in": "आयुष्यं पुष्टिजननं सर्वश्रुतिमनोहरम्",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पुष्टिजनकं",
+            "b": "पुष्टिजननं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-27, 1-4-28",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "While this song that generates longevity and prosperity, and one that is melodious one to all ears is being sung everywhere in streets and king's ways and while those two singers who are experts in singing any kind of music are being appreciated everywhere, Rama has seen them. [1-4-27-28]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-27, 1-4-28",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "27-28. idam giitam",
+            "devanagari_machine_converted": "२७-२८। इदम् गीतम्",
+            "english": "this, song"
+          },
+          {
+            "roman_itrans": "saayuSyam puSTijanakam",
+            "devanagari_machine_converted": "सायुष्यम् पुष्टिजनकम्",
+            "english": "generates longevity and prosperity"
+          },
+          {
+            "roman_itrans": "sarvashrutimanoharam",
+            "devanagari_machine_converted": "सर्वश्रुतिमनोहरम्",
+            "english": "melodious one to all ears"
+          },
+          {
+            "roman_itrans": "abhigiitam",
+            "devanagari_machine_converted": "अभिगीतम्",
+            "english": "well-sung"
+          },
+          {
+            "roman_itrans": "prashasyamaanau",
+            "devanagari_machine_converted": "प्रशस्यमानौ",
+            "english": "those being appreciated"
+          },
+          {
+            "roman_itrans": "rathyaasu raajamaargeSu",
+            "devanagari_machine_converted": "रथ्यासु राजमार्गेषु",
+            "english": "in streets, in king's ways"
+          },
+          {
+            "roman_itrans": "sarvatra",
+            "devanagari_machine_converted": "सर्वत्र",
+            "english": "everywhere"
+          },
+          {
+            "roman_itrans": "gaayakau",
+            "devanagari_machine_converted": "गायकौ",
+            "english": "those that are singing"
+          },
+          {
+            "roman_itrans": "sarvagiiteSu kovidau",
+            "devanagari_machine_converted": "सर्वगीतेषु कोविदौ",
+            "english": "experts in every type of singing - Lava and Kusha"
+          },
+          {
+            "roman_itrans": "kadaachit tatra",
+            "devanagari_machine_converted": "कदाचित् तत्र",
+            "english": "at one time, there"
+          },
+          {
+            "roman_itrans": "dadarsha bharataagrajaH",
+            "devanagari_machine_converted": "ददर्श भरताग्रजः",
+            "english": "on seeing, Bharata's elder brother [Rama]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.27",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सम्पूर्ण गीतोंके विशेषज्ञ राजकुमारो! यह काव्य आयु एवं पुष्टि प्रदान करनेवाला तथा सबके कान और मनको मोहनेवाला मधुर संगीत है। तुम दोनोंने बड़े सुन्दर ढंगसे इसका गान किया है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.27",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अभिगीतम्",
+            "hindi": "गाया हुआ"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह"
+          },
+          {
+            "sanskrit": "गीतम्",
+            "hindi": "गीत / काव्य"
+          },
+          {
+            "sanskrit": "सर्वगीतिषु",
+            "hindi": "सभी गीतों में"
+          },
+          {
+            "sanskrit": "कोविदौ",
+            "hindi": "विशेषज्ञ / कुशल"
+          },
+          {
+            "sanskrit": "आयुष्यम्",
+            "hindi": "आयु बढ़ाने वाला"
+          },
+          {
+            "sanskrit": "पुष्टिजननम्",
+            "hindi": "पुष्टि उत्पन्न करने वाला"
+          },
+          {
+            "sanskrit": "सर्वश्रुतिमनोहरम्",
+            "hindi": "सबके कान और मन को हरने वाला"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.27",
+        "ocr_flags": [
+          "hindi_marker_273_differs_from_sanskrit_27"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "आयुष्यं पुष्टिजननं सर्वश्रुतिमनोहरम्‌। सम्पूर्ण गीतोंके विशेषज्ञ राजकुमारो! यह काव्य आयु एवं पुष्टि प्रदान करनेवाला तथा सबके कान और मनको मोहनेवाला मधुर संगीत है। तुम दोनोंने बड़े सुन्दर ढंगसे इसका गान किया है॥ २७३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

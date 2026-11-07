@@ -1,0 +1,236 @@
+{
+  "id": "baala-005-008",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 8,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 7
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-7"
+    ],
+    "vulgate_in_locators": [
+      "1.5.7"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.7"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005007a",
+        "1005007c"
+      ],
+      "lines": [
+        "आयता दश च द्वे च योजनानि महापुरी",
+        "श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा"
+      ],
+      "punctuated_derived": "आयता दश च द्वे च योजनानि महापुरी ।\nश्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आयता दश च द्वे च योजनानि महापुरी",
+        "श्रीमती त्रीणि विस्तीर्णा सुविभक्ता महापथा"
+      ],
+      "locators": [
+        "1-5-7"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आयता दश च द्वे च योजनानि महापुरी",
+        "श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा"
+      ],
+      "locators": [
+        "1.5.7"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आयता दश च द्वे च योजनानि महापुरी",
+        "श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.7"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आयता दश च द्वे च योजनानि महापुरी",
+      "net": "आयता दश च द्वे च योजनानि महापुरी",
+      "in": "आयता दश च द्वे च योजनानि महापुरी",
+      "gp": "आयता दश च द्वे च योजनानि महापुरी",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा",
+      "net": "श्रीमती त्रीणि विस्तीर्णा सुविभक्ता महापथा",
+      "in": "श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा",
+      "gp": "श्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा",
+      "similarity": {
+        "sim_smith_net": 0.9866666666666667,
+        "sim_in_net": 0.9866666666666667,
+        "sim_gp_net": 0.9866666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सुविभक्तमहापथा",
+            "b": "सुविभक्ता महापथा"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सुविभक्ता महापथा",
+            "b": "सुविभक्तमहापथा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सुविभक्ता महापथा",
+            "b": "सुविभक्तमहापथा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-7",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That glorious city with well-devised highways is twelve yojana-s lengthwise and three yojana-s breadth wise. [1-5-7]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-7",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shriimatii",
+            "devanagari_machine_converted": "श्रीमती",
+            "english": "glorious one - city; suvibhaktaa mahaapathaa = with well devised high ways; mahaapurii = great city"
+          },
+          {
+            "roman_itrans": "dasha cha dve",
+            "devanagari_machine_converted": "दश च द्वे",
+            "english": "ten, and, two - twelve"
+          },
+          {
+            "roman_itrans": "yojanaani",
+            "devanagari_machine_converted": "योजनानि",
+            "english": "yojana-s"
+          },
+          {
+            "roman_itrans": "aayataa",
+            "devanagari_machine_converted": "आयता",
+            "english": "lengthy"
+          },
+          {
+            "roman_itrans": "triiNi [yojanaani] vistiirNaa",
+            "devanagari_machine_converted": "त्रीणि [योजनानि] विस्तीर्णा",
+            "english": "three [yojana-s,] in breadth."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-7",
+        "spans_beyond_this_verse": false,
+        "text": "Yojana is an ancient measure of distance, where one yojana roughly equals to 8 to 10 miles. Its account is like this : 1 angula is 3/4 inch; 4 angula-s are = one dhanu-graha - bow grip; 8 angula-s are = one dhanu-muSTi - fist with thumb raised; 12 angula-s are = 1 vitasti - distance between tip of thumb and tip of last finger when palm is stretched; 2 vitasti-s = 1 aratni -s - cubit; 4 aratni-s = one danDa, dhanuS - bow height - 6 ft ; 10 danDa-s = 1 rajju 60 ft ; 2 rajju-s = 1 paridesha - 120 ft ; 2, 000 dhanuS-s = one krosha , and also called goraTa - 4, 000 yards ; 4 krosha-s = 1 yojana - thus one yojana is 9 to 10 miles. But the British Revenue measurement scaled it down to 5 miles, and all the dictionaries say that one yojana is 5 miles. But traditionally it is held as 10 miles. More info on these measures can be had from The Artha-Shaastra of Kautilya - a republication of Penguin."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वह शोभाशालिनी महापुरी बारह योजन लम्बी और तीन योजन चौड़ी थी। वहाँ बाहरके जनपदोंमें जानेका जो विशाल राजमार्ग था, वह उभयपार्श्वमें विविध वृक्षावलियोंसे विभूषित होनेके कारण सुस्पष्टतया अन्य मार्गोंसे विभक्त जान पड़ता था॥७॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.7",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "आयता",
+            "hindi": "लम्बाई में (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दश च द्वे च",
+            "hindi": "दस और दो = बारह (प्रथमा विभक्ति, द्विवचन/बहुवचन)"
+          },
+          {
+            "sanskrit": "योजनानि",
+            "hindi": "योजन (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "महापुरी",
+            "hindi": "महान पुरी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रीमती",
+            "hindi": "शोभायुक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "त्रीणि",
+            "hindi": "तीन (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विस्तीर्णा",
+            "hindi": "चौड़ाई में (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुविभक्तमहापथा",
+            "hindi": "सुन्दर विभाजित महापथ / राजमार्ग वाली (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.7",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वह शोभाशालिनी महापुरी बारह योजन लम्बी और तीन योजन चौड़ी थी। वहाँ बाहरके जनपदोंमें जानेका जो विशाल राजमार्ग था, वह उभयपार्श्वमें विविध वृक्षावलियासे विभूषित होनेके कारण सुस्पष्टतया अन्य मार्गोसे विभक्त जान पड़ता था॥ ७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

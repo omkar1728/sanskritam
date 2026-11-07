@@ -1,0 +1,239 @@
+{
+  "id": "baala-002-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 17
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-18"
+    ],
+    "vulgate_in_locators": [
+      "1.2.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002017a",
+        "1002017c"
+      ],
+      "lines": [
+        "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+        "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा"
+      ],
+      "punctuated_derived": "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः ।\nशोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+        "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा"
+      ],
+      "locators": [
+        "1-2-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+        "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा"
+      ],
+      "locators": [
+        "1.2.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+        "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.2.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+      "net": "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+      "in": "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+      "gp": "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा",
+      "net": "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा",
+      "in": "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा",
+      "gp": "शोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-18",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"While I was tormented by grief, there arose a sentence consisting of four verses possessing metrically posited letters suitable to be played as song and string music and that will be called Shloka, not otherwise...\" [1-2-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-18",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "me shokaartasya",
+            "devanagari_machine_converted": "मे शोकार्तस्य",
+            "english": "while I was tormented by grief"
+          },
+          {
+            "roman_itrans": "pravR^ittaH",
+            "devanagari_machine_converted": "प्रवृत्तः",
+            "english": "[there] arose"
+          },
+          {
+            "roman_itrans": "paadabaddhaH",
+            "devanagari_machine_converted": "पादबद्धः",
+            "english": "[a sentence] consisting of verses"
+          },
+          {
+            "roman_itrans": "tantriilayasamanvitaH",
+            "devanagari_machine_converted": "तन्त्रीलयसमन्वितः",
+            "english": "possessing[suitable for] union of song and string music"
+          },
+          {
+            "roman_itrans": "akSharasamaH",
+            "devanagari_machine_converted": "अक्षरसमः",
+            "english": "metrically posited letters"
+          },
+          {
+            "roman_itrans": "shlokaH bhavatu",
+            "devanagari_machine_converted": "श्लोकः भवतु",
+            "english": "[that] will be [called] Shloka"
+          },
+          {
+            "roman_itrans": "na anyathaa",
+            "devanagari_machine_converted": "न अन्यथा",
+            "english": "not otherwise."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-18",
+        "spans_beyond_this_verse": false,
+        "text": "This verse he uttered is in four quarters, each quarter with equally posited eight syllables. This is called anuSTup metre in Sanskrit poetry. The eight syllables are, -- maa ni Shaa da pra ti ShTaa~N tvam | a ga maH shaa shva tiiH sa maaH -- Each quarter is paada in Sanskrit, pede in Latin; with two quarters in first stanza, and two stanzas one verse. This apart there are other rules like caesura yati ; alliteration praasa ; and other compositional rules. It has come out of shoka sorrow, so the format is named as shloka. And, shloka also means yashas, kiirti renown."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘तात! शोकसे पीड़ित हुए मेरे मुखसे जो वाक्य निकल पड़ा है, यह चार चरणोंमें आबद्ध है। इसके प्रत्येक चरणमें बराबर-बराबर (यानी आठ-आठ) अक्षर हैं तथा इसे वीणाके लयपर गाया भी जा सकता है; अतः मेरा यह वचन श्लोकरूप (अर्थात् श्लोक नामक छन्दमें आबद्ध काव्यरूप या यशःस्वरूप) होना चाहिये, अन्यथा नहीं।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पादबद्धः",
+            "hindi": "चरणों में बद्ध (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अक्षरसमः",
+            "hindi": "अक्षरों की समानता वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तन्त्रीलयसमन्वितः",
+            "hindi": "वीणा के लय से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शोकार्तस्य",
+            "hindi": "शोक से पीड़ित के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रवृत्तः",
+            "hindi": "निकला हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मे",
+            "hindi": "मेरे (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "श्लोकः",
+            "hindi": "श्लोक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भवतु",
+            "hindi": "हो (भू धातु, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्यथा",
+            "hindi": "अन्यथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.18",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“तात! शोकसे पीड़ित हुए मेरे मुखसे जो वाक्य निकल पड़ा है, यह चार चरणोंमें आबद्ध है। इसके प्रत्येक चरणमें बराबर-बराबर (यानी आठ-आठ) अक्षर हैं तथा इसे वीणाके लयपर गाया भी जा सकता है; अतः मेरा यह वचन श्लोकरूप (अर्थात्‌ श्लोक नामक छन्दमें आबद्ध काव्यरूप या यशःस्वरूप) होना चाहिये, अन्यथा नहीं'॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

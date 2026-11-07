@@ -1,0 +1,237 @@
+{
+  "id": "baala-010-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 16
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-16"
+    ],
+    "vulgate_in_locators": [
+      "1.10.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009016a",
+        "1009016c"
+      ],
+      "lines": [
+        "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+        "तदाश्रमपदं द्रष्टुं जग्मुः सर्वाश्च तेन ह"
+      ],
+      "punctuated_derived": "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै ।\nतदाश्रमपदं द्रष्टुं जग्मुः सर्वाश्च तेन ह ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+        "तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः"
+      ],
+      "locators": [
+        "1-10-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+        "तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः"
+      ],
+      "locators": [
+        "1.10.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+        "तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+      "net": "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+      "in": "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+      "gp": "ऋषिपुत्रवचः श्रुत्वा सर्वासां मतिरास वै",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "तदाश्रमपदं द्रष्टुं जग्मुः सर्वाश्च तेन ह",
+      "net": "तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः",
+      "in": "तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः",
+      "gp": "तदाश्रमपदं द्रष्टुं जग्मुः सर्वास्ततोऽङ्गनाः",
+      "similarity": {
+        "sim_smith_net": 0.8533333333333334,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सर्वाश्च तेन ह",
+            "b": "सर्वास्ततोऽङ्गनाः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On hearing the words of sage's son, all those courtesans are verily inclined to see the threshold of that hermitage, then all the women went to hermitage. [1-10-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "R^iShiputravachaH shrutvaa",
+            "devanagari_machine_converted": "ऋषिपुत्रवचः श्रुत्वा",
+            "english": "Sage's son's words, on hearing"
+          },
+          {
+            "roman_itrans": "sarvaasaam",
+            "devanagari_machine_converted": "सर्वासाम्",
+            "english": "to all of them [courtesans]"
+          },
+          {
+            "roman_itrans": "tat aashramapadam draSTum",
+            "devanagari_machine_converted": "तत् आश्रमपदम् द्रष्टुम्",
+            "english": "to see that hermitage's threshold"
+          },
+          {
+            "roman_itrans": "matiH aasa vai",
+            "devanagari_machine_converted": "मतिः आस वै",
+            "english": "inclination, having got, verily"
+          },
+          {
+            "roman_itrans": "tataH sarvaaH anganaaH jagmuH",
+            "devanagari_machine_converted": "ततः सर्वाः अन्गनाः जग्मुः",
+            "english": "thereby, all, women went."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ऋषिकुमारकी यह बात सुनकर सब उनसे सहमत हो गयीं। फिर वे सब सुन्दरी स्त्रियाँ उनका आश्रम देखनेके लिये वहाँ गयीं।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋषिपुत्रवचः",
+            "hindi": "ऋषि पुत्र का वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वासाम्",
+            "hindi": "सब की (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "मतिः",
+            "hindi": "मत / सहमति (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "आस",
+            "hindi": "हुई (अस् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वै",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आश्रमपदम्",
+            "hindi": "आश्रम को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "द्रष्टुम्",
+            "hindi": "देखने के लिए (दृश् धातु, तुमुन् प्रत्ययान्त अव्यय)"
+          },
+          {
+            "sanskrit": "जग्मुः",
+            "hindi": "गईं (गम् धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सर्वाः",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "अङ्गनाः",
+            "hindi": "अंगनाएँ / स्त्रियाँ (प्रथमा विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.16",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'“ऋषिकुमारकी यह बात सुनकर सब उनसे सहमत हो गयीं। फिर वे सब सुन्दरी स्त्रियाँ उनका आश्रम देखनेके लिये वहाँ गयीं॥ १६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

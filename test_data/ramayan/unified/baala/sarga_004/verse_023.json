@@ -1,0 +1,882 @@
+{
+  "id": "baala-004-023",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 23,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-21, 1-4-22, 1-4-23, 1-4-24, 1-4-25"
+    ],
+    "vulgate_in_locators": [
+      "1.4.20",
+      "1.4.22",
+      "1.4.23",
+      "1.4.24",
+      "1.4.25"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.21",
+      "1.4.22",
+      "1.4.23",
+      "1.4.24",
+      "1.4.25"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अन्यः कृष्णाजिनमदाद्यज्ञसूत्रं तथापरः",
+        "कश्चित्कमण्डलुं प्रादान्मौञ्जीमन्यो महामुनिः",
+        "बृसीमन्यस्तदा प्रादात्कौपीनमपरो मुनिः",
+        "ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः",
+        "काषायमपरो वस्त्रं चिरमन्यो ददौ मुनिः",
+        "जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः",
+        "यज्ञभाण्डमृषिः कश्चित् काष्ठभारं तथापरः",
+        "औदुम्बरीं बृसीमन्यः स्वस्ति केचित्तदावदन्",
+        "आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः",
+        "ददुश्चैवं वरान्सर्वे मुनयः सत्यवादिनः"
+      ],
+      "locators": [
+        "1-4-21, 1-4-22, 1-4-23, 1-4-24, 1-4-25"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अन्यः कृष्णाजिनमदाद् यज्ञसूत्रं तथापरः",
+        "कश्चित् कमण्डलुं प्रादान्मौजीमन्यो महामुनिः",
+        "बृसीमन्यस्तदा प्रादात् कौपीनमपरो मुनिः",
+        "ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः",
+        "काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः",
+        "जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः",
+        "यज्ञभाण्डमृषिः कश्चित् काष्ठभारं तथापरः",
+        "औदुम्बरी बृसीमन्यः स्वस्ति केचित् तदावदन्",
+        "आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः॥ ददुश्चैवं वरान् सर्वे मुनयः सत्यवादिनः"
+      ],
+      "locators": [
+        "1.4.20",
+        "1.4.22",
+        "1.4.23",
+        "1.4.24",
+        "1.4.25"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अन्यः कृष्णाजिनमदाद्‌ यज्ञसूत्रं तथापरः",
+        "कश्चित्‌ कमण्डलुं प्रादान्मौञ्जीमन्यो महामुनिः",
+        "बुसीमन्यस्तदा प्रादात्‌ कौपीनमपरो मुनिः",
+        "ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः",
+        "'काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः",
+        "जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः",
+        "यज्ञभाण्डमृषिः कश्चित्‌ काष्ठभारं तथापरः",
+        "औदुम्बरीं बृसीमन्यः स्वस्ति केचित्‌ तदावदन्‌",
+        "आयुष्यमपरे प््रहुर्मुदा तत्र महर्षयः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_20-21",
+        "hindi_marker_range_22-23",
+        "hindi_marker_range_24-253",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.4.21",
+        "1.4.22",
+        "1.4.23",
+        "1.4.24",
+        "1.4.25"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "अन्यः कृष्णाजिनमदाद्यज्ञसूत्रं तथापरः",
+      "in": "अन्यः कृष्णाजिनमदाद् यज्ञसूत्रं तथापरः",
+      "gp": "अन्यः कृष्णाजिनमदाद्‌ यज्ञसूत्रं तथापरः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कृष्णाजिनमदाद्यज्ञसूत्रं",
+            "b": "कृष्णाजिनमदाद् यज्ञसूत्रं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कृष्णाजिनमदाद्यज्ञसूत्रं",
+            "b": "कृष्णाजिनमदाद्‌ यज्ञसूत्रं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "कश्चित्कमण्डलुं प्रादान्मौञ्जीमन्यो महामुनिः",
+      "in": "कश्चित् कमण्डलुं प्रादान्मौजीमन्यो महामुनिः",
+      "gp": "कश्चित्‌ कमण्डलुं प्रादान्मौञ्जीमन्यो महामुनिः",
+      "similarity": {
+        "sim_in_net": 0.9866666666666667,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कश्चित्कमण्डलुं प्रादान्मौञ्जीमन्यो",
+            "b": "कश्चित् कमण्डलुं प्रादान्मौजीमन्यो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कश्चित्कमण्डलुं",
+            "b": "कश्चित्‌ कमण्डलुं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "बृसीमन्यस्तदा प्रादात्कौपीनमपरो मुनिः",
+      "in": "बृसीमन्यस्तदा प्रादात् कौपीनमपरो मुनिः",
+      "gp": "बुसीमन्यस्तदा प्रादात्‌ कौपीनमपरो मुनिः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "प्रादात्कौपीनमपरो",
+            "b": "प्रादात् कौपीनमपरो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "बृसीमन्यस्तदा प्रादात्कौपीनमपरो",
+            "b": "बुसीमन्यस्तदा प्रादात्‌ कौपीनमपरो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः",
+      "in": "ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः",
+      "gp": "ताभ्यां ददौ तदा हृष्टः कुठारमपरो मुनिः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "काषायमपरो वस्त्रं चिरमन्यो ददौ मुनिः",
+      "in": "काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः",
+      "gp": "'काषायमपरो वस्त्रं चीरमन्यो ददौ मुनिः",
+      "similarity": {
+        "sim_in_net": 0.967741935483871,
+        "sim_gp_net": 0.967741935483871
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चिरमन्यो",
+            "b": "चीरमन्यो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "काषायमपरो",
+            "b": "'काषायमपरो"
+          },
+          {
+            "a": "चिरमन्यो",
+            "b": "चीरमन्यो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः",
+      "in": "जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः",
+      "gp": "जटाबन्धनमन्यस्तु काष्ठरज्जुं मुदान्वितः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "यज्ञभाण्डमृषिः कश्चित् काष्ठभारं तथापरः",
+      "in": "यज्ञभाण्डमृषिः कश्चित् काष्ठभारं तथापरः",
+      "gp": "यज्ञभाण्डमृषिः कश्चित्‌ काष्ठभारं तथापरः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "कश्चित्",
+            "b": "कश्चित्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "औदुम्बरीं बृसीमन्यः स्वस्ति केचित्तदावदन्",
+      "in": "औदुम्बरी बृसीमन्यः स्वस्ति केचित् तदावदन्",
+      "gp": "औदुम्बरीं बृसीमन्यः स्वस्ति केचित्‌ तदावदन्‌",
+      "similarity": {
+        "sim_in_net": 0.9859154929577465,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "औदुम्बरीं",
+            "b": "औदुम्बरी"
+          },
+          {
+            "a": "केचित्तदावदन्",
+            "b": "केचित् तदावदन्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "केचित्तदावदन्",
+            "b": "केचित्‌ तदावदन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः",
+      "in": null,
+      "gp": "आयुष्यमपरे प््रहुर्मुदा तत्र महर्षयः",
+      "similarity": {
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्राहुर्मुदा",
+            "b": "प््रहुर्मुदा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "ददुश्चैवं वरान्सर्वे मुनयः सत्यवादिनः",
+      "in": "आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः॥ ददुश्चैवं वरान् सर्वे मुनयः सत्यवादिनः",
+      "gp": null,
+      "similarity": {
+        "sim_in_net": 0.6666666666666666
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "आयुष्यमपरे प्राहुर्मुदा तत्र महर्षयः॥"
+          },
+          {
+            "a": "वरान्सर्वे",
+            "b": "वरान् सर्वे"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-21, 1-4-22, 1-4-23, 1-4-24, 1-4-25",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "And another sage bestowed a black-deerskin, and like that yet another a sacred thread... someone gave a water-pot and another great saint a girdle of maunja grass to singers, while that way another contributed an under cloth; another sage gladly contributed a hatchet to them, another a saffron clothe, and yet another saint bestowed a cloth-wrapper; another delivered tuft-headband also, and another enchanted for their singing ballad handed out a sacrificial vessel, and another a bundle of firewood sticks, and yet another gave a plank-seat of audambari wood, and other called forth blessings, and someone then happily chanted bless-hymns for longevity... there by all the truth-avowing saints, those that are great sages have thus bestowed boons. [1-4-21-26]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-21, 1-4-22, 1-4-23, 1-4-24, 1-4-25",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anyaH kR^iSNaajinam adaat",
+            "devanagari_machine_converted": "अन्यः कृष्णाजिनम् अदात्",
+            "english": "another sage bestowed black-deerskin"
+          },
+          {
+            "roman_itrans": "tathaa aparaH yaj~nasuutram",
+            "devanagari_machine_converted": "तथा अपरः यज्ञसूत्रम्",
+            "english": "like that, another sacred thread"
+          },
+          {
+            "roman_itrans": "kashchit kamaNDalum praadaat",
+            "devanagari_machine_converted": "कश्चित् कमण्डलुम् प्रादात्",
+            "english": "someone bestowed water-pot"
+          },
+          {
+            "roman_itrans": "anyaH mahaamuniH mau~njiim",
+            "devanagari_machine_converted": "अन्यः महामुनिः मौञ्जीम्",
+            "english": "another, great saint, girdle of maunja grass"
+          },
+          {
+            "roman_itrans": "brusiim anyaH tadaa praadaat kaupiinam",
+            "devanagari_machine_converted": "ब्रुसीम् अन्यः तदा प्रादात् कौपीनम्",
+            "english": "to tellers [to singes,] another, then, contributed, an under cloth"
+          },
+          {
+            "roman_itrans": "aparaH hR^iSTaH muniH taabhyaam dadau tadaa kuThaaram",
+            "devanagari_machine_converted": "अपरः हृष्टः मुनिः ताभ्याम् ददौ तदा कुठारम्",
+            "english": "another,gladdened saint contributed them a hatchet"
+          },
+          {
+            "roman_itrans": "aparaH muniH kaaSaayam vastram",
+            "devanagari_machine_converted": "अपरः मुनिः काषायम् वस्त्रम्",
+            "english": "another, sage, saffron, cloth"
+          },
+          {
+            "roman_itrans": "chiiram anyaH muniH dadau",
+            "devanagari_machine_converted": "चीरम् अन्यः मुनिः ददौ",
+            "english": "cloth-wrapper, another, saint, bestowed"
+          },
+          {
+            "roman_itrans": "anyaH tu jaTaabandhanam",
+            "devanagari_machine_converted": "अन्यः तु जटाबन्धनम्",
+            "english": "another, also, tuft-headband"
+          },
+          {
+            "roman_itrans": "aparaH mudaanvitaH kaaSTharajjum",
+            "devanagari_machine_converted": "अपरः मुदान्वितः काष्ठरज्जुम्",
+            "english": "another one, with enchantment wood-sticks, band"
+          },
+          {
+            "roman_itrans": "kashcit R^iSiH yaj~nabhaaNDam",
+            "devanagari_machine_converted": "कश्चित् ऋषिः यज्ञभाण्डम्",
+            "english": "someone, a sage, sacrificial vessel"
+          },
+          {
+            "roman_itrans": "kaaSThabhaaram tathaa aparaH",
+            "devanagari_machine_converted": "काष्ठभारम् तथा अपरः",
+            "english": "firewood sticks, then, another"
+          },
+          {
+            "roman_itrans": "audumbariim",
+            "devanagari_machine_converted": "औदुम्बरीम्",
+            "english": "plank of audumbarii tree wood"
+          },
+          {
+            "roman_itrans": "brusiim anyaH svasti",
+            "devanagari_machine_converted": "ब्रुसीम् अन्यः स्वस्ति",
+            "english": "other called forth blessings"
+          },
+          {
+            "roman_itrans": "kechit tadaa avadan",
+            "devanagari_machine_converted": "केचित् तदा अवदन्",
+            "english": "someone, then, chanted"
+          },
+          {
+            "roman_itrans": "aayuSyam apare praahuH",
+            "devanagari_machine_converted": "आयुष्यम् अपरे प्राहुः",
+            "english": "longevity, then, chanted"
+          },
+          {
+            "roman_itrans": "mudaa tatra maharSayaH",
+            "devanagari_machine_converted": "मुदा तत्र महर्षयः",
+            "english": "happily, there, great sages"
+          },
+          {
+            "roman_itrans": "daduH cha evam varaan",
+            "devanagari_machine_converted": "ददुः च एवम् वरान्",
+            "english": "bestowed, also, thus, boons"
+          },
+          {
+            "roman_itrans": "sarve munayaH satyavaadinaH",
+            "devanagari_machine_converted": "सर्वे मुनयः सत्यवादिनः",
+            "english": "by all, saints, truth-avowed one."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.20",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके गान से संतुष्ट हुए किसी मुनि ने उठकर उन्हें पुरस्कार के रूप में एक कलश प्रदान किया। किसी दूसरे महायशस्वी महर्षि ने प्रसन्न होकर उन दोनों को वल्कल वस्त्र दिया। किसीने काला मृगचर्म भेंट किया तो किसीने यज्ञोपवीत।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "एकने कमण्डलु दिया तो दूसरे महामुनिने मुञ्जकी मेखला भेंट की। तीसरेने आसन और चौथेने कौपीन प्रदान किया।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "किसी अन्य मुनिने हर्षमें भरकर उन दोनों बालकोंके लिये कुठार अर्पित किया। किसीने गेरुआ वस्त्र दिया तो किसी मुनिने चीर भेंट किया।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "किसी दूसरेने आनन्दमग्न होकर जटा बाँधनेके लिये रस्सी दी तो किसीने समिधा बाँधकर लाने के लिये डोरी प्रदान की। एक ऋषिने यज्ञपात्र दिया तो दूसरेने काष्ठभार समर्पित किया।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "किसीने गूलरकी लकड़ीका बना हुआ पीढ़ा अर्पित किया। कुछ लोग उस समय आशीर्वाद देने लगे–’बच्चो! तुम दोनोंका कल्याण हो।’ दूसरे महर्षि प्रसन्नतापूर्वक बोल उठे—’तुम्हारी आयु बढ़े।’ इस प्रकार सभी सत्यवादी मुनियोंने उन दोनोंको नाना प्रकारके वर दिये।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.20",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रीतः",
+            "hindi": "प्रसन्न"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई एक"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि"
+          },
+          {
+            "sanskrit": "ताभ्याम्",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "संस्थितः",
+            "hindi": "उठकर / स्थित होकर"
+          },
+          {
+            "sanskrit": "कलशम्",
+            "hindi": "कलश"
+          },
+          {
+            "sanskrit": "ददौ",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "प्रसन्नः",
+            "hindi": "प्रसन्न"
+          },
+          {
+            "sanskrit": "वल्कलम्",
+            "hindi": "वल्कल वस्त्र"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "कोई एक"
+          },
+          {
+            "sanskrit": "ददौ",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "ताभ्याम्",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "महायशाः",
+            "hindi": "महायशस्वी"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "कृष्णाजिनम्",
+            "hindi": "काला मृगचर्म"
+          },
+          {
+            "sanskrit": "अदात्",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "यज्ञसूत्रम्",
+            "hindi": "यज्ञोपवीत"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरे ने"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "किसी एक ने"
+          },
+          {
+            "sanskrit": "कमण्डलुम्",
+            "hindi": "कमण्डलु"
+          },
+          {
+            "sanskrit": "प्रादात्",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "मौजीम्",
+            "hindi": "मुञ्ज की मेखला"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "महामुनिः",
+            "hindi": "महामुनि ने"
+          },
+          {
+            "sanskrit": "बृसीम्",
+            "hindi": "आसन / पीढ़ा"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब"
+          },
+          {
+            "sanskrit": "प्रादात्",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "कौपीनम्",
+            "hindi": "कौपीन"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.23",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ताभ्याम्",
+            "hindi": "उन दोनों को"
+          },
+          {
+            "sanskrit": "ददौ",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब"
+          },
+          {
+            "sanskrit": "हृष्टः",
+            "hindi": "प्रसन्न होकर"
+          },
+          {
+            "sanskrit": "कुठारम्",
+            "hindi": "कुठार"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने"
+          },
+          {
+            "sanskrit": "काषायम्",
+            "hindi": "गेरुआ वस्त्र"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "वस्त्रम्",
+            "hindi": "वस्त्र"
+          },
+          {
+            "sanskrit": "चीरम्",
+            "hindi": "चीर वस्त्र"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "ददौ",
+            "hindi": "दिया"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.24",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "जटाबन्धनम्",
+            "hindi": "जटा बांधने की रस्सी"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "काष्ठरज्जुम्",
+            "hindi": "काष्ठ / समिधा बांधने की रस्सी"
+          },
+          {
+            "sanskrit": "मुदान्वितः",
+            "hindi": "आनन्दित होकर"
+          },
+          {
+            "sanskrit": "यज्ञभाण्डम्",
+            "hindi": "यज्ञ पात्र"
+          },
+          {
+            "sanskrit": "ऋषिः",
+            "hindi": "ऋषि ने"
+          },
+          {
+            "sanskrit": "कश्चित्",
+            "hindi": "किसी एक ने"
+          },
+          {
+            "sanskrit": "काष्ठभारम्",
+            "hindi": "काष्ठ / लकड़ी का भार"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा"
+          },
+          {
+            "sanskrit": "अपरः",
+            "hindi": "दूसरे ने"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "औदुम्बरी",
+            "hindi": "गूलर की लकड़ी की"
+          },
+          {
+            "sanskrit": "बृसीम्",
+            "hindi": "आसन / पीढ़ा"
+          },
+          {
+            "sanskrit": "अन्यः",
+            "hindi": "दूसरे ने"
+          },
+          {
+            "sanskrit": "स्वस्ति",
+            "hindi": "कल्याण हो"
+          },
+          {
+            "sanskrit": "केचित्",
+            "hindi": "कुछ लोगों ने"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब"
+          },
+          {
+            "sanskrit": "आवदन्",
+            "hindi": "कहा / आशीर्वाद दिया"
+          },
+          {
+            "sanskrit": "आयुष्यम्",
+            "hindi": "आयु बढ़े"
+          },
+          {
+            "sanskrit": "अपरे",
+            "hindi": "दूसरे लोगों ने"
+          },
+          {
+            "sanskrit": "प्राहुः",
+            "hindi": "कहा"
+          },
+          {
+            "sanskrit": "मुदा",
+            "hindi": "प्रसन्नता से"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ"
+          },
+          {
+            "sanskrit": "महर्षयः",
+            "hindi": "महर्षियों ने"
+          },
+          {
+            "sanskrit": "ददुः",
+            "hindi": "दिए"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एवम्",
+            "hindi": "इस प्रकार"
+          },
+          {
+            "sanskrit": "वरान्",
+            "hindi": "वर"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी"
+          },
+          {
+            "sanskrit": "मुनयः",
+            "hindi": "मुनियों ने"
+          },
+          {
+            "sanskrit": "सत्यवादिनः",
+            "hindi": "सत्यवादी"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.21",
+        "ocr_flags": [
+          "hindi_marker_range_20-21"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "उनके गानसे संतुष्ट हुए किसी मुनिने उठकर उन्हें पुरस्कारके रूपमें एक कलश प्रदान किया। किसी दूसरे महायशस्वी महर्षिने प्रसन्न होकर उन दोनोंको वल्कल वस्त्र दिया। किसीने काला मृगचर्म भेंट किया तो किसीने यज्ञोपवीत ॥ २०-२१॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.22",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "एकने कमण्डलु दिया तो दूसरे महामुनिने मुञ्जकी मेखला भेंट की। तीसरेने आसन और चौथेने कौपीन प्रदान किया। किसी अन्य मुनिने हर्षमें भरकर उन दोनों बालकोंके लिये कुठार अर्पित किया। किसीने गेरुआ वस्त्र दिया तो किसी मुनिने चीर भेंट किया॥ २२-२३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.23",
+        "ocr_flags": [
+          "hindi_marker_range_22-23"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "एकने कमण्डलु दिया तो दूसरे महामुनिने मुञ्जकी मेखला भेंट की। तीसरेने आसन और चौथेने कौपीन प्रदान किया। किसी अन्य मुनिने हर्षमें भरकर उन दोनों बालकोंके लिये कुठार अर्पित किया। किसीने गेरुआ वस्त्र दिया तो किसी मुनिने चीर भेंट किया॥ २२-२३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.24",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "ददुश्चैवं वरान्‌ सर्वे मुनयः सत्यवादिनः। किसी दूसरेने आनन्दमग्न होकर जटा बाँधनेके लिये रस्सी दी तो किसीने समिधा बाँधकर लानेके लिये डोरी प्रदान की। एक ऋषिने यज्ञपात्र दिया तो दूसरेने काष्ठभार समर्पित किया। किसीने गूलरको लकड़ीका बना हुआ पीढ़ा अर्पित किंया। कुछ लोग उस समय आशीर्वाद देने लगे-“बच्चो! तुम दोनोंका कल्याण हो।' दूसरे महर्षि प्रसन्नतापूर्वक बोल उठे-- तुम्हारी आयु बढ़े।' इस प्रकार सभी सत्यवादी मुनियोंने उन दोनोंको नाना प्रकारके वर दिये॥ २४-२५३॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.25",
+        "ocr_flags": [
+          "hindi_marker_range_24-253"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "ददुश्चैवं वरान्‌ सर्वे मुनयः सत्यवादिनः। किसी दूसरेने आनन्दमग्न होकर जटा बाँधनेके लिये रस्सी दी तो किसीने समिधा बाँधकर लानेके लिये डोरी प्रदान की। एक ऋषिने यज्ञपात्र दिया तो दूसरेने काष्ठभार समर्पित किया। किसीने गूलरको लकड़ीका बना हुआ पीढ़ा अर्पित किंया। कुछ लोग उस समय आशीर्वाद देने लगे-“बच्चो! तुम दोनोंका कल्याण हो।' दूसरे महर्षि प्रसन्नतापूर्वक बोल उठे-- तुम्हारी आयु बढ़े।' इस प्रकार सभी सत्यवादी मुनियोंने उन दोनोंको नाना प्रकारके वर दिये॥ २४-२५३॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "low_confidence_alignment",
+    "net_in_line_mismatch",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,262 @@
+{
+  "id": "baala-001-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 11
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-11"
+    ],
+    "vulgate_in_locators": [
+      "1.1.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001011a",
+        "1001011c"
+      ],
+      "lines": [
+        "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्",
+        "पीनवक्षा विशालाक्षो लक्ष्मीवाञ्शुभलक्षणः"
+      ],
+      "punctuated_derived": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् ।\nपीनवक्षा विशालाक्षो लक्ष्मीवाञ्शुभलक्षणः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्",
+        "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः"
+      ],
+      "locators": [
+        "1-1-11"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "समः समविभक्तांगः स्निग्धवर्णः प्रतापवान्",
+        "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः"
+      ],
+      "locators": [
+        "1.1.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "समः समविभक्तांगः स्निग्धवर्णः प्रतापवान्‌",
+        "पीनवक्षा विशालाक्षो लक्ष्मीवान्‌ शुभलक्षणः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्",
+      "net": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्",
+      "in": "समः समविभक्तांगः स्निग्धवर्णः प्रतापवान्",
+      "gp": "समः समविभक्तांगः स्निग्धवर्णः प्रतापवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "समविभक्ताङ्गः",
+            "b": "समविभक्तांगः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "समविभक्ताङ्गः",
+            "b": "समविभक्तांगः"
+          },
+          {
+            "a": "प्रतापवान्",
+            "b": "प्रतापवान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पीनवक्षा विशालाक्षो लक्ष्मीवाञ्शुभलक्षणः",
+      "net": "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः",
+      "in": "पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः",
+      "gp": "पीनवक्षा विशालाक्षो लक्ष्मीवान्‌ शुभलक्षणः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "लक्ष्मीवाञ्शुभलक्षणः",
+            "b": "लक्ष्मीवान् शुभलक्षणः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "लक्ष्मीवान्",
+            "b": "लक्ष्मीवान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-11",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He is built proportionately physically, with limbs poised symmetrically, sinew-chested, wide-eyed, complexioned charmingly... he is a prosperous one with all the auspicious features ... [1-1-11]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-11",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "samaH",
+            "devanagari_machine_converted": "समः",
+            "english": "Built in right proportion (physically)"
+          },
+          {
+            "roman_itrans": "samavibhaktaaN^gaH",
+            "devanagari_machine_converted": "समविभक्ताङ्गः",
+            "english": "with symmetrically divided limbs"
+          },
+          {
+            "roman_itrans": "snigdhavarNaH",
+            "devanagari_machine_converted": "स्निग्धवर्णः",
+            "english": "charmingly coloured [complexioned]"
+          },
+          {
+            "roman_itrans": "prataapavaan",
+            "devanagari_machine_converted": "प्रतापवान्",
+            "english": "courageous one [or, resplendent one]"
+          },
+          {
+            "roman_itrans": "piinavakShaaH",
+            "devanagari_machine_converted": "पीनवक्षाः",
+            "english": "sinew chested"
+          },
+          {
+            "roman_itrans": "vishaalaakShaH",
+            "devanagari_machine_converted": "विशालाक्षः",
+            "english": "wide eyed"
+          },
+          {
+            "roman_itrans": "lakShmiivaan",
+            "devanagari_machine_converted": "लक्ष्मीवान्",
+            "english": "prosperous one"
+          },
+          {
+            "roman_itrans": "shubhalakShaNaH",
+            "devanagari_machine_converted": "शुभलक्षणः",
+            "english": "with auspicious features."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-11",
+        "spans_beyond_this_verse": false,
+        "text": "Up to here the godly physical aspect bhagavadvigraha is explained that which is perceptible by the adherents as said in Chāndogya Upanishad: ya eSo antaraaditye hiraNmayaH puruSo dR^ishyate... 1-6-6. From now on, the features that are reliable for the adherers are said."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'उनका शरीर अधिक ऊँचा या नाटा न होकर मध्यम और सुडौल है, देहका रंग चिकना है। वे बड़े प्रतापी हैं। उनका वक्षःस्थल भरा हुआ है, आँखें बड़ी-बड़ी हैं। वे शोभायमान और शुभलक्षणोंसे सम्पन्न हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "समः",
+            "hindi": "समान अवयवों वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समविभक्ताङ्गः",
+            "hindi": "सुडौल अंगों वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्निग्धवर्णः",
+            "hindi": "चिकने/स्निग्ध रंग वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतापवान्",
+            "hindi": "तेजस्वी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पीनवक्षाः",
+            "hindi": "मोटी/भरी हुई छाती वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विशालाक्षः",
+            "hindi": "विशाल नेत्रों वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लक्ष्मीवान्",
+            "hindi": "शोभायुक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शुभलक्षणः",
+            "hindi": "शुभ चिन्हों वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“उनका शरीर [अधिक ऊँचा या नाटा न होकर] मध्यम और सुडौल है, देहका रंग चिकना है। वे बड़े प्रतापी हैं। उनका वक्षःस्थल भरा हुआ है, आँखें बड़ी-बड़ी हैं। वे शोभायमान और शुभलक्षणोंसे सम्पन्न हैं॥ ११॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

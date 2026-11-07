@@ -1,0 +1,262 @@
+{
+  "id": "baala-001-012",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 12,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 12
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-12"
+    ],
+    "vulgate_in_locators": [
+      "1.1.12"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.12"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001012a",
+        "1001012c"
+      ],
+      "lines": [
+        "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः",
+        "यशस्वी ज्ञानसंपन्नः शुचिर्वश्यः समाधिमान्"
+      ],
+      "punctuated_derived": "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः ।\nयशस्वी ज्ञानसंपन्नः शुचिर्वश्यः समाधिमान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः",
+        "यशस्वी ज्ञानसंपन्नः शुचिर्वश्यः समाधिमान्"
+      ],
+      "locators": [
+        "1-1-12"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः",
+        "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्"
+      ],
+      "locators": [
+        "1.1.12"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः",
+        "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.12"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः",
+      "net": "धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः",
+      "in": "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः",
+      "gp": "धर्मज्ञः सत्यसंधश्च प्रजानां च हिते रतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सत्यसंधश्च",
+            "b": "सत्यसन्धश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "सत्यसन्धश्च",
+            "b": "सत्यसंधश्च"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सत्यसन्धश्च",
+            "b": "सत्यसंधश्च"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "यशस्वी ज्ञानसंपन्नः शुचिर्वश्यः समाधिमान्",
+      "net": "यशस्वी ज्ञानसंपन्नः शुचिर्वश्यः समाधिमान्",
+      "in": "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्",
+      "gp": "यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "ज्ञानसंपन्नः",
+            "b": "ज्ञानसम्पन्नः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ज्ञानसंपन्नः",
+            "b": "ज्ञानसम्पन्नः"
+          },
+          {
+            "a": "समाधिमान्",
+            "b": "समाधिमान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-12",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He is the knower of rectitude, bidden by the truth, also his concern is in the welfare of subjects, proficient in prudence, clean in his conduct, self-controlled and an attentive one... [1-1-12]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-12",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dharmaj~naH",
+            "devanagari_machine_converted": "धर्मज्ञः",
+            "english": "rectitude knower; satyasandhaH ca = truth-bidden also; prajaanaam ca hite rataH = also concerned in welfare of subjects"
+          },
+          {
+            "roman_itrans": "yashasvii",
+            "devanagari_machine_converted": "यशस्वी",
+            "english": "famed one"
+          },
+          {
+            "roman_itrans": "j~naanasaMpannaH",
+            "devanagari_machine_converted": "ज्ञानसंपन्नः",
+            "english": "with proficient prudence"
+          },
+          {
+            "roman_itrans": "shuchiH",
+            "devanagari_machine_converted": "शुचिः",
+            "english": "clean [in conduct]"
+          },
+          {
+            "roman_itrans": "vashyaH",
+            "devanagari_machine_converted": "वश्यः",
+            "english": "self-controlled; samaadhimaan = attentive one."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'धर्मके ज्ञाता, सत्यप्रतिज्ञ तथा प्रजाके हित-साधनमें लगे रहनेवाले हैं। वे यशस्वी, ज्ञानी, पवित्र, जितेन्द्रिय और मनको एकाग्र रखनेवाले हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.12",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "धर्मज्ञः",
+            "hindi": "धर्म का ज्ञाता (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यसंधः",
+            "hindi": "सत्य पर दृढ़ रहने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "प्रजानाम्",
+            "hindi": "प्रजा के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "हिते",
+            "hindi": "हित में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रतः",
+            "hindi": "लगा हुआ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यशस्वी",
+            "hindi": "कीर्तिमान (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्ञानसम्पन्नः",
+            "hindi": "ज्ञान से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शुचिः",
+            "hindi": "पवित्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वश्यः",
+            "hindi": "वश में करने योग्य / जितेन्द्रिय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समाधिमान्",
+            "hindi": "समाधि/एकाग्रता युक्त (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.12",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "'धर्मके ज्ञाता, सत्यप्रतिज्ञ तथा प्रजाके हित- साधनमें लगे रहनेवाले हैं। वे यशस्वी, ज्ञानी, पवित्र, जितेन्द्रिय और मनको एकाग्र रखनेवाले हैं॥ १२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,311 @@
+{
+  "id": "baala-009-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 7
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-3, 1-9-4"
+    ],
+    "vulgate_in_locators": [
+      "1.9.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.3",
+      "1.9.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008007a",
+        "1008007c"
+      ],
+      "lines": [
+        "काश्यपस्य तु पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+        "ऋश्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति"
+      ],
+      "punctuated_derived": "काश्यपस्य तु पुत्रोऽस्ति विभाण्डक इति श्रुतः ।\nऋश्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "काश्यपस्य च पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+        "ऋष्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति"
+      ],
+      "locators": [
+        "1-9-3, 1-9-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "काश्यपस्य च पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+        "ऋष्यशृंग इति ख्यातस्तस्य पुत्रो भविष्यति"
+      ],
+      "locators": [
+        "1.9.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "काश्यपस्य च पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+        "ऋष्यशृंग इति ख्यातस्तस्य पुत्रो भविष्यति"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_3-4",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.9.3",
+        "1.9.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "काश्यपस्य तु पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+      "net": "काश्यपस्य च पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+      "in": "काश्यपस्य च पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+      "gp": "काश्यपस्य च पुत्रोऽस्ति विभाण्डक इति श्रुतः",
+      "similarity": {
+        "sim_smith_net": 0.958904109589041,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तु",
+            "b": "च"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ऋश्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति",
+      "net": "ऋष्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति",
+      "in": "ऋष्यशृंग इति ख्यातस्तस्य पुत्रो भविष्यति",
+      "gp": "ऋष्यशृंग इति ख्यातस्तस्य पुत्रो भविष्यति",
+      "similarity": {
+        "sim_smith_net": 0.9722222222222222,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ऋश्यशृङ्ग",
+            "b": "ऋष्यशृङ्ग"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ऋष्यशृङ्ग",
+            "b": "ऋष्यशृंग"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ऋष्यशृङ्ग",
+            "b": "ऋष्यशृंग"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-3, 1-9-4",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He said that \"Sage Kashyapa has a son known as Vibhaandaka, and his son will be the renowned Sage Rishyasringa, and that Sage Rishyasringa will grow up in forests, and will always be dwelling in forest... [1-9-3b, 4]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-3, 1-9-4",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "3b, 4. kaashyapasya ca putraH asti",
+            "devanagari_machine_converted": "३ब्, ४। काश्यपस्य च पुत्रः अस्ति",
+            "english": "Sage Kashyapa has a son"
+          },
+          {
+            "roman_itrans": "vibhaaNDakaH iti shrutaH",
+            "devanagari_machine_converted": "विभाण्डकः इति श्रुतः",
+            "english": "thus known as Vibhaandaka"
+          },
+          {
+            "roman_itrans": "tasya putraH",
+            "devanagari_machine_converted": "तस्य पुत्रः",
+            "english": "his son [Vibhandaka's son,] will be"
+          },
+          {
+            "roman_itrans": "RishyasringaH iti khyaataH bhaviShyati",
+            "devanagari_machine_converted": "ऱिश्यस्रिन्गः इति ख्यातः भविष्यति",
+            "english": "thus will be renowned as Rishyasringa"
+          },
+          {
+            "roman_itrans": "saH muniH vane nityasamvR^iddhaH",
+            "devanagari_machine_converted": "सः मुनिः वने नित्यसम्वृद्धः",
+            "english": "he, that saint [Rishyasringa,] always grown up in forest"
+          },
+          {
+            "roman_itrans": "vanacharaH sadaa",
+            "devanagari_machine_converted": "वनचरः सदा",
+            "english": "[that sage] Rishyasringa always forestdweller."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-3, 1-9-4",
+        "spans_beyond_this_verse": true,
+        "text": "Here the word used by Sumantra is tava putraagamam , it renders as 'the arrival of your sons', meaning that sons of King Dasharatha arrive from Heavens, but not through an ordinary parturition. Even earlier in time to that of Dasharatha, Sage Sanatkumara predicted the 'arrival' of Vishnu as Rama. The birth-event associated with Rishyasringa's name is that he is born with a horn on the crown of his head. Thus he is named as Rishyasringa, i.e., em> R^iSi the Sage; shR^i~Nga horn; a Sage with a horn on his forehead at his birth time. This being the mythological import, he is an acme among sages, as shR^i~Nga also means a peak."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.3",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘उन्होंने कहा था, मुनिवरो! महर्षि काश्यप के विभाण्डक नाम से प्रसिद्ध एक पुत्र हैं। उनके भी एक पुत्र होगा, जिसकी लोगों में ऋष्यशृंग नाम से प्रसिद्धि होगी। वे ऋष्यशृंग मुनि सदा वन में ही रहेंगे और वन में ही सदा लालन-पालन पाकर वे बड़े होंगे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.3",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "काश्यपस्य",
+            "hindi": "काश्यप मुनि के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "पुत्रः",
+            "hindi": "पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्ति",
+            "hindi": "हैं (अस् धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विभाण्डकः",
+            "hindi": "विभाण्डक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "श्रुतः",
+            "hindi": "प्रसिद्ध हैं (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "ऋष्यशृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "ख्यातः",
+            "hindi": "प्रसिद्ध होंगे (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (विभाण्डक के) (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रः",
+            "hindi": "पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "होगा (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यसंवृद्धः",
+            "hindi": "सदा वन में ही पला-बढ़ा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वनचरः",
+            "hindi": "वन में विचरने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सदा",
+            "hindi": "सदा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.3",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“उन्होंने कहा था, मुनिवरो! महर्षि काश्यपके विभाण्डक नामसे प्रसिद्ध एक पुत्र हैं। उनके भी एक पुत्र होगा, जिसकी लोगोंमें ऋष्यश्ंग नामसे प्रसिद्धि होगी। वे ऋष्यशृंग मुनि सदा वनमें ही रहेंगे और वनमें ही सदा लालन-पालन पाकर वे बड़े होंगे॥ ३-४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.4",
+        "ocr_flags": [
+          "hindi_marker_range_3-4"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "“उन्होंने कहा था, मुनिवरो! महर्षि काश्यपके विभाण्डक नामसे प्रसिद्ध एक पुत्र हैं। उनके भी एक पुत्र होगा, जिसकी लोगोंमें ऋष्यश्ंग नामसे प्रसिद्धि होगी। वे ऋष्यशृंग मुनि सदा वनमें ही रहेंगे और वनमें ही सदा लालन-पालन पाकर वे बड़े होंगे॥ ३-४॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

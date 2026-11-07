@@ -1,0 +1,241 @@
+{
+  "id": "baala-001-081",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 81,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 60
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-75"
+    ],
+    "vulgate_in_locators": [
+      "1.1.75"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.75"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001060a",
+        "1001060c"
+      ],
+      "lines": [
+        "पञ्च सेनाग्रगान्हत्वा सप्त मन्त्रिसुतानपि",
+        "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्"
+      ],
+      "punctuated_derived": "पञ्च सेनाग्रगान्हत्वा सप्त मन्त्रिसुतानपि ।\nशूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि",
+        "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्"
+      ],
+      "locators": [
+        "1-1-75"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि",
+        "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्"
+      ],
+      "locators": [
+        "1.1.75"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "पञ्च सेनाग्रगान्‌ हत्वा सप्त मन्त्रिसुतानपि",
+        "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.75"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "पञ्च सेनाग्रगान्हत्वा सप्त मन्त्रिसुतानपि",
+      "net": "पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि",
+      "in": "पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि",
+      "gp": "पञ्च सेनाग्रगान्‌ हत्वा सप्त मन्त्रिसुतानपि",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सेनाग्रगान्हत्वा",
+            "b": "सेनाग्रगान् हत्वा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सेनाग्रगान्",
+            "b": "सेनाग्रगान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्",
+      "net": "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्",
+      "in": "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्",
+      "gp": "शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "समुपागमत्",
+            "b": "समुपागमत्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-75",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After killing five army chiefs and seven minister's sons and crushing the valiant Aksha, Hanuma got into state of captivity... [1-1-75]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-75",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "hatvaa = After killing; pa~nca senaagragaan",
+            "devanagari_machine_converted": "हत्वा = आफ़्तेर् किल्लिन्ग्; पञ्च सेनाग्रगान्",
+            "english": "five army chiefs"
+          },
+          {
+            "roman_itrans": "sapta mantrisutaan api",
+            "devanagari_machine_converted": "सप्त मन्त्रिसुतान् अपि",
+            "english": "and seven minister's sons"
+          },
+          {
+            "roman_itrans": "shuuram akSham ca niSpiSya",
+            "devanagari_machine_converted": "शूरम् अक्षम् च निष्पिष्य",
+            "english": "and crushing valiant Aksha"
+          },
+          {
+            "roman_itrans": "grahaNam samupaagamat",
+            "devanagari_machine_converted": "ग्रहणम् समुपागमत्",
+            "english": "Hanuma got into state of captivity."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.75",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'फिर पाँच सेनापतियों और सात मन्त्रिकुमारोंकी हत्या कर वीर अक्षकुमारका भी कचूमर निकाला, इसके बाद वे [जान-बूझकर] पकड़े गये"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.75",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पञ्च",
+            "hindi": "पाँच (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सेनाग्रगान्",
+            "hindi": "सेनापतियों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "सप्त",
+            "hindi": "सात (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मन्त्रिसुतान्",
+            "hindi": "मंत्रियों के पुत्रों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "शूरम्",
+            "hindi": "वीर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अक्षम्",
+            "hindi": "अक्ष कुमार को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "निष्पिष्य",
+            "hindi": "कुचलकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "ग्रहणम्",
+            "hindi": "बन्दी होने को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समुपागमत्",
+            "hindi": "प्राप्त हुआ (सम् + उप + आ + गम्, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.75",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“फिर पाँच सेनापतियों और सात ममन्त्रिकुमारोंको हत्या कर वीर अक्षकुमारका भी कचूमर निकाला, इसके बाद वे [जान-बूझकर] पकड़े गये॥ ७५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

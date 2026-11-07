@@ -1,0 +1,292 @@
+{
+  "id": "baala-006-004",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 4,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 4
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-1, 1-6-2, 1-6-3, 1-6-4"
+    ],
+    "vulgate_in_locators": [
+      "1.6.4"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006004a"
+      ],
+      "lines": [
+        "यथा मनुर्महातेजा लोकस्य परिरक्षिता"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "यथा मनुर्महातेजा लोकस्य परिरक्षिता"
+      ],
+      "locators": [
+        "1-6-1, 1-6-2, 1-6-3, 1-6-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "यथा मनुर्महातेजा लोकस्य परिरक्षिता"
+      ],
+      "locators": [
+        "1.6.4"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "यथा मनुर्महातेजा लोकस्य परिरक्षिता"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "यथा मनुर्महातेजा लोकस्य परिरक्षिता",
+      "net": "यथा मनुर्महातेजा लोकस्य परिरक्षिता",
+      "in": "यथा मनुर्महातेजा लोकस्य परिरक्षिता",
+      "gp": "यथा मनुर्महातेजा लोकस्य परिरक्षिता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-1, 1-6-2, 1-6-3, 1-6-4",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and forces as well, a foreseer and a great resplendent one, also one who is esteemed by urbanites and countrymen alike, one who is a top-speeded chariot-warrior among the emperors of Ikshwaku kings, one who has performed many Vedic rituals, a virtuous one, a great controller, a saint-like kingly sage, one who he is renowned in all the three worlds, a mighty one with all his enemies eradicated, nevertheless who has friends, one who conquered all his senses, one who is similar to Indra, or Kubera on earth with his wealth, accumulations and other possessions, he that king Dasharatha while dwelling in the city of Ayodhya protected the world, like Manu, the foremost protector of mankind. [1-6-3,4,5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-1, 1-6-2, 1-6-3, 1-6-4",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "1-4. vedavit",
+            "devanagari_machine_converted": "१-४। वेदवित्",
+            "english": "knower of Veda-s[well-versed in Veda-s]"
+          },
+          {
+            "roman_itrans": "sarvasangrahaH",
+            "devanagari_machine_converted": "सर्वसन्ग्रहः",
+            "english": "all gatherer [of all riches, forces, learned men etc]"
+          },
+          {
+            "roman_itrans": "diirghadarshii",
+            "devanagari_machine_converted": "दीर्घदर्शी",
+            "english": "foreseer"
+          },
+          {
+            "roman_itrans": "mahaatejaa",
+            "devanagari_machine_converted": "महातेजा",
+            "english": "very resplendent one"
+          },
+          {
+            "roman_itrans": "paurajaanapadapriyaH",
+            "devanagari_machine_converted": "पौरजानपदप्रियः",
+            "english": "esteemed by urbanites and countrymen"
+          },
+          {
+            "roman_itrans": "ikShwaakuuNaam atirathaH",
+            "devanagari_machine_converted": "इक्ष्वाकूणाम् अतिरथः",
+            "english": "top-speeded chariot-warrior among Ikshwaku kings"
+          },
+          {
+            "roman_itrans": "yajvaa",
+            "devanagari_machine_converted": "यज्वा",
+            "english": "one who performed Vedic rituals"
+          },
+          {
+            "roman_itrans": "dharmaparaH",
+            "devanagari_machine_converted": "धर्मपरः",
+            "english": "dedicated one to probity"
+          },
+          {
+            "roman_itrans": "vashii",
+            "devanagari_machine_converted": "वशी",
+            "english": "controller"
+          },
+          {
+            "roman_itrans": "maharSikalpaH raajarSiH",
+            "devanagari_machine_converted": "महर्षिकल्पः राजर्षिः",
+            "english": "saint like, kingly sage"
+          },
+          {
+            "roman_itrans": "triSu lokeShu vishrutaH",
+            "devanagari_machine_converted": "त्रिषु लोकेषु विश्रुतः",
+            "english": "among three, worlds, renowned one"
+          },
+          {
+            "roman_itrans": "balavaan",
+            "devanagari_machine_converted": "बलवान्",
+            "english": "mighty one"
+          },
+          {
+            "roman_itrans": "nihataamitraH",
+            "devanagari_machine_converted": "निहतामित्रः",
+            "english": "one who eradicated unfriendly ones [enemies]"
+          },
+          {
+            "roman_itrans": "mitravaan",
+            "devanagari_machine_converted": "मित्रवान्",
+            "english": "one who has many friends"
+          },
+          {
+            "roman_itrans": "vijitendriyaH",
+            "devanagari_machine_converted": "विजितेन्द्रियः",
+            "english": "one who conquered his senses"
+          },
+          {
+            "roman_itrans": "dhanaiH cha anyaiH sanchayaiH cha",
+            "devanagari_machine_converted": "धनैः च अन्यैः सन्चयैः च",
+            "english": "with wealth, also, with other accumulations, too"
+          },
+          {
+            "roman_itrans": "shakravaishravaNopamaH",
+            "devanagari_machine_converted": "शक्रवैश्रवणोपमः",
+            "english": "similar to Indra and Kubera"
+          },
+          {
+            "roman_itrans": "yathaa manuH mahaatejaa",
+            "devanagari_machine_converted": "यथा मनुः महातेजा",
+            "english": "as, Manu, great magnificent one"
+          },
+          {
+            "roman_itrans": "lokasya parirakShitaa",
+            "devanagari_machine_converted": "लोकस्य परिरक्षिता",
+            "english": "protected the world"
+          },
+          {
+            "roman_itrans": "tathaa raajaa (dasharathaH)",
+            "devanagari_machine_converted": "तथा राजा (दशरथः)",
+            "english": "likewise, king, (Dasharatha)"
+          },
+          {
+            "roman_itrans": "[tasyaam puryaam ayodhyaayaam",
+            "devanagari_machine_converted": "[तस्याम् पुर्याम् अयोध्यायाम्",
+            "english": "in that, city, Ayodhya"
+          },
+          {
+            "roman_itrans": "vasan",
+            "devanagari_machine_converted": "वसन्",
+            "english": "while dwelling]"
+          },
+          {
+            "roman_itrans": "lokasya parirakShitaa",
+            "devanagari_machine_converted": "लोकस्य परिरक्षिता",
+            "english": "protected the world."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.4",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "जैसे महातेजस्वी प्रजापति मनु सम्पूर्ण जगत् की रक्षा करते थे, उसी प्रकार महाराज दशरथ भी करते थे॥१-४॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.4",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "यथा",
+            "hindi": "जैसे (अव्यय)"
+          },
+          {
+            "sanskrit": "मनुः",
+            "hindi": "मनु ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महातेजाः",
+            "hindi": "महान् तेज वाले ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लोकस्य",
+            "hindi": "लोक / जगत् की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "परिरक्षिता",
+            "hindi": "रक्षा करने वाले (प्रथमा विभक्ति, तृच् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "उसी प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "लोकस्य",
+            "hindi": "लोक / जगत् की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "परिरक्षिता",
+            "hindi": "रक्षा करने वाले (प्रथमा विभक्ति, तृच् प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.4",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "उस अयोध्यापुरीमें रहकर राजा दशरथ प्रजावर्गका पालन करते थे। वे वेदोंके विद्वान्‌ तथा सभी उपयोगी वस्तुओंका संग्रह करनेवाले थे। दूरदर्शी और महान्‌. तेजस्वी थे। नगर और जनपदकी प्रजा उनसे बहुत प्रेम रखती थी। वे इक्ष्वाकुकुलके अतिरथी* वीर थे। यज्ञ करनेवाले, धर्मपरायण और जितेन्द्रिय थे। महर्षियोंके समान दिव्य गुणसम्पन्न राजर्षि थे। उनकी तीनों लोकांमें ख्याति थी। वे बलवान्‌, शन्रुहीन, मित्रोंसे युक्त एवं इन्द्रियविजयी थे। धन और अन्य वस्तुओंके संचयकी दृष्टिसे इन्द्र और कुबेरके समान जान पड़ते थे। जैसे महातेजस्वी प्रजापति मनु सम्पूर्ण जगत्की रक्षा करते थे, उसी प्रकार महाराज दशरथ भी करते थे॥ १--४॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

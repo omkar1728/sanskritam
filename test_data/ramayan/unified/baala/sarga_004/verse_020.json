@@ -1,0 +1,243 @@
+{
+  "id": "baala-004-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 18
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-19"
+    ],
+    "vulgate_in_locators": [
+      "1.4.19"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.19"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004018a",
+        "1004018c"
+      ],
+      "lines": [
+        "एवं प्रशस्यमानौ तौ तपःश्लाघ्यैर्महर्षिभिः",
+        "संरक्ततरमत्यर्थं मधुरं तावगायताम्"
+      ],
+      "punctuated_derived": "एवं प्रशस्यमानौ तौ तपःश्लाघ्यैर्महर्षिभिः ।\nसंरक्ततरमत्यर्थं मधुरं तावगायताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "एवं प्रशस्यमानौ तौ तपःश्लाघ्यैर्महर्षिभिः",
+        "संरक्ततरमत्यर्थं मधुरं तावगायताम्"
+      ],
+      "locators": [
+        "1-4-19"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "एवं प्रशस्यमानौ तौ तपः श्लाघ्यैर्महर्षिभिः",
+        "संरक्ततरमत्यर्थं मधुरं तावगायताम्"
+      ],
+      "locators": [
+        "1.4.19"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "एवं प्रशस्यमानौ तौ तपः श्लाघ्यैर्महर्षिभिः"
+      ],
+      "ocr_flags": [
+        "hindi_bare_marker_no_digits"
+      ],
+      "refs": [
+        "1.4.19"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "एवं प्रशस्यमानौ तौ तपःश्लाघ्यैर्महर्षिभिः",
+      "net": "एवं प्रशस्यमानौ तौ तपःश्लाघ्यैर्महर्षिभिः",
+      "in": "एवं प्रशस्यमानौ तौ तपः श्लाघ्यैर्महर्षिभिः",
+      "gp": "एवं प्रशस्यमानौ तौ तपः श्लाघ्यैर्महर्षिभिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तपःश्लाघ्यैर्महर्षिभिः",
+            "b": "तपः श्लाघ्यैर्महर्षिभिः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तपःश्लाघ्यैर्महर्षिभिः",
+            "b": "तपः श्लाघ्यैर्महर्षिभिः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "संरक्ततरमत्यर्थं मधुरं तावगायताम्",
+      "net": "संरक्ततरमत्यर्थं मधुरं तावगायताम्",
+      "in": "संरक्ततरमत्यर्थं मधुरं तावगायताम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-19",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "While the great saints of blessed ascesis are appreciating that way, those two melodiously sang very effectually and very meaningfully. [1-4-19]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-19",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tapaHshlaaghyaiH maharSibhiH",
+            "devanagari_machine_converted": "तपःश्लाघ्यैः महर्षिभिः",
+            "english": "great saints blessed by asceticism"
+          },
+          {
+            "roman_itrans": "evam prashasyamaanau",
+            "devanagari_machine_converted": "एवम् प्रशस्यमानौ",
+            "english": "that way, being appreciated"
+          },
+          {
+            "roman_itrans": "tau",
+            "devanagari_machine_converted": "तौ",
+            "english": "those two"
+          },
+          {
+            "roman_itrans": "samraktataram",
+            "devanagari_machine_converted": "सम्रक्ततरम्",
+            "english": "very effectually"
+          },
+          {
+            "roman_itrans": "atyartham",
+            "devanagari_machine_converted": "अत्यर्थम्",
+            "english": "very meaningfully"
+          },
+          {
+            "roman_itrans": "madhuram",
+            "devanagari_machine_converted": "मधुरम्",
+            "english": "melodiously"
+          },
+          {
+            "roman_itrans": "agaayataam",
+            "devanagari_machine_converted": "अगायताम्",
+            "english": "sang."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इस प्रकार उत्तम तपस्यासे युक्त महर्षिगण उन दोनों कुमारोंकी प्रशंसा करते और वे उनसे प्रशंसित होकर अत्यन्त मधुर रागसे रामायणका गान करते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.19",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "एवम्",
+            "hindi": "इस प्रकार"
+          },
+          {
+            "sanskrit": "प्रशस्यमानौ",
+            "hindi": "प्रशंसा किये जाते हुए"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "तपःश्लाघ्यैः",
+            "hindi": "तपस्या से प्रशंसित"
+          },
+          {
+            "sanskrit": "महर्षिभिः",
+            "hindi": "महर्षियों द्वारा"
+          },
+          {
+            "sanskrit": "संरक्ततरम्",
+            "hindi": "अत्यन्त रागयुक्त"
+          },
+          {
+            "sanskrit": "अत्यर्थम्",
+            "hindi": "बहुत अधिक"
+          },
+          {
+            "sanskrit": "मधुरम्",
+            "hindi": "मधुर"
+          },
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गान करते थे"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.19",
+        "ocr_flags": [
+          "hindi_bare_marker_no_digits"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "संरक्ततरमत्यर्थं मधुरं तावगायताम्‌। इस प्रकार उत्तम तपस्यासे युक्त महर्षिगण उन दोनों कुमारोंकी प्रशंसा करते और वे उनसे प्रशंसित होकर अत्यन्त मधुर रागसे रामायणका गान करते थे॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

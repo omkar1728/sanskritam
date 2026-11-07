@@ -1,0 +1,116 @@
+{
+  "id": "baala-002-043",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 43,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-42"
+    ],
+    "vulgate_in_locators": [],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "उदारवृत्तार्थपदैर्मनोरमैः"
+      ],
+      "locators": [
+        "1-2-42"
+      ]
+    },
+    "vulgate_in": null,
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "उदारवृत्तार्थपदैर्मनोरमैः",
+      "in": null,
+      "gp": null,
+      "similarity": {},
+      "confidence": "n/a",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-42",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That celebrated sage and magnanimous seer Valmiki then authored the highly renowned Rama's legend extolling Rama's renown, with symmetrically worded verses, and words versified to yield meanings semantically, prosody free-flowing, and with hundreds of such verses. [1-2-42]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-42",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kiirtimaan udaaradhiiH muniH",
+            "devanagari_machine_converted": "कीर्तिमान् उदारधीः मुनिः",
+            "english": "celebrated, magnanimous, seer"
+          },
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "yashasvinaH",
+            "devanagari_machine_converted": "यशस्विनः",
+            "english": "of that highly renowned one(Rama)"
+          },
+          {
+            "roman_itrans": "asya raamasya",
+            "devanagari_machine_converted": "अस्य रामस्य",
+            "english": "of that, Rama"
+          },
+          {
+            "roman_itrans": "yashaskaram kaavyam",
+            "devanagari_machine_converted": "यशस्करम् काव्यम्",
+            "english": "renown, furthering [extolling,] epic"
+          },
+          {
+            "roman_itrans": "udaaravR^ittaarthapadaiH",
+            "devanagari_machine_converted": "उदारवृत्तार्थपदैः",
+            "english": "free-flowing prosody semantically yielding meanings"
+          },
+          {
+            "roman_itrans": "manoramaiH",
+            "devanagari_machine_converted": "मनोरमैः",
+            "english": "heart-pleasing one; samaakSharaiH shlokashataiH = with symmetrical letters verses in hundreds"
+          },
+          {
+            "roman_itrans": "chakaara",
+            "devanagari_machine_converted": "चकार",
+            "english": "authored."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": null,
+    "hindi_word_by_word": null,
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "net_in_line_mismatch",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,254 @@
+{
+  "id": "baala-006-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 13
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-13"
+    ],
+    "vulgate_in_locators": [
+      "1.6.13"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.13"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006013a",
+        "1006013c"
+      ],
+      "lines": [
+        "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+        "दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे"
+      ],
+      "punctuated_derived": "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः ।\nदानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+        "दानाध्यानशीलाश्च संयताश्च प्रतिग्रहे"
+      ],
+      "locators": [
+        "1-6-13"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+        "दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे ॥१३"
+      ],
+      "locators": [
+        "1.6.13"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+        "दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.13"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+      "net": "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+      "in": "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+      "gp": "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रियाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे",
+      "net": "दानाध्यानशीलाश्च संयताश्च प्रतिग्रहे",
+      "in": "दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे ॥१३",
+      "gp": "दानाध्ययनशीलाश्च संयताश्च प्रतिग्रहे",
+      "similarity": {
+        "sim_smith_net": 0.9705882352941176,
+        "sim_in_net": 0.9705882352941176,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "दानाध्ययनशीलाश्च",
+            "b": "दानाध्यानशीलाश्च"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "दानाध्यानशीलाश्च",
+            "b": "दानाध्ययनशीलाश्च"
+          },
+          {
+            "a": "",
+            "b": "॥१३"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "दानाध्यानशीलाश्च",
+            "b": "दानाध्ययनशीलाश्च"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-13",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The sense-controlled scholarly Vedic Brahmans are always engaged in their rituals, and they donate the education of Vedas to their students, as well practice their own, and while receiving donations they are principle-minded. [1-6-13]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-13",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "svakarmanirataaH",
+            "devanagari_machine_converted": "स्वकर्मनिरताः",
+            "english": "engaged in one's own rituals works"
+          },
+          {
+            "roman_itrans": "nityam",
+            "devanagari_machine_converted": "नित्यम्",
+            "english": "always"
+          },
+          {
+            "roman_itrans": "braahmaNaaH",
+            "devanagari_machine_converted": "ब्राह्मणाः",
+            "english": "Brahmana-s"
+          },
+          {
+            "roman_itrans": "vijitendriyaaH",
+            "devanagari_machine_converted": "विजितेन्द्रियाः",
+            "english": "with conquered senses"
+          },
+          {
+            "roman_itrans": "daanaadhyaanashiilaaH cha",
+            "devanagari_machine_converted": "दानाध्यानशीलाः च",
+            "english": "donating, practicing minded, also"
+          },
+          {
+            "roman_itrans": "samyataaH cha",
+            "devanagari_machine_converted": "सम्यताः च",
+            "english": "principled, also"
+          },
+          {
+            "roman_itrans": "pratigrahe",
+            "devanagari_machine_converted": "प्रतिग्रहे",
+            "english": "in accepting donations."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-13",
+        "spans_beyond_this_verse": false,
+        "text": "The donations received by Vedic scholars are not alms to beggars or charities to the destitute. The Vedic scholars do not receive them from anybody or everybody. There are set rules to accept such donations like cows, gold coins, villages, temples etc., from a befitting hand. Otherwise, the recipient is destined to go to Hell for having received greedily. Thus, if ever somebody wants to donate to such a scholar he should first notify his bona fides, which are verifiable by the recipient. Another kind of donation is referred here as daana-aadhyaana, meaning that these scholars while receiving donations from a righteous source, they also have to donate something to others. It is the education in Veda, which they have to impart to their students free of any charge and that too, to the befitting students only. Thus, the words, daana and pratigrahaNa mean all these rules to accept a donation or to accord it."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वहाँ निवास करनेवाले ब्राह्मण सदा अपने कर्मोमें लगे रहते, इन्द्रियोंको वशमें रखते, दान और स्वाध्याय करते तथा प्रतिग्रहसे बचे रहते थे॥१३॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.13",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "स्वकर्मनिरताः",
+            "hindi": "अपने कर्मों में लगे रहने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "ब्राह्मणाः",
+            "hindi": "ब्राह्मण (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "विजितेन्द्रियाः",
+            "hindi": "जितेन्द्रिय (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "दानाध्ययनशीलाः",
+            "hindi": "दान और स्वाध्याय करने वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "संयताः",
+            "hindi": "संयमी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रतिग्रहे",
+            "hindi": "प्रतिग्रह / दान ग्रहण करने में (सप्तमी विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.13",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "वहाँ निवास करनेवाले ब्राह्मण सदा अपने कमामें लगे रहते, इन्द्रियोंको वशमें रखते, दान और स्वाध्याय करते तथा प्रतिग्रहसे बचे रहते थे॥ १३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

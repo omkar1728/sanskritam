@@ -1,0 +1,247 @@
+{
+  "id": "baala-001-079",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 79,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 58
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-73"
+    ],
+    "vulgate_in_locators": [
+      "1.1.73"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.73"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001058a",
+        "1001058c"
+      ],
+      "lines": [
+        "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्",
+        "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्"
+      ],
+      "punctuated_derived": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।\nददर्श सीतां ध्यायन्तीमशोकवनिकां गताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्",
+        "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्"
+      ],
+      "locators": [
+        "1-1-73"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्",
+        "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्"
+      ],
+      "locators": [
+        "1.1.73"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्‌",
+        "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.73"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्",
+      "net": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्",
+      "in": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्",
+      "gp": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "रावणपालिताम्",
+            "b": "रावणपालिताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्",
+      "net": "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्",
+      "in": "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्",
+      "gp": "ददर्श सीतां ध्यायन्तीमशोकवनिकां गताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "गताम्",
+            "b": "गताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-73",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On reaching the city of Lanka ruled by Ravana, Hanuma saw Seetha situated in Ashoka gardens there and meditating on Rama alone... [1-1-73]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-73",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "lankaam puriim samaasaadya",
+            "devanagari_machine_converted": "लन्काम् पुरीम् समासाद्य",
+            "english": "After reaching the city Lanka"
+          },
+          {
+            "roman_itrans": "raavaNapaalitaam",
+            "devanagari_machine_converted": "रावणपालिताम्",
+            "english": "ruled by Ravana"
+          },
+          {
+            "roman_itrans": "dadarsha",
+            "devanagari_machine_converted": "ददर्श",
+            "english": "[Hanuma] saw"
+          },
+          {
+            "roman_itrans": "siithaam",
+            "devanagari_machine_converted": "सीथाम्",
+            "english": "Seetha"
+          },
+          {
+            "roman_itrans": "gataam",
+            "devanagari_machine_converted": "गताम्",
+            "english": "situated"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "there"
+          },
+          {
+            "roman_itrans": "dhyaayantiim",
+            "devanagari_machine_converted": "ध्यायन्तीम्",
+            "english": "meditating [on Rama alone]"
+          },
+          {
+            "roman_itrans": "ashokavanikaam",
+            "devanagari_machine_converted": "अशोकवनिकाम्",
+            "english": "in Ashoka gardens."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.73",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'वहाँ रावणपालित लङ्कापुरीमें पहुँचकर उन्होंने अशोकवाटिकामें सीताको चिन्तामग्न देखा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.73",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "लङ्काम्",
+            "hindi": "लंका को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समासाद्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "पुरीम्",
+            "hindi": "पुरी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणपालिताम्",
+            "hindi": "रावण द्वारा पालित को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ददर्श",
+            "hindi": "देखा (दृश् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सीताम्",
+            "hindi": "सीता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ध्यायन्तीम्",
+            "hindi": "चिन्ता करती हुई को (शतृ प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अशोकवनिकाम्",
+            "hindi": "अशोक वाटिका में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गताम्",
+            "hindi": "गई हुई को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.73",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“वहाँ रावणपालित लङ्कापुरीमें पहुँचकर उन्होंने अशोकवाटिकामें सीताको चिन्तामग्न देखा॥ ७३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

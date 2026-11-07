@@ -62,8 +62,15 @@ def _align(jid, wav, padas, wd):
         except ValueError:                       # display-word mismatch: show SLP1 instead of Devanagari
             al = A.align(wav, padas)
         errs = A.validate(al, syllable_counts(padas))
+        # A differing syllable COUNT only means the text-based counter and the aligner's syllabifier disagree
+        # (e.g. on conjuncts); times stay valid, so keep the alignment and flag it. Timing errors still reject.
+        soft = [e for e in errs if "syllables, expected" in e]
+        errs = [e for e in errs if e not in soft]
         if errs:
             _log(jid, "alignment rejected: " + "; ".join(errs[:5])); return None
+        if soft:
+            al["syllable_count_note"] = "; ".join(soft)
+            _log(jid, "alignment kept, syllable count differs from text count: " + "; ".join(soft))
         # the player plays the MP3, which has a lead-in and tail the WAV lacks
         A.shift(al, LEAD_MS / 1000, al["audio_duration"] + LEAD_MS / 1000 + TAIL_S)
         path = str(wd / "alignment.json")
@@ -71,8 +78,12 @@ def _align(jid, wav, padas, wd):
         return path
     except Exception as e:
         _log(jid, f"alignment unavailable: {e}"); return None
-    finally:
-        A.unload()
+    # The MMS_FA model stays loaded across chants (loading it was most of the per-chant time).
+    # Callers free it with `release_aligner()`: before a render (RAM is 6 GB) and when the queue goes idle.
+
+def release_aligner():
+    from backend.engine import align as A
+    A.unload()
 
 def _run(j: dict):
     jid = j["id"]
@@ -85,6 +96,7 @@ def _run(j: dict):
                 steps=j["steps"], seed=j["seed"], device=j["device"])
     db.x("UPDATE jobs SET status='running', started_at=CURRENT_TIMESTAMP WHERE id=?", (jid,))
     try:
+        release_aligner()                        # a render needs ~3.4 GB; do not hold MMS_FA (~1.2 GB) meanwhile
         res = get_executor(j["executor"]).run(spec, str(wd), lambda p, l: _log(jid, l, p), lambda: jid in _cancel)
         mp3 = str(wd / "chant.mp3")
         wav_to_mp3(res["wav"], mp3)
@@ -109,6 +121,7 @@ def _loop(gen):
         try:
             j = db.q1("SELECT * FROM jobs WHERE status='queued' ORDER BY id LIMIT 1")
             if not j:
+                release_aligner()
                 _wake.wait(2); _wake.clear(); continue
             _run(j)
         except Exception:

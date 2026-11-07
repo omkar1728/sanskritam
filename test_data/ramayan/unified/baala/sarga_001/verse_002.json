@@ -1,0 +1,276 @@
+{
+  "id": "baala-001-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 2
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-2"
+    ],
+    "vulgate_in_locators": [
+      "1.1.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.2"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001002a",
+        "1001002c"
+      ],
+      "lines": [
+        "को न्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान्",
+        "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः"
+      ],
+      "punctuated_derived": "को न्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\nधर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "को न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान्",
+        "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः"
+      ],
+      "locators": [
+        "1-1-2"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "को न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान्",
+        "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः"
+      ],
+      "locators": [
+        "1.1.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः"
+      ],
+      "ocr_flags": [
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.1.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "को न्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान्",
+      "net": "को न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान्",
+      "in": "को न्वस्मिन् साम्प्रतं लोके गुणवान् कश्च वीर्यवान्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "न्वस्मिन्साम्प्रतं",
+            "b": "न्वस्मिन् साम्प्रतं"
+          },
+          {
+            "a": "गुणवान्कश्च",
+            "b": "गुणवान् कश्च"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः",
+      "net": "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः",
+      "in": "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः",
+      "gp": "धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-2",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Who really is that person in this present world, who is virtuous and vigorous, a conscientious one, one who is mindful of good deeds done to him, and also a speaker of truth and who is determined in his deed... [1-1-2]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-2",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "asmin loke",
+            "devanagari_machine_converted": "अस्मिन् लोके",
+            "english": "in this, world"
+          },
+          {
+            "roman_itrans": "saampratam",
+            "devanagari_machine_converted": "साम्प्रतम्",
+            "english": "presently"
+          },
+          {
+            "roman_itrans": "guNavaan",
+            "devanagari_machine_converted": "गुणवान्",
+            "english": "virtuous person"
+          },
+          {
+            "roman_itrans": "kaH nu",
+            "devanagari_machine_converted": "कः नु",
+            "english": "who is, really"
+          },
+          {
+            "roman_itrans": "viiryavaan ca",
+            "devanagari_machine_converted": "वीर्यवान् च",
+            "english": "vigorous, also"
+          },
+          {
+            "roman_itrans": "kaH",
+            "devanagari_machine_converted": "कः",
+            "english": "who is"
+          },
+          {
+            "roman_itrans": "dharmaj~naH ca",
+            "devanagari_machine_converted": "धर्मज्ञः च",
+            "english": "conscientious, also"
+          },
+          {
+            "roman_itrans": "kR^itaj~naH ca",
+            "devanagari_machine_converted": "कृतज्ञः च",
+            "english": "one who is mindful of good deeds done to him also"
+          },
+          {
+            "roman_itrans": "satyavaakyaH",
+            "devanagari_machine_converted": "सत्यवाक्यः",
+            "english": "speaker of truth"
+          },
+          {
+            "roman_itrans": "dR^iDhavrataH",
+            "devanagari_machine_converted": "दृढव्रतः",
+            "english": "determined in his deed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'[मुने!] इस समय इस संसारमें गुणवान्, वीर्यवान्, धर्मज्ञ, उपकार माननेवाला, सत्यवक्ता और दृढ़प्रतिज्ञ कौन है ?"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति, पुल्लिंग)"
+          },
+          {
+            "sanskrit": "नु",
+            "hindi": "ही / भला (अव्यय, प्रश्न में जोर देने हेतु)"
+          },
+          {
+            "sanskrit": "अस्मिन्",
+            "hindi": "इस (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "साम्प्रतम्",
+            "hindi": "इस समय / वर्तमान में (अव्यय)"
+          },
+          {
+            "sanskrit": "लोके",
+            "hindi": "संसार में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "गुणवान्",
+            "hindi": "गुणों से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (समुच्चयबोधक अव्यय)"
+          },
+          {
+            "sanskrit": "वीर्यवान्",
+            "hindi": "पराक्रम से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मज्ञः",
+            "hindi": "धर्म को जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "कृतज्ञः",
+            "hindi": "उपकार को जानने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सत्यवाक्यः",
+            "hindi": "सत्य बोलने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दृढव्रतः",
+            "hindi": "दृढ़ संकल्प/प्रतिज्ञा वाला (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.2",
+        "ocr_flags": [
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "'[मुने!] इस समय इस संसारमें गुणवान्‌, वीर्यवान्‌, धर्मज्ञ, उपकार माननेवाला, सत्यवक्ता और दुढ्प्रतिज्ञ कौन है?॥ २॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

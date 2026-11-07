@@ -1,0 +1,292 @@
+{
+  "id": "baala-004-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 2
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-3"
+    ],
+    "vulgate_in_locators": [
+      "1.4.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.3"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004002a",
+        "1004002c"
+      ],
+      "lines": [
+        "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम्",
+        "चिन्तयामास को न्वेतत्प्रयुञ्जीयादिति प्रभुः"
+      ],
+      "punctuated_derived": "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम् ।\nचिन्तयामास को न्वेतत्प्रयुञ्जीयादिति प्रभुः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कृत्वापि तन्महाप्राज्ञः सभविष्यं सहोत्तरम्",
+        "चिन्तयामास कोन्वेतत्प्रयुञ्जीयादिति प्रभुः"
+      ],
+      "locators": [
+        "1-4-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम्",
+        "चिन्तयामास को न्वेतत् प्रयुञ्जीयादिति प्रभुः"
+      ],
+      "locators": [
+        "1.4.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम्‌",
+        "चिन्तयामास को न्वेतत्‌ प्रयुञ्जीयादिति प्रभुः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.4.3"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम्",
+      "net": "कृत्वापि तन्महाप्राज्ञः सभविष्यं सहोत्तरम्",
+      "in": "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम्",
+      "gp": "कृत्वा तु तन्महाप्राज्ञः सभविष्यं सहोत्तरम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9459459459459459,
+        "sim_in_net": 0.9459459459459459,
+        "sim_gp_net": 0.9459459459459459
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "कृत्वा तु",
+            "b": "कृत्वापि"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कृत्वापि",
+            "b": "कृत्वा तु"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कृत्वापि",
+            "b": "कृत्वा तु"
+          },
+          {
+            "a": "सहोत्तरम्",
+            "b": "सहोत्तरम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "चिन्तयामास को न्वेतत्प्रयुञ्जीयादिति प्रभुः",
+      "net": "चिन्तयामास कोन्वेतत्प्रयुञ्जीयादिति प्रभुः",
+      "in": "चिन्तयामास को न्वेतत् प्रयुञ्जीयादिति प्रभुः",
+      "gp": "चिन्तयामास को न्वेतत्‌ प्रयुञ्जीयादिति प्रभुः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "को न्वेतत्प्रयुञ्जीयादिति",
+            "b": "कोन्वेतत्प्रयुञ्जीयादिति"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "कोन्वेतत्प्रयुञ्जीयादिति",
+            "b": "को न्वेतत् प्रयुञ्जीयादिति"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कोन्वेतत्प्रयुञ्जीयादिति",
+            "b": "को न्वेतत्‌ प्रयुञ्जीयादिति"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-3",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Though that great scholar composed thus with leading and sequel legends, that godly saint thought over thus 'really, who will render all this ballad...' [1-4-3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-3",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "mahapraaj~naH prabhuH",
+            "devanagari_machine_converted": "महप्राज्ञः प्रभुः",
+            "english": "great scholar, godly-saint Valmiki"
+          },
+          {
+            "roman_itrans": "sabhaviShyam saha uttaram",
+            "devanagari_machine_converted": "सभविष्यम् सह उत्तरम्",
+            "english": "with leading, with sequel"
+          },
+          {
+            "roman_itrans": "tat",
+            "devanagari_machine_converted": "तत्",
+            "english": "that Ramayana"
+          },
+          {
+            "roman_itrans": "kR^itvaa tu",
+            "devanagari_machine_converted": "कृत्वा तु",
+            "english": "having composed, but"
+          },
+          {
+            "roman_itrans": "kaH",
+            "devanagari_machine_converted": "कः",
+            "english": "who"
+          },
+          {
+            "roman_itrans": "nu",
+            "devanagari_machine_converted": "नु",
+            "english": "really"
+          },
+          {
+            "roman_itrans": "etat",
+            "devanagari_machine_converted": "एतत्",
+            "english": "all this"
+          },
+          {
+            "roman_itrans": "prayu~njiiyaat iti",
+            "devanagari_machine_converted": "प्रयुञ्जीयात् इति",
+            "english": "well render, thus"
+          },
+          {
+            "roman_itrans": "chintayaamaasa",
+            "devanagari_machine_converted": "चिन्तयामास",
+            "english": "thought over."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "भविष्य तथा उत्तरकाण्डसहित समस्त रामायण पूर्ण कर लेनेके पश्चात् सामर्थ्यशाली, महाज्ञानी महर्षिने सोचा कि कौन ऐसा शक्तिशाली पुरुष होगा, जो इस महाकाव्यको पढ़कर जनसमुदायमें सुना सके।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कृत्वा",
+            "hindi": "करके / पूर्ण करके"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (रामायण) को"
+          },
+          {
+            "sanskrit": "महाप्राज्ञः",
+            "hindi": "महाज्ञानी"
+          },
+          {
+            "sanskrit": "सभविष्यम्",
+            "hindi": "भविष्य सहित"
+          },
+          {
+            "sanskrit": "सहोत्तरम्",
+            "hindi": "उत्तरकाण्ड सहित"
+          },
+          {
+            "sanskrit": "चिन्तयामास",
+            "hindi": "विचार किया"
+          },
+          {
+            "sanskrit": "कः",
+            "hindi": "कौन"
+          },
+          {
+            "sanskrit": "नु",
+            "hindi": "ही"
+          },
+          {
+            "sanskrit": "एतत्",
+            "hindi": "इस (काव्य) को"
+          },
+          {
+            "sanskrit": "प्रयुञ्जीयात्",
+            "hindi": "प्रयोग करे / सुनाए"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार"
+          },
+          {
+            "sanskrit": "प्रभुः",
+            "hindi": "प्रभु / सामर्थ्यशाली (महर्षि) ने"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.3",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "भविष्य तथा उत्तरकाण्डसहित समस्त रामायण पूर्ण कर लेनेके पश्चात्‌ सामर्थ्यशाली, महाज्ञानी महर्षिने सोचा कि कौन ऐसा शक्तिशाली पुरुष होगा, जो इस महाकाव्यको पढ़कर जनसमुदायमें सुना सके॥ ३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,236 @@
+{
+  "id": "baala-007-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-3"
+    ],
+    "vulgate_in_locators": [
+      "1.7.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.3"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "धृष्टिर्जयन्तो विजयो सुराष्ट्रो राष्ट्रवर्धनः"
+      ],
+      "locators": [
+        "1-7-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "धृष्टिर्जयन्तो विजयः सुराष्ट्रो राष्ट्रवर्धनः"
+      ],
+      "locators": [
+        "1.7.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ध्ृष्टिर्जयन्तो विजयः सुराष्ट्र राष्ट्रवर्धनः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.7.3"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "धृष्टिर्जयन्तो विजयो सुराष्ट्रो राष्ट्रवर्धनः",
+      "in": "धृष्टिर्जयन्तो विजयः सुराष्ट्रो राष्ट्रवर्धनः",
+      "gp": "ध्ृष्टिर्जयन्तो विजयः सुराष्ट्र राष्ट्रवर्धनः",
+      "similarity": {
+        "sim_in_net": 0.975609756097561,
+        "sim_gp_net": 0.9512195121951219
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "विजयो",
+            "b": "विजयः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "धृष्टिर्जयन्तो विजयो सुराष्ट्रो",
+            "b": "ध्ृष्टिर्जयन्तो विजयः सुराष्ट्र"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-3",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are seven, and Sumantra is the eighth one. [1-7-3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-3",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "dhR^iSTiH",
+            "devanagari_machine_converted": "धृष्टिः",
+            "english": "Dhristi"
+          },
+          {
+            "roman_itrans": "jayantaH",
+            "devanagari_machine_converted": "जयन्तः",
+            "english": "Jayantha"
+          },
+          {
+            "roman_itrans": "vijayaH",
+            "devanagari_machine_converted": "विजयः",
+            "english": "Vijaya"
+          },
+          {
+            "roman_itrans": "suraaSTraH",
+            "devanagari_machine_converted": "सुराष्ट्रः",
+            "english": "Suraashtra"
+          },
+          {
+            "roman_itrans": "raaSTravardhanaH",
+            "devanagari_machine_converted": "राष्ट्रवर्धनः",
+            "english": "Raashtravardhana"
+          },
+          {
+            "roman_itrans": "akopaH",
+            "devanagari_machine_converted": "अकोपः",
+            "english": "Akopa"
+          },
+          {
+            "roman_itrans": "dharmapaalaH cha",
+            "devanagari_machine_converted": "धर्मपालः च",
+            "english": "Dharmapaala, also"
+          },
+          {
+            "roman_itrans": "SumantraH",
+            "devanagari_machine_converted": "षुमन्त्रः",
+            "english": "Sumantra"
+          },
+          {
+            "roman_itrans": "aSTamaH",
+            "devanagari_machine_converted": "अष्टमः",
+            "english": "eighth"
+          },
+          {
+            "roman_itrans": "abhavat",
+            "devanagari_machine_converted": "अभवत्",
+            "english": "will be."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.3",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके नाम इस प्रकार हैं- धृष्टि, जयन्त, विजय, सुराष्ट्र, राष्ट्रवर्धन, अकोप, धर्मपाल और आठवें सुमन्त्र। जो अर्थशास्त्र के ज्ञाता थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.3",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "धृष्टिः",
+            "hindi": "धृष्टि (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जयन्तः",
+            "hindi": "जयन्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विजयः",
+            "hindi": "विजय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुराष्ट्रः",
+            "hindi": "सुराष्ट्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राष्ट्रवर्धनः",
+            "hindi": "राष्ट्रवर्धन (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अकोपः",
+            "hindi": "अकोप (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "धर्मपालः",
+            "hindi": "धर्मपाल (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सुमन्त्रः",
+            "hindi": "सुमन्त्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अष्टमः",
+            "hindi": "आठवाँ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अर्थवित्",
+            "hindi": "अर्थशास्त्र का ज्ञाता (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.3",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "उनके नाम इस प्रकार हैं-धृष्टि, जयन्त, विजय, सुराष्ट्र राष्ट्रवर्धन, अकोप, धर्मपाल और आठवें सुमन्त्र, जो अर्थशास्त्रके ज्ञाता थे॥ ३॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

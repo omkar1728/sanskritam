@@ -1,0 +1,219 @@
+{
+  "id": "baala-010-005",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 5,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 4
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-4"
+    ],
+    "vulgate_in_locators": [
+      "1.10.4"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009004a",
+        "1009004c"
+      ],
+      "lines": [
+        "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+        "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्"
+      ],
+      "punctuated_derived": "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः ।\nपुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+        "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्"
+      ],
+      "locators": [
+        "1-10-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+        "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्"
+      ],
+      "locators": [
+        "1.10.4"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "इन्द्रियाथैरभिमतैर्नरचित्तप्रमाथिभिः",
+        "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+      "net": "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+      "in": "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+      "gp": "इन्द्रियाथैरभिमतैर्नरचित्तप्रमाथिभिः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "इन्द्रियार्थैरभिमतैर्नरचित्तप्रमाथिभिः",
+            "b": "इन्द्रियाथैरभिमतैर्नरचित्तप्रमाथिभिः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्",
+      "net": "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्",
+      "in": "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्",
+      "gp": "पुरमानाययिष्यामः क्षिप्रं चाध्यवसीयताम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "चाध्यवसीयताम्",
+            "b": "चाध्यवसीयताम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-4",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"With much desired sense-pleasing objects that will be disquieting the minds of men, we wish bring him to the city... Let it be decided quickly... [1-10-4]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-4",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "narachittapramaathibhiH",
+            "devanagari_machine_converted": "नरचित्तप्रमाथिभिः",
+            "english": "disquieting men's mind"
+          },
+          {
+            "roman_itrans": "abhimataiH indriyaarthaiH",
+            "devanagari_machine_converted": "अभिमतैः इन्द्रियार्थैः",
+            "english": "with much desired, sense pleasing objects"
+          },
+          {
+            "roman_itrans": "puram aanaayayiShyaamaH",
+            "devanagari_machine_converted": "पुरम् आनाययिष्यामः",
+            "english": "to city, we wish to bring"
+          },
+          {
+            "roman_itrans": "kShipram ca adhyavasiiyataam",
+            "devanagari_machine_converted": "क्षिप्रम् च अध्यवसीयताम्",
+            "english": "immediately, let be decided."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“हम मनुष्योंके चित्तको मथ डालनेवाले मनोवाञ्छित विषयोंका प्रलोभन देकर उन्हें अपने नगरमें ले आयेंगे; अतः इसके लिये शीघ्र प्रयत्न किया जाय।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "इन्द्रियार्थैः",
+            "hindi": "इन्द्रियों के विषयों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिमतैः",
+            "hindi": "मनोवांछित / चाहे हुए से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नरचित्तप्रमाथिभिः",
+            "hindi": "मनुष्यों के चित्त को मथ डालने वालों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरम्",
+            "hindi": "नगर में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आनाययिष्यामः",
+            "hindi": "ले आयेंगे (आ + नी, प्रयोज्यार्थ, लृट् लकार, उत्तम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "क्षिप्रम्",
+            "hindi": "शीघ्र (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अध्यवसीयताम्",
+            "hindi": "प्रयत्न किया जाय (अधि + अव + सो, कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.4",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "““हम मनुष्योंके चित्तको मथ डालनेवाले मनोवाञ्छित विषयोंका प्रलोभन देकर उन्हें अपने नगरमें ले आयेंगे; अतः इसके लिये शीघ्र प्रयत्न किया जाय॥ ४॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

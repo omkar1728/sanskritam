@@ -1,0 +1,242 @@
+{
+  "id": "baala-010-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 18
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-18"
+    ],
+    "vulgate_in_locators": [
+      "1.10.18"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.18"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009018a",
+        "1009018c"
+      ],
+      "lines": [
+        "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः",
+        "ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः"
+      ],
+      "punctuated_derived": "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः ।\nऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः",
+        "ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः"
+      ],
+      "locators": [
+        "1-10-18"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः",
+        "ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः"
+      ],
+      "locators": [
+        "1.10.18"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रतिगृह्ण तु तां पूजां सर्वा एव समुत्सुकाः",
+        "ऋषेभीताश्च शीघ्रं तु गमनाय मतिं दधुः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.18"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः",
+      "net": "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः",
+      "in": "प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः",
+      "gp": "प्रतिगृह्ण तु तां पूजां सर्वा एव समुत्सुकाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.972972972972973
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "प्रतिगृह्य",
+            "b": "प्रतिगृह्ण"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः",
+      "net": "ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः",
+      "in": "ऋषेर्भीताश्च शीघ्रं तु गमनाय मतिं दधुः",
+      "gp": "ऋषेभीताश्च शीघ्रं तु गमनाय मतिं दधुः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96875
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "ऋषेर्भीताश्च",
+            "b": "ऋषेभीताश्च"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-18",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"All of them have received that kind of worship much enthusiastically, but dread at the arrival of the sage Vibhandaka, they quickly made-up their mind to make away from there. [1-10-18]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-18",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "taaH sarvaaH samutsukaaH taam puujaam pratigR^ihya",
+            "devanagari_machine_converted": "ताः सर्वाः समुत्सुकाः ताम् पूजाम् प्रतिगृह्य",
+            "english": "they all having received that worship enthusiastically"
+          },
+          {
+            "roman_itrans": "R^iSheH bhiitaaH ca",
+            "devanagari_machine_converted": "ऋषेः भीताः च",
+            "english": "dread by Sage[Vibhandaka], also"
+          },
+          {
+            "roman_itrans": "shiighram gamanaaya eva matim dadhuH",
+            "devanagari_machine_converted": "शीघ्रम् गमनाय एव मतिम् दधुः",
+            "english": "quickly made-up in mind to make away that way."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“ऋषिकी पूजा स्वीकार करके वे सभी वहाँसे चली जानेको उत्सुक हुईं। उन्हें विभाण्डक मुनिका भय लग रहा था, इसलिये उन्होंने शीघ्र ही वहाँसे चली जानेका विचार किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.18",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रतिगृह्य",
+            "hindi": "स्वीकार करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "ताम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पूजाम्",
+            "hindi": "पूजा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सर्वाः",
+            "hindi": "सभी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "समुत्सुकाः",
+            "hindi": "उत्सुक / जाने को इच्छुक (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ऋषेः",
+            "hindi": "ऋषि (विभाण्डक) से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "भीताः",
+            "hindi": "भयभीत (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "शीघ्रम्",
+            "hindi": "शीघ्र (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "गमनाय",
+            "hindi": "जाने के लिए (चतुर्थी विभक्ति)"
+          },
+          {
+            "sanskrit": "मतिम्",
+            "hindi": "विचार / निश्चय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दधुः",
+            "hindi": "किया (धा धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.18",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“ऋषिकी पूजा स्वीकार करके वे सभी वहाँसे चली जानेको उत्सुक हुई। उन्हें विभाण्डक मुनिका भय लग रहा था, इसलिये उन्होंने शीघ्र ही वहाँसे चली जानेका विचार किया॥ १८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

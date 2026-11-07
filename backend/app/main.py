@@ -27,6 +27,10 @@ async def lifespan(app):
     finally: backup.get().stop()
 
 app = FastAPI(title="Sanskrit Śloka Studio", lifespan=lifespan)
+from . import epics as _epics
+app.include_router(_epics.router)
+from . import ssh_terminal as _ssh_terminal
+app.include_router(_ssh_terminal.router)
 
 class Source(BaseModel):
     work: str; reference: str; url: str | None = None; edition: str | None = None
@@ -108,7 +112,7 @@ def get_settings(): return db.get_settings()
 @app.put("/api/settings")
 def put_settings(s: SettingsIn):
     for k, v in s.model_dump(exclude_none=True).items():
-        if k == "executor" and v not in REGISTRY: raise HTTPException(422, f"unknown executor '{v}'")
+        if k == "executor" and (v not in REGISTRY or getattr(REGISTRY[v], "hidden", False)): raise HTTPException(422, f"unknown executor '{v}'")
         if k == "device" and v not in ("cpu", "cuda"): raise HTTPException(422, "device must be cpu or cuda")
         db.set_setting(k, v)
     return db.get_settings()
@@ -117,6 +121,7 @@ _EXEC_INFO = {"local": ("This computer", "Runs the model here (CPU or CUDA).")}
 def executors():
     out = []
     for n, cls in REGISTRY.items():
+        if getattr(cls, "hidden", False): continue
         lab, desc = _EXEC_INFO.get(n, (getattr(cls, "label", n), getattr(cls, "description", "")))
         out.append({"name": n, "label": lab, "description": desc})
     return out
@@ -206,3 +211,88 @@ async def upload_result(jid: int, request: Request):
     finally:
         if os.path.exists(tmp): os.unlink(tmp)
     return {"ok": True}
+
+
+# ---- epic audio batches (logic in epic_jobs / batch_io) ----
+from . import epic_jobs, batch_io
+class BatchIn(BaseModel):
+    epic: Literal["ramayana"] = "ramayana"
+    kanda: int | None = None; sarga: int | None = None; verse_id: str | None = None
+    voice_id: str = "steer"; steps: int = Field(C.DEFAULT_STEPS, ge=1, le=64); seed: int = C.DEFAULT_SEED
+    meter_id: str | None = None; device: str = "cuda"
+    confirm: bool = False; confirm_all: bool = False
+
+def _batch_err(e):
+    return HTTPException(422, str(e))
+
+@app.post("/api/epic-batches/preview")
+def batch_preview(b: BatchIn):
+    try: return epic_jobs.preview(b)
+    except epic_jobs.BatchError as e: raise _batch_err(e)
+
+@app.post("/api/epic-batches", status_code=201)
+def batch_create(b: BatchIn):
+    if not b.confirm: raise HTTPException(422, "confirm must be true")
+    if b.kanda is None and b.verse_id is None and not b.confirm_all:
+        raise HTTPException(422, "whole-epic batch needs confirm_all=true")
+    try: return epic_jobs.create(b)
+    except epic_jobs.BatchError as e: raise _batch_err(e)
+
+@app.get("/api/epic-batches")
+def batch_list(): return epic_jobs.list_batches()
+
+@app.get("/api/epic-batches/{bid}")
+def batch_get(bid: int):
+    r = epic_jobs.get_batch(bid)
+    if not r: raise HTTPException(404, "no such batch")
+    return r
+
+@app.get("/api/epic-batches/{bid}/input.zip")
+def batch_input(bid: int):
+    if not db.q1("SELECT 1 FROM epic_batches WHERE id=?", (bid,)): raise HTTPException(404, "no such batch")
+    try: p = batch_io.build_input_zip(bid)
+    except batch_io.BatchIOError as e: raise HTTPException(409, str(e))
+    return FileResponse(p, media_type="application/zip", filename=f"batch{bid}-input.zip")
+
+@app.post("/api/epic-batches/{bid}/import-drive")
+def batch_import_drive(bid: int):
+    if not db.q1("SELECT 1 FROM epic_batches WHERE id=?", (bid,)): raise HTTPException(404, "no such batch")
+    raw = (db.get_settings().get("colab_drive_dir") or "").strip()
+    if not raw: raise HTTPException(400, "colab_drive_dir is not set (Settings)")
+    base = Path(raw).expanduser()
+    if not base.is_dir(): raise HTTPException(400, f"colab_drive_dir is not a directory: {raw}")
+    return batch_io.ingest_drive(bid, base)
+
+@app.put("/api/alignment/upload")
+async def alignment_upload(request: Request):
+    """Drop-in results zip: batch is detected from the job ids inside; accepted jobs are aligned automatically."""
+    d = C.STORAGE / "batches"; d.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=d, suffix=".part")
+    try:
+        size = 0
+        with os.fdopen(fd, "wb") as f:
+            async for chunk in request.stream():
+                size += len(chunk)
+                if size > batch_io.MAX_RESULTS_BYTES: raise HTTPException(413, "results zip too large")
+                f.write(chunk)
+        try: return batch_io.ingest_any(tmp)
+        except ValueError as e: raise HTTPException(422, str(e))
+    finally:
+        if os.path.exists(tmp): os.unlink(tmp)
+
+@app.put("/api/epic-batches/{bid}/result")
+async def batch_result(bid: int, request: Request):
+    if not db.q1("SELECT 1 FROM epic_batches WHERE id=?", (bid,)): raise HTTPException(404, "no such batch")
+    d = C.STORAGE / "batches"; d.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=d, suffix=".part")
+    try:
+        size = 0
+        with os.fdopen(fd, "wb") as f:
+            async for chunk in request.stream():
+                size += len(chunk)
+                if size > batch_io.MAX_RESULTS_BYTES: raise HTTPException(413, "results zip too large")
+                f.write(chunk)
+        try: return batch_io.ingest_results(bid, tmp)
+        except ValueError as e: raise HTTPException(422, str(e))
+    finally:
+        if os.path.exists(tmp): os.unlink(tmp)

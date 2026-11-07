@@ -1,0 +1,325 @@
+{
+  "id": "baala-001-082",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 82,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 61
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-76, 1-1-77"
+    ],
+    "vulgate_in_locators": [
+      "1.1.76"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.76"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001061a",
+        "1001061c"
+      ],
+      "lines": [
+        "अस्त्रेणोन्मुहमात्मानं ज्ञात्वा पैतामहाद्वरात्",
+        "मर्षयन्राक्षसान्वीरो यन्त्रिणस्तान्यदृच्छया"
+      ],
+      "punctuated_derived": "अस्त्रेणोन्मुहमात्मानं ज्ञात्वा पैतामहाद्वरात् ।\nमर्षयन्राक्षसान्वीरो यन्त्रिणस्तान्यदृच्छया ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्वरात्",
+        "मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान्यदृच्छया"
+      ],
+      "locators": [
+        "1-1-76, 1-1-77"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद् वरात्",
+        "मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान् यदृच्छया"
+      ],
+      "locators": [
+        "1.1.76"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अन्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्‌ वरात्‌",
+        "मर्षयन्‌ राक्षसान्‌ वीरो यन्त्रिणस्तान्‌ यदूच्छया"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed"
+      ],
+      "refs": [
+        "1.1.76"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अस्त्रेणोन्मुहमात्मानं ज्ञात्वा पैतामहाद्वरात्",
+      "net": "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्वरात्",
+      "in": "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद् वरात्",
+      "gp": "अन्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्‌ वरात्‌",
+      "similarity": {
+        "sim_smith_net": 0.9545454545454546,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9662921348314607
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "अस्त्रेणोन्मुहमात्मानं",
+            "b": "अस्त्रेणोन्मुक्तमात्मानं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "पैतामहाद्वरात्",
+            "b": "पैतामहाद् वरात्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "अस्त्रेणोन्मुक्तमात्मानं",
+            "b": "अन्त्रेणोन्मुक्तमात्मानं"
+          },
+          {
+            "a": "पैतामहाद्वरात्",
+            "b": "पैतामहाद्‌ वरात्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "मर्षयन्राक्षसान्वीरो यन्त्रिणस्तान्यदृच्छया",
+      "net": "मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान्यदृच्छया",
+      "in": "मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान् यदृच्छया",
+      "gp": "मर्षयन्‌ राक्षसान्‌ वीरो यन्त्रिणस्तान्‌ यदूच्छया",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9736842105263158
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मर्षयन्राक्षसान्वीरो",
+            "b": "मर्षयन् राक्षसान् वीरो"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "यन्त्रिणस्तान्यदृच्छया",
+            "b": "यन्त्रिणस्तान् यदृच्छया"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मर्षयन् राक्षसान्",
+            "b": "मर्षयन्‌ राक्षसान्‌"
+          },
+          {
+            "a": "यन्त्रिणस्तान्यदृच्छया",
+            "b": "यन्त्रिणस्तान्‌ यदूच्छया"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-76, 1-1-77",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Knowing himself to be free from the captivity of the weapon according to Brahma's boon, the valiant great monkey Hanuma enduring those demons with self-will who tied his tail with ropes with the intention of burning it, there after burning the city of Lanka while leaving from fire the Seetha of Mithila, got back again to convey the pleasant news to Rama ... [1-1-76, 77]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-76, 1-1-77",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "76,77. j~naatvaa",
+            "devanagari_machine_converted": "७६,७७। ज्ञात्वा",
+            "english": "Knowing; aatmaanam = himself"
+          },
+          {
+            "roman_itrans": "astreNonmuktam",
+            "devanagari_machine_converted": "अस्त्रेणोन्मुक्तम्",
+            "english": "to be free from the [captivity of] weapon"
+          },
+          {
+            "roman_itrans": "paitaamahaat varaat",
+            "devanagari_machine_converted": "पैतामहात् वरात्",
+            "english": "from Brahma's, boon; viiraH = the valiant"
+          },
+          {
+            "roman_itrans": "mahaakapiH",
+            "devanagari_machine_converted": "महाकपिः",
+            "english": "great monkey [Hanuma]"
+          },
+          {
+            "roman_itrans": "taan raakShasaan marSayan",
+            "devanagari_machine_converted": "तान् राक्षसान् मर्षयन्",
+            "english": "enduring those demons"
+          },
+          {
+            "roman_itrans": "yadR^icChayaa",
+            "devanagari_machine_converted": "यदृच्छया",
+            "english": "with self-will"
+          },
+          {
+            "roman_itrans": "yantriNaH",
+            "devanagari_machine_converted": "यन्त्रिणः",
+            "english": "who tied [ his tail with ropes]"
+          },
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "there-after"
+          },
+          {
+            "roman_itrans": "lankaam puriim dagdhvaa",
+            "devanagari_machine_converted": "लन्काम् पुरीम् दग्ध्वा",
+            "english": "burning the city of Lanka"
+          },
+          {
+            "roman_itrans": "R^ite ca",
+            "devanagari_machine_converted": "ऋते च",
+            "english": "and leaving"
+          },
+          {
+            "roman_itrans": "maithiliim siithaam",
+            "devanagari_machine_converted": "मैथिलीम् सीथाम्",
+            "english": "the Seetha of Mithila"
+          },
+          {
+            "roman_itrans": "punaH aayaat",
+            "devanagari_machine_converted": "पुनः आयात्",
+            "english": "got back again"
+          },
+          {
+            "roman_itrans": "raamaaya priyam aakhyaatum",
+            "devanagari_machine_converted": "रामाय प्रियम् आख्यातुम्",
+            "english": "to convey the pleasant [news] to Rama."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-76, 1-1-77",
+        "spans_beyond_this_verse": true,
+        "text": "This is in sundara kaanDa. Hanuma sees Ravana and others in the court, and as a show of his strength burns down Lanka except the place where Seetha is stationed, only to prove that the riches and wealth enjoyed at the cost others will burn down to ashes some day, besides Vibheeshana's place, for Vibheeshana is the adherer of Dharma. This episode is to relegate the false pride of Ravana, and as a symbolic suggestion that pomp and effluence without virtue are short lived."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.76",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'ब्रह्माजीके वरदानसे अपनेको ब्रह्मपाशसे छूटा हुआ जानकर भी वीर हनुमान जी ने अपनेको बाँधनेवाले उन राक्षसोंका अपराध स्वेच्छानुसार सह लिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.76",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अस्त्रेण",
+            "hindi": "ब्रह्मास्त्र से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उन्मुक्तम्",
+            "hindi": "मुक्त हुए को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आत्मानम्",
+            "hindi": "अपने आप को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ज्ञात्वा",
+            "hindi": "जानकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "पैतामहात्",
+            "hindi": "ब्रह्मा से प्राप्त (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वरात्",
+            "hindi": "वरदान के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "मर्षयन्",
+            "hindi": "सहन करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राक्षसान्",
+            "hindi": "राक्षसों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वीरः",
+            "hindi": "वीर ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "यन्त्रिणः",
+            "hindi": "बाँधने वालों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तान्",
+            "hindi": "उन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यदृच्छया",
+            "hindi": "स्वेच्छा से (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.76",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "\"ब्रह्माजीके वरदानसे अपनेको ब्रह्मपाशसे छूटा हुआ जानकर भी वीर हनुमानूजीने अपनेको बाँधनेवाले उन राक्षसोंका अपराध स्वेच्छानुसार सह लिया॥ ७६॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

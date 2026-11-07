@@ -1,0 +1,263 @@
+{
+  "id": "baala-007-002",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 2,
+  "refs": {
+    "critical_smith": {
+      "sarga": 7,
+      "verse": 1
+    },
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-2"
+    ],
+    "vulgate_in_locators": [
+      "1.7.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.2"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1007001a",
+        "1007001c"
+      ],
+      "lines": [
+        "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+        "शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः"
+      ],
+      "punctuated_derived": "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः ।\nशुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+        "शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः"
+      ],
+      "locators": [
+        "1-7-2"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+        "शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः॥२"
+      ],
+      "locators": [
+        "1.7.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+        "शुचयश्चानुरक्ताशच राजकृत्येषु नित्यशः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_1-2"
+      ],
+      "refs": [
+        "1.7.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+      "net": "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+      "in": "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+      "gp": "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः",
+      "net": "शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः",
+      "in": "शुचयश्चानुरक्ताश्च राजकृत्येषु नित्यशः॥२",
+      "gp": "शुचयश्चानुरक्ताशच राजकृत्येषु नित्यशः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9859154929577465
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "नित्यशः",
+            "b": "नित्यशः॥२"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शुचयश्चानुरक्ताश्च",
+            "b": "शुचयश्चानुरक्ताशच"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-2",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Eight ministers are there for that valiant and glorious King Dasharatha, who are clean at heart and are involved in the works of the king and kingdom at all time. [1-7-2]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-2",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "viirasya",
+            "devanagari_machine_converted": "वीरस्य",
+            "english": "of the valiant one"
+          },
+          {
+            "roman_itrans": "yashasvinaH",
+            "devanagari_machine_converted": "यशस्विनः",
+            "english": "glorious king"
+          },
+          {
+            "roman_itrans": "tasya",
+            "devanagari_machine_converted": "तस्य",
+            "english": "his"
+          },
+          {
+            "roman_itrans": "shuchayaH",
+            "devanagari_machine_converted": "शुचयः",
+            "english": "clean at heart"
+          },
+          {
+            "roman_itrans": "nityashaH",
+            "devanagari_machine_converted": "नित्यशः",
+            "english": "all time"
+          },
+          {
+            "roman_itrans": "raajakR^ityeSu",
+            "devanagari_machine_converted": "राजकृत्येषु",
+            "english": "in king' s works"
+          },
+          {
+            "roman_itrans": "anuraktaaH cha",
+            "devanagari_machine_converted": "अनुरक्ताः च",
+            "english": "involved in, also"
+          },
+          {
+            "roman_itrans": "amaatyaaH",
+            "devanagari_machine_converted": "अमात्याः",
+            "english": "ministers"
+          },
+          {
+            "roman_itrans": "aSTau bhabhuuvuH",
+            "devanagari_machine_converted": "अष्टौ भभूवुः",
+            "english": "eight, are there."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "इसीलिये उनका यश बहुत फैला हुआ था। वे सभी शुद्ध आचारविचार से युक्त थे और राजकीय कार्यों में निरन्तर संलग्न रहते थे।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.2",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अष्टौ",
+            "hindi": "आठ (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "बभूवुः",
+            "hindi": "हुए (भू धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "वीरस्य",
+            "hindi": "वीर के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आमात्याः",
+            "hindi": "मंत्री (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "यशस्विनः",
+            "hindi": "यशस्वी (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "शुचयः",
+            "hindi": "शुद्ध आचार वाले (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अनुरक्ताः",
+            "hindi": "अनुरक्त (प्रथमा विभक्ति, बहुवचन, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "राजकृत्येषु",
+            "hindi": "राजकीय कार्यों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "नित्यशः",
+            "hindi": "निरन्तर (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.2",
+        "ocr_flags": [
+          "hindi_marker_range_1-2"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "इक्ष्वाकुवंशी वीर महामना महाराज दशरथके 'मन्त्रिजनोचित गुणोंसे सम्पन्न आठ मन्त्री थे, जो मन्त्रके तत्त्वको जाननेवाले और बाहरी चेष्य देखकर ही मनके भावको समझ लेनेवाले थे। वे सदा ही राजाके प्रिय एवं हितमें लगे रहते थे। इसीलिये उनका यश बहुत फैला हुआ था। वे सभी शुद्ध आचार-विचारसे युक्त थे और राजकीय कायाँमें निरन्तर संलग्न रहते थे॥ १-२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

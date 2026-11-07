@@ -1,0 +1,285 @@
+{
+  "id": "baala-010-018",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 18,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 17
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-17"
+    ],
+    "vulgate_in_locators": [
+      "1.10.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009017a",
+        "1009017c"
+      ],
+      "lines": [
+        "गतानां तु ततः पूजामृषिपुत्रश्चकार ह",
+        "इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः"
+      ],
+      "punctuated_derived": "गतानां तु ततः पूजामृषिपुत्रश्चकार ह ।\nइदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "गतानां तु ततः पूजां ऋषिपुत्रश्चकार ह",
+        "इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः"
+      ],
+      "locators": [
+        "1-10-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "गतानां तु ततः पूजामृषिपुत्रश्चकार ह",
+        "इदमर्ध्यमिदं पाद्यमिदं मूलं फलं च नः"
+      ],
+      "locators": [
+        "1.10.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "गतानां तु ततः पूजामूषिपुत्रशचकार ह",
+        "इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "गतानां तु ततः पूजामृषिपुत्रश्चकार ह",
+      "net": "गतानां तु ततः पूजां ऋषिपुत्रश्चकार ह",
+      "in": "गतानां तु ततः पूजामृषिपुत्रश्चकार ह",
+      "gp": "गतानां तु ततः पूजामूषिपुत्रशचकार ह",
+      "similarity": {
+        "sim_smith_net": 0.9354838709677419,
+        "sim_in_net": 0.9354838709677419,
+        "sim_gp_net": 0.9180327868852459
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "पूजामृषिपुत्रश्चकार",
+            "b": "पूजां ऋषिपुत्रश्चकार"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "पूजां ऋषिपुत्रश्चकार",
+            "b": "पूजामृषिपुत्रश्चकार"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पूजां ऋषिपुत्रश्चकार",
+            "b": "पूजामूषिपुत्रशचकार"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः",
+      "net": "इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः",
+      "in": "इदमर्ध्यमिदं पाद्यमिदं मूलं फलं च नः",
+      "gp": "इदमर्घ्यमिदं पाद्यमिदं मूलं फलं च नः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.967741935483871,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "इदमर्घ्यमिदं",
+            "b": "इदमर्ध्यमिदं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On going there, then the Sage's son performed worship saying \"Here is our hand-wash, here is our feet-wash, here are our tuber fruits, here are the juicy fruits of ours... \" [1-10-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH R^iShiputraH",
+            "devanagari_machine_converted": "ततः ऋषिपुत्रः",
+            "english": "then, sage's son"
+          },
+          {
+            "roman_itrans": "gataanaam tu",
+            "devanagari_machine_converted": "गतानाम् तु",
+            "english": "then, on going there"
+          },
+          {
+            "roman_itrans": "puujaam chakaara ha",
+            "devanagari_machine_converted": "पूजाम् चकार ह",
+            "english": "sage's son has performed worship verily"
+          },
+          {
+            "roman_itrans": "idam naH arghyam",
+            "devanagari_machine_converted": "इदम् नः अर्घ्यम्",
+            "english": "here is, our, hand-wash"
+          },
+          {
+            "roman_itrans": "idam naH paadyam",
+            "devanagari_machine_converted": "इदम् नः पाद्यम्",
+            "english": "here is, our, foot-wash"
+          },
+          {
+            "roman_itrans": "idam naH muulam",
+            "devanagari_machine_converted": "इदम् नः मूलम्",
+            "english": "this is, our, tuber fruits"
+          },
+          {
+            "roman_itrans": "phalam cha naH",
+            "devanagari_machine_converted": "फलम् च नः",
+            "english": "juicy fruits, also, of ours."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-17",
+        "spans_beyond_this_verse": false,
+        "text": "This portrays the exclusion of the sage's son from the rest of the world by his father. He worshipped the courtesans, as he would worship some super-natural deities by saying the above words, which will usually be used in ritual worship of Hindu deities. He being a fruitarian has offered the courtesans the tuber fruits like sweet potatoes etc., which are ridiculous to urbanites, that too to the pleasure-taking courtesans."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“वहाँ जानेपर ऋषिकुमारने ‘यह अर्घ्य है, यह पाद्य है तथा यह भोजनके लिये फल-मूल प्रस्तुत है’ ऐसा कहते हुए उन सबका विधिवत् पूजन किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "गतानाम्",
+            "hindi": "जाने पर / गई हुई के (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "पूजाम्",
+            "hindi": "पूजा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषिपुत्रः",
+            "hindi": "ऋषि पुत्र ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अर्घ्यम्",
+            "hindi": "अर्घ्य है (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पाद्यम्",
+            "hindi": "पाद्य है (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मूलम्",
+            "hindi": "मूल है (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "फलम्",
+            "hindi": "फल है (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "नः",
+            "hindi": "हमारे लिए (अस्मद्, षष्ठी विभक्ति, बहुवचन, चतुर्थी के अर्थ में)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“वहाँ जानेपर ऋषिकुमारने “यह अर्घ्य है, यह पाद्य है तथा यह भोजनके लिये फल-मूल प्रस्तुत है' ऐसा कहते हुए उन सबका विधिवत्‌ पूजन किया॥ १७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

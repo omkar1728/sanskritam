@@ -1,0 +1,257 @@
+{
+  "id": "baala-002-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 9
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-9"
+    ],
+    "vulgate_in_locators": [
+      "1.2.9"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.9"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002009a",
+        "1002009c"
+      ],
+      "lines": [
+        "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्",
+        "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिस्वनम्"
+      ],
+      "punctuated_derived": "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम् ।\nददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिस्वनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्",
+        "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम्"
+      ],
+      "locators": [
+        "1-2-9"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्",
+        "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम्"
+      ],
+      "locators": [
+        "1.2.9"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्‌",
+        "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.9"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्",
+      "net": "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्",
+      "in": "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्",
+      "gp": "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "चरन्तमनपायिनम्",
+            "b": "चरन्तमनपायिनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिस्वनम्",
+      "net": "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम्",
+      "in": "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम्",
+      "gp": "ददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिःस्वनम्‌",
+      "similarity": {
+        "sim_smith_net": 0.9866666666666667,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "क्रौञ्चयोश्चारुनिस्वनम्",
+            "b": "क्रौञ्चयोश्चारुनिःस्वनम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "क्रौञ्चयोश्चारुनिःस्वनम्",
+            "b": "क्रौञ्चयोश्चारुनिःस्वनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-9",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "There holy sage Valmiki saw a couple of curlews, in the vicinity of that river's foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-9",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "bhagavaan",
+            "devanagari_machine_converted": "भगवान्",
+            "english": "holy [sage]"
+          },
+          {
+            "roman_itrans": "dadarsha",
+            "devanagari_machine_converted": "ददर्श",
+            "english": "saw"
+          },
+          {
+            "roman_itrans": "krounchayoH mithunam",
+            "devanagari_machine_converted": "क्रोउन्चयोः मिथुनम्",
+            "english": "two curlews"
+          },
+          {
+            "roman_itrans": "anapaayinam",
+            "devanagari_machine_converted": "अनपायिनम्",
+            "english": "not leaving one another"
+          },
+          {
+            "roman_itrans": "chaarunisvanam",
+            "devanagari_machine_converted": "चारुनिस्वनम्",
+            "english": "charmingly cooing"
+          },
+          {
+            "roman_itrans": "charantam",
+            "devanagari_machine_converted": "चरन्तम्",
+            "english": "moving about"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "there"
+          },
+          {
+            "roman_itrans": "tasya abhyaashe",
+            "devanagari_machine_converted": "तस्य अभ्याशे",
+            "english": "in its [in foreshore's] vicinity."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके पास ही क्रौञ्च पक्षियोंका एक जोड़ा, जो कभी एक-दूसरेसे अलग नहीं होता था, विचर रहा था। वे दोनों पक्षी बड़ी मधुर बोली बोलते थे। भगवान् वाल्मीकिने पक्षियोंके उस जोड़ेको वहाँ देखा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.9",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उन (वाल्मीकि) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अभ्याशे",
+            "hindi": "समीप में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "मिथुनम्",
+            "hindi": "जोड़े को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चरन्तम्",
+            "hindi": "विचरते हुए (शतृ प्रत्ययान्त, द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अनपायिनम्",
+            "hindi": "अलग न होने वाले को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ददर्श",
+            "hindi": "देखा (दृश् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् (वाल्मीकि) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "क्रौञ्चयोः",
+            "hindi": "दो क्रौञ्च पक्षियों का (षष्ठी विभक्ति, द्विवचन)"
+          },
+          {
+            "sanskrit": "चारुनिःस्वनम्",
+            "hindi": "मधुर बोली वाले को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.9",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उनके पास ही क्रौञ्च पक्षियोंका एक जोड़ा, जो कभी एक-दूसरेसे अलग नहीं होता था, विचर रहा था। वे दोनों पक्षी बड़ी मधुर बोली बोलते थे। भगवान्‌ वाल्मीकिने पक्षियाके उस जोड़ेको वहाँ देखा॥ ९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,294 @@
+{
+  "id": "baala-002-044",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 44,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 41
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-42"
+    ],
+    "vulgate_in_locators": [
+      "1.2.42"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.42"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002041a",
+        "1002041c"
+      ],
+      "lines": [
+        "उदारवृत्तार्थपदैर्मनोरमै;स्तदास्य रामस्य चकार कीर्तिमान्",
+        "समाक्षरैः श्लोकशतैर्यशस्विनो; यशस्करं काव्यमुदारधीर्मुनिः"
+      ],
+      "punctuated_derived": "उदारवृत्तार्थपदैर्मनोरमै;स्तदास्य रामस्य चकार कीर्तिमान् ।\nसमाक्षरैः श्लोकशतैर्यशस्विनो; यशस्करं काव्यमुदारधीर्मुनिः ॥",
+      "pada_split": [
+        {
+          "line_index": 0,
+          "padas": [
+            "उदारवृत्तार्थपदैर्मनोरमै",
+            "स्तदास्य रामस्य चकार कीर्तिमान्"
+          ]
+        },
+        {
+          "line_index": 1,
+          "padas": [
+            "समाक्षरैः श्लोकशतैर्यशस्विनो",
+            " यशस्करं काव्यमुदारधीर्मुनिः"
+          ]
+        }
+      ]
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तदास्य रामस्य चकार कीर्तिमान्",
+        "समाक्षरैः श्लोकशतैर्यशस्विनो"
+      ],
+      "locators": [
+        "1-2-42"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "उदारवृत्तार्थपदैर्मनोरमैस्तदास्य रामस्य चकार कीर्तिमान्",
+        "समाक्षरैः श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारदर्शनः"
+      ],
+      "locators": [
+        "1.2.42"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "समाक्षरैः श्लोकशतैर्यशस्विनो"
+      ],
+      "ocr_flags": [
+        "danda_missing_sanskrit_line_guessed",
+        "leading_text_before_sanskrit_moved_to_unparsed"
+      ],
+      "refs": [
+        "1.2.42"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "उदारवृत्तार्थपदैर्मनोरमै;स्तदास्य रामस्य चकार कीर्तिमान्",
+      "net": "तदास्य रामस्य चकार कीर्तिमान्",
+      "in": "उदारवृत्तार्थपदैर्मनोरमैस्तदास्य रामस्य चकार कीर्तिमान्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 0.6666666666666666,
+        "sim_in_net": 0.6666666666666666
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "उदारवृत्तार्थपदैर्मनोरमैस्तदास्य",
+            "b": "तदास्य"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "तदास्य",
+            "b": "उदारवृत्तार्थपदैर्मनोरमैस्तदास्य"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "समाक्षरैः श्लोकशतैर्यशस्विनो; यशस्करं काव्यमुदारधीर्मुनिः",
+      "net": "समाक्षरैः श्लोकशतैर्यशस्विनो",
+      "in": "समाक्षरैः श्लोकशतैर्यशस्विनो यशस्करं काव्यमुदारदर्शनः",
+      "gp": "समाक्षरैः श्लोकशतैर्यशस्विनो",
+      "similarity": {
+        "sim_smith_net": 0.675,
+        "sim_in_net": 0.7012987012987013,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यशस्करं काव्यमुदारधीर्मुनिः",
+            "b": ""
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "",
+            "b": "यशस्करं काव्यमुदारदर्शनः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-42",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That celebrated sage and magnanimous seer Valmiki then authored the highly renowned Rama's legend extolling Rama's renown, with symmetrically worded verses, and words versified to yield meanings semantically, prosody free-flowing, and with hundreds of such verses. [1-2-42]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-42",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kiirtimaan udaaradhiiH muniH",
+            "devanagari_machine_converted": "कीर्तिमान् उदारधीः मुनिः",
+            "english": "celebrated, magnanimous, seer"
+          },
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "yashasvinaH",
+            "devanagari_machine_converted": "यशस्विनः",
+            "english": "of that highly renowned one(Rama)"
+          },
+          {
+            "roman_itrans": "asya raamasya",
+            "devanagari_machine_converted": "अस्य रामस्य",
+            "english": "of that, Rama"
+          },
+          {
+            "roman_itrans": "yashaskaram kaavyam",
+            "devanagari_machine_converted": "यशस्करम् काव्यम्",
+            "english": "renown, furthering [extolling,] epic"
+          },
+          {
+            "roman_itrans": "udaaravR^ittaarthapadaiH",
+            "devanagari_machine_converted": "उदारवृत्तार्थपदैः",
+            "english": "free-flowing prosody semantically yielding meanings"
+          },
+          {
+            "roman_itrans": "manoramaiH",
+            "devanagari_machine_converted": "मनोरमैः",
+            "english": "heart-pleasing one; samaakSharaiH shlokashataiH = with symmetrical letters verses in hundreds"
+          },
+          {
+            "roman_itrans": "chakaara",
+            "devanagari_machine_converted": "चकार",
+            "english": "authored."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.42",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यह सोचकर उदार दृष्टिवाले उन यशस्वी महर्षिने भगवान् श्रीरामचन्द्रजीके चरित्रको लेकर हजारों श्लोकोंसे युक्त महाकाव्यकी रचना की, जो उनके यशको बढ़ानेवाला है। इसमें श्रीरामके उदार चरित्रोंका प्रतिपादन करनेवाले मनोहर पदोंका प्रयोग किया गया है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.42",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "उदारवृत्तार्थपदैः",
+            "hindi": "उदार चरित्रों वाले अर्थ और पदों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मनोरमैः",
+            "hindi": "मनोहर से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "अस्य",
+            "hindi": "इस (राम) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "कीर्तिमान्",
+            "hindi": "यशस्वी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समाक्षरैः",
+            "hindi": "समान अक्षरों वाले (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्लोकशतैः",
+            "hindi": "सैकड़ों श्लोकों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यशस्विनः",
+            "hindi": "यशस्वी (राम) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "यशस्करम्",
+            "hindi": "यश बढ़ाने वाला (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "काव्यम्",
+            "hindi": "काव्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उदारदर्शनः",
+            "hindi": "उदार दर्शन वाले (वाल्मीकि) ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.42",
+        "ocr_flags": [
+          "danda_missing_sanskrit_line_guessed",
+          "leading_text_before_sanskrit_moved_to_unparsed"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "यह सोचकर उदार दृष्टिवाले उन यशस्वी महिने भगवान्‌ श्रीरामचन्द्रजीके चरित्रको लेकर हजारों श्लोकोंसे युक्त महाकाव्यकी रचना की, जो उनके यशको बढ़ानेवाला है। इसमें श्रीरामके उदार चरित्रोंका प्रतिपादन करनेवाले मनोहर पदोंका प्रयोग किया गया है॥ ४२॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

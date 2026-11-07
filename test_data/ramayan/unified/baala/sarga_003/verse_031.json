@@ -1,0 +1,207 @@
+{
+  "id": "baala-003-031",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 31,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 20
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-30"
+    ],
+    "vulgate_in_locators": [
+      "1.3.30"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.30"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003020c"
+      ],
+      "lines": [
+        "अशोकवनिकायानं सीतायाश्चापि दर्शनम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अशोकवनिकायानं सीतायाश्चापि दर्शनम्"
+      ],
+      "locators": [
+        "1-3-30"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अशोकवनिकायानं सीतायाश्चापि दर्शनम्"
+      ],
+      "locators": [
+        "1.3.30"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अशोकवनिकायानं सीतायाश्चापि दर्शनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_31_differs_from_sanskrit_30"
+      ],
+      "refs": [
+        "1.3.30"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अशोकवनिकायानं सीतायाश्चापि दर्शनम्",
+      "net": "अशोकवनिकायानं सीतायाश्चापि दर्शनम्",
+      "in": "अशोकवनिकायानं सीतायाश्चापि दर्शनम्",
+      "gp": "अशोकवनिकायानं सीतायाश्चापि दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "दर्शनम्",
+            "b": "दर्शनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-30",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Hanuma's seeing Ravana, and also his seeing Pushpaka, the divine aircraft, and wandering in Ashoka gardens, his seeing Seetha also... [1-3-30]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-30",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "darshanam raavaNasya api",
+            "devanagari_machine_converted": "दर्शनम् रावणस्य अपि",
+            "english": "seeing, Ravana, also"
+          },
+          {
+            "roman_itrans": "puSpakasya ca darshanam",
+            "devanagari_machine_converted": "पुष्पकस्य च दर्शनम्",
+            "english": "seeing of Pushpaka [aircraft] also"
+          },
+          {
+            "roman_itrans": "ashokavanikaayaanam",
+            "devanagari_machine_converted": "अशोकवनिकायानम्",
+            "english": "wandering in Ashoka gardens; siitaayaaH ca api darshanam = also, even, seeing Seetha."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "हनुमान जी का रावणको देखना, पुष्पकविमानका निरीक्षण करना, अशोकवाटिकामें जाना और सीताजीके दर्शन करना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.30",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणस्य",
+            "hindi": "रावण का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "पुष्पकस्य",
+            "hindi": "पुष्पक विमान का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन / निरीक्षण (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अशोकवनिकायानम्",
+            "hindi": "अशोक वाटिका में जाना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सीतायाः",
+            "hindi": "सीता का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.30",
+        "ocr_flags": [
+          "hindi_marker_31_differs_from_sanskrit_30"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "अभिज्ञानप्रदानं च सीतायाश्चापि भाषणम्‌ राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम्‌॥ ३१॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

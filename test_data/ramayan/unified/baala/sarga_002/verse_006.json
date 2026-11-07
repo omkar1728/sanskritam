@@ -1,0 +1,239 @@
+{
+  "id": "baala-002-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 6
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-6"
+    ],
+    "vulgate_in_locators": [
+      "1.2.6"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.6"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002006a",
+        "1002006c"
+      ],
+      "lines": [
+        "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+        "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्"
+      ],
+      "punctuated_derived": "न्यस्यतां कलशस्तात दीयतां वल्कलं मम ।\nइदमेवावगाहिष्ये तमसातीर्थमुत्तमम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+        "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्"
+      ],
+      "locators": [
+        "1-2-6"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+        "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्"
+      ],
+      "locators": [
+        "1.2.6"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+        "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.6"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+      "net": "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+      "in": "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+      "gp": "न्यस्यतां कलशस्तात दीयतां वल्कलं मम",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्",
+      "net": "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्",
+      "in": "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्",
+      "gp": "इदमेवावगाहिष्ये तमसातीर्थमुत्तमम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "तमसातीर्थमुत्तमम्",
+            "b": "तमसातीर्थमुत्तमम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-6",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"My dear! Let the hand-vessel [kamaNDalu] be kept [there]. Let my bark-garment be given to me. I will enter this best ford of Tamasa only... [1-2-6]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-6",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "taata",
+            "devanagari_machine_converted": "तात",
+            "english": "my dear"
+          },
+          {
+            "roman_itrans": "nyasyataam kalashaH",
+            "devanagari_machine_converted": "न्यस्यताम् कलशः",
+            "english": "let the hand-vessel [kamaNDalu] be kept [there]"
+          },
+          {
+            "roman_itrans": "mama valkalam diiyataam",
+            "devanagari_machine_converted": "मम वल्कलम् दीयताम्",
+            "english": "let my bark-garment be given"
+          },
+          {
+            "roman_itrans": "avagaahiSye",
+            "devanagari_machine_converted": "अवगाहिष्ये",
+            "english": "I will enter"
+          },
+          {
+            "roman_itrans": "idam",
+            "devanagari_machine_converted": "इदम्",
+            "english": "this"
+          },
+          {
+            "roman_itrans": "uttamam",
+            "devanagari_machine_converted": "उत्तमम्",
+            "english": "best"
+          },
+          {
+            "roman_itrans": "tamasaatiirtham eva",
+            "devanagari_machine_converted": "तमसातीर्थम् एव",
+            "english": "Tamasa ford only."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘तात! यहीं कलश रख दो और मुझे मेरा वल्कल दो। मैं तमसाके इसी उत्तम तीर्थमें स्नान करूँगा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.6",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न्यस्यताम्",
+            "hindi": "रखा जाए (नि + अस्, कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "कलशः",
+            "hindi": "कलश (प्रथमा विभक्ति, कर्ता कर्मवाच्य में)"
+          },
+          {
+            "sanskrit": "तात",
+            "hindi": "हे तात! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "दीयताम्",
+            "hindi": "दिया जाए (दा धातु, कर्मवाच्य, लोट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वल्कलम्",
+            "hindi": "वल्कल वस्त्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मम",
+            "hindi": "मुझे (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "इसी (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अवगाहिष्ये",
+            "hindi": "स्नान करूँगा (अव + गाह्, लृट् लकार, उत्तम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तमसातीर्थम्",
+            "hindi": "तमसा तीर्थ में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उत्तमम्",
+            "hindi": "उत्तम (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.6",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "\"तात! यहीं कलश रख दो और मुझे मेरा वल्कल दो। मैं तमसाके इसी उत्तम तीर्थमें स्नान करूँगा'॥ ६॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

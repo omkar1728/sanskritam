@@ -1,0 +1,292 @@
+{
+  "id": "baala-002-017",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 17,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 16
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-17"
+    ],
+    "vulgate_in_locators": [
+      "1.2.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002016a",
+        "1002016c"
+      ],
+      "lines": [
+        "चिन्तयन्स महाप्राज्ञश्चकार मतिमान्मतिम्",
+        "शिष्यं चैवाब्रवीद्वाक्यमिदं स मुनिपुंगवः"
+      ],
+      "punctuated_derived": "चिन्तयन्स महाप्राज्ञश्चकार मतिमान्मतिम् ।\nशिष्यं चैवाब्रवीद्वाक्यमिदं स मुनिपुंगवः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "चिन्तयन्स महाप्राज्ञश्चकार मतिमान्मतिम्",
+        "शिष्यञ्चैवाब्रवीद्वाक्यमिदं स मुनिपुङ्गवः"
+      ],
+      "locators": [
+        "1-2-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "चिन्तयन् स महाप्राज्ञश्चकार मतिमान्मतिम्",
+        "शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुंगवः"
+      ],
+      "locators": [
+        "1.2.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "चिन्तयन्‌ स महाप्राज्ञश्चकार मतिमान्मतिम्‌",
+        "शिष्यं चैवाब्रवीद्‌ वाक्यमिदं स मुनिपुंगवः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "चिन्तयन्स महाप्राज्ञश्चकार मतिमान्मतिम्",
+      "net": "चिन्तयन्स महाप्राज्ञश्चकार मतिमान्मतिम्",
+      "in": "चिन्तयन् स महाप्राज्ञश्चकार मतिमान्मतिम्",
+      "gp": "चिन्तयन्‌ स महाप्राज्ञश्चकार मतिमान्मतिम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "चिन्तयन्स",
+            "b": "चिन्तयन् स"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "चिन्तयन्स",
+            "b": "चिन्तयन्‌ स"
+          },
+          {
+            "a": "मतिमान्मतिम्",
+            "b": "मतिमान्मतिम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शिष्यं चैवाब्रवीद्वाक्यमिदं स मुनिपुंगवः",
+      "net": "शिष्यञ्चैवाब्रवीद्वाक्यमिदं स मुनिपुङ्गवः",
+      "in": "शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुंगवः",
+      "gp": "शिष्यं चैवाब्रवीद्‌ वाक्यमिदं स मुनिपुंगवः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "शिष्यं चैवाब्रवीद्वाक्यमिदं",
+            "b": "शिष्यञ्चैवाब्रवीद्वाक्यमिदं"
+          },
+          {
+            "a": "मुनिपुंगवः",
+            "b": "मुनिपुङ्गवः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "शिष्यञ्चैवाब्रवीद्वाक्यमिदं",
+            "b": "शिष्यं चैवाब्रवीद् वाक्यमिदं"
+          },
+          {
+            "a": "मुनिपुङ्गवः",
+            "b": "मुनिपुंगवः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शिष्यञ्चैवाब्रवीद्वाक्यमिदं",
+            "b": "शिष्यं चैवाब्रवीद्‌ वाक्यमिदं"
+          },
+          {
+            "a": "मुनिपुङ्गवः",
+            "b": "मुनिपुंगवः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That great wise one who was an intellectual and the best among sages, on cogitating, made up his mind and also spoke these words to the disciple... [1-2-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "saH munipu~ngavaH",
+            "devanagari_machine_converted": "सः मुनिपुञ्गवः",
+            "english": "That best among sages"
+          },
+          {
+            "roman_itrans": "matimaan",
+            "devanagari_machine_converted": "मतिमान्",
+            "english": "[who was] an intellectual"
+          },
+          {
+            "roman_itrans": "mahaapraaj~naH",
+            "devanagari_machine_converted": "महाप्राज्ञः",
+            "english": "[and] a great wise one"
+          },
+          {
+            "roman_itrans": "chintayan",
+            "devanagari_machine_converted": "चिन्तयन्",
+            "english": "on cogitating"
+          },
+          {
+            "roman_itrans": "matim chakaara",
+            "devanagari_machine_converted": "मतिम् चकार",
+            "english": "made up [his] mind"
+          },
+          {
+            "roman_itrans": "idam vaakyam abraviit cha eva",
+            "devanagari_machine_converted": "इदम् वाक्यम् अब्रवीत् च एव",
+            "english": "and also spoke these words"
+          },
+          {
+            "roman_itrans": "shiShyam",
+            "devanagari_machine_converted": "शिष्यम्",
+            "english": "to the disciple."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यही सोचते हुए महाज्ञानी और परम बुद्धिमान् मुनिवर वाल्मीकि एक निश्चयपर पहुँच गये और अपने शिष्यसे इस प्रकार बोले-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चिन्तयन्",
+            "hindi": "सोचते हुए (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महाप्राज्ञः",
+            "hindi": "महाज्ञानी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "चकार",
+            "hindi": "किया (कृ धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "मतिमान्",
+            "hindi": "बुद्धिमान ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मतिम्",
+            "hindi": "निश्चय को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शिष्यम्",
+            "hindi": "शिष्य से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "अब्रवीत्",
+            "hindi": "बोले (ब्रू धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वाक्यम्",
+            "hindi": "वचन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इदम्",
+            "hindi": "यह (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिपुंगवः",
+            "hindi": "मुनिश्रेष्ठ ने (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "यही सोचते हुए महाज्ञानी और परम बुद्धिमान्‌ श्रीमद्वाल्मीकीयरामायणे क नौ मुनिवर वाल्मीकि एक निश्चयपर पहुँच गये और अपने शिष्यसे इस प्रकार बोले-॥ १७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

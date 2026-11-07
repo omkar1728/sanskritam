@@ -1,0 +1,393 @@
+{
+  "id": "baala-004-031",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 31,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-33",
+      "1-4-34"
+    ],
+    "vulgate_in_locators": [
+      "1.4.33"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.33",
+      "1.4.34"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तौ चापि मधुरं रक्तं स्वञ्चितायतनिःस्वनम्",
+        "तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम्",
+        "ह्लादयत्सर्वगात्राणि मनांसि हृदयानि च",
+        "श्रोत्राश्रयसुखं गेयं तद्बभौ जनसंसदि"
+      ],
+      "locators": [
+        "1-4-33",
+        "1-4-34"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम्",
+        "तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम्",
+        "लादयत् सर्वगात्राणि मनांसि हृदयानि च",
+        "श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि"
+      ],
+      "locators": [
+        "1.4.33"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम्‌",
+        "तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम्‌",
+        "ह्वादयत्‌ सर्वगात्राणि मनांसि हृदयानि च",
+        "शरोत्राश्रयसुखं गेयं तद्‌ बभौ जनसंसदि"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_33-34",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.4.33",
+        "1.4.34"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "तौ चापि मधुरं रक्तं स्वञ्चितायतनिःस्वनम्",
+      "in": "तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम्",
+      "gp": "तौ चापि मधुरं रक्तं स्वचित्तायतनिःस्वनम्‌",
+      "similarity": {
+        "sim_in_net": 0.9565217391304348,
+        "sim_gp_net": 0.9565217391304348
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "स्वञ्चितायतनिःस्वनम्",
+            "b": "स्वचित्तायतनिःस्वनम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "स्वञ्चितायतनिःस्वनम्",
+            "b": "स्वचित्तायतनिःस्वनम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम्",
+      "in": "तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम्",
+      "gp": "तन्त्रीलयवदत्यर्थं विश्रुतार्थमगायताम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "विश्रुतार्थमगायताम्",
+            "b": "विश्रुतार्थमगायताम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "ह्लादयत्सर्वगात्राणि मनांसि हृदयानि च",
+      "in": "लादयत् सर्वगात्राणि मनांसि हृदयानि च",
+      "gp": "ह्वादयत्‌ सर्वगात्राणि मनांसि हृदयानि च",
+      "similarity": {
+        "sim_in_net": 0.9696969696969697,
+        "sim_gp_net": 0.9705882352941176
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "ह्लादयत्सर्वगात्राणि",
+            "b": "लादयत् सर्वगात्राणि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ह्लादयत्सर्वगात्राणि",
+            "b": "ह्वादयत्‌ सर्वगात्राणि"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "श्रोत्राश्रयसुखं गेयं तद्बभौ जनसंसदि",
+      "in": "श्रोत्राश्रयसुखं गेयं तद् बभौ जनसंसदि",
+      "gp": "शरोत्राश्रयसुखं गेयं तद्‌ बभौ जनसंसदि",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9846153846153847
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तद्बभौ",
+            "b": "तद् बभौ"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "श्रोत्राश्रयसुखं",
+            "b": "शरोत्राश्रयसुखं"
+          },
+          {
+            "a": "तद्बभौ",
+            "b": "तद्‌ बभौ"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-33",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Even those two singers have sung the ballad melodiously and effectually, with their clear and clarified voices, like the melody of string and rhythmic instruments, with very clear and meaningful intonation. [1-4-33]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-34",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Enthralling courtier's bodies, minds and hearts also, and thus that song shone forth as it is for all ears, bearing a comfort in its manifestation, among the gathering of the people. [1-4-34]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-33",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tau cha api madhuram",
+            "devanagari_machine_converted": "तौ च अपि मधुरम्",
+            "english": "those two, even, melodiously"
+          },
+          {
+            "roman_itrans": "raktam sva~chitaayataniHsvanan",
+            "devanagari_machine_converted": "रक्तम् स्वऽचितायतनिःस्वनन्",
+            "english": "effectually, with clear and clarified voices"
+          },
+          {
+            "roman_itrans": "tantriilayavat",
+            "devanagari_machine_converted": "तन्त्रीलयवत्",
+            "english": "rhythmic like string-instrument"
+          },
+          {
+            "roman_itrans": "atyartham",
+            "devanagari_machine_converted": "अत्यर्थम्",
+            "english": "very"
+          },
+          {
+            "roman_itrans": "vishrutaartham agaayataam",
+            "devanagari_machine_converted": "विश्रुतार्थम् अगायताम्",
+            "english": "clear meaningful [intonation,] have sung."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-34",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shrotraashrayasukham",
+            "devanagari_machine_converted": "श्रोत्राश्रयसुखम्",
+            "english": "bearing comfort for all ears"
+          },
+          {
+            "roman_itrans": "geyam",
+            "devanagari_machine_converted": "गेयम्",
+            "english": "that song"
+          },
+          {
+            "roman_itrans": "janasamsadi",
+            "devanagari_machine_converted": "जनसम्सदि",
+            "english": "in people's gathering"
+          },
+          {
+            "roman_itrans": "sarvagaatraaNi",
+            "devanagari_machine_converted": "सर्वगात्राणि",
+            "english": "for all bodies [courtiers]"
+          },
+          {
+            "roman_itrans": "manaamsi hR^idayaani cha",
+            "devanagari_machine_converted": "मनाम्सि हृदयानि च",
+            "english": "minds, hearts, also"
+          },
+          {
+            "roman_itrans": "hlaadayat",
+            "devanagari_machine_converted": "ह्लादयत्",
+            "english": "enthralling,"
+          },
+          {
+            "roman_itrans": "tat babhau",
+            "devanagari_machine_converted": "तत् बभौ",
+            "english": "that, shone forth."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.33",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "आज्ञा पाकर वे दोनों भाई वीणाके लयके साथ अपने मनके अनुकूल तार (उच्च) एवं मधुर स्वरमें राग अलापते हुए रामायणकाव्यका गान करने लगे। उनका उच्चारण इतना स्पष्ट था कि सुनते ही अर्थका बोध हो जाता था। उनका गान सुनकर श्रोताओंके समस्त अंगोंमें हर्षजनित रोमाञ्च हो आया तथा उन सबके मन और आत्मामें आनन्दकी तरंगें उठने लगीं। उस जनसभामें होनेवाला वह गान सबकी श्रवणेन्द्रियोंको अत्यन्त सुखद प्रतीत होता था।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.33",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तौ",
+            "hindi": "वे दोनों"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी"
+          },
+          {
+            "sanskrit": "मधुरम्",
+            "hindi": "मधुर"
+          },
+          {
+            "sanskrit": "रक्तम्",
+            "hindi": "रागयुक्त"
+          },
+          {
+            "sanskrit": "स्वचित्तायतनिःस्वनम्",
+            "hindi": "मन के अनुकूल तार और मधुर स्वर वाला"
+          },
+          {
+            "sanskrit": "तन्त्रीलयवत्",
+            "hindi": "वीणा के लय के साथ"
+          },
+          {
+            "sanskrit": "अत्यर्थम्",
+            "hindi": "बहुत अधिक"
+          },
+          {
+            "sanskrit": "विश्रुतार्थम्",
+            "hindi": "सुनते ही अर्थ बोध होने वाला / स्पष्ट अर्थ वाला"
+          },
+          {
+            "sanskrit": "अगायताम्",
+            "hindi": "गाने लगे"
+          },
+          {
+            "sanskrit": "अलादयत्",
+            "hindi": "हर्ष से रोमांचित कर दिया"
+          },
+          {
+            "sanskrit": "सर्वगात्राणि",
+            "hindi": "सभी अंगों को"
+          },
+          {
+            "sanskrit": "मनांसि",
+            "hindi": "मनों को"
+          },
+          {
+            "sanskrit": "हृदयानि",
+            "hindi": "हृदयों को"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "श्रोत्राश्रयसुखम्",
+            "hindi": "श्रोत्रों को सुख देने वाला"
+          },
+          {
+            "sanskrit": "गेयम्",
+            "hindi": "गान"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "वह"
+          },
+          {
+            "sanskrit": "बभौ",
+            "hindi": "शोभित हुआ"
+          },
+          {
+            "sanskrit": "जनसंसदि",
+            "hindi": "जनसभा में"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.33",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "आज्ञा पाकर वे दोनों भाई वीणाके लयके साथ अपने मनके अनुकूल तार (उच्च) एवं मधुर स्वरमें राग अलापते हुए रामायणकाव्यका गान करने लगे। उनका उच्चारण इतना स्पष्ट था कि सुनते ही अर्थका बोध हो जाता था। उनका गान सुनकर श्रोताओंके समस्त अंगोंमें हर्षजनित रोमाञ्च हो आया तथा उन सबके मन और आत्मामें आनन्दकी तरंगें उठने लगीं। उस जनसभामें होनेवाला वह गान सबकी श्रवणेन्द्रियांको अत्यन्त सुखद प्रतीत होता था॥ ३३-३४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.34",
+        "ocr_flags": [
+          "hindi_marker_range_33-34"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "आज्ञा पाकर वे दोनों भाई वीणाके लयके साथ अपने मनके अनुकूल तार (उच्च) एवं मधुर स्वरमें राग अलापते हुए रामायणकाव्यका गान करने लगे। उनका उच्चारण इतना स्पष्ट था कि सुनते ही अर्थका बोध हो जाता था। उनका गान सुनकर श्रोताओंके समस्त अंगोंमें हर्षजनित रोमाञ्च हो आया तथा उन सबके मन और आत्मामें आनन्दकी तरंगें उठने लगीं। उस जनसभामें होनेवाला वह गान सबकी श्रवणेन्द्रियांको अत्यन्त सुखद प्रतीत होता था॥ ३३-३४॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,251 @@
+{
+  "id": "baala-003-005",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 5,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 4
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-11"
+    ],
+    "vulgate_in_locators": [
+      "1.3.11"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.11"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003004a",
+        "1003004c"
+      ],
+      "lines": [
+        "नानाचित्राः कथाश्चान्या विश्वामित्रसहायने",
+        "जानक्याश्च विवाहं च धनुषश्च विभेदनम्"
+      ],
+      "punctuated_derived": "नानाचित्राः कथाश्चान्या विश्वामित्रसहायने ।\nजानक्याश्च विवाहं च धनुषश्च विभेदनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "नानाचित्रकथाश्चान्या विश्वामित्रसमागमे",
+        "जानक्याश्च विवाहं च धनुषश्च विभेदनम्"
+      ],
+      "locators": [
+        "1-3-11"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "नाना चित्राः कथाश्चान्या विश्वामित्रसहायने",
+        "जानक्याश्च विवाहं च धनुषश्च विभेदनम्"
+      ],
+      "locators": [
+        "1.3.11"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "नाना चित्राः कथाश्चान्या विश्वामित्रसहायने",
+        "जानक्याश्च विवाहं च धनुषश्च विभेदनम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.3.11"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "नानाचित्राः कथाश्चान्या विश्वामित्रसहायने",
+      "net": "नानाचित्रकथाश्चान्या विश्वामित्रसमागमे",
+      "in": "नाना चित्राः कथाश्चान्या विश्वामित्रसहायने",
+      "gp": "नाना चित्राः कथाश्चान्या विश्वामित्रसहायने",
+      "similarity": {
+        "sim_smith_net": 0.8918918918918919,
+        "sim_in_net": 0.8918918918918919,
+        "sim_gp_net": 0.8918918918918919
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "नानाचित्राः कथाश्चान्या विश्वामित्रसहायने",
+            "b": "नानाचित्रकथाश्चान्या विश्वामित्रसमागमे"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "नानाचित्रकथाश्चान्या विश्वामित्रसमागमे",
+            "b": "नाना चित्राः कथाश्चान्या विश्वामित्रसहायने"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "नानाचित्रकथाश्चान्या विश्वामित्रसमागमे",
+            "b": "नाना चित्राः कथाश्चान्या विश्वामित्रसहायने"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "जानक्याश्च विवाहं च धनुषश्च विभेदनम्",
+      "net": "जानक्याश्च विवाहं च धनुषश्च विभेदनम्",
+      "in": "जानक्याश्च विवाहं च धनुषश्च विभेदनम्",
+      "gp": "जानक्याश्च विवाहं च धनुषश्च विभेदनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "विभेदनम्",
+            "b": "विभेदनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-11",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Narrated are very many other amusing stories, Rama's breaking the great bow; his associated with sage vishvamitra... [1-3-11]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-11",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "anyaaH naanaachitrakathaaH ca",
+            "devanagari_machine_converted": "अन्याः नानाचित्रकथाः च",
+            "english": "other, very many amusing stories, also"
+          },
+          {
+            "roman_itrans": "vishvaamitrasamaagame",
+            "devanagari_machine_converted": "विश्वामित्रसमागमे",
+            "english": "associated with Viswamitra"
+          },
+          {
+            "roman_itrans": "jaanakyaaH ca vivaaham ca",
+            "devanagari_machine_converted": "जानक्याः च विवाहम् च",
+            "english": "also marriage with Janaki and"
+          },
+          {
+            "roman_itrans": "dhanuSaH ca vibhedanam",
+            "devanagari_machine_converted": "धनुषः च विभेदनम्",
+            "english": "breaking of great bow; [are narrated.]"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "विश्वामित्रजीके साथ श्रीराम-लक्ष्मणके जानेपर जो उनके द्वारा नाना प्रकारकी विचित्र लीलाएँ तथा अद्भुत बातें घटित हुईं, उन सबका इसमें महर्षिने वर्णन किया। श्रीरामद्वारा मिथिलामें धनुषके तोड़े जाने तथा जनकनन्दिनी सीता और उर्मिला आदिके विवाहका भी इसमें चित्रण किया।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.11",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "नाना",
+            "hindi": "नाना प्रकार की (अव्यय)"
+          },
+          {
+            "sanskrit": "चित्राः",
+            "hindi": "विचित्र / अद्भुत (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कथाः",
+            "hindi": "कथाओं / बातों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्याः",
+            "hindi": "अन्य (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विश्वामित्रसहायने",
+            "hindi": "विश्वामित्र की सहायता करने में (उनके साथ जाने पर) (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "जानक्याः",
+            "hindi": "जानकी (सीता) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "विवाहम्",
+            "hindi": "विवाह को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "धनुषः",
+            "hindi": "धनुष का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "विभेदनम्",
+            "hindi": "तोड़ना / भेदन करना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.11",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "विश्वामित्रजीके साथ श्रीराम-लक्ष्मणके जानेपर जो उनके द्वारा नाना प्रकारकी विचित्र लीलाएँ तथा अद्भुत बातें घटित हुईं, उन सबका इसमें महर्षिने वर्णन किया। श्रीरामद्वारा मिथिलामें धनुषके तोड़े जाने तथा जनकनन्दिनी सीता और उर्मिला आदिके विवाहका भी इसमें चित्रण किया॥ ११॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

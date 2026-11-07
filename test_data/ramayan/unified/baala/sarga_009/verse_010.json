@@ -1,0 +1,439 @@
+{
+  "id": "baala-009-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 8
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-3, 1-9-4",
+      "1-9-5"
+    ],
+    "vulgate_in_locators": [
+      "1.9.3",
+      "1.9.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.4",
+      "1.9.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008008a",
+        "1008008c"
+      ],
+      "lines": [
+        "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+        "नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्"
+      ],
+      "punctuated_derived": "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा ।\nनान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+        "नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्"
+      ],
+      "locators": [
+        "1-9-3, 1-9-4",
+        "1-9-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+        "नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्"
+      ],
+      "locators": [
+        "1.9.3",
+        "1.9.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+        "जान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_53_differs_from_sanskrit_5",
+        "hindi_marker_range_3-4"
+      ],
+      "refs": [
+        "1.9.4",
+        "1.9.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+      "net": "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+      "in": "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+      "gp": "स वने नित्यसंवृद्धो मुनिर्वनचरः सदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्",
+      "net": "नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्",
+      "in": "नान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्",
+      "gp": "जान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9767441860465116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "नान्यं",
+            "b": "जान्यं"
+          },
+          {
+            "a": "पित्रनुवर्तनात्",
+            "b": "पित्रनुवर्तनात्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-3, 1-9-4",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He said that \"Sage Kashyapa has a son known as Vibhaandaka, and his son will be the renowned Sage Rishyasringa, and that Sage Rishyasringa will grow up in forests, and will always be dwelling in forest... [1-9-3b, 4]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-5",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": ""
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-3, 1-9-4",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "3b, 4. kaashyapasya ca putraH asti",
+            "devanagari_machine_converted": "३ब्, ४। काश्यपस्य च पुत्रः अस्ति",
+            "english": "Sage Kashyapa has a son"
+          },
+          {
+            "roman_itrans": "vibhaaNDakaH iti shrutaH",
+            "devanagari_machine_converted": "विभाण्डकः इति श्रुतः",
+            "english": "thus known as Vibhaandaka"
+          },
+          {
+            "roman_itrans": "tasya putraH",
+            "devanagari_machine_converted": "तस्य पुत्रः",
+            "english": "his son [Vibhandaka's son,] will be"
+          },
+          {
+            "roman_itrans": "RishyasringaH iti khyaataH bhaviShyati",
+            "devanagari_machine_converted": "ऱिश्यस्रिन्गः इति ख्यातः भविष्यति",
+            "english": "thus will be renowned as Rishyasringa"
+          },
+          {
+            "roman_itrans": "saH muniH vane nityasamvR^iddhaH",
+            "devanagari_machine_converted": "सः मुनिः वने नित्यसम्वृद्धः",
+            "english": "he, that saint [Rishyasringa,] always grown up in forest"
+          },
+          {
+            "roman_itrans": "vanacharaH sadaa",
+            "devanagari_machine_converted": "वनचरः सदा",
+            "english": "[that sage] Rishyasringa always forestdweller."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-5",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "viprendraH",
+            "devanagari_machine_converted": "विप्रेन्द्रः",
+            "english": "the best Brahman"
+          },
+          {
+            "roman_itrans": "na anyam jaanaati",
+            "devanagari_machine_converted": "न अन्यम् जानाति",
+            "english": "not knowing others"
+          },
+          {
+            "roman_itrans": "nityam pitranuvartanaat",
+            "devanagari_machine_converted": "नित्यम् पित्रनुवर्तनात्",
+            "english": "always abiding father"
+          },
+          {
+            "roman_itrans": "dvaividhyam",
+            "devanagari_machine_converted": "द्वैविध्यम्",
+            "english": "hindrance [two kinds]"
+          },
+          {
+            "roman_itrans": "brahmacharyasya",
+            "devanagari_machine_converted": "ब्रह्मचर्यस्य",
+            "english": "of his celibacy"
+          },
+          {
+            "roman_itrans": "bhaviSyati",
+            "devanagari_machine_converted": "भविष्यति",
+            "english": "he will be following/will occur to him"
+          },
+          {
+            "roman_itrans": "mahaatmanaH",
+            "devanagari_machine_converted": "महात्मनः",
+            "english": "to that great soul."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-3, 1-9-4",
+        "spans_beyond_this_verse": true,
+        "text": "Here the word used by Sumantra is tava putraagamam , it renders as 'the arrival of your sons', meaning that sons of King Dasharatha arrive from Heavens, but not through an ordinary parturition. Even earlier in time to that of Dasharatha, Sage Sanatkumara predicted the 'arrival' of Vishnu as Rama. The birth-event associated with Rishyasringa's name is that he is born with a horn on the crown of his head. Thus he is named as Rishyasringa, i.e., em> R^iSi the Sage; shR^i~Nga horn; a Sage with a horn on his forehead at his birth time. This being the mythological import, he is an acme among sages, as shR^i~Nga also means a peak."
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-5",
+        "spans_beyond_this_verse": true,
+        "text": "The word dvaividhyam also means two kinds of celibacy, vratitva and prajaapatyam. One, as a bachelor and the other after marriage, voluntarily distancing away from his wife on certain forbidden days like full moon and new moon days, during daytime, eclipses, and other astronomical occurrences and some more. This kind of self-imposed celibacy is one way of observing sustained family planning methods, instead of resorting to medicaments. Here, this word is more nearer to mean 'hindrance', than to mean the 'two way celibacy' as deciphered by some commentators."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.3",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘उन्होंने कहा था, मुनिवरो! महर्षि काश्यप के विभाण्डक नाम से प्रसिद्ध एक पुत्र हैं। उनके भी एक पुत्र होगा, जिसकी लोगों में ऋष्यशृंग नाम से प्रसिद्धि होगी। वे ऋष्यशृंग मुनि सदा वन में ही रहेंगे और वन में ही सदा लालन-पालन पाकर वे बड़े होंगे।"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.5",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘सदा पिताके ही साथ रहने के कारण विप्रवर ऋष्यशृंग दूसरे किसी को नहीं जानेंगे। राजन्! लोक में ब्रह्मचर्य के दो रूप विख्यात हैं और ब्राह्मणों ने सदा उन दोनों स्वरूपोंका वर्णन किया है। एक तो है दण्ड, मेखला आदि धारणरूप मुख्य ब्रह्मचर्य और दूसरा है ऋतुकाल में पत्नी-समागमरूप गौण ब्रह्मचर्य। उन महात्माके द्वारा उक्त दोनों प्रकार के ब्रह्मचर्यों का पालन होगा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.3",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "काश्यपस्य",
+            "hindi": "काश्यप मुनि के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "पुत्रः",
+            "hindi": "पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अस्ति",
+            "hindi": "हैं (अस् धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विभाण्डकः",
+            "hindi": "विभाण्डक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "श्रुतः",
+            "hindi": "प्रसिद्ध हैं (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "ऋष्यशृङ्गः",
+            "hindi": "ऋष्यशृंग (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इति",
+            "hindi": "इस प्रकार (अव्यय)"
+          },
+          {
+            "sanskrit": "ख्यातः",
+            "hindi": "प्रसिद्ध होंगे (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उसके (विभाण्डक के) (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रः",
+            "hindi": "पुत्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "होगा (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वने",
+            "hindi": "वन में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यसंवृद्धः",
+            "hindi": "सदा वन में ही पला-बढ़ा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वनचरः",
+            "hindi": "वन में विचरने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सदा",
+            "hindi": "सदा (अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.5",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "अन्यम्",
+            "hindi": "दूसरे किसी को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जानाति",
+            "hindi": "जानता है (ज्ञा धातु, लट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विप्रेन्द्रः",
+            "hindi": "विप्रवर / ब्राह्मणश्रेष्ठ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यम्",
+            "hindi": "सदा (अव्यय)"
+          },
+          {
+            "sanskrit": "पित्रनुवर्तनात्",
+            "hindi": "पिता के अनुवर्तन / साथ रहने के कारण (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दैविध्यम्",
+            "hindi": "दो प्रकार का (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ब्रह्मचर्यस्य",
+            "hindi": "ब्रह्मचर्य का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भविष्यति",
+            "hindi": "होगा (भू धातु, लृट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "महात्मनः",
+            "hindi": "महात्मा के द्वारा (षष्ठी विभक्ति, कर्तृवाच्य में)"
+          },
+          {
+            "sanskrit": "लोकेषु",
+            "hindi": "लोकों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "प्रथितम्",
+            "hindi": "विख्यात है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "राजन्",
+            "hindi": "हे राजन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "विप्रैः",
+            "hindi": "ब्राह्मणों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "कथितम्",
+            "hindi": "वर्णित है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सदा",
+            "hindi": "सदा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.4",
+        "ocr_flags": [
+          "hindi_marker_range_3-4"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "“उन्होंने कहा था, मुनिवरो! महर्षि काश्यपके विभाण्डक नामसे प्रसिद्ध एक पुत्र हैं। उनके भी एक पुत्र होगा, जिसकी लोगोंमें ऋष्यश्ंग नामसे प्रसिद्धि होगी। वे ऋष्यशृंग मुनि सदा वनमें ही रहेंगे और वनमें ही सदा लालन-पालन पाकर वे बड़े होंगे॥ ३-४॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.5",
+        "ocr_flags": [
+          "hindi_marker_53_differs_from_sanskrit_5"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "लोकेषु प्रथितं राजन्‌ विप्रैश्च कथितं सदा। “सदा पिताके ही साथ रहनेके कारण विप्रवर ऋष्यशृंग दूसरे किसीको नहीं जानेंगे। राजन्‌! लोकमें ब्रह्मचर्यके दो रूप विख्यात हैं और ब्राह्मणोंने सदा उन दोनों स्वरूपाका वर्णन किया है। एक तो है दण्ड, मेखला आदि धारणरूप मुख्य ब्रह्मचर्यं और दूसरा है ऋतुकालमें पत्नी-समागमरूप गौण ब्रह्मचर्य। उन महात्माके द्वारा उक्त दोनों प्रकारके ब्रह्मचयाँका पालन होगा॥५३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

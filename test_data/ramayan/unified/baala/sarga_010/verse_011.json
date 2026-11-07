@@ -1,0 +1,257 @@
+{
+  "id": "baala-010-011",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 11,
+  "refs": {
+    "critical_smith": {
+      "sarga": 9,
+      "verse": 10
+    },
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-10"
+    ],
+    "vulgate_in_locators": [
+      "1.10.10"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.10"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1009010a",
+        "1009010c"
+      ],
+      "lines": [
+        "ततः कदाचित्तं देशमाजगाम यदृच्छया",
+        "विभाण्डकसुतस्तत्र ताश्चापश्यद्वराङ्गनाः"
+      ],
+      "punctuated_derived": "ततः कदाचित्तं देशमाजगाम यदृच्छया ।\nविभाण्डकसुतस्तत्र ताश्चापश्यद्वराङ्गनाः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ततः कदाचित्तं देशमाजगाम यदृच्छया",
+        "विभाण्डकसुतस्तत्र ताश्चापश्यद्वरांगनाः"
+      ],
+      "locators": [
+        "1-10-10"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ततः कदाचित् तं देशमाजगाम यदृच्छया",
+        "विभाण्डकसुतस्तत्र ताश्चापश्यद् वरांगनाः"
+      ],
+      "locators": [
+        "1.10.10"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ततः कदाचित्‌ तं देशमाजगाम यदूच्छया",
+        "विभाण्डकसुतस्तत्र ताश्चापश्यद्‌ वरांगनाः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.10"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ततः कदाचित्तं देशमाजगाम यदृच्छया",
+      "net": "ततः कदाचित्तं देशमाजगाम यदृच्छया",
+      "in": "ततः कदाचित् तं देशमाजगाम यदृच्छया",
+      "gp": "ततः कदाचित्‌ तं देशमाजगाम यदूच्छया",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9655172413793104
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कदाचित्तं",
+            "b": "कदाचित् तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कदाचित्तं",
+            "b": "कदाचित्‌ तं"
+          },
+          {
+            "a": "यदृच्छया",
+            "b": "यदूच्छया"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विभाण्डकसुतस्तत्र ताश्चापश्यद्वराङ्गनाः",
+      "net": "विभाण्डकसुतस्तत्र ताश्चापश्यद्वरांगनाः",
+      "in": "विभाण्डकसुतस्तत्र ताश्चापश्यद् वरांगनाः",
+      "gp": "विभाण्डकसुतस्तत्र ताश्चापश्यद्‌ वरांगनाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "ताश्चापश्यद्वराङ्गनाः",
+            "b": "ताश्चापश्यद्वरांगनाः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "ताश्चापश्यद्वरांगनाः",
+            "b": "ताश्चापश्यद् वरांगनाः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "ताश्चापश्यद्वरांगनाः",
+            "b": "ताश्चापश्यद्‌ वरांगनाः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-10",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then at one time Rishyasringa casually arrived at that place, and has seen those comely females. [1-10-10]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-10",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH kadaachit",
+            "devanagari_machine_converted": "ततः कदाचित्",
+            "english": "then, at one time"
+          },
+          {
+            "roman_itrans": "vibhaaNDakasutaH",
+            "devanagari_machine_converted": "विभाण्डकसुतः",
+            "english": "Vibhandaka's son Rishyasringa"
+          },
+          {
+            "roman_itrans": "yadR^icChayaa tam desham aajagaama",
+            "devanagari_machine_converted": "यदृच्छया तम् देशम् आजगाम",
+            "english": "casually came to that place"
+          },
+          {
+            "roman_itrans": "tatra taaH varaanganaaH apashyat",
+            "devanagari_machine_converted": "तत्र ताः वरान्गनाः अपश्यत्",
+            "english": "there has seen them comely females."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "“तदनन्तर एक दिन विभाण्डककुमार ऋष्यशृंग अकस्मात् घूमते-फिरते उस स्थानपर चले आये, जहाँ वे वेश्याएँ ठहरी हुई थीं। वहाँ उन्होंने उन सुन्दरी वनिताओंको देखा।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.10",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "कदाचित्",
+            "hindi": "एक दिन (अव्यय)"
+          },
+          {
+            "sanskrit": "तम्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "देशम्",
+            "hindi": "स्थान / देश में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आजगाम",
+            "hindi": "आ गया (आ + गम्, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "यदृच्छया",
+            "hindi": "अकस्मात् / संयोगवश (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विभाण्डकसुतः",
+            "hindi": "विभाण्डक के पुत्र (ऋष्यशृंग) ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "ताः",
+            "hindi": "उन (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "अपश्यत्",
+            "hindi": "देखा (दृश् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "वराङ्गनाः",
+            "hindi": "उत्तम स्त्रियों / सुन्दरी वनिताओं को (द्वितीया विभक्ति, बहुवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.10",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "\"तदनन्तर एक दिन विभाण्डककुमार ऋष्यशृंग अकस्मात्‌ घूमते-फिरते उस स्थानपर चले आये, जहाँ वे वेश्याएँ ठहरी हुई थीं। वहाँ उन्होंने उन सुन्दरी वनिताओंको देखा॥ १०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

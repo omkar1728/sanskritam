@@ -1,0 +1,283 @@
+{
+  "id": "baala-002-041",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 41,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 39
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-40"
+    ],
+    "vulgate_in_locators": [
+      "1.2.40"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.40"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002039a",
+        "1002039c"
+      ],
+      "lines": [
+        "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा",
+        "सोऽनुव्याहरणाद्भूयः शोकः श्लोकत्वमागतः"
+      ],
+      "punctuated_derived": "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा ।\nसोऽनुव्याहरणाद्भूयः शोकः श्लोकत्वमागतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा",
+        "सोऽनुव्याहरणाद् भूयः श्लोकः श्लोकत्वमागतः"
+      ],
+      "locators": [
+        "1-2-40"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा",
+        "सोऽनुव्याहरणाद् भूयः शोकः श्लोकत्वमागतः"
+      ],
+      "locators": [
+        "1.2.40"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "समाक्षरैश्चतुर्िर्यः पादैगीतो महर्षिणा",
+        "सोऽनुव्याहरणाद्‌ भूयः शोकः श्लोकत्वमागतः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.40"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा",
+      "net": "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा",
+      "in": "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो महर्षिणा",
+      "gp": "समाक्षरैश्चतुर्िर्यः पादैगीतो महर्षिणा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.96
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "समाक्षरैश्चतुर्भिर्यः पादैर्गीतो",
+            "b": "समाक्षरैश्चतुर्िर्यः पादैगीतो"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सोऽनुव्याहरणाद्भूयः शोकः श्लोकत्वमागतः",
+      "net": "सोऽनुव्याहरणाद् भूयः श्लोकः श्लोकत्वमागतः",
+      "in": "सोऽनुव्याहरणाद् भूयः शोकः श्लोकत्वमागतः",
+      "gp": "सोऽनुव्याहरणाद्‌ भूयः शोकः श्लोकत्वमागतः",
+      "similarity": {
+        "sim_smith_net": 0.9722222222222222,
+        "sim_in_net": 0.9722222222222222,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "सोऽनुव्याहरणाद्भूयः शोकः",
+            "b": "सोऽनुव्याहरणाद् भूयः श्लोकः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "श्लोकः",
+            "b": "शोकः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सोऽनुव्याहरणाद्",
+            "b": "सोऽनुव्याहरणाद्‌"
+          },
+          {
+            "a": "श्लोकः",
+            "b": "शोकः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-40",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Equally lettered, four-footed is that verse when great Sage Valmiki articulated it, and when repetitively recited by one and all, it attained prominence as verse proper. [1-2-40]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-40",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "yaH",
+            "devanagari_machine_converted": "यः",
+            "english": "that which is"
+          },
+          {
+            "roman_itrans": "samaakSharaiH",
+            "devanagari_machine_converted": "समाक्षरैः",
+            "english": "equally lettered"
+          },
+          {
+            "roman_itrans": "chaturbhiH",
+            "devanagari_machine_converted": "चतुर्भिः",
+            "english": "four; paadaiH = footed"
+          },
+          {
+            "roman_itrans": "maharSiNaa",
+            "devanagari_machine_converted": "महर्षिणा",
+            "english": "by great sage"
+          },
+          {
+            "roman_itrans": "giitaH",
+            "devanagari_machine_converted": "गीतः",
+            "english": "articulated"
+          },
+          {
+            "roman_itrans": "saH shlokaH",
+            "devanagari_machine_converted": "सः श्लोकः",
+            "english": "that, verse"
+          },
+          {
+            "roman_itrans": "anuvyaaharaNaat",
+            "devanagari_machine_converted": "अनुव्याहरणात्",
+            "english": "by recitation"
+          },
+          {
+            "roman_itrans": "bhuuyaH",
+            "devanagari_machine_converted": "भूयः",
+            "english": "again, further"
+          },
+          {
+            "roman_itrans": "shlokatvam",
+            "devanagari_machine_converted": "श्लोकत्वम्",
+            "english": "prominence of verse proper; aagaataH = attained."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-40",
+        "spans_beyond_this_verse": false,
+        "text": "Comment: A poet never says poetry to satisfy his own instincts, but to imbue an involuntary imagination or passion in others when read or heard by the so called others. It is the empathy of that poetry. For Kalidasa it is shR^ingaara, passion, for Bhavabhuti it is pity 'eko rasaH karuNaH...' for Valmiki it is pathos, shoka. For this Kavi Kalidas says: niShaadaviddhaaNDajadarshanotthaH shlokatvamaapadyata yasya shokaH -- raghu va~Nsha 14-70 There are two texts for this one is, shlokaH shlokatvam aagataH... meaning that the verse originally structured metrically can now can be sung. Second is shokaH shlokatvam aagataH... the pathos of the poet attained the status of verse that is now being sung by the disciples, thus anyone can recite it."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.40",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘हमारे गुरुदेव महर्षि ने क्रौञ्च पक्षीके दुःखसे दुःखी होकर जिस समान अक्षरोंवाले चार चरणोंसे युक्त वाक्यका गान किया था, वह था तो उनके हृदयका शोक; किंतु उनकी वाणीद्वारा उच्चारित होकर श्लोकरूप* हो गया’। *काव्य या यशरूप।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.40",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "समाक्षरैः",
+            "hindi": "समान अक्षरों वाले (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "चतुर्भिः",
+            "hindi": "चार (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यः",
+            "hindi": "जो (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पादैः",
+            "hindi": "चरणों से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गीतः",
+            "hindi": "गाया गया (प्रथमा विभक्ति, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "महर्षिणा",
+            "hindi": "महर्षि ने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अनुव्याहरणात्",
+            "hindi": "उच्चारण के द्वारा (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "भूयः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "शोकः",
+            "hindi": "शोक (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "श्लोकत्वम्",
+            "hindi": "श्लोकपन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आगतः",
+            "hindi": "प्राप्त हो गया (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.40",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“हमारे गुरुदेव महिने क्रौञ्च पक्षीके दुःखसे दुःखी होकर जिस समान अक्षरोंवाले चार चरणोंसे युक्त वाक्यका गान किया था, वह था तो उनके हृदयका शोक; किंतु उनकी वाणीद्वारा उच्चारित होकर श्लोकरूप* हो गया'॥ ४०॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,270 @@
+{
+  "id": "baala-002-015",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 15,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 14
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-15"
+    ],
+    "vulgate_in_locators": [
+      "1.2.15"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.15"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002014a",
+        "1002014c"
+      ],
+      "lines": [
+        "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+        "यत्क्रौञ्चमिथुनादेकमवधीः काममोहितम्"
+      ],
+      "punctuated_derived": "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः ।\nयत्क्रौञ्चमिथुनादेकमवधीः काममोहितम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+        "यत् क्रौञ्चमिथुनादेकमवधीः काममोहितम्"
+      ],
+      "locators": [
+        "1-2-15"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+        "यत् क्रौञ्चमिथुनादेकमवधीः काममोहितम्"
+      ],
+      "locators": [
+        "1.2.15"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+        "यत्‌' क्रौञ्चमिथुनादेकमवधीः काममोहितम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.15"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+      "net": "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+      "in": "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+      "gp": "मा निषाद प्रतिष्ठां त्वमगमः शाश्वतीः समाः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "यत्क्रौञ्चमिथुनादेकमवधीः काममोहितम्",
+      "net": "यत् क्रौञ्चमिथुनादेकमवधीः काममोहितम्",
+      "in": "यत् क्रौञ्चमिथुनादेकमवधीः काममोहितम्",
+      "gp": "यत्‌' क्रौञ्चमिथुनादेकमवधीः काममोहितम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "यत्क्रौञ्चमिथुनादेकमवधीः",
+            "b": "यत् क्रौञ्चमिथुनादेकमवधीः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "यत्",
+            "b": "यत्‌'"
+          },
+          {
+            "a": "काममोहितम्",
+            "b": "काममोहितम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-15",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Oh! violent Hunter, by which reason you have killed one bird of the couple, when it was infatuated by passion, for that reason you will never get a state of rest for everlasting years to come...\" [1-2-15]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-15",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "niShaada",
+            "devanagari_machine_converted": "निषाद",
+            "english": "oh violent hunter"
+          },
+          {
+            "roman_itrans": "yat",
+            "devanagari_machine_converted": "यत्",
+            "english": "by which reason"
+          },
+          {
+            "roman_itrans": "tvam avadhiiH",
+            "devanagari_machine_converted": "त्वम् अवधीः",
+            "english": "you killed"
+          },
+          {
+            "roman_itrans": "ekam",
+            "devanagari_machine_converted": "एकम्",
+            "english": "one"
+          },
+          {
+            "roman_itrans": "krau~Nchamithunaat",
+            "devanagari_machine_converted": "क्रौङ्चमिथुनात्",
+            "english": "of Krouncha couple"
+          },
+          {
+            "roman_itrans": "kaamamohitam",
+            "devanagari_machine_converted": "काममोहितम्",
+            "english": "infatuated by passion"
+          },
+          {
+            "roman_itrans": "maa agamaH",
+            "devanagari_machine_converted": "मा अगमः",
+            "english": "[for that reason you] will not get"
+          },
+          {
+            "roman_itrans": "pratiSThaam",
+            "devanagari_machine_converted": "प्रतिष्ठाम्",
+            "english": "state of rest"
+          },
+          {
+            "roman_itrans": "shaashvatiiH samaaH",
+            "devanagari_machine_converted": "शाश्वतीः समाः",
+            "english": "[for] ever lasting years to come."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-15",
+        "spans_beyond_this_verse": false,
+        "text": "त्वमगमः has been split as tvam+agamaH."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘निषाद! तुझे नित्य-निरन्तर—कभी भी शान्ति न मिले; क्योंकि तूने इस क्रौञ्चके जोड़ेमेंसे एककी, जो कामसे मोहित हो रहा था, बिना किसी अपराधके ही हत्या कर डाली।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.15",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "मा",
+            "hindi": "नहीं (निषेधात्मक अव्यय)"
+          },
+          {
+            "sanskrit": "निषाद",
+            "hindi": "हे निषाद! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रतिष्ठाम्",
+            "hindi": "प्रतिष्ठा / शान्ति को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "त्वम्",
+            "hindi": "तू (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अगमः",
+            "hindi": "प्राप्त कर (गम् धातु, लुङ् लकार मा योग में, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "शाश्वतीः",
+            "hindi": "चिरकालिक (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "समाः",
+            "hindi": "वर्षों तक (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "यत्",
+            "hindi": "क्योंकि (अव्यय)"
+          },
+          {
+            "sanskrit": "क्रौञ्चमिथुनात्",
+            "hindi": "क्रौञ्च के जोड़े में से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "एकम्",
+            "hindi": "एक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अवधीः",
+            "hindi": "तूने मारा (हन् धातु, लुङ् लकार, मध्यम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "काममोहितम्",
+            "hindi": "काम से मोहित को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.15",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“निषाद! तुझे नित्य-निरन्तर-कभी भी शान्ति न मिले; क्योंकि तूने इस क्रौञ्चके जोड़ेमेंसे एककी, जो 'कामसे मोहित हो रहा था, बिना किसी अपराधके ही हत्या कर डाली'॥ १५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

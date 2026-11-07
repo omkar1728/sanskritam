@@ -1,0 +1,285 @@
+{
+  "id": "baala-002-004",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 4,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 4
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-4"
+    ],
+    "vulgate_in_locators": [
+      "1.2.4"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.4"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002004a",
+        "1002004c"
+      ],
+      "lines": [
+        "स तु तीरं समासाद्य तमसाया महामुनिः",
+        "शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम्"
+      ],
+      "punctuated_derived": "स तु तीरं समासाद्य तमसाया महामुनिः ।\nशिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स तु तीरं समासाद्य तमसाया महामुनिः",
+        "शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम्"
+      ],
+      "locators": [
+        "1-2-4"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स तु तीरं समासाद्य तमसाया मुनिस्तदा",
+        "शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम्"
+      ],
+      "locators": [
+        "1.2.4"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स तु तीरं समासाद्य तमसाया मुनिस्तदा",
+        "शिष्यमाह स्थितं पार्श्व दृष्ट्वा तीर्थमकर्दमम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.4"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स तु तीरं समासाद्य तमसाया महामुनिः",
+      "net": "स तु तीरं समासाद्य तमसाया महामुनिः",
+      "in": "स तु तीरं समासाद्य तमसाया मुनिस्तदा",
+      "gp": "स तु तीरं समासाद्य तमसाया मुनिस्तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.847457627118644,
+        "sim_gp_net": 0.847457627118644
+      },
+      "confidence": "LOW",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "महामुनिः",
+            "b": "मुनिस्तदा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "महामुनिः",
+            "b": "मुनिस्तदा"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम्",
+      "net": "शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम्",
+      "in": "शिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम्",
+      "gp": "शिष्यमाह स्थितं पार्श्व दृष्ट्वा तीर्थमकर्दमम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9879518072289156
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "पार्श्वे",
+            "b": "पार्श्व"
+          },
+          {
+            "a": "तीर्थमकर्दमम्",
+            "b": "तीर्थमकर्दमम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-4",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholding a ford of that river, spoke to his disciple who was at his side. [1-2-4]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-4",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "(tadaa",
+            "devanagari_machine_converted": "(तदा",
+            "english": "Then;)"
+          },
+          {
+            "roman_itrans": "saH muniH",
+            "devanagari_machine_converted": "सः मुनिः",
+            "english": "that sage"
+          },
+          {
+            "roman_itrans": "tiiram samaasaadya",
+            "devanagari_machine_converted": "तीरम् समासाद्य",
+            "english": "on reaching the shore"
+          },
+          {
+            "roman_itrans": "tamasaayaaH",
+            "devanagari_machine_converted": "तमसायाः",
+            "english": "of Tamasa"
+          },
+          {
+            "roman_itrans": "akardamam",
+            "devanagari_machine_converted": "अकर्दमम्",
+            "english": "which was not dirty"
+          },
+          {
+            "roman_itrans": "aaha",
+            "devanagari_machine_converted": "आह",
+            "english": "spoke"
+          },
+          {
+            "roman_itrans": "shiSyam",
+            "devanagari_machine_converted": "शिष्यम्",
+            "english": "to disciple"
+          },
+          {
+            "roman_itrans": "paarshve sthitam",
+            "devanagari_machine_converted": "पार्श्वे स्थितम्",
+            "english": "who was at his side"
+          },
+          {
+            "roman_itrans": "dR^iSTvaa",
+            "devanagari_machine_converted": "दृष्ट्वा",
+            "english": "on beholding"
+          },
+          {
+            "roman_itrans": "tiirtham",
+            "devanagari_machine_converted": "तीर्थम्",
+            "english": "a ford."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तमसाके तटपर पहुँचकर वहाँके घाटको कीचड़से रहित देख मुनिने अपने पास खड़े हुए शिष्यसे कहा-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.4",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "तीरम्",
+            "hindi": "तट को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समासाद्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तमसायाः",
+            "hindi": "तमसा नदी का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "शिष्यम्",
+            "hindi": "शिष्य से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आह",
+            "hindi": "कहा (ब्रू धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "स्थितम्",
+            "hindi": "खड़े हुए को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पार्श्वे",
+            "hindi": "पास में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "तीर्थम्",
+            "hindi": "घाट को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अकर्दमम्",
+            "hindi": "कीचड़ रहित (द्वितीया विभक्ति, विशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.4",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "तमसाके तटपर पहुँचकर वहाँके घाटको कीचड्से रहित देख मुनिने अपने पास खड़े हुए शिष्यसे कहा- ॥ ४॥"
+      }
+    ]
+  },
+  "flags": [
+    "low_confidence_alignment"
+  ],
+  "review_status": "unreviewed"
+}

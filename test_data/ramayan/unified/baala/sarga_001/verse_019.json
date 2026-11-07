@@ -1,0 +1,220 @@
+{
+  "id": "baala-001-019",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 19,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 16
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-17"
+    ],
+    "vulgate_in_locators": [
+      "1.1.17"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.17"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001016a",
+        "1001016c"
+      ],
+      "lines": [
+        "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+        "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव"
+      ],
+      "punctuated_derived": "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः ।\nसमुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+        "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव"
+      ],
+      "locators": [
+        "1-1-17"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+        "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव"
+      ],
+      "locators": [
+        "1.1.17"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+        "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.17"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+      "net": "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+      "in": "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+      "gp": "स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव",
+      "net": "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव",
+      "in": "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव",
+      "gp": "समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-17",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"He who betters the happiness of his mother Kausalya is an embodiment of all noble merits, and in profundity he is like an unfathomable ocean, and by fortitude he is unalterable like the kingly Himalayan mountain... [1-1-17]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-17",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kausalyaanandavardhanaH",
+            "devanagari_machine_converted": "कौसल्यानन्दवर्धनः",
+            "english": "One who betters Kausalya's [his mother's] happiness; saH ca = he (is) also"
+          },
+          {
+            "roman_itrans": "sarvaguNopetaH",
+            "devanagari_machine_converted": "सर्वगुणोपेतः",
+            "english": "embodied with all [noble] merits"
+          },
+          {
+            "roman_itrans": "gaambhiirye samudraH iva",
+            "devanagari_machine_converted": "गाम्भीर्ये समुद्रः इव",
+            "english": "like an ocean in profundity - his inmost heart is unfathomable like an ocean"
+          },
+          {
+            "roman_itrans": "dhairyeNa himavaan iva",
+            "devanagari_machine_converted": "धैर्येण हिमवान् इव",
+            "english": "by fortitude Himavanta [Himalayan] mountain like."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-17",
+        "spans_beyond_this_verse": false,
+        "text": "At times Rama is said to be 'the son of Kausalya...' than the son of Dasharatha, because the word Kausalya does not signify his mother alone, the daughter of King of Kosala, but it has meanings like kShema, kushala, saamarthya, puNya, nipuNatva 'safeness, soundness, capability, merit, expertise...' and this also signifies Queen Kausalya's worshipping of Vishnu. When dynasty, valour, braveness etc., are said, Rama's name will be attached with Dasharatha. An ocean is not a bottomless one but an unfathomable one. So also Rama's heart has a reachable bottom, where pearls, gems, and other treasures of virtues are abounding, and it can be reached with a heartily approach. For a hard-hearted one, Rama's heart becomes an unfathomable abyss and he will get lost in it. girayoH varShadhaaraabhirharyamaaNaa na vivyadhuH | abhibhuuyamaanaa vyasanaiH yathaa adhokShajacetasaa || 'true devotees do not get hassled though subjected to many problems, for they place their faith in the Supreme. Equally, mountains are unshaken though battered by storms or lightings...' So, like a mountain he is unalterable and constant for a true devotee. An icy-mountain is meltable by scorching sun, thus Rama also melts down when his adherents are scorched with their problems."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'सम्पूर्ण गुणोंसे युक्त वे श्रीरामचन्द्रजी अपनी माता कौसल्याके आनन्द बढ़ानेवाले हैं, गम्भीरतामें समुद्र और धैर्यमें हिमालयके समान हैं"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.17",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "सर्वगुणोपेतः",
+            "hindi": "सभी गुणों से युक्त (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कौसल्यानन्दवर्धनः",
+            "hindi": "कौसल्या के आनन्द को बढ़ाने वाला (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "समुद्रः",
+            "hindi": "समुद्र (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान (अव्यय)"
+          },
+          {
+            "sanskrit": "गाम्भीर्ये",
+            "hindi": "गम्भीरता में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "धैर्येण",
+            "hindi": "धैर्य के द्वारा / विषय में (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हिमवान्",
+            "hindi": "हिमालय (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "के समान (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.17",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“सम्पूर्ण गुणोंसे युक्त वे श्रीरामचन्द्रजी अपनी माता कौसल्याके आनन्द बढ़ानेवाले हैं, गम्भीरतामें समुद्र और धैर्यमें हिमालयके समान हैं॥ १७॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

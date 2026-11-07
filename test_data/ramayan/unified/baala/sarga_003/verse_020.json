@@ -1,0 +1,208 @@
+{
+  "id": "baala-003-020",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 20,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-22"
+    ],
+    "vulgate_in_locators": [
+      "1.3.22"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.22"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रलापं चैव पम्पायां हनुमद्दर्शनं तथा"
+      ],
+      "locators": [
+        "1-3-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रलापं चैव पम्पायां हनूमद्दर्शनं तथा"
+      ],
+      "locators": [
+        "1.3.22"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रलापं चैव पम्पायां हनूमददर्शनं तथा"
+      ],
+      "ocr_flags": [
+        "hindi_missing",
+        "verse_number_nonsequential_expected_30"
+      ],
+      "refs": [
+        "1.3.22"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "प्रलापं चैव पम्पायां हनुमद्दर्शनं तथा",
+      "in": "प्रलापं चैव पम्पायां हनूमद्दर्शनं तथा",
+      "gp": "प्रलापं चैव पम्पायां हनूमददर्शनं तथा",
+      "similarity": {
+        "sim_in_net": 0.96875,
+        "sim_gp_net": 0.9523809523809523
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "हनुमद्दर्शनं",
+            "b": "हनूमद्दर्शनं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "हनुमद्दर्शनं",
+            "b": "हनूमददर्शनं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-22",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Rama's seeing Shabari, a hermetic lady and eating fruits and tubers given by her in utmost adoration; Rama's bemoaning for Seetha; his sighting Hanuma at Lake Pampa... [1-3-22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-22",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "shabariidarshanam cha eva",
+            "devanagari_machine_converted": "शबरीदर्शनम् च एव",
+            "english": "seeing the hermitic lady Sabari, also, thus"
+          },
+          {
+            "roman_itrans": "phalamuulaashanam tathaa",
+            "devanagari_machine_converted": "फलमूलाशनम् तथा",
+            "english": "thus eating fruits and tubers"
+          },
+          {
+            "roman_itrans": "pralaapam cha eva",
+            "devanagari_machine_converted": "प्रलापम् च एव",
+            "english": "bemoaning, also, thus [of Rama]"
+          },
+          {
+            "roman_itrans": "pampaayaam hanumaddarshanam",
+            "devanagari_machine_converted": "पम्पायाम् हनुमद्दर्शनम्",
+            "english": "sighting Hanuma at Pampa Lake."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.22",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "श्रीरामका शबरीसे मिलना और उसके दिये हुए फल-मूलको ग्रहण करना, श्रीरामका सीताके लिये प्रलाप, पम्पासरोवरके निकट हनुमान जी से भेंट,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.22",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "शबरीदर्शनम्",
+            "hindi": "शबरी का दर्शन / मिलना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "फलमूलाशनम्",
+            "hindi": "फल और मूल का भोजन करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रलापम्",
+            "hindi": "प्रलाप / विलाप को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "पम्पायाम्",
+            "hindi": "पम्पा सरोवर के निकट (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "हनूमद्दर्शनम्",
+            "hindi": "हनुमान का दर्शन / भेंट (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.22",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_30",
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

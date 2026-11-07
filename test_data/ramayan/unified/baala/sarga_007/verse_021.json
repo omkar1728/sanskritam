@@ -1,0 +1,366 @@
+{
+  "id": "baala-007-021",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 7,
+  "seq_in_sarga": 21,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 7,
+    "vulgate_net_locators": [
+      "1-7-21, 1-7-22"
+    ],
+    "vulgate_in_locators": [
+      "1.7.21",
+      "1.7.22"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.7.22",
+      "1.7.29"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्",
+        "विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः",
+        "स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्"
+      ],
+      "locators": [
+        "1-7-21, 1-7-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्॥२१",
+        "विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः",
+        "स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्॥२२"
+      ],
+      "locators": [
+        "1.7.21",
+        "1.7.22"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्‌",
+        "विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः",
+        "स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_21_differs_from_sanskrit_29",
+        "verse_number_nonsequential_expected_21",
+        "verse_number_nonsequential_expected_30"
+      ],
+      "refs": [
+        "1.7.22",
+        "1.7.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्",
+      "in": "प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्॥२१",
+      "gp": "प्रजानां पालनं कुर्वन्नधर्मं परिवर्जयन्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "परिवर्जयन्",
+            "b": "परिवर्जयन्॥२१"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "परिवर्जयन्",
+            "b": "परिवर्जयन्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः",
+      "in": "विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः",
+      "gp": "विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्",
+      "in": "स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्॥२२",
+      "gp": "स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "पृथिवीमिमाम्",
+            "b": "पृथिवीमिमाम्॥२२"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पृथिवीमिमाम्",
+            "b": "पृथिवीमिमाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-21, 1-7-22",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "He that most generous one among men, Dasharatha, while observing through spies, and to protect people righteously, and to give a good governance to them, he forsook unrighteousness and became a generous king avowed to truthfulness alone, and thus he that Dasharatha ruled the earth, which rulership is renowned in all the three worlds. [1-7-21,22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-7-21, 1-7-22",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "20-21. puruSavyaaghraH",
+            "devanagari_machine_converted": "२०-२१। पुरुषव्याघ्रः",
+            "english": "tigerly man [most generous among people]"
+          },
+          {
+            "roman_itrans": "chaareNa avekShyamaaNaH",
+            "devanagari_machine_converted": "चारेण अवेक्ष्यमाणः",
+            "english": "observing by spies"
+          },
+          {
+            "roman_itrans": "prajaaH",
+            "devanagari_machine_converted": "प्रजाः",
+            "english": "people"
+          },
+          {
+            "roman_itrans": "rakShayan",
+            "devanagari_machine_converted": "रक्षयन्",
+            "english": "to protect"
+          },
+          {
+            "roman_itrans": "dharmeNa",
+            "devanagari_machine_converted": "धर्मेण",
+            "english": "virtuously"
+          },
+          {
+            "roman_itrans": "prajaanaam paalanam kurvan",
+            "devanagari_machine_converted": "प्रजानाम् पालनम् कुर्वन्",
+            "english": "to give good rule to people"
+          },
+          {
+            "roman_itrans": "adharmam parivarjayan",
+            "devanagari_machine_converted": "अधर्मम् परिवर्जयन्",
+            "english": "entirely giving up unrighteousness"
+          },
+          {
+            "roman_itrans": "vadaanyaH",
+            "devanagari_machine_converted": "वदान्यः",
+            "english": "generous"
+          },
+          {
+            "roman_itrans": "satyasangaraH",
+            "devanagari_machine_converted": "सत्यसन्गरः",
+            "english": "avowedly truthful"
+          },
+          {
+            "roman_itrans": "triSu lokeSu vishrutaH",
+            "devanagari_machine_converted": "त्रिषु लोकेषु विश्रुतः",
+            "english": "renowned in three worlds"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "he, Dasharatha"
+          },
+          {
+            "roman_itrans": "tatra",
+            "devanagari_machine_converted": "तत्र",
+            "english": "from there"
+          },
+          {
+            "roman_itrans": "shashaasa",
+            "devanagari_machine_converted": "शशास",
+            "english": "ruled."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.21",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "वे गुप्तचरोंके द्वारा अपने और शत्रु-राज्यके वृत्तान्तोंपर दृष्टि रखते थे, प्रजाका धर्मपूर्वक पालन करते थे तथा प्रजापालन करते हुए अधर्मसे दूर ही रहते थे॥२१॥"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनकी तीनों लोकोंमें प्रसिद्धि थी। वे उदार और सत्यप्रतिज्ञ थे। पुरुषसिंह राजा दशरथ अयोध्यामें ही रहकर इस पृथ्वीका शासन करते थे॥ २२ ॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.21",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "अवेक्ष्यमाणः",
+            "hindi": "देखते हुए / अवलोकन करते हुए (प्रथमा विभक्ति, शानच् प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "चारेण",
+            "hindi": "गुप्तचरों द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रजाः",
+            "hindi": "प्रजा को (द्वितीया विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "धर्मेण",
+            "hindi": "धर्म से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रक्षयन्",
+            "hindi": "रक्षा करते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "प्रजानाम्",
+            "hindi": "प्रजा का (षष्ठी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "पालनम्",
+            "hindi": "पालन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "कुर्वन्",
+            "hindi": "करते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अधर्मम्",
+            "hindi": "अधर्म से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "परिवर्जयन्",
+            "hindi": "दूर रहते हुए (प्रथमा विभक्ति, शतृ प्रत्ययान्त)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.7.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विश्रुतः",
+            "hindi": "विख्यात (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "त्रिषु",
+            "hindi": "तीनों (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "लोकेषु",
+            "hindi": "लोकों में (सप्तमी विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "वदान्यः",
+            "hindi": "उदार (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यसङ्गरः",
+            "hindi": "सत्यप्रतिज्ञ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अयोध्या में) (अव्यय)"
+          },
+          {
+            "sanskrit": "पुरुषव्याघ्रः",
+            "hindi": "पुरुषसिंह ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "शशास",
+            "hindi": "शासन करते थे (शास् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "पृथिवीम्",
+            "hindi": "पृथ्वी का (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इमाम्",
+            "hindi": "इस (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.29",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_21",
+          "hindi_marker_21_differs_from_sanskrit_29"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "वे गुप्तचरोंके द्वार अपने और शत्रु-राज्यके वृत्तान्तांपर दृष्टि रखते थे, प्रजाका धर्मपूर्वक पालन करते थे तथा प्रजापालन करते हुए अधर्मसे दूर ही रहते थे॥ २१॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.7.22",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_30"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "उनको तीनों लोकोंमें प्रसिद्धि थी। वे उदार और सत्यप्रतिज्ञ थे। पुरुषसिंह राजा दशरथ अयोध्यामें ही रहकर इस पृथ्वीका शासन करते थे॥ २२॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

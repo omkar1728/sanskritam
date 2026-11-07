@@ -1,0 +1,319 @@
+{
+  "id": "baala-001-054",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 54,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 40
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-50"
+    ],
+    "vulgate_in_locators": [
+      "1.1.50",
+      "1.1.51"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.50",
+      "1.1.59"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001040a",
+        "1001040c"
+      ],
+      "lines": [
+        "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+        "न विरोधो बलवता क्षमो रावण तेन ते"
+      ],
+      "punctuated_derived": "वार्यमाणः सुबहुशो मारीचेन स रावणः ।\nन विरोधो बलवता क्षमो रावण तेन ते ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+        "न विरोधो बलवता क्षमो रावण तेन ते"
+      ],
+      "locators": [
+        "1-1-50"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+        "न विरोधो बलवता क्षमो रावण तेन ते"
+      ],
+      "locators": [
+        "1.1.50",
+        "1.1.51"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+        "न विरोधो बलवता क्षमो रावण तेन ते"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_50-513",
+        "hindi_shared_range",
+        "verse_number_nonsequential_expected_51"
+      ],
+      "refs": [
+        "1.1.50",
+        "1.1.59"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+      "net": "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+      "in": "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+      "gp": "वार्यमाणः सुबहुशो मारीचेन स रावणः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "न विरोधो बलवता क्षमो रावण तेन ते",
+      "net": "न विरोधो बलवता क्षमो रावण तेन ते",
+      "in": "न विरोधो बलवता क्षमो रावण तेन ते",
+      "gp": "न विरोधो बलवता क्षमो रावण तेन ते",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-50",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"But Maareecha restrained Ravana telling him many times, 'Oh, Ravana! Rivarly with that formidable Rama is not appropriate of you...' [1-1-50b, 51a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-50",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "50b, 51a. saH raavaNaH",
+            "devanagari_machine_converted": "५०ब्, ५१अ। सः रावणः",
+            "english": "he that Ravana"
+          },
+          {
+            "roman_itrans": "vaaryamaaNaH",
+            "devanagari_machine_converted": "वार्यमाणः",
+            "english": "[was] restrained"
+          },
+          {
+            "roman_itrans": "subahushaH",
+            "devanagari_machine_converted": "सुबहुशः",
+            "english": "very many times"
+          },
+          {
+            "roman_itrans": "maariichena",
+            "devanagari_machine_converted": "मारीचेन",
+            "english": "by Maareecha [thus:]"
+          },
+          {
+            "roman_itrans": "raavaNa",
+            "devanagari_machine_converted": "रावण",
+            "english": "Oh! Ravana"
+          },
+          {
+            "roman_itrans": "virodhaH",
+            "devanagari_machine_converted": "विरोधः",
+            "english": "rivalry"
+          },
+          {
+            "roman_itrans": "balavataa tena",
+            "devanagari_machine_converted": "बलवता तेन",
+            "english": "with that formidable Rama"
+          },
+          {
+            "roman_itrans": "te na kShamaH",
+            "devanagari_machine_converted": "ते न क्षमः",
+            "english": "[is] not appropriate of you"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.50",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और उसने मारीच राक्षससे सहायता माँगी। यद्यपि मारीचने रावणको अनेकों बार मना किया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.51",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कि 'रावण! उस बलवान् रामके साथ तुम्हारा विरोध ठीक नहीं है' परंतु कालकी प्रेरणासे रावणने मारीचके वाक्योंको टाल दिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.50",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सहायम्",
+            "hindi": "सहायता को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वरयामास",
+            "hindi": "माँगा (वृ धातु, प्रयोज्यार्थ, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "मारीचम्",
+            "hindi": "मारीच को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम से (अव्यय)"
+          },
+          {
+            "sanskrit": "राक्षसम्",
+            "hindi": "राक्षस को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "वार्यमाणः",
+            "hindi": "मना किया जाता हुआ (शानच् प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुबहुशः",
+            "hindi": "बहुत बार (अव्यय)"
+          },
+          {
+            "sanskrit": "मारीचेन",
+            "hindi": "मारीच के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सः",
+            "hindi": "वह (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणः",
+            "hindi": "रावण (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.51",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "विरोधः",
+            "hindi": "विरोध (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "बलवता",
+            "hindi": "बलवान् के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षमः",
+            "hindi": "उचित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रावण",
+            "hindi": "हे रावण (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (राम) के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "तेरा (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अनादृत्य",
+            "hindi": "अनादर करके / टालकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "तद्वाक्यम्",
+            "hindi": "उसके वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणः",
+            "hindi": "रावण ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कालचोदितः",
+            "hindi": "काल से प्रेरित होकर (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.50",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "जगाम सहमारीचस्तस्याश्रमपदं॑ तदा। “यद्यपि मारीचने यह कहकर कि “रावण! उस बलवान्‌ रामके साथ तुम्हारा विरोध ठीक नहीं है' रावणको अनेकों बार मना किया; परंतु कालकी प्रेरणासे रावणने मारीचके वाक्यांको टाल दिया और उसके साथ ही रामके आश्रमपर गया॥ ५०-५१३ ॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.59",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_51",
+          "hindi_marker_range_50-513"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "जगाम सहमारीचस्तस्याश्रमपदं॑ तदा। “यद्यपि मारीचने यह कहकर कि “रावण! उस बलवान्‌ रामके साथ तुम्हारा विरोध ठीक नहीं है' रावणको अनेकों बार मना किया; परंतु कालकी प्रेरणासे रावणने मारीचके वाक्यांको टाल दिया और उसके साथ ही रामके आश्रमपर गया॥ ५०-५१३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

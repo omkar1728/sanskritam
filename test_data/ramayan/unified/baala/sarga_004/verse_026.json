@@ -1,0 +1,275 @@
+{
+  "id": "baala-004-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 4,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 4,
+      "verse": 21
+    },
+    "vulgate_sarga": 4,
+    "vulgate_net_locators": [
+      "1-4-27, 1-4-28"
+    ],
+    "vulgate_in_locators": [
+      "1.4.28"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.4.28",
+      "1.4.29"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1004021a",
+        "1004021c"
+      ],
+      "lines": [
+        "प्रशस्यमानौ सर्वत्र कदाचित्तत्र गायकौ",
+        "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः"
+      ],
+      "punctuated_derived": "प्रशस्यमानौ सर्वत्र कदाचित्तत्र गायकौ ।\nरथ्यासु राजमार्गेषु ददर्श भरताग्रजः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "प्रशस्यमानौ सर्वत्र कदाचित्तत्र गायकौ",
+        "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः"
+      ],
+      "locators": [
+        "1-4-27, 1-4-28"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "प्रशस्यमानौ सर्वत्र कदाचित् तत्र गायकौ",
+        "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः"
+      ],
+      "locators": [
+        "1.4.28"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "प्रशस्यमानौ सर्वत्र कदाचित्‌ तत्र गायकौ",
+        "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.4.28",
+        "1.4.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "प्रशस्यमानौ सर्वत्र कदाचित्तत्र गायकौ",
+      "net": "प्रशस्यमानौ सर्वत्र कदाचित्तत्र गायकौ",
+      "in": "प्रशस्यमानौ सर्वत्र कदाचित् तत्र गायकौ",
+      "gp": "प्रशस्यमानौ सर्वत्र कदाचित्‌ तत्र गायकौ",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कदाचित्तत्र",
+            "b": "कदाचित् तत्र"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कदाचित्तत्र",
+            "b": "कदाचित्‌ तत्र"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः",
+      "net": "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः",
+      "in": "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः",
+      "gp": "रथ्यासु राजमार्गेषु ददर्श भरताग्रजः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-27, 1-4-28",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "While this song that generates longevity and prosperity, and one that is melodious one to all ears is being sung everywhere in streets and king's ways and while those two singers who are experts in singing any kind of music are being appreciated everywhere, Rama has seen them. [1-4-27-28]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-4-27, 1-4-28",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "27-28. idam giitam",
+            "devanagari_machine_converted": "२७-२८। इदम् गीतम्",
+            "english": "this, song"
+          },
+          {
+            "roman_itrans": "saayuSyam puSTijanakam",
+            "devanagari_machine_converted": "सायुष्यम् पुष्टिजनकम्",
+            "english": "generates longevity and prosperity"
+          },
+          {
+            "roman_itrans": "sarvashrutimanoharam",
+            "devanagari_machine_converted": "सर्वश्रुतिमनोहरम्",
+            "english": "melodious one to all ears"
+          },
+          {
+            "roman_itrans": "abhigiitam",
+            "devanagari_machine_converted": "अभिगीतम्",
+            "english": "well-sung"
+          },
+          {
+            "roman_itrans": "prashasyamaanau",
+            "devanagari_machine_converted": "प्रशस्यमानौ",
+            "english": "those being appreciated"
+          },
+          {
+            "roman_itrans": "rathyaasu raajamaargeSu",
+            "devanagari_machine_converted": "रथ्यासु राजमार्गेषु",
+            "english": "in streets, in king's ways"
+          },
+          {
+            "roman_itrans": "sarvatra",
+            "devanagari_machine_converted": "सर्वत्र",
+            "english": "everywhere"
+          },
+          {
+            "roman_itrans": "gaayakau",
+            "devanagari_machine_converted": "गायकौ",
+            "english": "those that are singing"
+          },
+          {
+            "roman_itrans": "sarvagiiteSu kovidau",
+            "devanagari_machine_converted": "सर्वगीतेषु कोविदौ",
+            "english": "experts in every type of singing - Lava and Kusha"
+          },
+          {
+            "roman_itrans": "kadaachit tatra",
+            "devanagari_machine_converted": "कदाचित् तत्र",
+            "english": "at one time, there"
+          },
+          {
+            "roman_itrans": "dadarsha bharataagrajaH",
+            "devanagari_machine_converted": "ददर्श भरताग्रजः",
+            "english": "on seeing, Bharata's elder brother [Rama]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "एक समय सर्वत्र प्रशंसित होनेवाले राजकुमार कुश और लव अयोध्याकी गलियों और सड़कोंपर रामायणके श्लोकोंका गान करते हुए विचर रहे थे। इसी समय उनके ऊपर भरतके बड़े भाई श्रीरामकी दृष्टि पड़ी।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.4.28",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रशस्यमानौ",
+            "hindi": "प्रशंसित होते हुए"
+          },
+          {
+            "sanskrit": "सर्वत्र",
+            "hindi": "सर्वत्र"
+          },
+          {
+            "sanskrit": "कदाचित्",
+            "hindi": "एक समय"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ"
+          },
+          {
+            "sanskrit": "गायकौ",
+            "hindi": "गायक"
+          },
+          {
+            "sanskrit": "रथ्यासु",
+            "hindi": "गलियों में"
+          },
+          {
+            "sanskrit": "राजमार्गेषु",
+            "hindi": "राजमार्गों / सड़कों पर"
+          },
+          {
+            "sanskrit": "ददर्श",
+            "hindi": "देखा"
+          },
+          {
+            "sanskrit": "भरताग्रजः",
+            "hindi": "भरत के बड़े भाई (राम) ने"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.28",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.4.29",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

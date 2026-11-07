@@ -1,0 +1,22 @@
+{
+  "kanda": 1,
+  "sarga": 8,
+  "critical_sarga": null,
+  "vulgate_sarga": 8,
+  "critical_only_sarga": false,
+  "title_hi_from_in": "राजा दशरथ का पुत्र के लिये अश्वमेधयज्ञ का प्रस्ताव और मन्त्रियों तथा ब्राह्मणों द्वारा उनका अनुमोदन",
+  "title_en_from_in": "King Dasharatha proposes an Ashwamedha Yajna for a son, which is approved by ministers and Brahmins",
+  "intro_en_from_net": "Chapter [Sarga] 8 Dasharatha decides to perform an elaborate Vedic ritual, called Aswamedha yajna, Horse Ritual, to beget children. He being a considerate king in taking conscience of the courtiers, he discusses this aspect with the Vedic scholars and ministers of his court, beforehand.",
+  "counts": {
+    "smith_lines": 0,
+    "net_lines": 49,
+    "in_lines": 49,
+    "smith_verses": 0,
+    "net_blocks": 21,
+    "in_verses": 24,
+    "gp_lines": 42,
+    "gp_units": 24,
+    "in_declared": 24,
+    "docs": 2
+  }
+}

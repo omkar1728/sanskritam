@@ -1,0 +1,250 @@
+{
+  "id": "baala-002-003",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 3,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 3
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-3"
+    ],
+    "vulgate_in_locators": [
+      "1.2.3"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.3"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002003a",
+        "1002003c"
+      ],
+      "lines": [
+        "स मुहूर्तं गते तस्मिन्देवलोकं मुनिस्तदा",
+        "जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः"
+      ],
+      "punctuated_derived": "स मुहूर्तं गते तस्मिन्देवलोकं मुनिस्तदा ।\nजगाम तमसातीरं जाह्नव्यास्त्वविदूरतः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "स मुहूर्तं गते तस्मिन्देवलोकं मुनिस्तदा",
+        "जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः"
+      ],
+      "locators": [
+        "1-2-3"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "स मुहूर्तं गते तस्मिन् देवलोकं मुनिस्तदा",
+        "जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः"
+      ],
+      "locators": [
+        "1.2.3"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "स मुहूर्त गते तस्मिन्‌ देवलोकं मुनिस्तदा",
+        "जगाम तमसातीरं जाह्वव्यास्त्वविदूरतः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.3"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "स मुहूर्तं गते तस्मिन्देवलोकं मुनिस्तदा",
+      "net": "स मुहूर्तं गते तस्मिन्देवलोकं मुनिस्तदा",
+      "in": "स मुहूर्तं गते तस्मिन् देवलोकं मुनिस्तदा",
+      "gp": "स मुहूर्त गते तस्मिन्‌ देवलोकं मुनिस्तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9850746268656716
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "तस्मिन्देवलोकं",
+            "b": "तस्मिन् देवलोकं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मुहूर्तं",
+            "b": "मुहूर्त"
+          },
+          {
+            "a": "तस्मिन्देवलोकं",
+            "b": "तस्मिन्‌ देवलोकं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः",
+      "net": "जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः",
+      "in": "जगाम तमसातीरं जाह्नव्यास्त्वविदूरतः",
+      "gp": "जगाम तमसातीरं जाह्वव्यास्त्वविदूरतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9696969696969697
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "जाह्नव्यास्त्वविदूरतः",
+            "b": "जाह्वव्यास्त्वविदूरतः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-3",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then, on Narada's going to the world of gods in a trice, that sage Valmiki went to the banks of Tamasa river not far from Jahnavi river. [1-2-3]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-3",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tasmin gate",
+            "devanagari_machine_converted": "तस्मिन् गते",
+            "english": "on his [Narada's] going"
+          },
+          {
+            "roman_itrans": "muhuurtam devalokam",
+            "devanagari_machine_converted": "मुहूर्तम् देवलोकम्",
+            "english": "to the world of gods in a trice"
+          },
+          {
+            "roman_itrans": "saH muniH",
+            "devanagari_machine_converted": "सः मुनिः",
+            "english": "that sage [Valmiki]"
+          },
+          {
+            "roman_itrans": "tamasaatiiram jagaama",
+            "devanagari_machine_converted": "तमसातीरम् जगाम",
+            "english": "went to the banks of Tamasa river"
+          },
+          {
+            "roman_itrans": "jaahnavyaaH tu aviduurataH",
+            "devanagari_machine_converted": "जाह्नव्याः तु अविदूरतः",
+            "english": "not far from Jahnavi river."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उनके देवलोक पधारनेके दो ही घड़ी बाद वाल्मीकिजी तमसा नदीके तटपर गये, जो गंगाजीसे अधिक दूर नहीं था।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.3",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सः",
+            "hindi": "वे (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मुहूर्तम्",
+            "hindi": "कुछ देर (द्वितीया विभक्ति का क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "गते",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, सति सप्तमी प्रयोग)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उन (नारद) के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "देवलोकम्",
+            "hindi": "देवलोक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मुनिः",
+            "hindi": "मुनि ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गए (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तमसातीरम्",
+            "hindi": "तमसा नदी के तट पर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जाह्नव्याः",
+            "hindi": "गंगा से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "अविदूरतः",
+            "hindi": "दूर नहीं (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.3",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "उनके देवलोक पधारनेके दो ही घड़ी बाद वाल्मीकिजी तमसा नदीके तटपर गये, जो गंगाजीसे अधिक दूर नहीं था॥३॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

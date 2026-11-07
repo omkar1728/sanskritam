@@ -1,0 +1,363 @@
+{
+  "id": "baala-001-026",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 26,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 20
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-21, 1-1-22"
+    ],
+    "vulgate_in_locators": [
+      "1.1.21",
+      "1.1.22"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.21",
+      "1.1.22"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001020a",
+        "1001020c",
+        "1001020e"
+      ],
+      "lines": [
+        "तस्याभिषेकसंभारान्दृष्ट्वा भार्याथ कैकयी",
+        "पूर्वं दत्तवरा देवी वरमेनमयाचत",
+        "विवासनं च रामस्य भरतस्याभिषेचनम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्याभिषेकसंभारान् दृष्ट्वा भार्याथ कैकयी",
+        "पुर्वं दत्तवरा देवी वरमेनमयाचत",
+        "विवासनं च रामस्य भरतस्याभिषेचनम्"
+      ],
+      "locators": [
+        "1-1-21, 1-1-22"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी",
+        "पूर्वं दत्तवरा देवी वरमेनमयाचत",
+        "विवासनं च रामस्य भरतस्याभिषेचनम्"
+      ],
+      "locators": [
+        "1.1.21",
+        "1.1.22"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्याभिषेकसम्भारान्‌ दृष्ट्वा भार्याथ कैकयी",
+        "पूर्वं दत्तवरा देवी वरमेनमयाचत",
+        "विवासनं च रामस्य भरतस्याभिषेचनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_21-22",
+        "hindi_shared_range"
+      ],
+      "refs": [
+        "1.1.21",
+        "1.1.22"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्याभिषेकसंभारान्दृष्ट्वा भार्याथ कैकयी",
+      "net": "तस्याभिषेकसंभारान् दृष्ट्वा भार्याथ कैकयी",
+      "in": "तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी",
+      "gp": "तस्याभिषेकसम्भारान्‌ दृष्ट्वा भार्याथ कैकयी",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "तस्याभिषेकसंभारान्दृष्ट्वा",
+            "b": "तस्याभिषेकसंभारान् दृष्ट्वा"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "तस्याभिषेकसंभारान्",
+            "b": "तस्याभिषेकसम्भारान्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "तस्याभिषेकसंभारान्",
+            "b": "तस्याभिषेकसम्भारान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "पूर्वं दत्तवरा देवी वरमेनमयाचत",
+      "net": "पुर्वं दत्तवरा देवी वरमेनमयाचत",
+      "in": "पूर्वं दत्तवरा देवी वरमेनमयाचत",
+      "gp": "पूर्वं दत्तवरा देवी वरमेनमयाचत",
+      "similarity": {
+        "sim_smith_net": 0.9629629629629629,
+        "sim_in_net": 0.9629629629629629,
+        "sim_gp_net": 0.9629629629629629
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "पूर्वं",
+            "b": "पुर्वं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "पुर्वं",
+            "b": "पूर्वं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "पुर्वं",
+            "b": "पूर्वं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "विवासनं च रामस्य भरतस्याभिषेचनम्",
+      "net": "विवासनं च रामस्य भरतस्याभिषेचनम्",
+      "in": "विवासनं च रामस्य भरतस्याभिषेचनम्",
+      "gp": "विवासनं च रामस्य भरतस्याभिषेचनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "भरतस्याभिषेचनम्",
+            "b": "भरतस्याभिषेचनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-21, 1-1-22",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then seeing the arrangements for the anointment of Rama as crown-prince, Kaikeyi, the dear wife and a queen of Dasaratha, solicited boons that were once accorded to her by Dasharatha, for the banishment of Rama and anointment of Bharata as boons. [1-1-21b, 22]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-21, 1-1-22",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "21b, 22. atha",
+            "devanagari_machine_converted": "२१ब्, २२। अथ",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "dR^iShTvaa",
+            "devanagari_machine_converted": "दृष्ट्वा",
+            "english": "seeing; tasya = his - Rama's"
+          },
+          {
+            "roman_itrans": "abhiShekasaMbhaaraan",
+            "devanagari_machine_converted": "अभिषेकसंभारान्",
+            "english": "anointment [as crown prince] arrangements"
+          },
+          {
+            "roman_itrans": "bhaarya devii kaikeyi",
+            "devanagari_machine_converted": "भार्य देवी कैकेयि",
+            "english": "(Dasaratha's) [dear] wife queen Kaikeyi"
+          },
+          {
+            "roman_itrans": "puurvam dattavaraa",
+            "devanagari_machine_converted": "पूर्वम् दत्तवरा",
+            "english": "having been with previously given boons"
+          },
+          {
+            "roman_itrans": "ayaachata",
+            "devanagari_machine_converted": "अयाचत",
+            "english": "solicited"
+          },
+          {
+            "roman_itrans": "raamasya vivaasanam",
+            "devanagari_machine_converted": "रामस्य विवासनम्",
+            "english": "Rama's, exile"
+          },
+          {
+            "roman_itrans": "bharatasya abhiSechanam ca",
+            "devanagari_machine_converted": "भरतस्य अभिषेचनम् च",
+            "english": "and Bharata's, anointment"
+          },
+          {
+            "roman_itrans": "varam enam",
+            "devanagari_machine_converted": "वरम् एनम्",
+            "english": "(as) boons from him [Dasaratha]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'तदनन्तर रामके राज्याभिषेककी तैयारियाँ देखकर रानी कैकेयीने, जिसे पहले ही वर दिया जा चुका था, राजासे यह वर माँगा"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कि रामका निर्वासन (वनवास) और भरतका राज्याभिषेक हो"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (राम) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिषेकसम्भारान्",
+            "hindi": "अभिषेक की सामग्री को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दृष्ट्वा",
+            "hindi": "देखकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "भार्या",
+            "hindi": "पत्नी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "अथ",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "कैकयी",
+            "hindi": "कैकेयी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पूर्वम्",
+            "hindi": "पहले (अव्यय)"
+          },
+          {
+            "sanskrit": "दत्तवरा",
+            "hindi": "दिए हुए वर वाली (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "देवी",
+            "hindi": "रानी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वरम्",
+            "hindi": "वर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "एनम्",
+            "hindi": "इस (राजा) से (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अयाचत",
+            "hindi": "माँगा (याच् धातु, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.22",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "विवासनम्",
+            "hindi": "वनवास / निर्वासन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "भरतस्य",
+            "hindi": "भरत का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अभिषेचनम्",
+            "hindi": "राज्याभिषेक (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.21",
+        "ocr_flags": [
+          "hindi_shared_range"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“तदनन्तर रामके राज्याभिषेककी तैयारियाँ देखकर रानी कैकेयीने, जिसे पहले ही वर दिया जा चुका था, राजासे यह वर माँगा कि रामका निर्वासन (वनवास) और भरतका राज्याभिषेक हो॥ २१-२२॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.22",
+        "ocr_flags": [
+          "hindi_marker_range_21-22"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "“तदनन्तर रामके राज्याभिषेककी तैयारियाँ देखकर रानी कैकेयीने, जिसे पहले ही वर दिया जा चुका था, राजासे यह वर माँगा कि रामका निर्वासन (वनवास) और भरतका राज्याभिषेक हो॥ २१-२२॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

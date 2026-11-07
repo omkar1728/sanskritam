@@ -1,0 +1,204 @@
+{
+  "id": "baala-003-029",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 29,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 20
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-29"
+    ],
+    "vulgate_in_locators": [
+      "1.3.29"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.29"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003020a"
+      ],
+      "lines": [
+        "आपानभूमिगमनमवरोधस्य दर्शनम्"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "आपानभूमिगमनमवरोधस्य दर्शनम्"
+      ],
+      "locators": [
+        "1-3-29"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "आपानभूमिगमनमवरोधस्य दर्शनम्"
+      ],
+      "locators": [
+        "1.3.29"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "आपानभूमिगमनमवरोध्चस्य दर्शनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.29"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "आपानभूमिगमनमवरोधस्य दर्शनम्",
+      "net": "आपानभूमिगमनमवरोधस्य दर्शनम्",
+      "in": "आपानभूमिगमनमवरोधस्य दर्शनम्",
+      "gp": "आपानभूमिगमनमवरोध्चस्य दर्शनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9615384615384616
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "आपानभूमिगमनमवरोधस्य दर्शनम्",
+            "b": "आपानभूमिगमनमवरोध्चस्य दर्शनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-29",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "In night Hanuma's entry into Lanka, for being lonely his thinking over the course to search for Seetha, and his going to the liquor consumption place, and also his seeing the palace chambers of Ravana... [1-3-29]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-29",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raatraula~nkaapravesham ca",
+            "devanagari_machine_converted": "रात्रौलञ्काप्रवेशम् च",
+            "english": "entering Lanka in night also"
+          },
+          {
+            "roman_itrans": "ekasya api vichintanam",
+            "devanagari_machine_converted": "एकस्य अपि विचिन्तनम्",
+            "english": "even though thinking over lonely"
+          },
+          {
+            "roman_itrans": "aapaanabhuumigamanam",
+            "devanagari_machine_converted": "आपानभूमिगमनम्",
+            "english": "going to liquor consuming place"
+          },
+          {
+            "roman_itrans": "avarodhasya darshanam",
+            "devanagari_machine_converted": "अवरोधस्य दर्शनम्",
+            "english": "seeing of secure place [the palace chambers]."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.29",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "रात्रिके समय लङ्कामें प्रवेश, अकेला होनेके कारण अपने कर्तव्य का विचार करना, पैदल मार्ग में मिलने वाले निम्नकर्म वाले अवरोधों को देखना (रावण के मद्यपान-स्थान में जाना, उसके अन्तःपुरकी स्त्रियों को देखना) ,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.29",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रात्रौ",
+            "hindi": "रात्रि में (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "लङ्काप्रवेशम्",
+            "hindi": "लंका में प्रवेश (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एकस्य",
+            "hindi": "अकेले की (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "विचिन्तनम्",
+            "hindi": "विचार करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "आपानभूमिगमनम्",
+            "hindi": "मद्यपान स्थान / आपान भूमि में गमन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अवरोधस्य",
+            "hindi": "अवरोध (बाधा / अन्तःपुर / रोकने वाली वस्तु) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "दर्शनम्",
+            "hindi": "दर्शन / देखना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.29",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": null
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

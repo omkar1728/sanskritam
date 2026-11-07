@@ -1,0 +1,509 @@
+{
+  "id": "baala-001-095",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 95,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-86",
+      "1-1-87",
+      "1-1-88"
+    ],
+    "vulgate_in_locators": [
+      "1.1.86",
+      "1.1.87",
+      "1.1.88"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.86",
+      "1.1.87",
+      "1.1.88"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृद् वृतः",
+        "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः",
+        "भरतस्यान्तिकं रामो हनुमन्तं व्यसर्जयत्",
+        "पुनराख्यायिकां जल्पन् सुग्रीवसहितश्च सः"
+      ],
+      "locators": [
+        "1-1-86",
+        "1-1-87",
+        "1-1-88"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृवृतः",
+        "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः",
+        "भरतस्यान्तिके रामो हनूमन्तं व्यसर्जयत्",
+        "पुनराख्यायिकां जल्पन् सुग्रीवसहितस्तदा"
+      ],
+      "locators": [
+        "1.1.86",
+        "1.1.87",
+        "1.1.88"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृदवृततः",
+        "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः",
+        "भरतस्यान्तिके रामो हनूमन्तं व्यसर्जयत्‌",
+        "पुनराख्यायिकां जल्पन्‌ सुग्रीवसहितस्तदा"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.1.86",
+        "1.1.87",
+        "1.1.88"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृद् वृतः",
+      "in": "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृवृतः",
+      "gp": "अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृदवृततः",
+      "similarity": {
+        "sim_in_net": 0.9736842105263158,
+        "sim_gp_net": 0.9743589743589743
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सुहृद् वृतः",
+            "b": "सुहृवृतः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "सुहृद् वृतः",
+            "b": "सुहृदवृततः"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः",
+      "in": "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः",
+      "gp": "भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": null,
+      "net": "भरतस्यान्तिकं रामो हनुमन्तं व्यसर्जयत्",
+      "in": "भरतस्यान्तिके रामो हनूमन्तं व्यसर्जयत्",
+      "gp": "भरतस्यान्तिके रामो हनूमन्तं व्यसर्जयत्‌",
+      "similarity": {
+        "sim_in_net": 0.9393939393939394,
+        "sim_gp_net": 0.9393939393939394
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "भरतस्यान्तिकं",
+            "b": "भरतस्यान्तिके"
+          },
+          {
+            "a": "हनुमन्तं",
+            "b": "हनूमन्तं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "भरतस्यान्तिकं",
+            "b": "भरतस्यान्तिके"
+          },
+          {
+            "a": "हनुमन्तं व्यसर्जयत्",
+            "b": "हनूमन्तं व्यसर्जयत्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "पुनराख्यायिकां जल्पन् सुग्रीवसहितश्च सः",
+      "in": "पुनराख्यायिकां जल्पन् सुग्रीवसहितस्तदा",
+      "gp": "पुनराख्यायिकां जल्पन्‌ सुग्रीवसहितस्तदा",
+      "similarity": {
+        "sim_in_net": 0.8857142857142857,
+        "sim_gp_net": 0.8857142857142857
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "सुग्रीवसहितश्च सः",
+            "b": "सुग्रीवसहितस्तदा"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "जल्पन् सुग्रीवसहितश्च सः",
+            "b": "जल्पन्‌ सुग्रीवसहितस्तदा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-86",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"After obtaining a boon from the gods, Rama raised up monkeys from death. He then travelled to Ayodhya by Pushpaka aircraft surrounded by good hearted ones... [1-1-86]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-87",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Rama, with true valour, on going to sage Bharadwaja's hermitage, sent Hanuma to the presence of Bharata... [1-1-87]"
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-88",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then, having boarded Pushpaka aircraft again after leaving the hermitage of Bharadwaja, and narrating past history to Sugreeva and others about the events in the days of his exile in forests, while flying overhead of the very same places, Rama went to Nandigrama... [1-1-88]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-86",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "devataabhyaH varam praapya",
+            "devanagari_machine_converted": "देवताभ्यः वरम् प्राप्य",
+            "english": "after obtaining a boon from the gods"
+          },
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama"
+          },
+          {
+            "roman_itrans": "samutthaapya ca",
+            "devanagari_machine_converted": "समुत्थाप्य च",
+            "english": "raised [up from death]; vaanaraan = monkeys"
+          },
+          {
+            "roman_itrans": "ayodhyaam prasthitaH",
+            "devanagari_machine_converted": "अयोध्याम् प्रस्थितः",
+            "english": "[he] travelled to Ayodhya"
+          },
+          {
+            "roman_itrans": "puShpakeNa",
+            "devanagari_machine_converted": "पुष्पकेण",
+            "english": "by Pushpaka aircraft"
+          },
+          {
+            "roman_itrans": "suhR^it-vR^itaH",
+            "devanagari_machine_converted": "सुहृत्-वृतः",
+            "english": "surrounded by good hearted ones."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-87",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "raamaH",
+            "devanagari_machine_converted": "रामः",
+            "english": "Rama; satyaparaakramaH = with true valour"
+          },
+          {
+            "roman_itrans": "bharadvaajaashramam gatvaa",
+            "devanagari_machine_converted": "भरद्वाजाश्रमम् गत्वा",
+            "english": "on going to Sage Bharadwaja's hermitage"
+          },
+          {
+            "roman_itrans": "hanumantam vyasarjayat",
+            "devanagari_machine_converted": "हनुमन्तम् व्यसर्जयत्",
+            "english": "sent Hanuma"
+          },
+          {
+            "roman_itrans": "bharatasya antikam",
+            "devanagari_machine_converted": "भरतस्य अन्तिकम्",
+            "english": "to the presence of Bharata."
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-88",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "sugriivasahitaH",
+            "devanagari_machine_converted": "सुग्रीवसहितः",
+            "english": "Together with Sugreeva"
+          },
+          {
+            "roman_itrans": "saH",
+            "devanagari_machine_converted": "सः",
+            "english": "He [Rama]"
+          },
+          {
+            "roman_itrans": "aakhyaayikaam jalpan",
+            "devanagari_machine_converted": "आख्यायिकाम् जल्पन्",
+            "english": "narrating past history"
+          },
+          {
+            "roman_itrans": "punaH",
+            "devanagari_machine_converted": "पुनः",
+            "english": "again;tat puShpakam samaaruhya = having boarded that Pushpaka aircraft"
+          },
+          {
+            "roman_itrans": "nandigraamam yayau",
+            "devanagari_machine_converted": "नन्दिग्रामम् ययौ",
+            "english": "went to Nandigrama"
+          },
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.86",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'यह सब हो जानेपर राम देवताओंसे वर पाकर और मरे हुए वानरोंको जीवन दिलाकर अपने सभी साथियोंके साथ पुष्पक विमानपर चढ़कर अयोध्याके लिये प्रस्थित हुए"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.87",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'भरद्वाज मुनिके आश्रमपर पहुँचकर सबको आराम देनेवाले सत्यपराक्रमी रामने भरतके पास हनुमान्को भेजा"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.88",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'फिर सुग्रीवके साथ कथा-वार्ता कहते हुए पुष्पकारूढ़ हो वे नन्दिग्राम को गये"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.86",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "देवताभ्यः",
+            "hindi": "देवताओं से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "वरम्",
+            "hindi": "वर को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राप्य",
+            "hindi": "प्राप्त करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "समुत्थाप्य",
+            "hindi": "जीवित करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "वानरान्",
+            "hindi": "वानरों को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "अयोध्याम्",
+            "hindi": "अयोध्या को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रस्थितः",
+            "hindi": "प्रस्थान किया (प्र + स्था, क्त प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुष्पकेण",
+            "hindi": "पुष्पक विमान से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुहृवृतः",
+            "hindi": "मित्रों से घिरा हुआ (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.87",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "भरद्वाजाश्रमम्",
+            "hindi": "भरद्वाज आश्रम को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गत्वा",
+            "hindi": "जाकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सत्यपराक्रमः",
+            "hindi": "सत्य पराक्रमी ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भरतस्य",
+            "hindi": "भरत के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अन्तिके",
+            "hindi": "समीप (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हनूमन्तम्",
+            "hindi": "हनुमान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "व्यसर्जयत्",
+            "hindi": "भेजा (वि + सृज्, प्रयोज्यार्थ, लङ् लकार, प्रथम पुरुष एकवचन)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.88",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर (अव्यय)"
+          },
+          {
+            "sanskrit": "आख्यायिकाम्",
+            "hindi": "कथा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जल्पन्",
+            "hindi": "कहता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुग्रीवसहितः",
+            "hindi": "सुग्रीव के साथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          },
+          {
+            "sanskrit": "पुष्पकम्",
+            "hindi": "पुष्पक विमान पर (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तत्",
+            "hindi": "उस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "समारुह्य",
+            "hindi": "चढ़कर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "नन्दिग्रामम्",
+            "hindi": "नन्दिग्राम को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ययौ",
+            "hindi": "गया (या धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "तब (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.86",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“यह सब हो जानेपर राम देवताओंसे वर पाकर और मरे हुए वानरोंको जीवन दिलाकर अपने सभी साथियोंके साथ पुष्पकविमानपर चढ़कर अयोध्याके लिये प्रस्थित हुए ॥ ८६॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.87",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "“भरद्वाज मुनिके आश्रमपर पहुँचकर सबको आराम देनेवाले सत्यपराक्रमी रामने भरतके पास हनुमानको भेजा॥ ८७॥"
+      },
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.88",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": true,
+        "text": "“फिर सुग्रीवके साथ कथा-वार्ता कहते हुए श्रीमद्वाल्मीकीयरामायणे A कल नकद लि कद पुष्पकारूढ़ हो वे नन्दिग्रामको गये॥ ८८ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart",
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

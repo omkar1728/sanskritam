@@ -1,0 +1,274 @@
+{
+  "id": "baala-002-040",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 2,
+  "seq_in_sarga": 40,
+  "refs": {
+    "critical_smith": {
+      "sarga": 2,
+      "verse": 38
+    },
+    "vulgate_sarga": 2,
+    "vulgate_net_locators": [
+      "1-2-39"
+    ],
+    "vulgate_in_locators": [
+      "1.2.39"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.2.39"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1002038a",
+        "1002038c"
+      ],
+      "lines": [
+        "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+        "मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः"
+      ],
+      "punctuated_derived": "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः ।\nमुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+        "मुहुर्महुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः"
+      ],
+      "locators": [
+        "1-2-39"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+        "मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः"
+      ],
+      "locators": [
+        "1.2.39"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+        "मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.2.39"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+      "net": "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+      "in": "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+      "gp": "तस्य शिष्यास्ततः सर्वे जगुः श्लोकमिमं पुनः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः",
+      "net": "मुहुर्महुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः",
+      "in": "मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः",
+      "gp": "मुहुर्मुहुः प्रीयमाणाः प्राहुश्च भृशविस्मिताः",
+      "similarity": {
+        "sim_smith_net": 0.9879518072289156,
+        "sim_in_net": 0.9879518072289156,
+        "sim_gp_net": 0.9879518072289156
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "मुहुर्मुहुः",
+            "b": "मुहुर्महुः"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "मुहुर्महुः",
+            "b": "मुहुर्मुहुः"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "मुहुर्महुः",
+            "b": "मुहुर्मुहुः"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-39",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Then all of the disciples of Valmiki sang this verse time and again very delightedly, and much astonished they also recited this verse, reciprocally. [1-2-39]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-2-39",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "tataH",
+            "devanagari_machine_converted": "ततः",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "tasya",
+            "devanagari_machine_converted": "तस्य",
+            "english": "his"
+          },
+          {
+            "roman_itrans": "shiShyaaH",
+            "devanagari_machine_converted": "शिष्याः",
+            "english": "disciples"
+          },
+          {
+            "roman_itrans": "sarve",
+            "devanagari_machine_converted": "सर्वे",
+            "english": "all of them"
+          },
+          {
+            "roman_itrans": "muhuH muhuH",
+            "devanagari_machine_converted": "मुहुः मुहुः",
+            "english": "again, again [time and again]; priiyamaaNaaH = very delightedly"
+          },
+          {
+            "roman_itrans": "punaH",
+            "devanagari_machine_converted": "पुनः",
+            "english": "again"
+          },
+          {
+            "roman_itrans": "shlokam imam",
+            "devanagari_machine_converted": "श्लोकम् इमम्",
+            "english": "verse, this one"
+          },
+          {
+            "roman_itrans": "jaguH",
+            "devanagari_machine_converted": "जगुः",
+            "english": "sang"
+          },
+          {
+            "roman_itrans": "bhR^ishavismitaaH",
+            "devanagari_machine_converted": "भृशविस्मिताः",
+            "english": "much astonished"
+          },
+          {
+            "roman_itrans": "praahuH cha",
+            "devanagari_machine_converted": "प्राहुः च",
+            "english": "reciprocally recited, also."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.39",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "तदनन्तर उनके सभी शिष्य अत्यन्त प्रसन्न होकर बार-बार इस श्लोकका गान करने लगे तथा परम विस्मित हो परस्पर इस प्रकार कहने लगे-"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.2.39",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (मुनि) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "शिष्याः",
+            "hindi": "शिष्य (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "सर्वे",
+            "hindi": "सभी (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जगुः",
+            "hindi": "गाने लगे (गै धातु, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "श्लोकम्",
+            "hindi": "श्लोक को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "इमम्",
+            "hindi": "इस (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "पुनः",
+            "hindi": "फिर से (अव्यय)"
+          },
+          {
+            "sanskrit": "मुहुर्मुहुः",
+            "hindi": "बार-बार (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रीयमाणाः",
+            "hindi": "प्रसन्न होते हुए (शानच् प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "प्राहुः",
+            "hindi": "कहने लगे (प्र + ब्रू, लिट् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "भृशविस्मिताः",
+            "hindi": "अत्यन्त विस्मित होकर (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.2.39",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "तदनन्तर उनके सभी शिष्य अत्यन्त प्रसन्न होकर बार-बार इस श्लोकका गान करने लगे तथा परम विस्मित हो परस्पर इस प्रकार कहने लगे-॥ ३९॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

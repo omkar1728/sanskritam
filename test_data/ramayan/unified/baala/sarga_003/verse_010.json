@@ -1,0 +1,235 @@
+{
+  "id": "baala-003-010",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 10,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 9
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-16"
+    ],
+    "vulgate_in_locators": [
+      "1.3.16"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.16"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003009a",
+        "1003009c"
+      ],
+      "lines": [
+        "वास्तुकर्मनिवेशं च भरतागमनं तथा",
+        "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्"
+      ],
+      "punctuated_derived": "वास्तुकर्मनिवेशं च भरतागमनं तथा ।\nप्रसादनं च रामस्य पितुश्च सलिलक्रियाम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "वास्तुकर्म निवेशं च भरतागमनं तथा",
+        "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्"
+      ],
+      "locators": [
+        "1-3-16"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "वास्तुकर्म निवेशं च भरतागमनं तथा",
+        "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्"
+      ],
+      "locators": [
+        "1.3.16"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "वास्तुकर्म निवेशं च भरतागमनं तथा",
+        "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.16"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "वास्तुकर्मनिवेशं च भरतागमनं तथा",
+      "net": "वास्तुकर्म निवेशं च भरतागमनं तथा",
+      "in": "वास्तुकर्म निवेशं च भरतागमनं तथा",
+      "gp": "वास्तुकर्म निवेशं च भरतागमनं तथा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "वास्तुकर्मनिवेशं",
+            "b": "वास्तुकर्म निवेशं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्",
+      "net": "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्",
+      "in": "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्",
+      "gp": "प्रसादनं च रामस्य पितुश्च सलिलक्रियाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "सलिलक्रियाम्",
+            "b": "सलिलक्रियाम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-16",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "Construction of a hermitage and dwelling therein; Bharata's arrival at that place for the graciousness of Rama to take back the kingdom; Rama's denial of it; Rama's offering water oblations to his father on hearing the demise of his father... [1-3-16]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-16",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "vaastukarma nivesham",
+            "devanagari_machine_converted": "वास्तुकर्म निवेशम्",
+            "english": "architectural work [construction of hermitage,] dwelling in"
+          },
+          {
+            "roman_itrans": "bharataagamanam tathaa",
+            "devanagari_machine_converted": "भरतागमनम् तथा",
+            "english": "then Bharata's, arrival"
+          },
+          {
+            "roman_itrans": "prasaadanam ca raamasya",
+            "devanagari_machine_converted": "प्रसादनम् च रामस्य",
+            "english": "for graciousness, also, of Rama"
+          },
+          {
+            "roman_itrans": "pituH salilakriyaam",
+            "devanagari_machine_converted": "पितुः सलिलक्रियाम्",
+            "english": "water oblation to father."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "(चित्रकूट में) कुटिया बनाना, निवास करना, वहाँ भरतका श्रीरामसे मिलने के लिये आना, उन्हें अयोध्या लौट चलने के लिये प्रसन्न करना (मनाना), श्रीरामद्वारा पिता को जलाञ्जलि दान,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.16",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "वास्तुकर्म",
+            "hindi": "कुटिया बनाने के कार्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "निवेशम्",
+            "hindi": "निवास करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "भरतागमनम्",
+            "hindi": "भरत का आगमन (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "प्रसादनम्",
+            "hindi": "प्रसन्न करना / मनाना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "रामस्य",
+            "hindi": "राम का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पितुः",
+            "hindi": "पिता को (षष्ठी विभक्ति, चतुर्थी के अर्थ में)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "सलिलक्रियाम्",
+            "hindi": "जलक्रिया / जलाञ्जलि को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.16",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "baala-001-052",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 52,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 38
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-48"
+    ],
+    "vulgate_in_locators": [
+      "1.1.49"
+    ],
+    "vulgate_gitapress_refs": []
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001038c"
+      ],
+      "lines": [
+        "रक्षसां निहतान्यासन्सहस्राणि चतुर्दश"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "रक्षसां निहतान्यासन् सहस्राणि चतुर्दश"
+      ],
+      "locators": [
+        "1-1-48"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "रक्षसां निहतान्यासन् सहस्राणि चतुर्दश"
+      ],
+      "locators": [
+        "1.1.49"
+      ]
+    },
+    "vulgate_gitapress": null
+  },
+  "alignment": [
+    {
+      "smith": "रक्षसां निहतान्यासन्सहस्राणि चतुर्दश",
+      "net": "रक्षसां निहतान्यासन् सहस्राणि चतुर्दश",
+      "in": "रक्षसां निहतान्यासन् सहस्राणि चतुर्दश",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "निहतान्यासन्सहस्राणि",
+            "b": "निहतान्यासन् सहस्राणि"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-48",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"During Rama's stay in that forest, fourteen thousand demon inhabitants of Janasthana became slain... [1-1-48b, 49a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-48",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "48b, 49a. tasmin vane nivasataa",
+            "devanagari_machine_converted": "४८ब्, ४९अ। तस्मिन् वने निवसता",
+            "english": "During his stay in that forest"
+          },
+          {
+            "roman_itrans": "caturdashasahasraaNi",
+            "devanagari_machine_converted": "चतुर्दशसहस्राणि",
+            "english": "fourteen thousand"
+          },
+          {
+            "roman_itrans": "janasthaananivaasinaam rakShasaam",
+            "devanagari_machine_converted": "जनस्थाननिवासिनाम् रक्षसाम्",
+            "english": "inhabitant demons of Janasthana"
+          },
+          {
+            "roman_itrans": "nihataanyaasan",
+            "devanagari_machine_converted": "निहतान्यासन्",
+            "english": "became slain."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.49",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "चौदह हजार राक्षसोंका वध किया। तदनन्तर अपने कुटुम्बका वध सुनकर रावण नामका राक्षस क्रोधसे मूर्च्छित हो उठा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.49",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "रक्षसाम्",
+            "hindi": "राक्षसों में से (षष्ठी विभक्ति, निर्धारण)"
+          },
+          {
+            "sanskrit": "निहतानि",
+            "hindi": "मारे गए (प्रथमा विभक्ति, बहुवचन, कर्मवाच्य भूतकाल)"
+          },
+          {
+            "sanskrit": "आसन्",
+            "hindi": "थे (अस् धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सहस्राणि",
+            "hindi": "हजार (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "चतुर्दश",
+            "hindi": "चौदह (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "ततः",
+            "hindi": "तदनन्तर (अव्यय)"
+          },
+          {
+            "sanskrit": "ज्ञातिवधम्",
+            "hindi": "कुटुम्बियों के वध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुत्वा",
+            "hindi": "सुनकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "रावणः",
+            "hindi": "रावण (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "क्रोधमूर्च्छितः",
+            "hindi": "क्रोध से मूर्च्छित हुआ (प्रथमा विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": null
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

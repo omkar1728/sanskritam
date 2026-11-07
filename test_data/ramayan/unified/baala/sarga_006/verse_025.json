@@ -1,0 +1,254 @@
+{
+  "id": "baala-006-025",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 6,
+  "seq_in_sarga": 25,
+  "refs": {
+    "critical_smith": {
+      "sarga": 6,
+      "verse": 19
+    },
+    "vulgate_sarga": 6,
+    "vulgate_net_locators": [
+      "1-6-21"
+    ],
+    "vulgate_in_locators": [
+      "1.6.21"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.6.21"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1006019a",
+        "1006019c"
+      ],
+      "lines": [
+        "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+        "संपूर्णाकृतविद्यानां गुहाकेसरिणामिव"
+      ],
+      "punctuated_derived": "योधानामग्निकल्पानां पेशलानाममर्षिणाम् ।\nसंपूर्णाकृतविद्यानां गुहाकेसरिणामिव ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+        "संपूर्णा कृतविद्यानां गुहा केसरिणामिव"
+      ],
+      "locators": [
+        "1-6-21"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+        "सम्पूर्णा कृतविद्यानां गुहा केसरिणामिव॥२१"
+      ],
+      "locators": [
+        "1.6.21"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "योधानामरिनकल्पानां पेशलानाममर्षिणाम्‌",
+        "सम्पूर्णा कृतविद्यानां गुहा केसरिणामिव"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.6.21"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+      "net": "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+      "in": "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+      "gp": "योधानामरिनकल्पानां पेशलानाममर्षिणाम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.927536231884058
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "योधानामग्निकल्पानां पेशलानाममर्षिणाम्",
+            "b": "योधानामरिनकल्पानां पेशलानाममर्षिणाम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "संपूर्णाकृतविद्यानां गुहाकेसरिणामिव",
+      "net": "संपूर्णा कृतविद्यानां गुहा केसरिणामिव",
+      "in": "सम्पूर्णा कृतविद्यानां गुहा केसरिणामिव॥२१",
+      "gp": "सम्पूर्णा कृतविद्यानां गुहा केसरिणामिव",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "संपूर्णाकृतविद्यानां गुहाकेसरिणामिव",
+            "b": "संपूर्णा कृतविद्यानां गुहा केसरिणामिव"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "संपूर्णा",
+            "b": "सम्पूर्णा"
+          },
+          {
+            "a": "केसरिणामिव",
+            "b": "केसरिणामिव॥२१"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "संपूर्णा",
+            "b": "सम्पूर्णा"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-21",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city Ayodhya is replete with firebrand like skillful warriors that are intolerant of insults, and who have prosecuted their education in archery, chariot-wars, swordplay etc. and with them it is like a cave replete with lions. [1-6-21]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-6-21",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "agnikalpaanaam",
+            "devanagari_machine_converted": "अग्निकल्पानाम्",
+            "english": "like firebrand"
+          },
+          {
+            "roman_itrans": "peshalaanaam",
+            "devanagari_machine_converted": "पेशलानाम्",
+            "english": "skilful ones"
+          },
+          {
+            "roman_itrans": "amarSiNaam",
+            "devanagari_machine_converted": "अमर्षिणाम्",
+            "english": "intolerant of insults"
+          },
+          {
+            "roman_itrans": "kR^itavidyaanaam",
+            "devanagari_machine_converted": "कृतविद्यानाम्",
+            "english": "who prosecuted their education"
+          },
+          {
+            "roman_itrans": "yodhaanaam",
+            "devanagari_machine_converted": "योधानाम्",
+            "english": "[with such] warriors"
+          },
+          {
+            "roman_itrans": "kesariiNaam guhaa iva",
+            "devanagari_machine_converted": "केसरीणाम् गुहा इव",
+            "english": "lions, cave, like"
+          },
+          {
+            "roman_itrans": "[saa purii] sampuurNaa",
+            "devanagari_machine_converted": "[सा पुरी] सम्पूर्णा",
+            "english": "replete with."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "शौर्यकी अधिकताके कारण अग्निके समान दुर्धर्ष, कुटिलतासे रहित, अपमानको सहन करनेमें असमर्थ तथा अस्त्र-शस्त्रोंके ज्ञाता योद्धाओंके समुदायसे वह पुरी उसी तरह भरी-पूरी रहती थी, जैसे पर्वतोंकी गुफा सिंहोंके समूहसे परिपूर्ण होती है॥ २१॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.6.21",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "योधानाम्",
+            "hindi": "योद्धाओं से (षष्ठी विभक्ति, तृतीया के अर्थ में)"
+          },
+          {
+            "sanskrit": "अग्निकल्पानाम्",
+            "hindi": "अग्नि के समान के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पेशलानाम्",
+            "hindi": "कुशल / निपुण के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अमर्षिणाम्",
+            "hindi": "अपमान सहन न करने वाले के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सम्पूर्णा",
+            "hindi": "सम्पूर्ण / भरी हुई (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कृतविद्यानाम्",
+            "hindi": "विद्या प्राप्त किये हुए के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "गुहा",
+            "hindi": "गुफा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "केसरिणाम्",
+            "hindi": "सिंहों से (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "इव",
+            "hindi": "समान (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.6.21",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "शौर्यकी अधिकताके कारण अग्निके समान दुर्धर्ष, कुटिलतासे रहित, अपमानको सहन करनेमें असमर्थ तथा अस्त्र-शस्त्रोके ज्ञाता योद्धाओंके समुदायसे वह पुरी उसी तरह भरी-पूरी रहती थी, जैसे पर्वतोंकी गुफा सिंहोंके समूहसे परिपूर्ण होती है॥ २१॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

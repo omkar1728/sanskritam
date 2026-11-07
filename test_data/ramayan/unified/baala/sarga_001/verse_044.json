@@ -1,0 +1,337 @@
+{
+  "id": "baala-001-044",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 44,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 33
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-41"
+    ],
+    "vulgate_in_locators": [
+      "1.1.41",
+      "1.1.42"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.41"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001033a",
+        "1001033c"
+      ],
+      "lines": [
+        "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह",
+        "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्य भ्रातरं तथा"
+      ],
+      "punctuated_derived": "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह ।\nसुतीक्ष्णं चाप्यगस्त्यं च अगस्त्य भ्रातरं तथा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह",
+        "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा"
+      ],
+      "locators": [
+        "1-1-41"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "विराधं राक्षसं हत्वा शरभंगं ददर्श ह",
+        "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा"
+      ],
+      "locators": [
+        "1.1.41",
+        "1.1.42"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "विराधं राक्षसं हत्वा शरभंगं ददर्श ह"
+      ],
+      "ocr_flags": [
+        "hindi_marker_413_differs_from_sanskrit_41"
+      ],
+      "refs": [
+        "1.1.41"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह",
+      "net": "विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह",
+      "in": "विराधं राक्षसं हत्वा शरभंगं ददर्श ह",
+      "gp": "विराधं राक्षसं हत्वा शरभंगं ददर्श ह",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "शरभङ्गं",
+            "b": "शरभंगं"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "शरभङ्गं",
+            "b": "शरभंगं"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्य भ्रातरं तथा",
+      "net": "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा",
+      "in": "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "अगस्त्य भ्रातरं",
+            "b": "अगस्त्यभ्रातरं"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-41",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"That lotus-eyed Rama, on his entering the vast Dandaka forest, killed the demon Viraadha, and indeed beheld Sage Sharabhanga and also Sage Suteekhsna, Sage Agastya and likewise Sage Agastya's brother... [1-1-41, 42a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-41",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "41, 42a. raajiivalochanaH raamaH",
+            "devanagari_machine_converted": "४१, ४२अ। राजीवलोचनः रामः",
+            "english": "Rama the lotus-eyed one"
+          },
+          {
+            "roman_itrans": "mahaaaranNyam pravishya",
+            "devanagari_machine_converted": "महाअरन्ण्यम् प्रविश्य",
+            "english": "on entering the vast forest"
+          },
+          {
+            "roman_itrans": "viraadham raakShasam hatvaa",
+            "devanagari_machine_converted": "विराधम् राक्षसम् हत्वा",
+            "english": "and on killing the demon Viradha"
+          },
+          {
+            "roman_itrans": "dadarsha ha",
+            "devanagari_machine_converted": "ददर्श ह",
+            "english": "indeed beheld"
+          },
+          {
+            "roman_itrans": "sharabhaN^gam sutiikShNam ca api",
+            "devanagari_machine_converted": "शरभङ्गम् सुतीक्ष्णम् च अपि",
+            "english": "Sage Sharabhanga and also Sage Suteekshna"
+          },
+          {
+            "roman_itrans": "agastyam ca",
+            "devanagari_machine_converted": "अगस्त्यम् च",
+            "english": "and Sage Agastya"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "likewise"
+          },
+          {
+            "roman_itrans": "agastyabhraataram",
+            "devanagari_machine_converted": "अगस्त्यभ्रातरम्",
+            "english": "Agastya's brother."
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-41",
+        "spans_beyond_this_verse": true,
+        "text": "The name of Agastya's brother is Sudarshana, and he will never be called by his own name, but will be called as agatsyabhraataa, brother of Agastya."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.41",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "'उस महान् वनमें पहुँचनेपर कमललोचन रामने विराध नामक राक्षसको मारकर शरभंग मुनिका दर्शन किया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.42",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सुतीक्ष्ण, अगस्त्य मुनि तथा अगस्त्यके भ्राताका भी दर्शन किया। फिर अगस्त्य मुनिके कहनेसे उन्होंने ऐन्द्र धनुष ग्रहण किया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.41",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "प्रविश्य",
+            "hindi": "प्रवेश करके (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "महारण्यम्",
+            "hindi": "महान वन में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रामः",
+            "hindi": "राम ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "राजीवलोचनः",
+            "hindi": "कमलनयन ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विराधम्",
+            "hindi": "विराध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राक्षसम्",
+            "hindi": "राक्षस को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "हत्वा",
+            "hindi": "मारकर (क्त्वान्त अव्यय)"
+          },
+          {
+            "sanskrit": "शरभङ्गम्",
+            "hindi": "शरभंग ऋषि को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ददर्श",
+            "hindi": "देखा (दृश् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ह",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.42",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "सुतीक्ष्णम्",
+            "hindi": "सुतीक्ष्ण को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "अगस्त्यम्",
+            "hindi": "अगस्त्य को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "अगस्त्यभ्रातरम्",
+            "hindi": "अगस्त्य के भाई को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तथा",
+            "hindi": "तथा (अव्यय)"
+          },
+          {
+            "sanskrit": "अगस्त्यवचनात्",
+            "hindi": "अगस्त्य के कहने से (पञ्चमी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "जग्राह",
+            "hindi": "ग्रहण किया (ग्रह् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ऐन्द्रम्",
+            "hindi": "इन्द्र सम्बन्धी (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शरासनम्",
+            "hindi": "धनुष को (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.41",
+        "ocr_flags": [
+          "hindi_marker_413_differs_from_sanskrit_41"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा। “उस महान्‌ बनमें पहुँचनेपर कमललोचन रामने विराध नामक राक्षसको मारकर शरभंग, सुतीक्ष्ण, अगस्त्य मुनि तथा अगस्त्यके भ्राताका दर्शन किया॥ ४१३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

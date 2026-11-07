@@ -1,0 +1,249 @@
+{
+  "id": "baala-009-007",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 9,
+  "seq_in_sarga": 7,
+  "refs": {
+    "critical_smith": {
+      "sarga": 8,
+      "verse": 5
+    },
+    "vulgate_sarga": 9,
+    "vulgate_net_locators": [
+      "1-9-2"
+    ],
+    "vulgate_in_locators": [
+      "1.9.2"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.9.2"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1008005c"
+      ],
+      "lines": [
+        "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः"
+      ],
+      "punctuated_derived": null
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः"
+      ],
+      "locators": [
+        "1-9-2"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः"
+      ],
+      "locators": [
+        "1.9.2"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_26_differs_from_sanskrit_2"
+      ],
+      "refs": [
+        "1.9.2"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः",
+      "net": "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः",
+      "in": "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः",
+      "gp": "ऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुतः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-2",
+        "spans_beyond_this_verse": true,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Oh, king, I have earlier heard of this present advice given to you by Vedic scholars, as godly Sage Sanatkumara has once narrated an account about the arrival of your sons in the presence of other sages, and sage Sanat Kumara said... [1-9-2, 3a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-9-2",
+        "spans_beyond_this_verse": true,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "2, 3a. raajan",
+            "devanagari_machine_converted": "२, ३अ। राजन्",
+            "english": "oh King"
+          },
+          {
+            "roman_itrans": "R^itvigbhiH upadiSTaH",
+            "devanagari_machine_converted": "ऋत्विग्भिः उपदिष्टः",
+            "english": "advised by Vedic scholars"
+          },
+          {
+            "roman_itrans": "ayam puraavR^ittaH",
+            "devanagari_machine_converted": "अयम् पुरावृत्तः",
+            "english": "this is, happened[narrated] earlier"
+          },
+          {
+            "roman_itrans": "sanatkumaaraH bhagavaan",
+            "devanagari_machine_converted": "सनत्कुमारः भगवान्",
+            "english": "Sage Sanatkumara, godly one"
+          },
+          {
+            "roman_itrans": "puurvam kathitavaan kathaam",
+            "devanagari_machine_converted": "पूर्वम् कथितवान् कथाम्",
+            "english": "once, narrated, an account [about your progeny]"
+          },
+          {
+            "roman_itrans": "R^iSiiNaam sannidhau",
+            "devanagari_machine_converted": "ऋषीणाम् सन्निधौ",
+            "english": "of [other] sages, presence of"
+          },
+          {
+            "roman_itrans": "tava putraagamam prati",
+            "devanagari_machine_converted": "तव पुत्रागमम् प्रति",
+            "english": "about arrival of, your, sons, about"
+          },
+          {
+            "roman_itrans": "mayaa shrutaH",
+            "devanagari_machine_converted": "मया श्रुतः",
+            "english": "heard by me."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.2",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "‘ऋत्विजों ने पुत्र-प्राप्तिके लिये इस अश्वमेधरूप उपाय का उपदेश किया है; परंतु मैंने इतिहासके रूपमें कुछ विशेष बात सुनी है। राजन्! पूर्वकालमें भगवान् सनत्कुमारने ऋषियों के निकट एक कथा सुनायी थी। वह आपकी पुत्रप्राप्ति से सम्बन्ध रखने वाली है।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.9.2",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "ऋत्विग्भिः",
+            "hindi": "ऋत्विजों ने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "उपदिष्टः",
+            "hindi": "उपदेश किया है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "अयम्",
+            "hindi": "यह (अश्वमेध) (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पुरावृत्तः",
+            "hindi": "इतिहास के रूप में (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "मया",
+            "hindi": "मैंने (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "श्रुतः",
+            "hindi": "सुना है (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सनत्कुमारः",
+            "hindi": "सनत्कुमार ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "भगवान्",
+            "hindi": "भगवान् ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "पूर्वम्",
+            "hindi": "पूर्वकाल में (अव्यय)"
+          },
+          {
+            "sanskrit": "कथितवान्",
+            "hindi": "कही थी (कथ् धातु, क्तवतु प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कथाम्",
+            "hindi": "कथा को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ऋषीणाम्",
+            "hindi": "ऋषियों के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "सन्निधौ",
+            "hindi": "निकट / सम्मुख (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "राजन्",
+            "hindi": "हे राजन्! (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "तव",
+            "hindi": "आपकी (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रागमम्",
+            "hindi": "पुत्रप्राप्ति के विषय में (द्वितीया विभक्ति, 'प्रति' के योग में)"
+          },
+          {
+            "sanskrit": "प्रति",
+            "hindi": "के विषय में / सम्बन्ध रखने वाली (कर्मप्रवचनीय अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.9.2",
+        "ocr_flags": [
+          "hindi_marker_26_differs_from_sanskrit_2"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "ऋषीणां संनिधौ राजंस्तव पुत्रागमं प्रति। “ऋत्विजोंने पुत्र-प्राप्तिके लिये इस अश्वमेधरूप उपायका उपदेश किया है; परंतु मैंने इतिहासके रूपमें कुछ विशेष बात सुनी है। राजन्‌! पूर्वकालमें भगवान्‌ सनत्कुमारने ऋषियाँके निकट एक कथा सुनायी थी। वह आपकी पुत्रप्राप्तिसे सम्बन्ध रखनेवाली है॥ २६ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

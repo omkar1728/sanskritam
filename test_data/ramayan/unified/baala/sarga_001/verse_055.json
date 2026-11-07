@@ -1,0 +1,289 @@
+{
+  "id": "baala-001-055",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 55,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 41
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-51"
+    ],
+    "vulgate_in_locators": [
+      "1.1.51",
+      "1.1.52"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.59"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001041a",
+        "1001041c"
+      ],
+      "lines": [
+        "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+        "जगाम सहमारीचस्तस्याश्रमपदं तदा"
+      ],
+      "punctuated_derived": "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः ।\nजगाम सहमारीचस्तस्याश्रमपदं तदा ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+        "जगाम सहमारीचस्तस्याश्रमपदं तदा"
+      ],
+      "locators": [
+        "1-1-51"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+        "जगाम सहमारीचस्तस्याश्रमपदं तदा"
+      ],
+      "locators": [
+        "1.1.51",
+        "1.1.52"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः"
+      ],
+      "ocr_flags": [
+        "hindi_marker_range_50-513",
+        "verse_number_nonsequential_expected_51"
+      ],
+      "refs": [
+        "1.1.59"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+      "net": "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+      "in": "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+      "gp": "अनादृत्य तु तद्वाक्यं रावणः कालचोदितः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "जगाम सहमारीचस्तस्याश्रमपदं तदा",
+      "net": "जगाम सहमारीचस्तस्याश्रमपदं तदा",
+      "in": "जगाम सहमारीचस्तस्याश्रमपदं तदा",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-51",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"Then disregarding Maareecha's words and impelled by his own fate, Ravana advanced to the place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-51",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "51b, 52a. anaadR^itya tu",
+            "devanagari_machine_converted": "५१ब्, ५२अ। अनादृत्य तु",
+            "english": "but regardless; tat vaakyam = [of] that speech; raavaNaH kaalachoditaH = Ravana impelled by [his own] fate"
+          },
+          {
+            "roman_itrans": "tadaa",
+            "devanagari_machine_converted": "तदा",
+            "english": "then"
+          },
+          {
+            "roman_itrans": "jagaama",
+            "devanagari_machine_converted": "जगाम",
+            "english": "went"
+          },
+          {
+            "roman_itrans": "tasya aashramapadam",
+            "devanagari_machine_converted": "तस्य आश्रमपदम्",
+            "english": "[to] the place of Rama's hermitage"
+          },
+          {
+            "roman_itrans": "sahamaariichaH",
+            "devanagari_machine_converted": "सहमारीचः",
+            "english": "along with Maareecha"
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.51",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कि 'रावण! उस बलवान् रामके साथ तुम्हारा विरोध ठीक नहीं है' परंतु कालकी प्रेरणासे रावणने मारीचके वाक्योंको टाल दिया"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.52",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "और उसके साथ ही रामके आश्रमपर गया। मायावी मारीचके द्वारा उसने दोनों राजकुमारोंको आश्रमसे दूर हटा दिया"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.51",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "न",
+            "hindi": "नहीं (अव्यय)"
+          },
+          {
+            "sanskrit": "विरोधः",
+            "hindi": "विरोध (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "बलवता",
+            "hindi": "बलवान् के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "क्षमः",
+            "hindi": "उचित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "रावण",
+            "hindi": "हे रावण (सम्बोधन विभक्ति)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (राम) के साथ (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "तेरा (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "अनादृत्य",
+            "hindi": "अनादर करके / टालकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो (अव्यय)"
+          },
+          {
+            "sanskrit": "तद्वाक्यम्",
+            "hindi": "उसके वचन को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "रावणः",
+            "hindi": "रावण ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "कालचोदितः",
+            "hindi": "काल से प्रेरित होकर (प्रथमा विभक्ति)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.52",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "सहमारीचः",
+            "hindi": "मारीच के साथ (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तस्य",
+            "hindi": "उस (राम) के (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "आश्रमपदम्",
+            "hindi": "आश्रम स्थान को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          },
+          {
+            "sanskrit": "तेन",
+            "hindi": "उस (मारीच) के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "मायाविना",
+            "hindi": "माया करने वाले के द्वारा (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दूरम्",
+            "hindi": "दूर (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "अपवाह्य",
+            "hindi": "हटाकर / बहलाकर (ल्यबन्त अव्यय)"
+          },
+          {
+            "sanskrit": "नृपात्मजौ",
+            "hindi": "राजकुमारों को (द्वितीया विभक्ति, द्विवचन)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.59",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_51",
+          "hindi_marker_range_50-513"
+        ],
+        "spans_beyond_this_verse": true,
+        "text": "जगाम सहमारीचस्तस्याश्रमपदं॑ तदा। “यद्यपि मारीचने यह कहकर कि “रावण! उस बलवान्‌ रामके साथ तुम्हारा विरोध ठीक नहीं है' रावणको अनेकों बार मना किया; परंतु कालकी प्रेरणासे रावणने मारीचके वाक्यांको टाल दिया और उसके साथ ही रामके आश्रमपर गया॥ ५०-५१३ ॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

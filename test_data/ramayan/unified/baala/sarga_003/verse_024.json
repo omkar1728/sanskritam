@@ -1,0 +1,237 @@
+{
+  "id": "baala-003-024",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 3,
+  "seq_in_sarga": 24,
+  "refs": {
+    "critical_smith": {
+      "sarga": 3,
+      "verse": 17
+    },
+    "vulgate_sarga": 3,
+    "vulgate_net_locators": [
+      "1-3-25"
+    ],
+    "vulgate_in_locators": [
+      "1.3.25"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.3.25"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1003017a",
+        "1003017c"
+      ],
+      "lines": [
+        "कोपं राघवसिंहस्य बलानामुपसंग्रहम्",
+        "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम्"
+      ],
+      "punctuated_derived": "कोपं राघवसिंहस्य बलानामुपसंग्रहम् ।\nदिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कोपं राघवसिंहस्य बलानामुपसंग्रहम्",
+        "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनं"
+      ],
+      "locators": [
+        "1-3-25"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कोपं राघवसिंहस्य बलानामुपसंग्रहम्",
+        "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम्"
+      ],
+      "locators": [
+        "1.3.25"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "कोपं राघवसिंहस्य बलानामुपसंग्रहम्‌",
+        "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम्‌"
+      ],
+      "ocr_flags": [
+        "hindi_missing"
+      ],
+      "refs": [
+        "1.3.25"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कोपं राघवसिंहस्य बलानामुपसंग्रहम्",
+      "net": "कोपं राघवसिंहस्य बलानामुपसंग्रहम्",
+      "in": "कोपं राघवसिंहस्य बलानामुपसंग्रहम्",
+      "gp": "कोपं राघवसिंहस्य बलानामुपसंग्रहम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "बलानामुपसंग्रहम्",
+            "b": "बलानामुपसंग्रहम्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम्",
+      "net": "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनं",
+      "in": "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम्",
+      "gp": "दिशः प्रस्थापनं चैव पृथिव्याश्च निवेदनम्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "निवेदनम्",
+            "b": "निवेदनं"
+          }
+        ],
+        "net_vs_in": [
+          {
+            "a": "निवेदनं",
+            "b": "निवेदनम्"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "निवेदनं",
+            "b": "निवेदनम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-25",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "The wrath of Raghava, the lion, at the delay caused by Sugreeva, and Sugreeva's foregathering of all troops, and sending them to all quarters, and Sugreeva's description of earth's topography to monkey-troops... [1-3-25]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-3-25",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "kopam raaghavasimhasya",
+            "devanagari_machine_converted": "कोपम् राघवसिम्हस्य",
+            "english": "wrath of the lion Raghava"
+          },
+          {
+            "roman_itrans": "balaanaam upasa~ngraham",
+            "devanagari_machine_converted": "बलानाम् उपसञ्ग्रहम्",
+            "english": "troops, foregathering; dishaH prasthaapanam ca eva = also thus, sending to quarters ; pR^ithivyaaH ca nivedanam = also earth's [topography,] description."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "रघुकुलसिंह श्रीरामका सुग्रीवके प्रति क्रोध-प्रदर्शन, सुग्रीवद्वारा सीताकी खोजके लिये वानरसेनाका संग्रह, सुग्रीवका सम्पूर्ण दिशाओंमें वानरोंको भेजना और उन्हें पृथ्वीके द्वीप-समुद्र आदि विभागोंका परिचय देना,"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.3.25",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कोपम्",
+            "hindi": "क्रोध को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "राघवसिंहस्य",
+            "hindi": "राघवसिंह (राम) का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "बलानाम्",
+            "hindi": "सेनाओं का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "उपसङ्ग्रहम्",
+            "hindi": "सङ्ग्रह / एकत्र करना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "दिशः",
+            "hindi": "दिशाओं में (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रस्थापनम्",
+            "hindi": "भेजना (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "एव",
+            "hindi": "ही (अव्यय)"
+          },
+          {
+            "sanskrit": "पृथिव्याः",
+            "hindi": "पृथ्वी का (षष्ठी विभक्ति)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "निवेदनम्",
+            "hindi": "परिचय देना / जानकारी देना (द्वितीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.3.25",
+        "ocr_flags": [
+          "hindi_missing"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": null
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

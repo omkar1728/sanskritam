@@ -1,0 +1,243 @@
+{
+  "id": "baala-010-030",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 10,
+  "seq_in_sarga": 30,
+  "refs": {
+    "critical_smith": null,
+    "vulgate_sarga": 10,
+    "vulgate_net_locators": [
+      "1-10-27"
+    ],
+    "vulgate_in_locators": [
+      "1.10.27"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.10.27"
+    ]
+  },
+  "kind": "vulgate_only",
+  "text": {
+    "critical_smith": null,
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "चित्राण्यत्र बहूनि स्युर्मूलानि च फलनि च",
+        "तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम्"
+      ],
+      "locators": [
+        "1-10-27"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च",
+        "तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम्"
+      ],
+      "locators": [
+        "1.10.27"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च",
+        "तत्राप्येष विशेषेण विधिर्हि भविता श्रुवम्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.10.27"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": null,
+      "net": "चित्राण्यत्र बहूनि स्युर्मूलानि च फलनि च",
+      "in": "चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च",
+      "gp": "चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च",
+      "similarity": {
+        "sim_in_net": 0.9855072463768116,
+        "sim_gp_net": 0.9855072463768116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "फलनि",
+            "b": "फलानि"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "फलनि",
+            "b": "फलानि"
+          }
+        ]
+      }
+    },
+    {
+      "smith": null,
+      "net": "तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम्",
+      "in": "तत्राप्येष विशेषेण विधिर्हि भविता ध्रुवम्",
+      "gp": "तत्राप्येष विशेषेण विधिर्हि भविता श्रुवम्‌",
+      "similarity": {
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9722222222222222
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "ध्रुवम्",
+            "b": "श्रुवम्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-27",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"There are excellent tuber fruits and fruits and there will be a very distinctive hospitality... definitely indeed...\" So said the courtesans.[1-10-27]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-10-27",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "atra chitraaNi bahuuni muulaani ca phalaani syuH",
+            "devanagari_machine_converted": "अत्र चित्राणि बहूनि मूलानि च फलानि स्युः",
+            "english": "there, excellent, tubers, fruits, also, are there"
+          },
+          {
+            "roman_itrans": "tatra eSaH visheSeNa api",
+            "devanagari_machine_converted": "तत्र एषः विशेषेण अपि",
+            "english": "there, this very distinctive way"
+          },
+          {
+            "roman_itrans": "vidhiH bhavitaa",
+            "devanagari_machine_converted": "विधिः भविता",
+            "english": "manner [hospitality,] will be there"
+          },
+          {
+            "roman_itrans": "dhruvam hi",
+            "devanagari_machine_converted": "ध्रुवम् हि",
+            "english": "definitely, indeed."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.27",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "यद्यपि यहाँ नाना प्रकारके फल-मूल बहुत मिलते हैं तथापि वहाँ भी निश्चय ही इन सबका विशेषरूपसे प्रबन्ध हो सकता है’ ।"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.10.27",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "चित्राणि",
+            "hindi": "नाना प्रकार के / विचित्र (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "अत्र",
+            "hindi": "यहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "बहूनि",
+            "hindi": "बहुत से (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "स्युः",
+            "hindi": "हैं / होते हैं (अस् धातु, विधिलिङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "मूलानि",
+            "hindi": "मूल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "फलानि",
+            "hindi": "फल (प्रथमा विभक्ति, बहुवचन)"
+          },
+          {
+            "sanskrit": "च",
+            "hindi": "और (अव्यय)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "अपि",
+            "hindi": "भी (अव्यय)"
+          },
+          {
+            "sanskrit": "एषः",
+            "hindi": "इन (फल-मूल) का (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "विशेषेण",
+            "hindi": "विशेष रूप से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "विधिः",
+            "hindi": "प्रबन्ध / व्यवस्था (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "हि",
+            "hindi": "ही (निश्चयार्थक अव्यय)"
+          },
+          {
+            "sanskrit": "भविता",
+            "hindi": "हो सकता है (भू धातु, लुट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "ध्रुवम्",
+            "hindi": "निश्चय ही (अव्यय/क्रियाविशेषण)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.10.27",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "यद्यपि यहाँ नाना प्रकारके फल-मूल बहुत मिलते हैं तथापि वहाँ भी निश्चय ही इन सबका विशेषरूपसे प्रबन्ध हो सकता है'॥ २७॥"
+      }
+    ]
+  },
+  "flags": [
+    "vulgate_only_no_critical_edition_counterpart"
+  ],
+  "review_status": "unreviewed"
+}

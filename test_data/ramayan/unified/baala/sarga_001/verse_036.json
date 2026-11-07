@@ -1,0 +1,313 @@
+{
+  "id": "baala-001-036",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 1,
+  "seq_in_sarga": 36,
+  "refs": {
+    "critical_smith": {
+      "sarga": 1,
+      "verse": 28
+    },
+    "vulgate_sarga": 1,
+    "vulgate_net_locators": [
+      "1-1-32"
+    ],
+    "vulgate_in_locators": [
+      "1.1.32",
+      "1.1.33"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.1.32"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1001028a",
+        "1001028c"
+      ],
+      "lines": [
+        "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+        "राजा दशरथः स्वर्गं जगाम विलपन्सुतम्"
+      ],
+      "punctuated_derived": "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा ।\nराजा दशरथः स्वर्गं जगाम विलपन्सुतम् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+        "राजा दशरथः स्वर्गं जगाम विलपन् सुतम्"
+      ],
+      "locators": [
+        "1-1-32"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+        "राजा दशरथः स्वर्गं जगाम विलपन् सुतम्"
+      ],
+      "locators": [
+        "1.1.32",
+        "1.1.33"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा"
+      ],
+      "ocr_flags": [
+        "hindi_marker_323_differs_from_sanskrit_32",
+        "verse_number_nonsequential_expected_40"
+      ],
+      "refs": [
+        "1.1.32"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+      "net": "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+      "in": "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+      "gp": "चित्रकूटं गते रामे पुत्रशोकातुरस्तदा",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "राजा दशरथः स्वर्गं जगाम विलपन्सुतम्",
+      "net": "राजा दशरथः स्वर्गं जगाम विलपन् सुतम्",
+      "in": "राजा दशरथः स्वर्गं जगाम विलपन् सुतम्",
+      "gp": null,
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "smith_vs_net": [
+          {
+            "a": "विलपन्सुतम्",
+            "b": "विलपन् सुतम्"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-32",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "\"On Rama going to Chitrakuta thus, King Dasharatha tormented by the grief for son, went to heavens weeping for son... [1-1-32b, 33a]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-32",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "32b, 33a. gate raame",
+            "devanagari_machine_converted": "३२ब्, ३३अ। गते रामे",
+            "english": "On gone Rama"
+          },
+          {
+            "roman_itrans": "chitrakuuTam",
+            "devanagari_machine_converted": "चित्रकूटम्",
+            "english": "to Chitrakuta"
+          },
+          {
+            "roman_itrans": "tathaa",
+            "devanagari_machine_converted": "तथा",
+            "english": "thus [tadaa = then]"
+          },
+          {
+            "roman_itrans": "raajaa dasharathaH",
+            "devanagari_machine_converted": "राजा दशरथः",
+            "english": "King Dasaratha"
+          },
+          {
+            "roman_itrans": "svargam jagaama",
+            "devanagari_machine_converted": "स्वर्गम् जगाम",
+            "english": "went to heavens [died]"
+          },
+          {
+            "roman_itrans": "putrashokaaturaH",
+            "devanagari_machine_converted": "पुत्रशोकातुरः",
+            "english": "tormented by grief for his son"
+          },
+          {
+            "roman_itrans": "sutam vilapan",
+            "devanagari_machine_converted": "सुतम् विलपन्",
+            "english": "while weeping for his son"
+          }
+        ]
+      }
+    ],
+    "english_commentary": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-1-32",
+        "spans_beyond_this_verse": false,
+        "text": "The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshvara Tiirtha's text will have 'then'."
+      }
+    ],
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.32",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "देवता और गन्धर्वोके समान उस पर्णकुटीमें सानन्द रहने लगे। रामके चित्रकूट चले जानेपर पुत्रशोकसे पीडित राजा दशरथ"
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.33",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "text": "उस समय पुत्रके लिये विलाप करते हुए स्वर्गगामी हुए। उनके स्वर्गगमनके पश्चात् वसिष्ठ आदि प्रमुख ब्राह्मणोंद्वारा"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.32",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "देवगन्धर्वसङ्काशाः",
+            "hindi": "देव और गन्धर्वों के सदृश (प्रथमा विभक्ति बहुवचन)"
+          },
+          {
+            "sanskrit": "तत्र",
+            "hindi": "वहाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "ते",
+            "hindi": "वे (प्रथमा विभक्ति बहुवचन)"
+          },
+          {
+            "sanskrit": "न्यवसन्",
+            "hindi": "निवास किया (नि + वस् धातु, लङ् लकार, प्रथम पुरुष बहुवचन)"
+          },
+          {
+            "sanskrit": "सुखम्",
+            "hindi": "सुखपूर्वक (अव्यय/क्रियाविशेषण)"
+          },
+          {
+            "sanskrit": "चित्रकूटम्",
+            "hindi": "चित्रकूट को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गते",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, सति सप्तमी प्रयोग)"
+          },
+          {
+            "sanskrit": "रामे",
+            "hindi": "राम के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "पुत्रशोकातुरः",
+            "hindi": "पुत्र के शोक से पीड़ित (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "तदा",
+            "hindi": "उस समय (अव्यय)"
+          }
+        ]
+      },
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.1.33",
+        "spans_beyond_this_verse": true,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राजा",
+            "hindi": "राजा ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "दशरथः",
+            "hindi": "दशरथ ने (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्वर्गम्",
+            "hindi": "स्वर्ग को (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जगाम",
+            "hindi": "गमन किया (गम् धातु, लिट् लकार, प्रथम पुरुष एकवचन)"
+          },
+          {
+            "sanskrit": "विलपन्",
+            "hindi": "विलाप करता हुआ (शतृ प्रत्ययान्त, प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "सुतम्",
+            "hindi": "पुत्र के लिए (द्वितीया विभक्ति)"
+          },
+          {
+            "sanskrit": "गते",
+            "hindi": "चले जाने पर (सप्तमी विभक्ति, सति सप्तमी)"
+          },
+          {
+            "sanskrit": "तु",
+            "hindi": "तो / हाँ (अव्यय)"
+          },
+          {
+            "sanskrit": "तस्मिन्",
+            "hindi": "उस (दशरथ) के (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "भरतः",
+            "hindi": "भरत (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "वसिष्ठप्रमुखैः",
+            "hindi": "वसिष्ठ आदि प्रमुख (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "द्विजैः",
+            "hindi": "ब्राह्मणों द्वारा (तृतीया विभक्ति)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.1.32",
+        "ocr_flags": [
+          "verse_number_nonsequential_expected_40",
+          "hindi_marker_323_differs_from_sanskrit_32"
+        ],
+        "spans_beyond_this_verse": false,
+        "text": "राजा दशरथः स्वर्ग जगाम विलपन्‌ सुतम्‌। 'रामके चित्रकूट चले जानेपर पुत्रशोकसे पीडित राजा दशरथ उस समय पुत्रके लिये [उसका नाम ले- लेकर] विलाप करते हुए स्वर्गगामी हुए॥ ३२३॥"
+      }
+    ]
+  },
+  "flags": [
+    "meaning_unit_spans_multiple_verses"
+  ],
+  "review_status": "unreviewed"
+}

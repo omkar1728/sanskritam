@@ -1,0 +1,242 @@
+{
+  "id": "baala-005-006",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 6,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 5
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-5"
+    ],
+    "vulgate_in_locators": [
+      "1.5.5"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.5"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005005a",
+        "1005005c"
+      ],
+      "lines": [
+        "कोसलो नाम मुदितः स्फीतो जनपदो महान्",
+        "निविष्टः सरयूतीरे प्रभूतधनधान्यवान्"
+      ],
+      "punctuated_derived": "कोसलो नाम मुदितः स्फीतो जनपदो महान् ।\nनिविष्टः सरयूतीरे प्रभूतधनधान्यवान् ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "कोसलो नाम मुदितः स्फीतो जनपदो महान्",
+        "निविष्टः सरयूतीरे प्रभूतधनधान्यवान्"
+      ],
+      "locators": [
+        "1-5-5"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "कोशलो नाम मुदितः स्फीतो जनपदो महान्",
+        "निविष्टः सरयूतीरे प्रभूतधनधान्यवान्"
+      ],
+      "locators": [
+        "1.5.5"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "'कोशलो नाम मुदितः स्फीतो जनपदो महान्‌",
+        "निविष्ट सरयूतीरे प्रभूतधनधान्यवान्‌"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.5"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "कोसलो नाम मुदितः स्फीतो जनपदो महान्",
+      "net": "कोसलो नाम मुदितः स्फीतो जनपदो महान्",
+      "in": "कोशलो नाम मुदितः स्फीतो जनपदो महान्",
+      "gp": "'कोशलो नाम मुदितः स्फीतो जनपदो महान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 0.9666666666666667,
+        "sim_gp_net": 0.9666666666666667
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_in": [
+          {
+            "a": "कोसलो",
+            "b": "कोशलो"
+          }
+        ],
+        "net_vs_gp": [
+          {
+            "a": "कोसलो",
+            "b": "'कोशलो"
+          },
+          {
+            "a": "महान्",
+            "b": "महान्‌"
+          }
+        ]
+      }
+    },
+    {
+      "smith": "निविष्टः सरयूतीरे प्रभूतधनधान्यवान्",
+      "net": "निविष्टः सरयूतीरे प्रभूतधनधान्यवान्",
+      "in": "निविष्टः सरयूतीरे प्रभूतधनधान्यवान्",
+      "gp": "निविष्ट सरयूतीरे प्रभूतधनधान्यवान्‌",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9841269841269841
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "निविष्टः",
+            "b": "निविष्ट"
+          },
+          {
+            "a": "प्रभूतधनधान्यवान्",
+            "b": "प्रभूतधनधान्यवान्‌"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-5",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "A great kingdom named Kosala, a joyous and a vast one well flourishing with monies and cereals, is snugly situated on the riverbanks of Sarayu. [1-5-5]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-5",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "prabhuutadhanadhaanyavaan",
+            "devanagari_machine_converted": "प्रभूतधनधान्यवान्",
+            "english": "well flourishing with monies cereals"
+          },
+          {
+            "roman_itrans": "muditaH sphiitaH",
+            "devanagari_machine_converted": "मुदितः स्फीतः",
+            "english": "joyous one, vast one"
+          },
+          {
+            "roman_itrans": "kosalaH naama",
+            "devanagari_machine_converted": "कोसलः नाम",
+            "english": "Kosala, named"
+          },
+          {
+            "roman_itrans": "mahaan janapadaH",
+            "devanagari_machine_converted": "महान् जनपदः",
+            "english": "great, kingdom"
+          },
+          {
+            "roman_itrans": "sarayuutiire niviSTaH",
+            "devanagari_machine_converted": "सरयूतीरे निविष्टः",
+            "english": "is snugly situated on the banks of River Sarayu ."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "कोशल नामसे प्रसिद्ध एक बहुत बड़ा जनपद है, जो सरयू नदीके किनारे बसा हुआ है। वह प्रचुर धनधान्यसे सम्पन्न, सुखी और समृद्धिशाली है॥ ५ ॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.5",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "कोशलः",
+            "hindi": "कोशल (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "नाम",
+            "hindi": "नाम से (अव्यय)"
+          },
+          {
+            "sanskrit": "मुदितः",
+            "hindi": "सुखी / प्रसन्न (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "स्फीतः",
+            "hindi": "समृद्धिशाली (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "जनपदः",
+            "hindi": "जनपद / देश (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "महान्",
+            "hindi": "बड़ा (प्रथमा विभक्ति)"
+          },
+          {
+            "sanskrit": "निविष्टः",
+            "hindi": "बसा हुआ (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "सरयूतीरे",
+            "hindi": "सरयू नदी के तट पर (सप्तमी विभक्ति)"
+          },
+          {
+            "sanskrit": "प्रभूतधनधान्यवान्",
+            "hindi": "प्रचुर धन और धान्य वाला (प्रथमा विभक्ति, वतुप् प्रत्ययान्त)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.5",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "कोशल नामसे प्रसिद्ध एक बहुत बड़ा जनपद है, जो सरयू नदीके किनारे बसा हुआ है। वह प्रचुर धन- धान्यसे सम्पन्न, सुखी और समृद्धिशाली है॥५॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}

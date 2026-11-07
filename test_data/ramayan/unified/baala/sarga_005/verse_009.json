@@ -1,0 +1,208 @@
+{
+  "id": "baala-005-009",
+  "kanda": {
+    "number": 1,
+    "name_sa": "बालकाण्ड",
+    "name_en": "Bala Kanda"
+  },
+  "sarga": 5,
+  "seq_in_sarga": 9,
+  "refs": {
+    "critical_smith": {
+      "sarga": 5,
+      "verse": 8
+    },
+    "vulgate_sarga": 5,
+    "vulgate_net_locators": [
+      "1-5-8"
+    ],
+    "vulgate_in_locators": [
+      "1.5.8"
+    ],
+    "vulgate_gitapress_refs": [
+      "1.5.8"
+    ]
+  },
+  "kind": "critical",
+  "text": {
+    "critical_smith": {
+      "source": "Baroda Critical Edition, typed Tokunaga, standardised Smith (bombay.indology.info)",
+      "smith_ids": [
+        "1005008a",
+        "1005008c"
+      ],
+      "lines": [
+        "राजमार्गेण महता सुविभक्तेन शोभिता",
+        "मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः"
+      ],
+      "punctuated_derived": "राजमार्गेण महता सुविभक्तेन शोभिता ।\nमुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः ॥"
+    },
+    "vulgate_net": {
+      "source": "valmikiramayan.net (edition not named)",
+      "lines": [
+        "राजमार्गेण महता सुविभक्तेन शोभिता",
+        "मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः"
+      ],
+      "locators": [
+        "1-5-8"
+      ]
+    },
+    "vulgate_in": {
+      "source": "valmikiramayan.in (edition not named)",
+      "lines": [
+        "राजमार्गेण महता सुविभक्तेन शोभिता",
+        "मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः"
+      ],
+      "locators": [
+        "1.5.8"
+      ]
+    },
+    "vulgate_gitapress": {
+      "source": "Gita Press, Gorakhpur via archive.org OCR (unverified)",
+      "lines": [
+        "राजमार्गेण महता सुविभक्तेन शोभिता",
+        "मुक्तपुष्पावकीर्णन जलसिक्तेन नित्यशः"
+      ],
+      "ocr_flags": [],
+      "refs": [
+        "1.5.8"
+      ]
+    }
+  },
+  "alignment": [
+    {
+      "smith": "राजमार्गेण महता सुविभक्तेन शोभिता",
+      "net": "राजमार्गेण महता सुविभक्तेन शोभिता",
+      "in": "राजमार्गेण महता सुविभक्तेन शोभिता",
+      "gp": "राजमार्गेण महता सुविभक्तेन शोभिता",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 1.0
+      },
+      "confidence": "high",
+      "word_diffs": {}
+    },
+    {
+      "smith": "मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः",
+      "net": "मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः",
+      "in": "मुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यशः",
+      "gp": "मुक्तपुष्पावकीर्णन जलसिक्तेन नित्यशः",
+      "similarity": {
+        "sim_smith_net": 1.0,
+        "sim_in_net": 1.0,
+        "sim_gp_net": 0.9855072463768116
+      },
+      "confidence": "high",
+      "word_diffs": {
+        "net_vs_gp": [
+          {
+            "a": "मुक्तपुष्पावकीर्णेन",
+            "b": "मुक्तपुष्पावकीर्णन"
+          }
+        ]
+      }
+    }
+  ],
+  "meanings": {
+    "english_translation": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-8",
+        "spans_beyond_this_verse": false,
+        "translator": "K. M. K. Murthy / Desiraju Hanumanta Rao",
+        "text": "That city shines forth with well-laid great royal highways that are always wetted with water, and with flowers strewn and scattered on them. [1-5-8]"
+      }
+    ],
+    "english_word_by_word": [
+      {
+        "source": "valmikiramayan.net",
+        "net_locator": "1-5-8",
+        "spans_beyond_this_verse": false,
+        "note": "devanagari_machine_converted is our ITRANS->Devanagari conversion, unchecked",
+        "words": [
+          {
+            "roman_itrans": "suvibhaktena",
+            "devanagari_machine_converted": "सुविभक्तेन",
+            "english": "well laid out; mahataa raajamaargeNa = with great royal highways"
+          },
+          {
+            "roman_itrans": "muktapuSpaavakiirNena",
+            "devanagari_machine_converted": "मुक्तपुष्पावकीर्णेन",
+            "english": "scattered flowers strewn on"
+          },
+          {
+            "roman_itrans": "nityashaH jalasiktena",
+            "devanagari_machine_converted": "नित्यशः जलसिक्तेन",
+            "english": "always wet with water"
+          },
+          {
+            "roman_itrans": "shobhitaa",
+            "devanagari_machine_converted": "शोभिता",
+            "english": "shining forth."
+          }
+        ]
+      }
+    ],
+    "english_commentary": null,
+    "hindi_translation": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "text": "सुन्दर विभागपूर्वक बना हुआ महान् राजमार्ग उस पुरीकी शोभा बढ़ा रहा था। उसपर खिले हुए फूल बिखेरे जाते थे तथा प्रतिदिन उसपर जलका छिड़काव होता था॥ ८॥"
+      }
+    ],
+    "hindi_word_by_word": [
+      {
+        "source": "valmikiramayan.in",
+        "in_locator": "1.5.8",
+        "spans_beyond_this_verse": false,
+        "provenance": "unverified: site states no translator/author",
+        "words": [
+          {
+            "sanskrit": "राजमार्गेण",
+            "hindi": "राजमार्ग से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "महता",
+            "hindi": "बड़े से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "सुविभक्तेन",
+            "hindi": "सुन्दर रूप से विभाजित से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "शोभिता",
+            "hindi": "शोभित थी (प्रथमा विभक्ति, क्त प्रत्ययान्त)"
+          },
+          {
+            "sanskrit": "मुक्तपुष्पावकीर्णेन",
+            "hindi": "खिले हुए फूलों से बिखरे हुए से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "जलसिक्तेन",
+            "hindi": "जल से सिंचित / छिड़काव किये हुए से (तृतीया विभक्ति)"
+          },
+          {
+            "sanskrit": "नित्यशः",
+            "hindi": "प्रतिदिन (अव्यय)"
+          }
+        ]
+      }
+    ],
+    "hindi_translation_gitapress": [
+      {
+        "source": "Gita Press, Gorakhpur via archive.org OCR",
+        "provenance": "OCR, unverified; rights: uploader label CC0, original copyright may remain",
+        "verse_ref": "1.5.8",
+        "ocr_flags": [],
+        "spans_beyond_this_verse": false,
+        "text": "सुन्दर विभागपूर्वक बना हुआ महान्‌ राजमार्ग * गान दो प्रकारके होते हैं-मार्ग और देशी। भिन्न-भिन्न देशोंकी प्राकृत भाषामें गाये जानेवाले गानको देशी कहते हैं और समूचे राष्ट्रे प्रसिद्ध संस्कृत आदि भाषाका आश्रय लेकर गाया हुआ गान मार्गके नामसे प्रसिद्ध है। कुमार कुरा और लव संस्कृत भाषाका आश्रय लेकर इसीकी रीतिसे गा रहे थे। उस पुरीकी शोभा बढ़ा रहा था। उसपर खिले हुए 'फूल बिखेरे जाते थे तथा प्रतिदिन उसपर जलका छिड़काव होता था॥८॥"
+      }
+    ]
+  },
+  "flags": [],
+  "review_status": "unreviewed"
+}
