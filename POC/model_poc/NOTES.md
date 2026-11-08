@@ -24,10 +24,13 @@ Fairness choices: same 10 verses, same text source (`vulgate_net` first, recorde
 - `outputs/` is created at run time (gitignore it; wavs are large).
 
 ## How to run on EC2 (planned, untested)
-1. Copy the repo plus `EdgeSanskrit-TTS/` (weights are gitignored), `uv sync` or equivalent, then `pip install -r POC/model_poc/requirements-ec2.txt`. Use a CUDA torch build on a GPU instance (the repo pins the CPU index; Colab T4 measured ~15 s/verse for Vagdhenu, ~3.6 GB RAM, ~2.2 GB GPU).
-2. From the repo root: `bash POC/model_poc/run_all.sh`, or run one script with `PYTHONPATH=.`.
-3. Copy `POC/model_poc/outputs/` back and open `listen.html`.
-Run one model process at a time (RAM rule in CLAUDE.md applies on small instances too).
+g4dn.xlarge: the 125 GB NVMe is ephemeral instance store (not EBS). It holds the venv, caches, EdgeSanskrit-TTS, HF weights and outputs; only the .wav audio is synced to `$POC_S3/audio` after every stage. Everything else (results.json, summary.md, logs) stays on the NVMe and is lost on stop/terminate, so `scp` `outputs/summary.md` and the `results.json` files off before stopping, and do not stop mid-run (no resume from S3).
+1. Attach an instance role with S3 read/write on the bucket. Upload `EdgeSanskrit-TTS/` to S3 once from the dev machine (`aws s3 sync EdgeSanskrit-TTS s3://<bucket>/EdgeSanskrit-TTS`; it is not in git).
+2. Clone the repo, then `export POC_S3=s3://<bucket>/<prefix> EDGE_S3=s3://<bucket>/EdgeSanskrit-TTS` and `bash POC/model_poc/ec2_setup.sh` (mounts NVMe, installs CUDA torch deps, downloads all HF weights + MMS_FA, . IndicF5 may be gated: `hf auth login` first.
+3. `source POC/model_poc/ec2_env.sh && bash POC/model_poc/run_all.sh` (resumable only while the NVMe survives; pushes wavs to `$POC_S3/audio`).
+4. On the dev machine: `aws s3 sync $POC_S3/audio POC/model_poc/outputs`, `scp` summary/results.json over, run `compare.py`, open `listen.html`.
+Reference timings: Colab T4 ~15 s/verse for Vagdhenu, ~3.6 GB RAM, ~2.2 GB GPU. The repo pins the CPU torch index, so check that `uv sync` did not leave a CPU torch (`python -c "import torch;print(torch.cuda.is_available())"`).
+Run one model process at a time.
 
 ## Open questions / likely breakages (check first when it fails)
 - **IndicF5 load:** the local folder has only `model.safetensors`. The script assumes the HF repo's remote code gives `model(text, ref_audio_path=, ref_text=)` returning a numpy array; the repo may be gated (`hf auth login`). If it fails, fall back to the repo's `f5_tts` DiT with the safetensors, as `synth.Engine._load` does for Vagdhenu (key names unchecked).
