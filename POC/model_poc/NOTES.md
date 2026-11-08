@@ -18,6 +18,8 @@ Fairness choices: same 10 verses, same text source (`vulgate_net` first, recorde
 - `common.py` verse loading, reference clip, metrics (wall, audio length, RTF, peak RAM, peak GPU), resumable `Run`, stitching.
 - `run_vagdhenu.py`, `run_indicf5.py`, `run_parler.py` one per model. Each skips verses already in `outputs/<tag>/results.json`.
 - `compare.py` writes `outputs/summary.md` (timings) and `outputs/listen.html` (side-by-side players). Loads no model.
+- `run_align.py` runs the app alignment (MMS_FA) on every produced wav, on cpu and cuda, and logs load time, per-verse time, RTF, RAM/GPU and the validate() result. Run it after the model scripts (separate process).
+- `run_align.py` runs the app alignment (MMS_FA) on every produced wav, cpu and cuda, and logs load time, per-verse time, RTF, RAM/GPU, validate() result.
 - `run_all.sh` runs the three sequentially, then compare. `requirements-ec2.txt` extra pins (untested).
 - `outputs/` is created at run time (gitignore it; wavs are large).
 

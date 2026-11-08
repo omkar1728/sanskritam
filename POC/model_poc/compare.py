@@ -17,6 +17,22 @@ for m, r in res.items():
     L.append(f"| {m} | {n} | {avg('wall_s'):.1f} | {avg('audio_s'):.1f} | {avg('rtf'):.2f} | "
              f"{max(v['peak_rss_gb'] for v in vs):.1f} | {max(gpu):.1f} |" if gpu else
              f"| {m} | {n} | {avg('wall_s'):.1f} | {avg('audio_s'):.1f} | {avg('rtf'):.2f} | {max(v['peak_rss_gb'] for v in vs):.1f} | n/a |")
+AL = []
+for m in models:
+    for dev in ("cpu", "cuda"):
+        f = K.OUT / m / f"align_{dev}.json"
+        if not f.exists(): continue
+        d = json.loads(f.read_text()); vs = list(d["verses"].values())
+        if not vs: continue
+        n = len(vs); ok = sum(v["ok"] for v in vs)
+        t = [v["wall_s"] for v in vs]; rt = [v["rtf"] for v in vs if v["rtf"]]
+        AL.append(f"| {m} | {dev} | {d['load_s']} | {sum(t)/n:.2f} | {max(t):.2f} | {sum(rt)/max(len(rt),1):.3f} | "
+                  f"{max(v['peak_rss_gb'] for v in vs):.1f} | {ok}/{n} |")
+if AL:
+    L += ["", "## Alignment (MMS_FA, backend.engine.align)", "",
+          "| wav from | device | model load s | mean align s | max align s | mean RTF | peak RAM GB | passed validate() |",
+          "|---|---|---|---|---|---|---|---|"] + AL
+    L += ["", "Failures list their problems in outputs/<model>/align_<device>.json. Whether highlights match audible words is a USER-CHECK."]
 L += ["", "RTF = wall seconds per audio second. The first verse of each model includes load/warm-up cost.", ""]
 (K.OUT / "summary.md").write_text("\n".join(L), encoding="utf-8")
 
