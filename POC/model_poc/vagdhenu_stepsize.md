@@ -54,6 +54,8 @@ Bucket: `s3://sloka-poc-audio-785703562757` (private). The instance needs an IAM
 _No runs yet. Paste `outputs/vagdhenu_steps/summary.md` here._
 
 ## USER-CHECK
+User listening result (2026-11-09): **no perceptible quality difference above 10 steps.** Steps 2-6 not recorded as acceptable. Wall time per verse on the T4: 7.1 s at 10 steps vs 10.5 s at the app default of 16 (about 32% less). `DEFAULT_STEPS` in `backend/app/config.py` is still 16.
+
 | steps | pronunciation | pacing/meter | artefacts | verdict |
 |---|---|---|---|---|
 
