@@ -1,0 +1,12 @@
+# Pipeline defaults (SPEC section 5.1 / 8). Flat key: value only.
+steps: 10
+seed: 50
+voice: voice_armA_ema_2026-06-11.pt
+vocoder: voc_bigvgan_EMA_2026-06-11.pth
+speed: 0.90
+cfg: 3.0
+gap: 0.55
+gap_halant: 0.20
+mp3_kbps: 192
+meter: anuṣṭubh
+align_retries: 2

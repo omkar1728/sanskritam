@@ -1,0 +1,8 @@
+# Pipeline data: keep folders, ignore contents
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep
+!input/README.md
+!input/example_fixture.jsonl
+__pycache__/

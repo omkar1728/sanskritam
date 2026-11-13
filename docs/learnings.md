@@ -27,3 +27,13 @@ Prosody playlist, then the anuṣṭubh/triṣṭubh talk, then the jagatī seri
 
 ## Open
 Not yet compared with the app's seeded meter list.
+
+
+https://www.youtube.com/watch?v=YTS5_R6og0U
+
+
+https://www.youtube.com/watch?v=gdfw33Husos
+
+https://www.youtube.com/watch?v=NqCbuC19d8A
+
+https://www.youtube.com/watch?v=EoDi69g-zYk

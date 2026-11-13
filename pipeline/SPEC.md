@@ -1,6 +1,6 @@
 # Śloka audio pipeline: specification
 
-Status: **DRAFT v0.2 (2026-11-09). Nothing implemented.** Scope: **Ramayana only** for now. v0.2 applies the owner's answers of the requirements interview (section 2, D7-D22) and removes the contradictions of v0.1. Items marked **[OPEN]** are not yet decided and do not block Ramayana work unless stated.
+Status: **v0.3 (2026-11-13). Code written, never executed or tested on real hardware; first real test run planned on EC2 (blocked by g4dn capacity/quota, see 0.4) or on Kaggle (section 7.1, added v0.3) after the owner converts the source text into `pipeline/input/`.** Scope: **Ramayana only** for now. v0.2 applies the owner's answers of the requirements interview (section 2, D7-D22) and removes the contradictions of v0.1. Items marked **[OPEN]** are not yet decided and do not block Ramayana work unless stated.
 
 > **For a fresh Claude Code session:** this file is meant to be self-contained. Read section 0 (context) first, then sections 1-11. The owner keeps refining this spec; do not start implementing until they say so. Section 2 is the authoritative decision list; if any other text seems to disagree with it, section 2 wins and the disagreement is a bug in this file to report.
 
@@ -113,6 +113,9 @@ Non-goals (v1)
 | D24 | Fallback verses are marked in the catalog only (`text_variant`, `text_fallback`); alignment JSON is unchanged. | interview |
 | D25 | `run` is never blocked by missing calibration; `bench` is optional (warning only). The alignment/MP3 cost POC (P1, section 12) is planned and not yet done. | interview |
 | D26 | `bootstrap` weights: S3 copy first, then HF `prathoshap/vagdhenu` + GitHub sources, with retries (section 7). `setup/restore.sh` is untested and must be tested before it is relied on. | interview |
+| D27 | **Kaggle is a supported environment (`--env kaggle`)**: free committed GPU notebooks (2x T4) are the zero-cost compute option; AWS spot is blocked by a 0 spot quota and g4dn capacity shortages. Results go to S3 (D21 prefix) with a dedicated put-only IAM user whose keys live in Kaggle Secrets. | 2026-11-13 conversation |
+| D28 | The verses live on another device. That device converts and validates the JSONL (section 13), then `python -m pipeline.kaggle_run.launch push` uploads it as a private Kaggle dataset together with a code dataset and starts a headless run (section 7.1). No verse text is stored in the repo. | 2026-11-13 conversation |
+| D29 | `run --max-hours H` is a wall-clock budget: on expiry it behaves like a spot notice (no new jobs, seal and publish, **exit 0**). Kaggle runs use 11 h under the 12 h GPU cap; further batches are plain reruns (the planner skips published verses). | 2026-11-13 conversation |
 
 ## 3. Measured facts the design relies on
 
@@ -154,7 +157,7 @@ Existing code reused (do not rewrite): `backend/engine/synth.py` (`Engine.render
 
 ### 4.2 Hardware detection (`--device auto`)
 Order: explicit `--device` / env `PIPELINE_DEVICE` wins; else CUDA available -> `cuda`; else `cpu`. (Apple MPS not supported in v1.)
-Environment detection (`--env auto`): Colab if `google.colab` imports or `COLAB_GPU` is set; AWS if IMDSv2 answers within 1 s or `AWS_EXECUTION_ENV` is set; otherwise `local`. This only picks defaults (destination, scratch dir, weights source); every default can be overridden.
+Environment detection (`--env auto`): Colab if `google.colab` imports or `COLAB_GPU` is set; Kaggle if `KAGGLE_KERNEL_RUN_TYPE` or `KAGGLE_URL_BASE` is set or `/kaggle/working` exists (D27); AWS if IMDSv2 answers within 1 s or `AWS_EXECUTION_ENV` is set; otherwise `local`. This only picks defaults (destination, scratch dir, weights source); every default can be overridden.
 
 ### 4.3 Worker sizing (`--workers auto`)
 - **GPU**: per GPU, `N = min(floor(free_vram / 2.6 GB), floor(free_ram / 3.5 GB), cores - post_workers_reserved)`, then an optional **calibration**: run `bench` (10 verses at N=1, 2, 3...) and keep the smallest N within 5% of the best throughput. Cached in `~/.cache/pipeline/calib-<gpu_name>.json`. On a T4 this yields N=1 (measured); on A10G/L4/L40S it must be measured, not assumed.
@@ -280,25 +283,38 @@ Rules: offsets/lengths are bytes into the named file; `audio_len` bytes starting
 - **Verification**: `pipeline verify <store>` checks every offset/length, MP3 headers, JSON parse, sha256s, and that every selected input verse has a catalog row with status `ok`, `align_failed` or `failed` (with `error`).
 
 ## 7. Destinations and scratch space
-`--dest` takes a path, `s3://bucket/prefix`, or `gdrive:` (resolved to the mounted Drive folder) and names the **work store** (6.2). Auto (`--env auto`): AWS -> `s3://sloka-poc-audio-785703562757/pipeline/ramayana/` (D21; override bucket/prefix), Colab -> `/content/drive/MyDrive/sloka_pipeline/ramayana/`, local -> `./pipeline_out/ramayana/`. Because Colab and AWS write to different stores, `merge --from` (6.3) is how they become one catalog.
+`--dest` takes a path, `s3://bucket/prefix`, or `gdrive:` (resolved to the mounted Drive folder) and names the **work store** (6.2). Auto (`--env auto`): AWS -> `s3://sloka-poc-audio-785703562757/pipeline/ramayana/` (D21; override bucket/prefix), Colab -> `/content/drive/MyDrive/sloka_pipeline/ramayana/`, Kaggle -> the same S3 prefix as AWS (credentials from `AWS_*` environment variables, D27), local -> `pipeline/output/ramayana/` (repo folder, gitignored). Because Colab and AWS write to different stores, `merge --from` (6.3) is how they become one catalog.
 - All heavy work happens on **local scratch** (instance NVMe `/mnt/data`, Colab `/content`, local temp); only sealed immutable files are copied to the destination. Never append to files on Drive or S3.
 - S3 uses the instance role (no keys in files), multipart upload, checksum verification; an upload failure retries with backoff and never deletes the scratch copy.
 - Drive writes only through the Colab mount; Drive's per-file API limits are why the output is packed.
+- Scratch: Kaggle `/kaggle/temp/pipeline_scratch` (not `/kaggle/working`, which is saved as notebook output and capped at 20 GB).
 - Weights: AWS from `s3://sloka-poc-audio-785703562757/setup/EdgeSanskrit-TTS` (3.0 GiB), otherwise HF `prathoshap/vagdhenu` (public, no token) or the local repo copy; fetched to scratch once per instance by `pipeline bootstrap`, order S3 -> HF/GitHub with retries and sha256 check (D26). The bucket holds copies of third-party weights: keep it private and mind their licences (plan.md R4).
+
+### 7.1 Kaggle (free GPU) with S3 (D27-D29)
+Why: zero compute cost. Kaggle gives about 30 GPU-hours/week on 2x T4 (limits as remembered on 2026-11-12, **unverified: check Kaggle's current rules**). Both GPUs are used by one `run` (`--workers auto` sizes one render group per GPU, 4.3), so Ramayana (about 51 T4-hours) needs roughly 26 session-hours, i.e. about one week of quota, in 12 h batches. Speed on Kaggle is **unmeasured**; the 2x scaling is an expectation from the T4 benchmark, not a result.
+- **Headless**: a committed (Save & Run All) notebook or `kaggle kernels push` runs on Kaggle's servers with the browser closed; an interactive session needs the tab open and times out when idle. Use committed runs only.
+- **Where verses live (D28)**: on a different device. On that device: convert and validate the text (section 13), then `python -m pipeline.kaggle_run.launch push --user <kaggle-user> --jsonl ramayana.jsonl` (needs the `kaggle` CLI and `~/.kaggle/kaggle.json` on that device). It stages and uploads (a) a private **verses** dataset, (b) a private **code** dataset (`pipeline/` + `backend/engine/` + `config.json`; never weights, `.env` or secrets), (c) the kernel script `pipeline/kaggle_run/kernel.py`, then pushes the kernel (GPU, internet on, private). `status` and `output` subcommands wrap `kaggle kernels status/output`. `push --dry-run` only builds and prints the staging tree.
+- **What the kernel does**: loads Kaggle Secrets into the environment, installs only missing dependencies (never torch), `pipeline bootstrap --target /kaggle/temp/EdgeSanskrit-TTS` (S3 weights first, HF/GitHub fallback, D26), then `pipeline run --env kaggle --input <verses dataset> --dest s3://.../pipeline/ramayana/ --max-hours 11 <run_args>`. It writes a small `status.json` (exit codes, timestamps, log tail, no secrets) to `/kaggle/working`.
+- **Credentials**: a dedicated IAM user, not the owner's keys: `s3:ListBucket` on the bucket; `GetObject`, `PutObject`, `AbortMultipartUpload` on `pipeline/*`; `GetObject` on `setup/*` (exact JSON in `pipeline/kaggle_run/README.md`). Keys go into **Kaggle Secrets** `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` (notebook settings; the CLI cannot set them, so this is a manual step after the first push). Never put keys in a dataset or script.
+- **Budget and resume (D29)**: `--max-hours 11` leaves about 1 h under the 12 h cap for the seal/publish drain (< 2 min needed). Sealed segments are published as they complete, so a run killed at the cap loses only the open segment; the next push is a plain rerun and the planner skips published verses (state is read from the S3 store).
+- **Account**: GPU and internet in notebooks need a phone-verified Kaggle account.
+- **Costs**: compute $0; S3 about $0.17/month for 6.6 GB; upload into S3 is free; downloading it later (merge, or serving from S3) is billed egress (about $0.11/GB from ap-south-1; for heavy serving prefer R2/CDN later).
+- **Not verified**: the Kaggle metadata fields used by `launch.py`, the real quota/cap numbers, and the speed on Kaggle's T4s. A 10-verse smoke run (`--limit 10`) comes first; audio quality stays a USER-CHECK as always.
 
 ## 8. CLI
 ```
-python -m pipeline run      --input ... [--dest <store>] [--env auto|aws|colab|local]
+python -m pipeline run      --input ... [--dest <store>] [--env auto|aws|colab|kaggle|local]
                             [--book baala,ayodhya] [--chapters 1-10] [--ids a,b | --ids-file f]
                             [--only missing|align_failed|failed] [--force]
                             [--shard i/K] [--device auto|cuda|cpu] [--workers auto|N]
                             [--steps 10] [--seed 50] [--meter anuṣṭubh] [--mp3-kbps 192]
-                            [--limit N] [--keep-wav] [--run-id ID] [--dry-run]
+                            [--limit N] [--max-hours H] [--keep-wav] [--run-id ID] [--dry-run]
 python -m pipeline bench    [--workers 1,2,3] [--verses 10]     # calibration + timings for this GPU, writes metrics
 python -m pipeline merge    --into <store> [--from <store>]...  # copy segments, rebuild catalog.sqlite + manifest.json (local machine)
 python -m pipeline compact  <store> [--delete-old]              # optional: live blobs -> final shards, drop superseded
 python -m pipeline verify   <store>
 python -m pipeline bootstrap                                    # weights + deps check on this machine
+python -m pipeline.kaggle_run.launch {push,status,output}       # run on Kaggle from the device holding the verses (7.1)
 ```
 - `--only` needs the store's state: it reads `catalog.sqlite` if present plus any `idx.jsonl` newer than it. `missing` = selected verses with no row, `failed`/`align_failed` = rows with that status. Filters combine with AND; `--ids` is an explicit list. Seed fixed 50 (D18) but still overridable for experiments (changes `params_hash`).
 - `--dry-run` prints the selection and counts and exits. A rerun after a crash needs no `--resume` flag: skipping done verses is the default.
@@ -306,7 +322,7 @@ python -m pipeline bootstrap                                    # weights + deps
 Config precedence: `pipeline/defaults.yaml` < record `render` fields < CLI flags (exception: `meter` — the record value wins over `--meter`, see 5.1). Every run writes `runs/<run_id>/metrics.json` (per-stage seconds, verses/s, per-worker utilisation, GPU memory peak, failures, status counts, fallback-text count, retry count) and a JSONL progress log.
 
 ## 9. Planned code layout (`pipeline/`)
-`SPEC.md` (this), `defaults.yaml`, `__main__.py` (CLI), `schema.py` (JobRecord, validation), `adapters/{jsonl,txt,postgres,epic_json}.py`, `planner.py`, `hardware.py` (device/env/worker sizing), `workers.py` (render + post processes), `segments.py` (pack writer/reader), `merge.py`, `compact.py`, `catalog.py`, `stores/{local,s3,gdrive}.py`, `spot.py` (IMDS watcher), `bench.py`, `verify.py`, `tests/` (fake renderer returning the POC wav `POC/outputs/gita_2_47_default.wav`; no model in tests). No `launch/` in v1 (D16). It imports `backend.engine.*`; it does not import `backend.app` (no DB, no FastAPI).
+`SPEC.md` (this), `defaults.yaml`, `__main__.py` (CLI), `schema.py` (JobRecord, validation), `adapters/{jsonl,txt,postgres,epic_json}.py`, `planner.py`, `hardware.py` (device/env/worker sizing), `workers.py` (render + post processes), `segments.py` (pack writer/reader), `merge.py`, `compact.py`, `catalog.py`, `stores/{local,s3,gdrive}.py`, `spot.py` (IMDS watcher), `kaggle_run/{kernel,launch}.py` + `README.md` (7.1), `bench.py`, `verify.py`, `tests/` (fake renderer returning the POC wav `POC/outputs/gita_2_47_default.wav`; no model in tests). No `launch/` in v1 (D16). It imports `backend.engine.*`; it does not import `backend.app` (no DB, no FastAPI).
 
 ## 10. Acceptance criteria
 1. The same verses via the JSONL, text-dir, epic-json and Postgres adapters produce identical `JobRecord`s (same `text_sha256`), and identical catalogs (fake renderer). The epic-json adapter marks `vulgate_only` verses with `text_variant != critical_smith`, `text_fallback=1`, and skips files without `text`.
@@ -325,6 +341,7 @@ Config precedence: `pipeline/defaults.yaml` < record `render` fields < CLI flags
 - **GPU-bound**: extra processes on a T4 add nothing (measured). Mitigated by calibration and scale-out across instances; bigger GPUs are unmeasured.
 - **Alignment cost unknown**: MMS_FA on 4 vCPUs may become the bottleneck at 0.77 RTF rendering; `bench` must measure it before sizing instances (option: g4dn.2xlarge, or GPU alignment).
 - **Spot capacity**: g4dn/g5/g6 spot may be unavailable in a zone; with no launcher (D16) the owner retries zones or uses on-demand by hand.
+- **Kaggle (v0.3)**: weekly GPU quota and the 12 h run cap are from memory and may have changed; a killed run loses only the open segment; Kaggle's T4 speed and 2-GPU scaling are unmeasured; S3 egress is billed when reading the store back.
 - **Colab**: sessions end; Drive quotas and slow tiny-file writes. Segments + Drive copy of sealed files address this. Colab GPU type varies (T4/L4/A100). Colab and AWS write to different stores and are combined only by `merge` on the local machine.
 - **Text revisions**: changed text means a new `text_sha256`; the verse is re-rendered when selected and the newer entry wins (D19). Old blobs stay until `compact`.
 - **Fallback text (D8)**: ~17% of the local sample is `vulgate_only`; those verses are spoken from a different edition than the critical text the Learn page may show. `text_fallback=1` lets consumers detect this. The `vulgate_net` ङ् (not anusvara) spelling before velars may need a `textprep` check (USER-CHECK on alignment).
@@ -338,6 +355,7 @@ Also resolved: O7 fallback order is exactly `vulgate_net`, `vulgate_in` (never `
 - **[OPEN] P1** Alignment-time POC not yet done: see section 12. It blocks sizing of post workers and instances, not the code.
 
 ## 12. Pending POC: alignment and MP3 cost (P1)
+Code is written (never run) in `POC/alignment_poc/` (`run_alignment_cost.py`, `summarize.py`, `README.md`); it implements steps 1-5 below on the existing WAVs. Output goes to `POC/alignment_poc/results/` and `POC/alignment_poc/alignment_cost.md`.
 Unmeasured today: MMS_FA alignment time per verse, MP3 encode time, and whether post-processing keeps up with 0.77 RTF rendering. Plan (run on the g4dn.xlarge, one model process at a time locally per CLAUDE.md; on EC2 the render and alignment may overlap):
 1. **Input**: the 10 `baala-001-*` WAVs already in `POC/model_poc/results_s3/` plus the step-size WAVs (54 files, same verse), real `critical_smith` text from `test_data`. No new renders needed.
 2. **Measure per verse**: `align.align` wall time and peak RSS on (a) CPU 1 thread, (b) CPU 4 threads, (c) CUDA; `validate` result; `wav_to_mp3` time; 3 repeats each, first call (model load) reported separately.
@@ -345,3 +363,55 @@ Unmeasured today: MMS_FA alignment time per verse, MP3 encode time, and whether 
 4. **Outputs**: `POC/model_poc/alignment_cost.md` with the table; decision rules: if CPU post time per verse <= 7 s with 1 worker, g4dn.xlarge is enough; else choose between 2 post workers, g4dn.2xlarge, or `--align-device cuda`. Record the result in D-list (new D25) and in §4.3.
 5. **Alignment failure rate** on those ~64 WAVs is recorded too, to size the `align_failed` WAV pack and the retry cost.
 Until P1 is done, defaults are `post_workers = max(1, cores - render_workers)` and `bench` is optional (a warning is printed when no calibration file exists); `run` is never blocked (D25).
+
+## 13. Converting the source text (for the machine that holds the Ramayana text)
+Everything needed to convert is in this section; no other file or session context is required. The pipeline never converts text itself: it only reads the file you produce.
+
+### 13.1 Deliverable
+One UTF-8 file, `ramayana.jsonl` (or several, e.g. one per kanda: `ramayana-baala.jsonl`, ...): **one JSON object per line**, no comments, no trailing commas, no BOM, `\n` line endings. Copy it to the EC2 box as `pipeline/input/ramayana.jsonl` (or, for Kaggle, give it to `pipeline.kaggle_run.launch push --jsonl`, 7.1) (the folder exists, its contents are gitignored). Pass it with `--input pipeline/input/ramayana.jsonl` (globs allowed: `--input "pipeline/input/ramayana-*.jsonl"`).
+
+### 13.2 Record (all fields)
+| Field | Req. | Type | Rule |
+|---|---|---|---|
+| `schema` | yes | int | always `1` |
+| `verse_id` | yes | string | unique across the whole file, stable forever, regex `[a-z0-9_-]+`. Use `<book>-<chapter 3 digits>-<seq 3 digits>`, e.g. `baala-001-001`. Books: `baala`, `ayodhya`, `aranya`, `kishkindha`, `sundara`, `yuddha`, `uttara`. |
+| `padas` | yes | list of strings | the verse split into lines/padas (usually 2 for an anuṣṭubh śloka), each non-empty, Devanagari, **danda marks `।` `॥` `|` removed** (trailing ones are stripped automatically, but remove them yourself). Keep the text exactly as in the source: do not correct, normalise or re-spell. |
+| `work` | no | string | `ramayana` |
+| `book` | no | string | same as the book part of `verse_id` |
+| `chapter` | no | int | sarga number (1-based, an integer, not a string) |
+| `seq` | no | int | verse number inside the sarga (1-based) |
+| `text_variant` | no | string | which edition the padas come from: `critical_smith` (preferred), `vulgate_net`, `vulgate_in` |
+| `text_fallback` | no | bool | `false` for `critical_smith`, `true` for any other variant |
+| `meter` | no | string | reference-clip name; omit for the default `anuṣṭubh` |
+| `render` | no | object | per-verse overrides only when really needed: `steps`, `seed`, `voice`, `speed`, `cfg`, `gap`, `gap_halant`, `mp3_kbps` |
+Any other key is kept, not rejected (stored as `extra`), so provenance fields such as `"source_ref": "1.1.1"` are fine.
+
+Minimal valid line (real critical_smith text of baala-001-001):
+```
+{"schema": 1, "verse_id": "baala-001-001", "work": "ramayana", "book": "baala", "chapter": 1, "seq": 1, "text_variant": "critical_smith", "text_fallback": false, "padas": ["तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम्", "नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुंगवम्"]}
+```
+
+### 13.3 Rules that must hold
+1. **Text variant rule (D8, D23):** per verse use `critical_smith`; if the verse has no critical text use `vulgate_net`, else `vulgate_in`; never `vulgate_gitapress` (OCR). Record the choice in `text_variant` and set `text_fallback` to `true` when it is not `critical_smith`. If no usable text exists, **omit the verse from the file and list it** (the pipeline would record it as `failed`/`no_text` anyway). In the local sample ~17% of verses (`kind: vulgate_only`) have no critical text, so fallback is expected.
+2. **One record per verse_id.** One audio is produced per `verse_id`; several variants of the same verse must be reduced to one record using rule 1.
+3. **Never invent text or citations.** Only convert what the source contains.
+4. **Skip non-verse files** (metadata/sarga headers with no verse text).
+5. Verse ids and order: the planner sorts by (book order, chapter, seq), so file order does not matter, but ids must not change between conversions (a changed id is a different verse and would be rendered again).
+6. Encoding: Devanagari must be stored as real Unicode characters, not `\uXXXX` escapes necessarily (both parse), and not as transliteration. Do not mix `ङ्` and anusvara spellings; keep the source spelling (the `vulgate_net` text uses `ङ्` before velars, the critical text uses anusvara; this is expected).
+
+### 13.4 If the source is the repo's unified JSON tree
+Layout `<root>/<kanda>/sarga_NNN/verse_NNN.json` (kanda dirs `baala`, `ayodhya`, `aranya`, `kishkindha`, `sundara`, `yuddha`, `uttara`). Each file: `id` (e.g. `baala-001-001`), `kanda` (object), `sarga` (int), `seq_in_sarga` (int), `kind` (`critical` or `vulgate_only`), and `text.<variant>.lines` (list of padas, with `<variant>` in `critical_smith`, `vulgate_net`, `vulgate_in`, `vulgate_gitapress`). Files without a `text` key are not verses. Converter (stdlib only, copy `pipeline/tools/epic_json_to_jsonl.py` to the other machine):
+```
+python epic_json_to_jsonl.py <root> ramayana.jsonl --work ramayana
+```
+It applies rule 1, skips non-verse files and lists verses with no usable text on stderr.
+
+### 13.5 If the source is something else
+Write your own converter that follows 13.2-13.3 (any language), then validate. Typical sources: a text/CSV with one verse per row, a database table, or a corpus with `book.chapter.verse` references; map them to `book`, `chapter`, `seq`, build `verse_id` as `<book>-<chapter:03d>-<seq:03d>`, split the verse into padas on its line breaks (not on dandas inside a line).
+
+### 13.6 Validate before copying (stdlib only)
+Copy `pipeline/tools/validate_input.py` to the other machine and run:
+```
+python validate_input.py ramayana.jsonl
+```
+It accepts several files, prints one line per problem (non-JSON line, bad id, empty or non-list `padas`, wrong `schema`, non-integer `chapter`/`seq`, duplicate `verse_id`), then totals (records, valid, unique ids, duplicates, bad, `text_fallback` count) and the record count per `book`, and exits 1 on any problem. Expected for the full Ramayana: about 26,100 records, 0 duplicates, 0 bad, 7 books. The tool does not check the text itself or the chapter count (651 sargas), so also compare the per-book counts with the source. Then spot-check by eye (outside the tool): the first and last verse of a few sargas against the source.
